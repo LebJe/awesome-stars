@@ -115,6 +115,8 @@
 
 ## C# # 
 
+- [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+- [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET/Mono = ❤
 - [microsoft/python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
