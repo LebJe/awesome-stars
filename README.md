@@ -166,6 +166,7 @@
 
 ## CSS 
 
+- [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -301,7 +302,7 @@
 
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
-- [siduck76/NvChad](https://github.com/siduck76/NvChad) - beautiful neovim setup configured in lua
+- [siduck76/NvChad](https://github.com/siduck76/NvChad) - Beautiful neovim setup configured in lua
 - [crispgm/dotfiles](https://github.com/crispgm/dotfiles) - dotfiles to provision a new macOS with cosy dev setups
 - [RRethy/nvim-base16](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
 - [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim) - coc.nvim integration for telescope.nvim
@@ -381,6 +382,7 @@
 
 ## Python 
 
+- [uiri/toml](https://github.com/uiri/toml) - Python lib for TOML
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
@@ -517,6 +519,7 @@
 
 ## Shell 
 
+- [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [hodovani/pre-commit-swift](https://github.com/hodovani/pre-commit-swift) - 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -542,6 +545,7 @@
 
 ## Swift 
 
+- [mtynior/ColorizeSwift](https://github.com/mtynior/ColorizeSwift) - Terminal string styling for Swift.
 - [Apodini/Apodini](https://github.com/Apodini/Apodini) - Apodini - A declarative, composable server-side Swift framework
 - [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
 - [pointfreeco/swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) - 📸 Delightful Swift snapshot testing.
@@ -644,7 +648,7 @@
 - [maustinstar/liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI.
 - [yaproq/yaproq](https://github.com/yaproq/yaproq) - A templating language for Swift
 - [RockfordWei/Perfect-INI](https://github.com/RockfordWei/Perfect-INI) - Swift encoder and decoder for INI files.
-- [supabase/postgrest-swift](https://github.com/supabase/postgrest-swift) - 
+- [supabase/postgrest-swift](https://github.com/supabase/postgrest-swift) - Swift client for PostgREST
 - [Dev1an/Swift-Atem](https://github.com/Dev1an/Swift-Atem) - Blackmagic Design Atem network protocol implementation in swift 5.1 using NIO 2
 - [Flight-School/sentences](https://github.com/Flight-School/sentences) - A command-line utility that splits natural language text into sentences.
 - [Flight-School/ner](https://github.com/Flight-School/ner) - A command-line utility for extracting names of people, places, and organizations from text on macOS.
