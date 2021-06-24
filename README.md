@@ -820,7 +820,7 @@
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [rcjsuen/dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [robb-j/nova-yaml](https://github.com/robb-j/nova-yaml) - A Nova extension to provide YAML validation based on JSON schemas
-- [imolorhe/altair](https://github.com/imolorhe/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
+- [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [apexskier/nova-typescript](https://github.com/apexskier/nova-typescript) - Typescript support for Nova
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) - Upload files to a GitHub release
 - [weirongxu/coc-explorer](https://github.com/weirongxu/coc-explorer) - 📁 Explorer for coc.nvim
