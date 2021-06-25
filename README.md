@@ -162,7 +162,6 @@
 - [p-ranav/indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++
 - [p-ranav/tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++
 - [MailCore/mailcore2](https://github.com/MailCore/mailcore2) - MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP. The API has been redesigned from ground up.
-- [vadimcn/vscode-lldb](https://github.com/vadimcn/vscode-lldb) - A native debugger extension for VSCode based on LLDB
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 
 ## CSS 
@@ -329,6 +328,7 @@
 - [shinydevelopment/SimulatorStatusMagic](https://github.com/shinydevelopment/SimulatorStatusMagic) - Clean up your status bar for taking screenshots on the iOS simulator.
 - [ccgus/fmdb](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
+- [johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII) - Re-write of Injection for Xcode in (mostly) Swift
 - [mattt/Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & macOS
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
@@ -509,6 +509,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [vadimcn/vscode-lldb](https://github.com/vadimcn/vscode-lldb) - A native debugger extension for VSCode based on LLDB
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 
@@ -630,7 +631,6 @@
 - [amzn/smoke-aws](https://github.com/amzn/smoke-aws) - AWS services integration for the Smoke Framework
 - [kylebrowning/APNSwift](https://github.com/kylebrowning/APNSwift) - An HTTP/2 APNS library built on swift-nio
 - [johnno1962/Dynamo](https://github.com/johnno1962/Dynamo) - High Performance (nearly)100% Swift Web server supporting dynamic content.
-- [johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII) - Re-write of Injection for Xcode in (mostly) Swift
 - [karwa/swift-url](https://github.com/karwa/swift-url) - A new URL type for Swift
 - [rhx/SwiftGtk](https://github.com/rhx/SwiftGtk) - A Swift wrapper around gtk-3.x and gtk-4.x that is largely auto-generated from gobject-introspection
 - [chriseidhof/TerminalUI](https://github.com/chriseidhof/TerminalUI) - 
