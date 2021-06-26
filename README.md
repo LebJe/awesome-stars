@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [TartanLlama/optional](https://github.com/TartanLlama/optional) - C++11/14/17 std::optional with functional-style extensions and reference support
 - [chadaustin/sajson](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11
@@ -383,6 +384,8 @@
 
 ## Python 
 
+- [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+- [NationalSecurityAgency/qgis-datetimetools-plugin](https://github.com/NationalSecurityAgency/qgis-datetimetools-plugin) - QGIS conversion tools to display the local date, time, time zone, convert between UNIX time (Epoch), Julian dates, ISO8601, calculate the difference between two dates, select a location and time zone by clicking on the map and display the closet location and sun statistics.
 - [dbohdan/remarshal](https://github.com/dbohdan/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [uiri/toml](https://github.com/uiri/toml) - Python lib for TOML
@@ -450,6 +453,7 @@
 
 ## Ruby 
 
+- [xcpretty/xcpretty](https://github.com/xcpretty/xcpretty) - Flexible and fast xcodebuild formatter
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
@@ -848,6 +852,7 @@
 
 ## Vim script 
 
+- [liuchengxu/eleline.vim](https://github.com/liuchengxu/eleline.vim) - :herb: Another elegant statusline for vim
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [neoclide/jsonc.vim](https://github.com/neoclide/jsonc.vim) - jsonc syntax support for vim
