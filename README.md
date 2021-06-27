@@ -45,7 +45,7 @@
 ## C 
 
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [augmentable-dev/askgit](https://github.com/augmentable-dev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [cs50/libcs50](https://github.com/cs50/libcs50) - CS50 Library for C
 - [vlang/vc](https://github.com/vlang/vc) - V compiler's source translated from V to C
@@ -303,7 +303,7 @@
 
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
-- [siduck76/NvChad](https://github.com/siduck76/NvChad) - Beautiful neovim setup configured in lua
+- [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful and less bloated.
 - [crispgm/dotfiles](https://github.com/crispgm/dotfiles) - dotfiles to provision a new macOS with cosy dev setups
 - [RRethy/nvim-base16](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
 - [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim) - coc.nvim integration for telescope.nvim
@@ -553,6 +553,9 @@
 
 ## Swift 
 
+- [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
+- [DominikButz/DYPopoverView](https://github.com/DominikButz/DYPopoverView) - SwiftUI implementation of a popover view with arrow
 - [mtynior/ColorizeSwift](https://github.com/mtynior/ColorizeSwift) - Terminal string styling for Swift.
 - [Apodini/Apodini](https://github.com/Apodini/Apodini) - Apodini - A declarative, composable server-side Swift framework
 - [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
