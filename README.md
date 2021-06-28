@@ -553,6 +553,9 @@
 
 ## Swift 
 
+- [kelvin13/jpeg](https://github.com/kelvin13/jpeg) - decode, inspect, edit, and encode jpeg images in pure swift
+- [kelvin13/png](https://github.com/kelvin13/png) - decode, inspect, edit, and encode png images in pure swift
+- [Raureif/WikipediaKit](https://github.com/Raureif/WikipediaKit) - Wikipedia API Client Framework for Swift on macOS, iOS, watchOS, and tvOS
 - [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
 - [DominikButz/DYPopoverView](https://github.com/DominikButz/DYPopoverView) - SwiftUI implementation of a popover view with arrow
