@@ -45,7 +45,6 @@
 ## C 
 
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [cs50/libcs50](https://github.com/cs50/libcs50) - CS50 Library for C
 - [vlang/vc](https://github.com/vlang/vc) - V compiler's source translated from V to C
@@ -127,6 +126,7 @@
 
 ## C++ 
 
+- [kelvin13/atomic-blonde](https://github.com/kelvin13/atomic-blonde) - SourceKit-based syntax highlighting for the Swift language
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [TartanLlama/optional](https://github.com/TartanLlama/optional) - C++11/14/17 std::optional with functional-style extensions and reference support
@@ -167,6 +167,7 @@
 
 ## CSS 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
@@ -187,6 +188,7 @@
 ## Go 
 
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
+- [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [supabase/postgrest-go](https://github.com/supabase/postgrest-go) - Isomorphic Go client for PostgREST.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -251,7 +253,6 @@
 ## Java 
 
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
-- [build-server-protocol/build-server-protocol](https://github.com/build-server-protocol/build-server-protocol) - Protocol for IDEs and build tools to communicate about compile, run, test, debug and more.
 - [palantir/conjure](https://github.com/palantir/conjure) - Strongly typed HTTP/JSON APIs for browsers and microservices
 - [rebasedata/java-client](https://github.com/rebasedata/java-client) - Java-Client for the RebaseData API to read and convert databases
 - [eclipse/eclipse.jdt.ls](https://github.com/eclipse/eclipse.jdt.ls) - Java language server
@@ -297,6 +298,7 @@
 
 ## Kotlin 
 
+- [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Kotlin, and Java.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 
 ## Lua 
@@ -347,6 +349,8 @@
 
 ## Others 
 
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) - 
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [gredman/csharp-novaextension](https://github.com/gredman/csharp-novaextension) - Nova syntax highlighting for C#
@@ -520,6 +524,7 @@
 ## Scala 
 
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+- [build-server-protocol/build-server-protocol](https://github.com/build-server-protocol/build-server-protocol) - Protocol for IDEs and build tools to communicate about compile, run, test, debug and more.
 
 ## Scheme 
 
@@ -553,6 +558,9 @@
 
 ## Swift 
 
+- [plarson/WKCodable](https://github.com/plarson/WKCodable) - Well-Known Binary & Text Encoding/Decoding for Swift
+- [square/Blueprint](https://github.com/square/Blueprint) - Declarative UI construction for iOS, written in Swift
+- [phimage/Erik](https://github.com/phimage/Erik) - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript.
 - [kelvin13/jpeg](https://github.com/kelvin13/jpeg) - decode, inspect, edit, and encode jpeg images in pure swift
 - [kelvin13/png](https://github.com/kelvin13/png) - decode, inspect, edit, and encode png images in pure swift
 - [Raureif/WikipediaKit](https://github.com/Raureif/WikipediaKit) - Wikipedia API Client Framework for Swift on macOS, iOS, watchOS, and tvOS
