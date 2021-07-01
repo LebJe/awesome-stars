@@ -5,10 +5,12 @@
 
 ## Contents
 
+  - [AutoIt](#autoit)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Crystal](#crystal)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
   - [Go](#go)
@@ -41,6 +43,10 @@
   - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [XSLT](#xslt)
+
+## AutoIt 
+
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC isn't Windows 11  Release Ready
 
 ## C 
 
@@ -173,6 +179,11 @@
 - [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 
+## Crystal 
+
+- [elbywan/crystalline](https://github.com/elbywan/crystalline) - A Language Server Protocol implementation for Crystal. 🔮
+- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
+
 ## Dockerfile 
 
 - [apple/swift-docker](https://github.com/apple/swift-docker) - Docker Official Image packaging for Swift
@@ -260,6 +271,7 @@
 
 ## JavaScript 
 
+- [oblador/hush](https://github.com/oblador/hush) - Noiseless Browsing – Content Blocker for Safari
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) - Advanced REST Client - Desktop application
@@ -350,7 +362,7 @@
 
 ## Others 
 
-- [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors and general product feedback.
+- [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and general product feedback.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) - 
@@ -535,6 +547,7 @@
 
 ## Shell 
 
+- [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [hodovani/pre-commit-swift](https://github.com/hodovani/pre-commit-swift) - 
