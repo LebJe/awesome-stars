@@ -835,6 +835,7 @@
 
 ## TypeScript 
 
+- [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
 - [geromegrignon/issue-forms-creator](https://github.com/geromegrignon/issue-forms-creator) - Interface to generate Github Issue Forms
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
