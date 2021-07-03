@@ -574,6 +574,11 @@
 
 ## Swift 
 
+- [Apodini/ApodiniLeaf](https://github.com/Apodini/ApodiniLeaf) - ApodiniLeaf
+- [Apodini/ApodiniTemplate](https://github.com/Apodini/ApodiniTemplate) - An Apodini web service template
+- [MihaelIsaev/SwifCron](https://github.com/MihaelIsaev/SwifCron) - ⏱Simple pure swift cron expression parser
+- [jariz/Akku](https://github.com/jariz/Akku) - Experimental bluetooth headset battery monitoring application for MacOS
+- [theblixguy/Invalidating](https://github.com/theblixguy/Invalidating) - Backports the new @Invalidating property wrapper to older platforms
 - [plarson/WKCodable](https://github.com/plarson/WKCodable) - Well-Known Binary & Text Encoding/Decoding for Swift
 - [square/Blueprint](https://github.com/square/Blueprint) - Declarative UI construction for iOS, written in Swift
 - [phimage/Erik](https://github.com/phimage/Erik) - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript.
@@ -734,7 +739,7 @@
 - [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [compnerd/DXSample](https://github.com/compnerd/DXSample) - Sample Program for DirectX 12 + Swift
 - [JohnSundell/ShellOut](https://github.com/JohnSundell/ShellOut) - Easily run shell commands from a Swift script or command line tool
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [lukaskubanek/LoremSwiftum](https://github.com/lukaskubanek/LoremSwiftum) - A lightweight lorem ipsum generator for Swift
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
 - [swift-extras/swift-extras-base64](https://github.com/swift-extras/swift-extras-base64) - Base64 encode and decode without the use of Foundation in pure Swift.
