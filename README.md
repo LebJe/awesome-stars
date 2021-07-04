@@ -29,6 +29,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [PowerShell](#powershell)
+  - [PureBasic](#purebasic)
   - [Python](#python)
   - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
@@ -132,6 +133,7 @@
 
 ## C++ 
 
+- [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
 - [kelvin13/atomic-blonde](https://github.com/kelvin13/atomic-blonde) - SourceKit-based syntax highlighting for the Swift language
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -319,6 +321,7 @@
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
 - [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful and less bloated.
+- [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [crispgm/dotfiles](https://github.com/crispgm/dotfiles) - dotfiles to provision a new macOS with cosy dev setups
 - [RRethy/nvim-base16](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
 - [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim) - coc.nvim integration for telescope.nvim
@@ -362,6 +365,7 @@
 
 ## Others 
 
+- [CreativeTools/3DBenchy](https://github.com/CreativeTools/3DBenchy) - #3DBenchy is a 3D model specifically designed for testing and benchmarking 3D printers. It is a small recognizable object that you can download for free, make and share.
 - [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and general product feedback.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
@@ -399,6 +403,10 @@
 ## PowerShell 
 
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
+
+## PureBasic 
+
+- [deseven/iCanHazShortcut](https://github.com/deseven/iCanHazShortcut) - simple shortcut manager for macOS
 
 ## Python 
 
@@ -574,6 +582,10 @@
 
 ## Swift 
 
+- [DoccZz/servedocc](https://github.com/DoccZz/servedocc) - A small Swift tool/server to serve DocC archives to your browser
+- [DoccZz/DocCArchive](https://github.com/DoccZz/DocCArchive) - Swift package to read and process "DocC" archives
+- [DoccZz/docc2html](https://github.com/DoccZz/docc2html) - A static site generator for DocC documentation archives
+- [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [Apodini/ApodiniLeaf](https://github.com/Apodini/ApodiniLeaf) - ApodiniLeaf
 - [Apodini/ApodiniTemplate](https://github.com/Apodini/ApodiniTemplate) - An Apodini web service template
 - [MihaelIsaev/SwifCron](https://github.com/MihaelIsaev/SwifCron) - ⏱Simple pure swift cron expression parser
@@ -892,7 +904,6 @@
 
 - [liuchengxu/eleline.vim](https://github.com/liuchengxu/eleline.vim) - :herb: Another elegant statusline for vim
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
-- [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [neoclide/jsonc.vim](https://github.com/neoclide/jsonc.vim) - jsonc syntax support for vim
 - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim
 - [cespare/vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
