@@ -51,6 +51,7 @@
 
 ## C 
 
+- [rxi/microtar](https://github.com/rxi/microtar) - A lightweight tar library written in ANSI C
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [cs50/libcs50](https://github.com/cs50/libcs50) - CS50 Library for C
@@ -133,6 +134,7 @@
 
 ## C++ 
 
+- [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
 - [kelvin13/atomic-blonde](https://github.com/kelvin13/atomic-blonde) - SourceKit-based syntax highlighting for the Swift language
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
@@ -410,6 +412,7 @@
 
 ## Python 
 
+- [neovim/pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [NationalSecurityAgency/qgis-datetimetools-plugin](https://github.com/NationalSecurityAgency/qgis-datetimetools-plugin) - QGIS conversion tools to display the local date, time, time zone, convert between UNIX time (Epoch), Julian dates, ISO8601, calculate the difference between two dates, select a location and time zone by clicking on the map and display the closet location and sun statistics.
 - [dbohdan/remarshal](https://github.com/dbohdan/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
@@ -479,6 +482,7 @@
 
 ## Ruby 
 
+- [neovim/neovim-ruby](https://github.com/neovim/neovim-ruby) - Ruby support for Neovim
 - [xcpretty/xcpretty](https://github.com/xcpretty/xcpretty) - Flexible and fast xcodebuild formatter
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
@@ -582,6 +586,7 @@
 
 ## Swift 
 
+- [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [DoccZz/servedocc](https://github.com/DoccZz/servedocc) - A small Swift tool/server to serve DocC archives to your browser
 - [DoccZz/DocCArchive](https://github.com/DoccZz/DocCArchive) - Swift package to read and process "DocC" archives
 - [DoccZz/docc2html](https://github.com/DoccZz/docc2html) - A static site generator for DocC documentation archives
