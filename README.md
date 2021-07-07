@@ -51,6 +51,7 @@
 
 ## C 
 
+- [calccrypto/tar](https://github.com/calccrypto/tar) - A simple tar implementation in C
 - [rxi/microtar](https://github.com/rxi/microtar) - A lightweight tar library written in ANSI C
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
@@ -71,7 +72,7 @@
 - [open-iscsi/open-iscsi](https://github.com/open-iscsi/open-iscsi) - iSCSI tools for Linux
 - [sahlberg/libiscsi](https://github.com/sahlberg/libiscsi) - iscsi client library and utilities
 - [dinhvh/libetpan](https://github.com/dinhvh/libetpan) - Mail Framework for C Language
-- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
+- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/
 - [apple/swift-cmark](https://github.com/apple/swift-cmark) - CommonMark parsing and rendering library and program in C
 - [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
@@ -268,6 +269,7 @@
 
 ## Java 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [palantir/conjure](https://github.com/palantir/conjure) - Strongly typed HTTP/JSON APIs for browsers and microservices
 - [rebasedata/java-client](https://github.com/rebasedata/java-client) - Java-Client for the RebaseData API to read and convert databases
@@ -412,6 +414,7 @@
 
 ## Python 
 
+- [termux/termux-create-package](https://github.com/termux/termux-create-package) - Python script to create Termux packages easily.
 - [neovim/pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [NationalSecurityAgency/qgis-datetimetools-plugin](https://github.com/NationalSecurityAgency/qgis-datetimetools-plugin) - QGIS conversion tools to display the local date, time, time zone, convert between UNIX time (Epoch), Julian dates, ISO8601, calculate the difference between two dates, select a location and time zone by clicking on the map and display the closet location and sun statistics.
@@ -501,6 +504,9 @@
 
 ## Rust 
 
+- [mmstick/cargo-deb](https://github.com/mmstick/cargo-deb) - A cargo subcommand that generates Debian packages from information in Cargo.toml
+- [rust-analyzer/lsp-server](https://github.com/rust-analyzer/lsp-server) - 
+- [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [wfxr/csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
@@ -586,6 +592,8 @@
 
 ## Swift 
 
+- [rockbruno/SwiftInfo](https://github.com/rockbruno/SwiftInfo) - 📊 Extract and analyze the evolution of an iOS app's code.
+- [jakeheis/SwiftCLI](https://github.com/jakeheis/SwiftCLI) - A powerful framework for developing CLIs in Swift
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [DoccZz/servedocc](https://github.com/DoccZz/servedocc) - A small Swift tool/server to serve DocC archives to your browser
 - [DoccZz/DocCArchive](https://github.com/DoccZz/DocCArchive) - Swift package to read and process "DocC" archives
