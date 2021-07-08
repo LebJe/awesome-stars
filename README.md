@@ -51,6 +51,7 @@
 
 ## C 
 
+- [benhoyt/inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems
 - [calccrypto/tar](https://github.com/calccrypto/tar) - A simple tar implementation in C
 - [rxi/microtar](https://github.com/rxi/microtar) - A lightweight tar library written in ANSI C
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -277,6 +278,7 @@
 
 ## JavaScript 
 
+- [npm/ini](https://github.com/npm/ini) - An ini parser/serializer in JavaScript
 - [oblador/hush](https://github.com/oblador/hush) - Noiseless Browsing – Content Blocker for Safari
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -592,6 +594,7 @@
 
 ## Swift 
 
+- [rundfunk47/stinsen](https://github.com/rundfunk47/stinsen) - Coordinators in SwiftUI. Simple, powerful and elegant.
 - [rockbruno/SwiftInfo](https://github.com/rockbruno/SwiftInfo) - 📊 Extract and analyze the evolution of an iOS app's code.
 - [jakeheis/SwiftCLI](https://github.com/jakeheis/SwiftCLI) - A powerful framework for developing CLIs in Swift
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
