@@ -136,6 +136,7 @@
 
 ## C++ 
 
+- [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
 - [kelvin13/atomic-blonde](https://github.com/kelvin13/atomic-blonde) - SourceKit-based syntax highlighting for the Swift language
@@ -324,6 +325,10 @@
 
 ## Lua 
 
+- [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
+- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (&gt;= 0.5)
+- [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
+- [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) - 
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
 - [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful and less bloated.
@@ -868,6 +873,9 @@
 
 ## TypeScript 
 
+- [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
+- [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
+- [theia-ide/typescript-language-server](https://github.com/theia-ide/typescript-language-server) - TypeScript & JavaScript Language Server
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
 - [geromegrignon/issue-forms-creator](https://github.com/geromegrignon/issue-forms-creator) - Interface to generate Github Issue Forms
