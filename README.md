@@ -198,6 +198,7 @@
 - [apple/swift-docker](https://github.com/apple/swift-docker) - Docker Official Image packaging for Swift
 - [futurejones/swift-arm64-docker](https://github.com/futurejones/swift-arm64-docker) - Dockerfiles for Swift-Arm releases
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
+- [kishikawakatsumi/swift-playground](https://github.com/kishikawakatsumi/swift-playground) - SwiftFiddle is an online playground for creating, sharing and embedding Swift fiddles (little Swift programs that run directly in your browser).
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [futurejones/swift-arm64](https://github.com/futurejones/swift-arm64) - Swift for Arm64/aarch64 Servers and SBC's - Rock64, RaspberryPi3 and many more
 
@@ -439,6 +440,7 @@
 
 ## Python 
 
+- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py) - This is the updated Python wrapper for the Heroku API V3. https://devcenter.heroku.com/articles/platform-api-reference The Heroku REST API allows Heroku users to manage their accounts, applications, addons, and other aspects related to Heroku. It allows you to easily utilize the Heroku platform from your applications.
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr) - Make Ranger running in a floating window to communicate with Neovim via RPC
@@ -622,6 +624,7 @@
 
 ## Swift 
 
+- [ahoppen/introduction-to-compilers](https://github.com/ahoppen/introduction-to-compilers) - Swift Playground giving an overview over the inner workings of modern compilers
 - [OAuthSwift/OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS
 - [serhii-londar/GithubAPI](https://github.com/serhii-londar/GithubAPI) - Swift implementation of Github REST API v3
 - [gavinbunney/Toucan](https://github.com/gavinbunney/Toucan) - Fabulous Image Processing in Swift
@@ -720,7 +723,6 @@
 - [nsomar/Guaka](https://github.com/nsomar/Guaka) - The smartest and most beautiful (POSIX compliant) Command line framework for Swift 🤖
 - [Appracatappra/SwiftUiSharing](https://github.com/Appracatappra/SwiftUiSharing) - Provides a Sharing Sheet on iOS & iPadOS and a Sharing Menu on macOS in a SwiftUI fashion that allows the user to share a piece of data using the Sharing Options available on the device the app is running on.
 - [SwiftPackageIndex/PackageList-Validator](https://github.com/SwiftPackageIndex/PackageList-Validator) - A command-line tool which validates the entries in the Swift Package Index Package List.
-- [kishikawakatsumi/swift-playground](https://github.com/kishikawakatsumi/swift-playground) - SwiftFiddle is an online playground for creating, sharing and embedding Swift fiddles (little Swift programs that run directly in your browser).
 - [amzn/smoke-framework-application-generate](https://github.com/amzn/smoke-framework-application-generate) - Code generator to generate SmokeFramework-based applications from service models.
 - [ZeeZide/5GUIs](https://github.com/ZeeZide/5GUIs) - A tiny macOS app that can detect the GUI technologies used in other apps.
 - [ZeeZide/CodeEditor](https://github.com/ZeeZide/CodeEditor) - A SwiftUI TextEditor with syntax highlighting using Highlight.js
