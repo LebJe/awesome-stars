@@ -43,6 +43,7 @@
   - [V](#v)
   - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
+  - [VimL](#viml)
   - [XSLT](#xslt)
 
 ## AutoIt 
@@ -51,6 +52,7 @@
 
 ## C 
 
+- [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [saghul/pyuv](https://github.com/saghul/pyuv) - Python interface for libuv
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [benhoyt/inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems
@@ -282,6 +284,7 @@
 
 ## JavaScript 
 
+- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [npm/ini](https://github.com/npm/ini) - An ini parser/serializer in JavaScript
 - [oblador/hush](https://github.com/oblador/hush) - Noiseless Browsing – Content Blocker for Safari
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -624,6 +627,7 @@
 
 ## Swift 
 
+- [MaxDesiatov/Typology](https://github.com/MaxDesiatov/Typology) - Swift type checking and semantic analysis for developer tools
 - [ahoppen/introduction-to-compilers](https://github.com/ahoppen/introduction-to-compilers) - Swift Playground giving an overview over the inner workings of modern compilers
 - [OAuthSwift/OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS
 - [serhii-londar/GithubAPI](https://github.com/serhii-londar/GithubAPI) - Swift implementation of Github REST API v3
@@ -901,6 +905,7 @@
 
 ## TypeScript 
 
+- [iamcco/coc-diagnostic](https://github.com/iamcco/coc-diagnostic) - diagnostic-languageserver extension for coc.nvim
 - [clangd/vscode-clangd](https://github.com/clangd/vscode-clangd) - Visual Studio Code extension for clangd
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
@@ -987,6 +992,10 @@
 - [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
+
+## VimL 
+
+- [ujihisa/tabpagecolorscheme](https://github.com/ujihisa/tabpagecolorscheme) - Vim colorscheme on each tabs
 
 ## XSLT 
 
