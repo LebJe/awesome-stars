@@ -200,7 +200,6 @@
 - [apple/swift-docker](https://github.com/apple/swift-docker) - Docker Official Image packaging for Swift
 - [futurejones/swift-arm64-docker](https://github.com/futurejones/swift-arm64-docker) - Dockerfiles for Swift-Arm releases
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
-- [kishikawakatsumi/swift-playground](https://github.com/kishikawakatsumi/swift-playground) - SwiftFiddle is an online playground for creating, sharing and embedding Swift fiddles (little Swift programs that run directly in your browser).
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [futurejones/swift-arm64](https://github.com/futurejones/swift-arm64) - Swift for Arm64/aarch64 Servers and SBC's - Rock64, RaspberryPi3 and many more
 
@@ -331,6 +330,7 @@
 
 ## Lua 
 
+- [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Create Neovim `:map`pings in Lua with ease!
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
@@ -727,6 +727,7 @@
 - [nsomar/Guaka](https://github.com/nsomar/Guaka) - The smartest and most beautiful (POSIX compliant) Command line framework for Swift 🤖
 - [Appracatappra/SwiftUiSharing](https://github.com/Appracatappra/SwiftUiSharing) - Provides a Sharing Sheet on iOS & iPadOS and a Sharing Menu on macOS in a SwiftUI fashion that allows the user to share a piece of data using the Sharing Options available on the device the app is running on.
 - [SwiftPackageIndex/PackageList-Validator](https://github.com/SwiftPackageIndex/PackageList-Validator) - A command-line tool which validates the entries in the Swift Package Index Package List.
+- [kishikawakatsumi/swift-playground](https://github.com/kishikawakatsumi/swift-playground) - SwiftFiddle is an online playground for creating, sharing and embedding Swift fiddles (little Swift programs that run directly in your browser).
 - [amzn/smoke-framework-application-generate](https://github.com/amzn/smoke-framework-application-generate) - Code generator to generate SmokeFramework-based applications from service models.
 - [ZeeZide/5GUIs](https://github.com/ZeeZide/5GUIs) - A tiny macOS app that can detect the GUI technologies used in other apps.
 - [ZeeZide/CodeEditor](https://github.com/ZeeZide/CodeEditor) - A SwiftUI TextEditor with syntax highlighting using Highlight.js
