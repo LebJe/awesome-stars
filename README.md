@@ -209,6 +209,8 @@
 
 ## Go 
 
+- [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [neovim/go-client](https://github.com/neovim/go-client) - Nvim Go client
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
@@ -275,6 +277,7 @@
 
 ## Java 
 
+- [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
 - [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [palantir/conjure](https://github.com/palantir/conjure) - Strongly typed HTTP/JSON APIs for browsers and microservices
@@ -396,6 +399,7 @@
 
 ## Others 
 
+- [chaos-eng/chaos-eng.github.io](https://github.com/chaos-eng/chaos-eng.github.io) - Principles of Chaos Engineering
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [CreativeTools/3DBenchy](https://github.com/CreativeTools/3DBenchy) - #3DBenchy is a 3D model specifically designed for testing and benchmarking 3D printers. It is a small recognizable object that you can download for free, make and share.
@@ -627,6 +631,8 @@
 
 ## Swift 
 
+- [Quick/Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C
+- [Quick/Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
 - [MaxDesiatov/Typology](https://github.com/MaxDesiatov/Typology) - Swift type checking and semantic analysis for developer tools
 - [ahoppen/introduction-to-compilers](https://github.com/ahoppen/introduction-to-compilers) - Swift Playground giving an overview over the inner workings of modern compilers
 - [OAuthSwift/OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS
