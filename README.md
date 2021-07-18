@@ -52,6 +52,7 @@
 
 ## C 
 
+- [rmsalinas/raspicam](https://github.com/rmsalinas/raspicam) - Official raspicam from AVA Research Group. Controlling the raspberry pi camera in C++. Moved from Sourceforge to here
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [saghul/pyuv](https://github.com/saghul/pyuv) - Python interface for libuv
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
@@ -141,6 +142,9 @@
 
 ## C++ 
 
+- [apple/indexstore-db](https://github.com/apple/indexstore-db) - Index database library for use with sourcekit-lsp
+- [cedricve/raspicam](https://github.com/cedricve/raspicam) - AVA RaspiCam: C++ API for using Raspberry camera with/without OpenCv
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
@@ -198,6 +202,7 @@
 
 ## Dockerfile 
 
+- [Apodini/ApodiniTemplate](https://github.com/Apodini/ApodiniTemplate) - An Apodini web service template
 - [apple/swift-docker](https://github.com/apple/swift-docker) - Docker Official Image packaging for Swift
 - [futurejones/swift-arm64-docker](https://github.com/futurejones/swift-arm64-docker) - Dockerfiles for Swift-Arm releases
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
@@ -287,6 +292,8 @@
 
 ## JavaScript 
 
+- [Esri/esri-leaflet](https://github.com/Esri/esri-leaflet) - A lightweight set of tools for working with ArcGIS services in Leaflet. :rocket:
+- [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [klaaspieter/coc-sourcekit](https://github.com/klaaspieter/coc-sourcekit) - Swift language server extension using sourcekit-lsp for coc.nvim.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
@@ -640,6 +647,7 @@
 
 ## Swift 
 
+- [luoxiu/Chalk](https://github.com/luoxiu/Chalk) - ✏️Expressive styling on terminal string. (chalk for swift)
 - [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library
 - [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
@@ -660,7 +668,6 @@
 - [DoccZz/docc2html](https://github.com/DoccZz/docc2html) - A static site generator for DocC documentation archives
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [Apodini/ApodiniLeaf](https://github.com/Apodini/ApodiniLeaf) - ApodiniLeaf
-- [Apodini/ApodiniTemplate](https://github.com/Apodini/ApodiniTemplate) - An Apodini web service template
 - [MihaelIsaev/SwifCron](https://github.com/MihaelIsaev/SwifCron) - ⏱Simple pure swift cron expression parser
 - [jariz/Akku](https://github.com/jariz/Akku) - Experimental bluetooth headset battery monitoring application for MacOS
 - [theblixguy/Invalidating](https://github.com/theblixguy/Invalidating) - Backports the new @Invalidating property wrapper to older platforms
