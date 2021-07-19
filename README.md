@@ -292,6 +292,7 @@
 
 ## JavaScript 
 
+- [cancerberoSgx/univac](https://github.com/cancerberoSgx/univac) - Generate AST of lots of common programming languages using antlr4. JavaScript API and CLI tool.
 - [Esri/esri-leaflet](https://github.com/Esri/esri-leaflet) - A lightweight set of tools for working with ArcGIS services in Leaflet. :rocket:
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [klaaspieter/coc-sourcekit](https://github.com/klaaspieter/coc-sourcekit) - Swift language server extension using sourcekit-lsp for coc.nvim.
@@ -338,6 +339,8 @@
 
 ## Kotlin 
 
+- [fwcd/kotlin-debug-adapter](https://github.com/fwcd/kotlin-debug-adapter) - Kotlin/JVM debugging for any editor/IDE using the Debug Adapter Protocol
+- [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol
 - [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Kotlin, and Java.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 
@@ -412,6 +415,7 @@
 
 ## Others 
 
+- [tahnik/nocode-compiler](https://github.com/tahnik/nocode-compiler) - A compiler for nocode
 - [chaos-eng/chaos-eng.github.io](https://github.com/chaos-eng/chaos-eng.github.io) - Principles of Chaos Engineering
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -647,6 +651,7 @@
 
 ## Swift 
 
+- [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support
 - [luoxiu/Chalk](https://github.com/luoxiu/Chalk) - ✏️Expressive styling on terminal string. (chalk for swift)
 - [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library
 - [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
