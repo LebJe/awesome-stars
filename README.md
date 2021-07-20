@@ -52,6 +52,8 @@
 
 ## C 
 
+- [wasm-lsp/tree-sitter-wasm](https://github.com/wasm-lsp/tree-sitter-wasm) - WebAssembly grammars for tree-sitter
+- [camdencheek/tree-sitter-dockerfile](https://github.com/camdencheek/tree-sitter-dockerfile) - A tree-sitter grammar for Dockerfile
 - [rmsalinas/raspicam](https://github.com/rmsalinas/raspicam) - Official raspicam from AVA Research Group. Controlling the raspberry pi camera in C++. Moved from Sourceforge to here
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [saghul/pyuv](https://github.com/saghul/pyuv) - Python interface for libuv
@@ -142,6 +144,7 @@
 
 ## C++ 
 
+- [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) - Index database library for use with sourcekit-lsp
 - [cedricve/raspicam](https://github.com/cedricve/raspicam) - AVA RaspiCam: C++ API for using Raspberry camera with/without OpenCv
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -266,6 +269,7 @@
 
 ## HTML 
 
+- [slebok/zoo](https://github.com/slebok/zoo) - Grammar Zoo
 - [SwiftWeekly/swiftweekly.github.io](https://github.com/SwiftWeekly/swiftweekly.github.io) - A community-driven weekly newsletter about Swift.org
 - [imthath-m/swimbols](https://github.com/imthath-m/swimbols) - A repo to share your thoughts, new feature ideas and issues about Swimbols.
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
@@ -292,6 +296,8 @@
 
 ## JavaScript 
 
+- [tree-sitter/tree-sitter-c-sharp](https://github.com/tree-sitter/tree-sitter-c-sharp) - C# Grammar for tree-sitter
+- [tree-sitter/tree-sitter-scala](https://github.com/tree-sitter/tree-sitter-scala) - Scala grammar for tree-sitter
 - [cancerberoSgx/univac](https://github.com/cancerberoSgx/univac) - Generate AST of lots of common programming languages using antlr4. JavaScript API and CLI tool.
 - [Esri/esri-leaflet](https://github.com/Esri/esri-leaflet) - A lightweight set of tools for working with ArcGIS services in Leaflet. :rocket:
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -317,6 +323,7 @@
 - [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [bsneed/StellarSwift](https://github.com/bsneed/StellarSwift) - Swift Addons for Panic's Nova app.
+- [kishikawakatsumi/swift-playground](https://github.com/kishikawakatsumi/swift-playground) - SwiftFiddle is an online playground for creating, sharing and embedding Swift fiddles (little Swift programs that run directly in your browser).
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [unsignedapps/swift-create-xcframework](https://github.com/unsignedapps/swift-create-xcframework) - A simple Command Line Tool to create XCFrameworks by wrapping xcodebuild.
 - [LinusU/node-appdmg](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs
@@ -758,7 +765,6 @@
 - [nsomar/Guaka](https://github.com/nsomar/Guaka) - The smartest and most beautiful (POSIX compliant) Command line framework for Swift 🤖
 - [Appracatappra/SwiftUiSharing](https://github.com/Appracatappra/SwiftUiSharing) - Provides a Sharing Sheet on iOS & iPadOS and a Sharing Menu on macOS in a SwiftUI fashion that allows the user to share a piece of data using the Sharing Options available on the device the app is running on.
 - [SwiftPackageIndex/PackageList-Validator](https://github.com/SwiftPackageIndex/PackageList-Validator) - A command-line tool which validates the entries in the Swift Package Index Package List.
-- [kishikawakatsumi/swift-playground](https://github.com/kishikawakatsumi/swift-playground) - SwiftFiddle is an online playground for creating, sharing and embedding Swift fiddles (little Swift programs that run directly in your browser).
 - [amzn/smoke-framework-application-generate](https://github.com/amzn/smoke-framework-application-generate) - Code generator to generate SmokeFramework-based applications from service models.
 - [ZeeZide/5GUIs](https://github.com/ZeeZide/5GUIs) - A tiny macOS app that can detect the GUI technologies used in other apps.
 - [ZeeZide/CodeEditor](https://github.com/ZeeZide/CodeEditor) - A SwiftUI TextEditor with syntax highlighting using Highlight.js
@@ -937,6 +943,7 @@
 
 ## TypeScript 
 
+- [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for Yaml Files
 - [neoclide/coc-prettier](https://github.com/neoclide/coc-prettier) - Prettier extension for coc.nvim.
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
