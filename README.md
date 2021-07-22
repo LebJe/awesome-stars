@@ -48,7 +48,7 @@
 
 ## AutoIt 
 
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC isn't Windows 11  Release Ready
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11  Release Ready
 
 ## C 
 
@@ -193,6 +193,7 @@
 
 ## CSS 
 
+- [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11) - windows 11 in react 💻🌈⚡
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
@@ -219,6 +220,7 @@
 
 ## Go 
 
+- [cavaliercoder/go-rpm](https://github.com/cavaliercoder/go-rpm) - A native implementation of the RPM file specification in Go
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [neovim/go-client](https://github.com/neovim/go-client) - Nvim Go client
@@ -351,6 +353,7 @@
 - [fwcd/kotlin-debug-adapter](https://github.com/fwcd/kotlin-debug-adapter) - Kotlin/JVM debugging for any editor/IDE using the Debug Adapter Protocol
 - [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol
 - [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Kotlin, and Java.
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 
 ## Lua 
@@ -431,7 +434,6 @@
 - [CreativeTools/3DBenchy](https://github.com/CreativeTools/3DBenchy) - #3DBenchy is a 3D model specifically designed for testing and benchmarking 3D printers. It is a small recognizable object that you can download for free, make and share.
 - [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and general product feedback.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) - 
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [gredman/csharp-novaextension](https://github.com/gredman/csharp-novaextension) - Nova syntax highlighting for C#
