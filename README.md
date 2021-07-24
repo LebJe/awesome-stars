@@ -221,6 +221,7 @@
 
 ## Go 
 
+- [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
 - [protocolbuffers/protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
 - [cavaliercoder/go-rpm](https://github.com/cavaliercoder/go-rpm) - A native implementation of the RPM file specification in Go
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
@@ -301,6 +302,7 @@
 
 ## JavaScript 
 
+- [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
 - [dessant/repo-lockdown](https://github.com/dessant/repo-lockdown) - GitHub Action that immediately closes and locks issues and pull requests
 - [tree-sitter/tree-sitter-c-sharp](https://github.com/tree-sitter/tree-sitter-c-sharp) - C# Grammar for tree-sitter
 - [tree-sitter/tree-sitter-scala](https://github.com/tree-sitter/tree-sitter-scala) - Scala grammar for tree-sitter
@@ -387,7 +389,7 @@
 - [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful and less bloated.
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [crispgm/dotfiles](https://github.com/crispgm/dotfiles) - dotfiles to provision a new macOS with cosy dev setups
-- [RRethy/nvim-base16](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
+- [RRethy/nvim-base16](https://github.com/RRethy/nvim-base16) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
 - [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim) - coc.nvim integration for telescope.nvim
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
