@@ -302,6 +302,7 @@
 
 ## JavaScript 
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
 - [dessant/repo-lockdown](https://github.com/dessant/repo-lockdown) - GitHub Action that immediately closes and locks issues and pull requests
 - [tree-sitter/tree-sitter-c-sharp](https://github.com/tree-sitter/tree-sitter-c-sharp) - C# Grammar for tree-sitter
@@ -666,7 +667,9 @@
 
 ## Swift 
 
-- [waydabber/MonitorControl](https://github.com/waydabber/MonitorControl) - 🖥  Control your external monitor brightness & volume on your Mac
+- [DeclarativeHub/MockingbirdUIKit](https://github.com/DeclarativeHub/MockingbirdUIKit) - UIKit renderer for Mockingbird DSL
+- [tannerdsilva/SwiftSlash](https://github.com/tannerdsilva/SwiftSlash) - Concurrent shell scripting framework for Swift on Linux.
+- [waydabber/MonitorControl](https://github.com/waydabber/MonitorControl) - Experimental M1 support! - Control your external monitor brightness & volume on your Mac
 - [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support
 - [luoxiu/Chalk](https://github.com/luoxiu/Chalk) - ✏️Expressive styling on terminal string. (chalk for swift)
 - [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library
