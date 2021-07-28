@@ -611,7 +611,7 @@
 - [Byron/prodash](https://github.com/Byron/prodash) - report progress of concurrent applications and display it in various ways
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [rust-embedded/discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust!
-- [Kethku/neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
@@ -673,6 +673,7 @@
 
 ## Swift 
 
+- [Kuniwak/MirrorDiffKit](https://github.com/Kuniwak/MirrorDiffKit) - Graduation from messy XCTAssertEqual messages.
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [vapor-community/markdown](https://github.com/vapor-community/markdown) - Swift cmark wrapper for SwiftPM
 - [DeclarativeHub/MockingbirdUIKit](https://github.com/DeclarativeHub/MockingbirdUIKit) - UIKit renderer for Mockingbird DSL
