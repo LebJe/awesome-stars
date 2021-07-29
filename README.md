@@ -45,6 +45,7 @@
   - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [VimL](#viml)
+  - [Vue](#vue)
   - [XSLT](#xslt)
 
 ## AutoIt 
@@ -373,7 +374,7 @@
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [hoob3rt/lualine.nvim](https://github.com/hoob3rt/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, Kitty, iTerm, Konsole, and Alacritty written in Lua
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, and Alacritty written in Lua
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
@@ -673,6 +674,7 @@
 
 ## Swift 
 
+- [adam-fowler/jmespath.swift](https://github.com/adam-fowler/jmespath.swift) - Swift implementation of JMESPath, the JSON query language
 - [Kuniwak/MirrorDiffKit](https://github.com/Kuniwak/MirrorDiffKit) - Graduation from messy XCTAssertEqual messages.
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [vapor-community/markdown](https://github.com/vapor-community/markdown) - Swift cmark wrapper for SwiftPM
@@ -1063,6 +1065,10 @@
 ## VimL 
 
 - [ujihisa/tabpagecolorscheme](https://github.com/ujihisa/tabpagecolorscheme) - Vim colorscheme on each tabs
+
+## Vue 
+
+- [microsoft/language-server-protocol-inspector](https://github.com/microsoft/language-server-protocol-inspector) - Interactive Language Server log inspector
 
 ## XSLT 
 
