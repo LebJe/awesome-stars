@@ -19,6 +19,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [M](#m)
@@ -224,6 +225,7 @@
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
 - [protocolbuffers/protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
 - [cavaliercoder/go-rpm](https://github.com/cavaliercoder/go-rpm) - A native implementation of the RPM file specification in Go
@@ -305,6 +307,7 @@
 
 ## JavaScript 
 
+- [jasonplatts/nova-ruby-gems](https://github.com/jasonplatts/nova-ruby-gems) - 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
 - [dessant/repo-lockdown](https://github.com/dessant/repo-lockdown) - GitHub Action that immediately closes and locks issues and pull requests
@@ -355,6 +358,10 @@
 - [mmshivesh/Python-Nova.novaextension](https://github.com/mmshivesh/Python-Nova.novaextension) - Python Language Server (PyLS) Extension for Nova editor
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+
+## Jupyter Notebook 
+
+- [Esri/workforce-scripts](https://github.com/Esri/workforce-scripts) - A set of scripts to help administer Workforce projects.
 
 ## Kotlin 
 
@@ -674,6 +681,8 @@
 
 ## Swift 
 
+- [NSHipster/swift-log-github-actions](https://github.com/NSHipster/swift-log-github-actions) - GitHub Actions workflow logging for Swift
+- [apple/swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
 - [adam-fowler/jmespath.swift](https://github.com/adam-fowler/jmespath.swift) - Swift implementation of JMESPath, the JSON query language
 - [Kuniwak/MirrorDiffKit](https://github.com/Kuniwak/MirrorDiffKit) - Graduation from messy XCTAssertEqual messages.
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
