@@ -446,6 +446,7 @@
 
 ## Others 
 
+- [frankyonnetti/gravity-sublime-theme](https://github.com/frankyonnetti/gravity-sublime-theme) - A Sublime Text theme that feels right at home on macOS
 - [tahnik/nocode-compiler](https://github.com/tahnik/nocode-compiler) - A compiler for nocode
 - [chaos-eng/chaos-eng.github.io](https://github.com/chaos-eng/chaos-eng.github.io) - Principles of Chaos Engineering
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
