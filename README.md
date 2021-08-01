@@ -55,6 +55,8 @@
 
 ## C 
 
+- [oblitum/caps2esc](https://github.com/oblitum/caps2esc) - Transforming the most useless key ever in the most useful one
+- [oblitum/Interception](https://github.com/oblitum/Interception) - The Interception API aims to build a portable programming interface that allows one to intercept and control a range of input devices.
 - [wasm-lsp/tree-sitter-wasm](https://github.com/wasm-lsp/tree-sitter-wasm) - WebAssembly grammars for tree-sitter
 - [camdencheek/tree-sitter-dockerfile](https://github.com/camdencheek/tree-sitter-dockerfile) - A tree-sitter grammar for Dockerfile
 - [rmsalinas/raspicam](https://github.com/rmsalinas/raspicam) - Official raspicam from AVA Research Group. Controlling the raspberry pi camera in C++. Moved from Sourceforge to here
@@ -690,7 +692,6 @@
 - [vapor-community/markdown](https://github.com/vapor-community/markdown) - Swift cmark wrapper for SwiftPM
 - [DeclarativeHub/MockingbirdUIKit](https://github.com/DeclarativeHub/MockingbirdUIKit) - UIKit renderer for Mockingbird DSL
 - [tannerdsilva/SwiftSlash](https://github.com/tannerdsilva/SwiftSlash) - Concurrent shell scripting framework for Swift on Linux.
-- [waydabber/MonitorControl](https://github.com/waydabber/MonitorControl) - Experimental M1 support! - Control your external monitor brightness & volume on your Mac
 - [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support
 - [luoxiu/Chalk](https://github.com/luoxiu/Chalk) - ✏️Expressive styling on terminal string. (chalk for swift)
 - [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library
