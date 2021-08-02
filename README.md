@@ -55,6 +55,7 @@
 
 ## C 
 
+- [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
 - [oblitum/caps2esc](https://github.com/oblitum/caps2esc) - Transforming the most useless key ever in the most useful one
 - [oblitum/Interception](https://github.com/oblitum/Interception) - The Interception API aims to build a portable programming interface that allows one to intercept and control a range of input devices.
 - [wasm-lsp/tree-sitter-wasm](https://github.com/wasm-lsp/tree-sitter-wasm) - WebAssembly grammars for tree-sitter
