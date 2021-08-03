@@ -9,6 +9,7 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
+  - [CMake](#cmake)
   - [CSS](#css)
   - [Crystal](#crystal)
   - [Dockerfile](#dockerfile)
@@ -198,6 +199,10 @@
 - [p-ranav/tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++
 - [MailCore/mailcore2](https://github.com/MailCore/mailcore2) - MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP. The API has been redesigned from ground up.
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+
+## CMake 
+
+- [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 
 ## CSS 
 
@@ -978,6 +983,7 @@
 
 ## TypeScript 
 
+- [voldikss/coc-cmake](https://github.com/voldikss/coc-cmake) - coc.nvim extension for cmake language
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [sgwilym/nova-deno](https://github.com/sgwilym/nova-deno) - A Deno extension for Nova.
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for Yaml Files
