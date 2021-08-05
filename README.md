@@ -691,6 +691,7 @@
 
 ## Swift 
 
+- [swift-server/swift-service-lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting.
 - [NSHipster/swift-log-github-actions](https://github.com/NSHipster/swift-log-github-actions) - GitHub Actions workflow logging for Swift
 - [apple/swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
 - [adam-fowler/jmespath.swift](https://github.com/adam-fowler/jmespath.swift) - Swift implementation of JMESPath, the JSON query language
