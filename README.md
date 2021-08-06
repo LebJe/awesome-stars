@@ -14,6 +14,7 @@
   - [Crystal](#crystal)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
+  - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
   - [HTML](#html)
   - [Haml](#haml)
@@ -230,6 +231,11 @@
 ## Elixir 
 
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
+
+## Emacs Lisp 
+
+- [emacs-lsp/lsp-sourcekit](https://github.com/emacs-lsp/lsp-sourcekit) - lsp-mode :heart: Apple's sourcekit
+- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 
 ## Go 
 
@@ -504,6 +510,7 @@
 
 ## Python 
 
+- [sublimelsp/LSP](https://github.com/sublimelsp/LSP) - Client implementation of the Language Server Protocol for Sublime Text
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py) - This is the updated Python wrapper for the Heroku API V3. https://devcenter.heroku.com/articles/platform-api-reference The Heroku REST API allows Heroku users to manage their accounts, applications, addons, and other aspects related to Heroku. It allows you to easily utilize the Heroku platform from your applications.
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
@@ -985,6 +992,7 @@
 
 ## TypeScript 
 
+- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code
 - [voldikss/coc-cmake](https://github.com/voldikss/coc-cmake) - coc.nvim extension for cmake language
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -1049,6 +1057,7 @@
 
 ## Vim script 
 
+- [ncm2/float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window
 - [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options
 - [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim) - Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support
 - [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📍 A Neovim plugin that displays interactive scrollbars.
