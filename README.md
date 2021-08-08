@@ -610,6 +610,7 @@
 
 ## Rust 
 
+- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [kak-lsp/kak-lsp](https://github.com/kak-lsp/kak-lsp) - Kakoune Language Server Protocol Client
 - [svartalf/rust-battop](https://github.com/svartalf/rust-battop) - Interactive batteries viewer
 - [svartalf/rust-battery](https://github.com/svartalf/rust-battery) - Rust crate providing cross-platform information about the notebook batteries.
@@ -1014,7 +1015,7 @@
 - [clangd/vscode-clangd](https://github.com/clangd/vscode-clangd) - Visual Studio Code extension for clangd
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
-- [theia-ide/typescript-language-server](https://github.com/theia-ide/typescript-language-server) - TypeScript & JavaScript Language Server
+- [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
 - [geromegrignon/issue-forms-creator](https://github.com/geromegrignon/issue-forms-creator) - Interface to generate Github Issue Forms
