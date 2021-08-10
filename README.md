@@ -416,7 +416,7 @@
 - [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) - 
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
-- [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful and less bloated.
+- [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast and less bloated.
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [crispgm/dotfiles](https://github.com/crispgm/dotfiles) - dotfiles to provision a new macOS with cosy dev setups
 - [RRethy/nvim-base16](https://github.com/RRethy/nvim-base16) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
@@ -465,6 +465,7 @@
 
 ## Others 
 
+- [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
 - [iOS-Goodies/iOS-Goodies](https://github.com/iOS-Goodies/iOS-Goodies) - Your favorite iOS Newsletter, now open source.
 - [NTaylorMullen/LSPVirtualDocuments](https://github.com/NTaylorMullen/LSPVirtualDocuments) - LSP spec expansions to support virtual documents.
 - [frankyonnetti/gravity-sublime-theme](https://github.com/frankyonnetti/gravity-sublime-theme) - A Sublime Text theme that feels right at home on macOS
@@ -704,6 +705,7 @@
 
 ## Swift 
 
+- [wickwirew/Shift](https://github.com/wickwirew/Shift) - Shift is a simple, declarative animation library for building complex view controller and view transitions in UIKit.
 - [jdfergason/swift-toml](https://github.com/jdfergason/swift-toml) - Swift package for parsing TOML documents
 - [Flinesoft/BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
 - [swift-server/swift-service-lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting.
@@ -1001,6 +1003,7 @@
 
 ## TypeScript 
 
+- [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode) - EditorConfig extension for Visual Studio Code
 - [neoclide/neovim](https://github.com/neoclide/neovim) - Node client API for both vim8 and neovim.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code
@@ -1067,6 +1070,7 @@
 
 ## Vim script 
 
+- [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
 - [ncm2/float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window
 - [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options
 - [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim) - Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support
