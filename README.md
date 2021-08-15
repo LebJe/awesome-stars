@@ -715,6 +715,7 @@
 
 ## Swift 
 
+- [grpc/grpc-swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC.
 - [kaishin/Gifu](https://github.com/kaishin/Gifu) - High-performance animated GIF support for iOS in Swift
 - [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 - [MartinP7r/AckGen](https://github.com/MartinP7r/AckGen) - Generate a list of license information for all Swift packages used in your project. For easy *Acknowledgement* views.
