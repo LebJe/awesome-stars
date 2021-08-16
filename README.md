@@ -57,6 +57,7 @@
 
 ## C 
 
+- [uyha/tree-sitter-cmake](https://github.com/uyha/tree-sitter-cmake) - A Tree-sitter parser for CMake
 - [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
 - [oblitum/caps2esc](https://github.com/oblitum/caps2esc) - Transforming the most useless key ever in the most useful one
 - [oblitum/Interception](https://github.com/oblitum/Interception) - The Interception API aims to build a portable programming interface that allows one to intercept and control a range of input devices.
@@ -397,6 +398,7 @@
 
 ## Lua 
 
+- [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
 - [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall) - Provides the missing :LspInstall for nvim-lspconfig
 - [Pocco81/DAPInstall.nvim](https://github.com/Pocco81/DAPInstall.nvim) - 🦆 A NeoVim plugin for managing several debuggers for Nvim-dap
 - [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) - An extension for nvim-dap, providing default configurations for python and methods to debug individual test methods or classes.
@@ -421,7 +423,7 @@
 - [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) - 
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
-- [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast and less bloated.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast and less bloated.
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [crispgm/dotfiles](https://github.com/crispgm/dotfiles) - dotfiles to provision a new macOS with cosy dev setups
 - [RRethy/nvim-base16](https://github.com/RRethy/nvim-base16) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
@@ -619,6 +621,7 @@
 
 ## Rust 
 
+- [edg-l/treelight](https://github.com/edg-l/treelight) - A syntax highlighter for the web using tree-sitter.
 - [vi/timeago](https://github.com/vi/timeago) - In Rust, format Duration into a string like "1 hour ago" or "01hou".
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [kak-lsp/kak-lsp](https://github.com/kak-lsp/kak-lsp) - Kakoune Language Server Protocol Client
@@ -688,6 +691,7 @@
 
 ## Shell 
 
+- [flowkey/swift-android-toolchain](https://github.com/flowkey/swift-android-toolchain) - Build Swift for Android from your Mac
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
