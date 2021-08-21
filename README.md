@@ -405,6 +405,8 @@
 
 ## Lua 
 
+- [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
+- [tjdevries/gruvbuddy.nvim](https://github.com/tjdevries/gruvbuddy.nvim) - Gruvbox colors using https://github.com/tjdevries/colorbuddy.vim
 - [nvim-treesitter/playground](https://github.com/nvim-treesitter/playground) - Treesitter playground integrated into Neovim
 - [nvim-treesitter/module-template](https://github.com/nvim-treesitter/module-template) - A repository template to create you own nvim-treesitter module !
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
@@ -735,6 +737,7 @@
 
 ## Swift 
 
+- [stevapple/package-syntax-parser](https://github.com/stevapple/package-syntax-parser) - 
 - [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
 - [Flinesoft/AnyLint](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of scripts & regular expressions.
 - [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
