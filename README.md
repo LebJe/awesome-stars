@@ -742,6 +742,7 @@
 
 ## Swift 
 
+- [Apodini/ApodiniMigrator](https://github.com/Apodini/ApodiniMigrator) - 
 - [CLILogger/CLILogger](https://github.com/CLILogger/CLILogger) - Send the plain log to terminal with your preferred format and colorful style.
 - [stevapple/package-syntax-parser](https://github.com/stevapple/package-syntax-parser) - 
 - [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
