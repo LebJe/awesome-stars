@@ -57,6 +57,7 @@
 
 ## C 
 
+- [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [rocky/remake](https://github.com/rocky/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more
 - [Wilfred/tree-sitter-elisp](https://github.com/Wilfred/tree-sitter-elisp) - tree-sitter grammar for emacs lisp
 - [vigoux/tree-sitter-viml](https://github.com/vigoux/tree-sitter-viml) - Tree-sitter parser for VimL
@@ -408,6 +409,7 @@
 
 ## Lua 
 
+- [xiyaowong/coc-lightbulb](https://github.com/xiyaowong/coc-lightbulb) - VSCode 💡 for coc.nvim
 - [windwp/windline.nvim](https://github.com/windwp/windline.nvim) - The next generation neovim statusline.  Animation statusline
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [tjdevries/gruvbuddy.nvim](https://github.com/tjdevries/gruvbuddy.nvim) - Gruvbox colors using https://github.com/tjdevries/colorbuddy.vim
@@ -742,6 +744,8 @@
 
 ## Swift 
 
+- [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
+- [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission. Support SwiftUI.
 - [Apodini/ApodiniMigrator](https://github.com/Apodini/ApodiniMigrator) - 
 - [CLILogger/CLILogger](https://github.com/CLILogger/CLILogger) - Send the plain log to terminal with your preferred format and colorful style.
 - [stevapple/package-syntax-parser](https://github.com/stevapple/package-syntax-parser) - 
@@ -1051,6 +1055,7 @@
 
 ## TypeScript 
 
+- [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [robb-j/nova-xml](https://github.com/robb-j/nova-xml) - Adds XML linting, schema support and formatting to Nova
 - [wasm-lsp/vscode-wasm](https://github.com/wasm-lsp/vscode-wasm) - Visual Studio Code client for the WebAssembly language server
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
