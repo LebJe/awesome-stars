@@ -747,6 +747,7 @@
 
 ## Swift 
 
+- [pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump) - A collection of tools for debugging, diffing, and testing your application's data structures.
 - [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
 - [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission. Support SwiftUI.
 - [Apodini/ApodiniMigrator](https://github.com/Apodini/ApodiniMigrator) - 
