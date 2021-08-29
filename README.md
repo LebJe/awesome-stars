@@ -49,7 +49,6 @@
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
-  - [XSLT](#xslt)
 
 ## AutoIt 
 
@@ -310,6 +309,7 @@
 ## HTML 
 
 - [slebok/zoo](https://github.com/slebok/zoo) - Grammar Zoo
+- [yaml/yaml-spec](https://github.com/yaml/yaml-spec) - YAML Specification
 - [SwiftWeekly/swiftweekly.github.io](https://github.com/SwiftWeekly/swiftweekly.github.io) - A community-driven weekly newsletter about Swift.org
 - [imthath-m/swimbols](https://github.com/imthath-m/swimbols) - A repo to share your thoughts, new feature ideas and issues about Swimbols.
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
@@ -339,7 +339,7 @@
 
 ## JavaScript 
 
-- [alex-pinkus/experimental-tree-sitter-swift](https://github.com/alex-pinkus/experimental-tree-sitter-swift) - 
+- [alex-pinkus/experimental-tree-sitter-swift](https://github.com/alex-pinkus/experimental-tree-sitter-swift) - This contains an experimental tree-sitter grammar for the Swift programming language. The grammar can generate a parser that is able to parse most basic Swift code.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [QthCN/tree-sitter-swift](https://github.com/QthCN/tree-sitter-swift) - Swift grammar for tree-sitter
 - [miloyip/nativejson-benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
@@ -747,6 +747,7 @@
 
 ## Swift 
 
+- [brightdigit/MistKit](https://github.com/brightdigit/MistKit) - Swift Package for Server-Side and Command-Line Access to CloudKit Web Services
 - [pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump) - A collection of tools for debugging, diffing, and testing your application's data structures.
 - [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
 - [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission. Support SwiftUI.
@@ -1173,10 +1174,6 @@
 ## Vue 
 
 - [microsoft/language-server-protocol-inspector](https://github.com/microsoft/language-server-protocol-inspector) - Interactive Language Server log inspector
-
-## XSLT 
-
-- [yaml/yaml-spec](https://github.com/yaml/yaml-spec) - YAML Specification
 
 
 ## License
