@@ -547,6 +547,8 @@
 
 ## Python 
 
+- [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
+- [OctoPrint/OctoPrint-FirmwareCheck](https://github.com/OctoPrint/OctoPrint-FirmwareCheck) - Checks for unsafe or broken printer firmwares
 - [angusshire/greenhat](https://github.com/angusshire/greenhat) - :construction_worker: Quick hack for making real work happen.
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
@@ -647,6 +649,7 @@
 
 ## Rust 
 
+- [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [edg-l/treelight](https://github.com/edg-l/treelight) - A syntax highlighter for the web using tree-sitter.
@@ -747,6 +750,7 @@
 
 ## Swift 
 
+- [engali94/ax-editor](https://github.com/engali94/ax-editor) - Ax is a code editor with syntax highlighting that runs in your terminal written completely in Swift.
 - [brightdigit/MistKit](https://github.com/brightdigit/MistKit) - Swift Package for Server-Side and Command-Line Access to CloudKit Web Services
 - [pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump) - A collection of tools for debugging, diffing, and testing your application's data structures.
 - [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
