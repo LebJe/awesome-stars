@@ -504,6 +504,8 @@
 
 ## Others 
 
+- [pwsacademy/swift-setup](https://github.com/pwsacademy/swift-setup) - Student-friendly setup instructions for platforms, editors, and IDEs that support Swift.
+- [one-dark/iterm-one-dark-theme](https://github.com/one-dark/iterm-one-dark-theme) - One Dark theme for iTerm2.
 - [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
 - [iOS-Goodies/iOS-Goodies](https://github.com/iOS-Goodies/iOS-Goodies) - Your favorite iOS Newsletter, now open source.
 - [NTaylorMullen/LSPVirtualDocuments](https://github.com/NTaylorMullen/LSPVirtualDocuments) - LSP spec expansions to support virtual documents.
@@ -1076,6 +1078,7 @@
 
 ## TypeScript 
 
+- [one-dark/vscode-one-dark-theme](https://github.com/one-dark/vscode-one-dark-theme) - One Dark theme for VS Code.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [microsoft/vscode-anycode](https://github.com/microsoft/vscode-anycode) - 
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
