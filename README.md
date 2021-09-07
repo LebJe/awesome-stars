@@ -56,6 +56,8 @@
 
 ## C 
 
+- [ndevilla/iniparser](https://github.com/ndevilla/iniparser) - ini file parser
+- [lexborisov/myhtml](https://github.com/lexborisov/myhtml) - Fast C/C++ HTML 5 Parser. Using threads.
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [AlwaysRightInstitute/wren-swift](https://github.com/AlwaysRightInstitute/wren-swift) - The wren scripting language as a Swift package, w/ some Swift API wrappers
 - [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
@@ -159,6 +161,7 @@
 
 ## C++ 
 
+- [brofield/simpleini](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [Koihik/LuaFormatter](https://github.com/Koihik/LuaFormatter) - Code formatter for Lua
@@ -1078,6 +1081,7 @@
 
 ## TypeScript 
 
+- [fannheyward/create-coc-extension](https://github.com/fannheyward/create-coc-extension) - Create a coc extension from command line
 - [one-dark/vscode-one-dark-theme](https://github.com/one-dark/vscode-one-dark-theme) - One Dark theme for VS Code.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [microsoft/vscode-anycode](https://github.com/microsoft/vscode-anycode) - 
@@ -1151,6 +1155,7 @@
 
 ## Vim script 
 
+- [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
 - [kana/vim-textobj-user](https://github.com/kana/vim-textobj-user) - Vim plugin: Create your own text objects
 - [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
 - [ncm2/float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window
