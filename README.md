@@ -161,6 +161,8 @@
 
 ## C++ 
 
+- [Rookfighter/inifile-cpp](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++.
+- [mcmtroffaes/inipp](https://github.com/mcmtroffaes/inipp) - Simple C++ ini parser.
 - [brofield/simpleini](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
@@ -256,6 +258,7 @@
 
 ## Go 
 
+- [go-ini/ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go
 - [snapcore/snapd](https://github.com/snapcore/snapd) - The snapd and snap tools enable systems to work with .snap files.
 - [arduino/arduino-language-server](https://github.com/arduino/arduino-language-server) - An Arduino Language Server based on Clangd to Arduino code autocompletion
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -661,6 +664,8 @@
 
 ## Rust 
 
+- [zonyitoo/rust-ini](https://github.com/zonyitoo/rust-ini) - INI file parser in Rust
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
@@ -763,6 +768,7 @@
 
 ## Swift 
 
+- [Ponyboy47/ConfigParser](https://github.com/Ponyboy47/ConfigParser) - A pure-Swift INI Config parser
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [withfig/swift-api-bindings](https://github.com/withfig/swift-api-bindings) - Swift bindings for Fig API
 - [apple/swift-sample-distributed-actors-transport](https://github.com/apple/swift-sample-distributed-actors-transport) - Distributed actors transport example, for feature review
@@ -1081,6 +1087,7 @@
 
 ## TypeScript 
 
+- [fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) - rust-analyzer extension for coc.nvim
 - [fannheyward/create-coc-extension](https://github.com/fannheyward/create-coc-extension) - Create a coc extension from command line
 - [one-dark/vscode-one-dark-theme](https://github.com/one-dark/vscode-one-dark-theme) - One Dark theme for VS Code.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
