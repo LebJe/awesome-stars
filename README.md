@@ -56,6 +56,7 @@
 
 ## C 
 
+- [zdharma/zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
 - [rswier/c4](https://github.com/rswier/c4) - C in four functions
 - [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
 - [lua/lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html
@@ -352,6 +353,7 @@
 ## JavaScript 
 
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
+- [microsoft/vscode-anycode](https://github.com/microsoft/vscode-anycode) - 
 - [alex-pinkus/experimental-tree-sitter-swift](https://github.com/alex-pinkus/experimental-tree-sitter-swift) - An experimental tree-sitter grammar for the Swift programming language. The grammar can generate a parser that is able to parse most basic Swift code.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [QthCN/tree-sitter-swift](https://github.com/QthCN/tree-sitter-swift) - Swift grammar for tree-sitter
@@ -1102,7 +1104,6 @@
 - [fannheyward/create-coc-extension](https://github.com/fannheyward/create-coc-extension) - Create a coc extension from command line
 - [one-dark/vscode-one-dark-theme](https://github.com/one-dark/vscode-one-dark-theme) - One Dark theme for VS Code.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
-- [microsoft/vscode-anycode](https://github.com/microsoft/vscode-anycode) - 
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [robb-j/nova-xml](https://github.com/robb-j/nova-xml) - Adds XML linting, schema support and formatting to Nova
 - [wasm-lsp/vscode-wasm](https://github.com/wasm-lsp/vscode-wasm) - Visual Studio Code client for the WebAssembly language server
