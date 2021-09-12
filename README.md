@@ -50,7 +50,6 @@
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
-  - [XSLT](#xslt)
 
 ## AutoIt 
 
@@ -58,6 +57,7 @@
 
 ## C 
 
+- [nvim-treesitter/tree-sitter-lua](https://github.com/nvim-treesitter/tree-sitter-lua) - Lua grammar for tree-sitter.
 - [mpx/lua-cjson](https://github.com/mpx/lua-cjson) - Lua CJSON is a fast JSON encoding/parsing module for Lua
 - [zdharma/zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
 - [rswier/c4](https://github.com/rswier/c4) - C in four functions
@@ -330,6 +330,7 @@
 ## HTML 
 
 - [slebok/zoo](https://github.com/slebok/zoo) - Grammar Zoo
+- [yaml/yaml-spec](https://github.com/yaml/yaml-spec) - YAML Specification
 - [SwiftWeekly/swiftweekly.github.io](https://github.com/SwiftWeekly/swiftweekly.github.io) - A community-driven weekly newsletter about Swift.org
 - [imthath-m/swimbols](https://github.com/imthath-m/swimbols) - A repo to share your thoughts, new feature ideas and issues about Swimbols.
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
@@ -791,6 +792,7 @@
 
 ## Swift 
 
+- [zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) - Recreating a fully functional version of iOS 4 in SwiftUI.
 - [engali94/XMLJson](https://github.com/engali94/XMLJson) - Swift CLI tool for converting any XML to JSON format
 - [yonaskolb/SwagGen](https://github.com/yonaskolb/SwagGen) - OpenAPI/Swagger 3.0 Parser and Swift code generator
 - [Ponyboy47/ConfigParser](https://github.com/Ponyboy47/ConfigParser) - A pure-Swift INI Config parser
@@ -1231,10 +1233,6 @@
 ## Vue 
 
 - [microsoft/language-server-protocol-inspector](https://github.com/microsoft/language-server-protocol-inspector) - Interactive Language Server log inspector
-
-## XSLT 
-
-- [yaml/yaml-spec](https://github.com/yaml/yaml-spec) - YAML Specification
 
 
 ## License
