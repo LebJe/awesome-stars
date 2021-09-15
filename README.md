@@ -285,7 +285,7 @@
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [askgitdev/askgit](https://github.com/askgitdev/askgit) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
-- [supabase/postgrest-go](https://github.com/supabase/postgrest-go) - Isomorphic Go client for PostgREST.
+- [supabase-community/postgrest-go](https://github.com/supabase-community/postgrest-go) - Isomorphic Go client for PostgREST.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms Implemented in GoLang
@@ -365,6 +365,7 @@
 - [GwynethLlewelyn/Go.novaextension](https://github.com/GwynethLlewelyn/Go.novaextension) - A quick & dirty Go language template for the Panic Nova editor
 - [slackhq/tree-sitter-hack](https://github.com/slackhq/tree-sitter-hack) - Hack grammar for tree-sitter
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
+- [microsoft/vscode-anycode](https://github.com/microsoft/vscode-anycode) - 
 - [alex-pinkus/experimental-tree-sitter-swift](https://github.com/alex-pinkus/experimental-tree-sitter-swift) - An experimental tree-sitter grammar for the Swift programming language. The grammar can generate a parser that is able to parse most basic Swift code.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [QthCN/tree-sitter-swift](https://github.com/QthCN/tree-sitter-swift) - Swift grammar for tree-sitter
@@ -437,6 +438,8 @@
 
 ## Lua 
 
+- [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - 🌈 Rainbow parentheses for neovim using tree-sitter 🌈
+- [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in lua, with real-time feedback.
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
 - [grafi-tt/lunajson](https://github.com/grafi-tt/lunajson) - A strict and fast JSON parser/decoder/encoder written in pure Lua.
 - [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua
@@ -770,6 +773,8 @@
 
 ## Shell 
 
+- [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars) - Displays an interactive and searchable list of your GitHub starred repositories
+- [kawarimidoll/gh-graph](https://github.com/kawarimidoll/gh-graph) - GitHub contribution graph in your terminal
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [flowkey/swift-android-toolchain](https://github.com/flowkey/swift-android-toolchain) - Build Swift for Android from your Mac
@@ -885,11 +890,11 @@
 - [JosephDuffy/VaporDocC](https://github.com/JosephDuffy/VaporDocC) - Vapor middleware that serves a DocC archive
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
 - [kelvin13/godot-swift](https://github.com/kelvin13/godot-swift) - swift language support for the godot game engine
-- [supabase/storage-swift](https://github.com/supabase/storage-swift) - Swift client library to interact with Supabase Storage
+- [supabase-community/storage-swift](https://github.com/supabase-community/storage-swift) - Swift client library to interact with Supabase Storage
 - [daltoniam/Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
-- [supabase/realtime-swift](https://github.com/supabase/realtime-swift) - A Swift client for Supabase Realtime server.
-- [supabase/gotrue-swift](https://github.com/supabase/gotrue-swift) - A swift client library for GoTrue.
-- [supabase/supabase-swift](https://github.com/supabase/supabase-swift) - A Swift client for Supabase
+- [supabase-community/realtime-swift](https://github.com/supabase-community/realtime-swift) - A Swift client for Supabase Realtime server.
+- [supabase-community/gotrue-swift](https://github.com/supabase-community/gotrue-swift) - A swift client library for GoTrue.
+- [supabase-community/supabase-swift](https://github.com/supabase-community/supabase-swift) - A Swift client for Supabase
 - [mchakravarty/CodeEditorView](https://github.com/mchakravarty/CodeEditorView) - SwiftUI code editor view for iOS and macOS
 - [mchakravarty/CodeEditorDemo](https://github.com/mchakravarty/CodeEditorDemo) - Demo app for CodeEditorView
 - [DeveloperMaris/ToolReleases](https://github.com/DeveloperMaris/ToolReleases) - macOS application, which reads the public RSS feed from Apple and shows the latest Apple tool releases in a formatted list.
@@ -973,7 +978,7 @@
 - [maustinstar/liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI.
 - [yaproq/yaproq](https://github.com/yaproq/yaproq) - A templating language for Swift
 - [RockfordWei/Perfect-INI](https://github.com/RockfordWei/Perfect-INI) - Swift encoder and decoder for INI files.
-- [supabase/postgrest-swift](https://github.com/supabase/postgrest-swift) - Swift client for PostgREST
+- [supabase-community/postgrest-swift](https://github.com/supabase-community/postgrest-swift) - Swift client for PostgREST
 - [Dev1an/Swift-Atem](https://github.com/Dev1an/Swift-Atem) - Blackmagic Design Atem network protocol implementation in swift 5.1 using NIO 2
 - [Flight-School/sentences](https://github.com/Flight-School/sentences) - A command-line utility that splits natural language text into sentences.
 - [Flight-School/ner](https://github.com/Flight-School/ner) - A command-line utility for extracting names of people, places, and organizations from text on macOS.
@@ -1124,11 +1129,11 @@
 
 ## TypeScript 
 
+- [EvgeniyPeshkov/syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
 - [fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) - rust-analyzer extension for coc.nvim
 - [fannheyward/create-coc-extension](https://github.com/fannheyward/create-coc-extension) - Create a coc extension from command line
 - [one-dark/vscode-one-dark-theme](https://github.com/one-dark/vscode-one-dark-theme) - One Dark theme for VS Code.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
-- [microsoft/vscode-anycode](https://github.com/microsoft/vscode-anycode) - 
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [robb-j/nova-xml](https://github.com/robb-j/nova-xml) - Adds XML linting, schema support and formatting to Nova
 - [wasm-lsp/vscode-wasm](https://github.com/wasm-lsp/vscode-wasm) - Visual Studio Code client for the WebAssembly language server
