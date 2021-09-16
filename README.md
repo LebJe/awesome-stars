@@ -362,10 +362,11 @@
 
 ## JavaScript 
 
+- [ikatyang/tree-sitter-yaml](https://github.com/ikatyang/tree-sitter-yaml) - YAML grammar for tree-sitter
+- [kishikawakatsumi/swift-compiler-discord-bot](https://github.com/kishikawakatsumi/swift-compiler-discord-bot) - 
 - [GwynethLlewelyn/Go.novaextension](https://github.com/GwynethLlewelyn/Go.novaextension) - A quick & dirty Go language template for the Panic Nova editor
 - [slackhq/tree-sitter-hack](https://github.com/slackhq/tree-sitter-hack) - Hack grammar for tree-sitter
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [microsoft/vscode-anycode](https://github.com/microsoft/vscode-anycode) - 
 - [alex-pinkus/experimental-tree-sitter-swift](https://github.com/alex-pinkus/experimental-tree-sitter-swift) - An experimental tree-sitter grammar for the Swift programming language. The grammar can generate a parser that is able to parse most basic Swift code.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [QthCN/tree-sitter-swift](https://github.com/QthCN/tree-sitter-swift) - Swift grammar for tree-sitter
@@ -804,6 +805,10 @@
 
 ## Swift 
 
+- [Ponyboy47/Pathman](https://github.com/Ponyboy47/Pathman) - Swift type-safe path, file, and directory library using POSIX C APIs
+- [mxcl/Path.swift](https://github.com/mxcl/Path.swift) - Delightful, robust, cross-platform and chainable file-pathing functions.
+- [alblue/SILInspector](https://github.com/alblue/SILInspector) - An application for experimenting with Swift's Intermediate Language
+- [norio-nomura/SwiftCompilerDiscordappBot](https://github.com/norio-nomura/SwiftCompilerDiscordappBot) - Swift Compiler Discordapp Bot
 - [unrelentingtech/SwiftCBOR](https://github.com/unrelentingtech/SwiftCBOR) - A CBOR implementation for Swift
 - [SomeRandomiOSDev/CBORCoding](https://github.com/SomeRandomiOSDev/CBORCoding) - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
 - [quanshousio/ToastUI](https://github.com/quanshousio/ToastUI) - A simple way to show toast in SwiftUI.
@@ -1050,7 +1055,7 @@
 - [jpsim/SourceKitten](https://github.com/jpsim/SourceKitten) - An adorable little framework and command line tool for interacting with SourceKit.
 - [SvenTiigi/ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮
 - [PureSwift/Bluetooth](https://github.com/PureSwift/Bluetooth) - Pure Swift Bluetooth library
-- [compnerd/swift-win32](https://github.com/compnerd/swift-win32) - A Win32 application framework for Swift
+- [compnerd/swift-win32](https://github.com/compnerd/swift-win32) - A Windows application framework for Swift
 - [tmandry/Swindler](https://github.com/tmandry/Swindler) - macOS window management library for Swift
 - [GraphQLSwift/GraphQL](https://github.com/GraphQLSwift/GraphQL) - The Swift GraphQL implementation for macOS and Linux
 - [GottaGetSwifty/CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy
@@ -1129,11 +1134,13 @@
 
 ## TypeScript 
 
+- [norio-nomura/cli_discord_bot](https://github.com/norio-nomura/cli_discord_bot) - CLI Discord Bot
 - [EvgeniyPeshkov/syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
 - [fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) - rust-analyzer extension for coc.nvim
 - [fannheyward/create-coc-extension](https://github.com/fannheyward/create-coc-extension) - Create a coc extension from command line
 - [one-dark/vscode-one-dark-theme](https://github.com/one-dark/vscode-one-dark-theme) - One Dark theme for VS Code.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [microsoft/vscode-anycode](https://github.com/microsoft/vscode-anycode) - 
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [robb-j/nova-xml](https://github.com/robb-j/nova-xml) - Adds XML linting, schema support and formatting to Nova
 - [wasm-lsp/vscode-wasm](https://github.com/wasm-lsp/vscode-wasm) - Visual Studio Code client for the WebAssembly language server
