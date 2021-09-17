@@ -74,6 +74,7 @@
 - [Wilfred/tree-sitter-elisp](https://github.com/Wilfred/tree-sitter-elisp) - tree-sitter grammar for emacs lisp
 - [vigoux/tree-sitter-viml](https://github.com/vigoux/tree-sitter-viml) - Tree-sitter parser for VimL
 - [uyha/tree-sitter-cmake](https://github.com/uyha/tree-sitter-cmake) - A Tree-sitter parser for CMake
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
 - [oblitum/caps2esc](https://github.com/oblitum/caps2esc) - Transforming the most useless key ever in the most useful one
 - [oblitum/Interception](https://github.com/oblitum/Interception) - The Interception API aims to build a portable programming interface that allows one to intercept and control a range of input devices.
@@ -169,6 +170,7 @@
 
 ## C++ 
 
+- [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
 - [xpol/lua-rapidjson](https://github.com/xpol/lua-rapidjson) - A JSON module for Lua based on the very fast RapidJSON library.
 - [Rookfighter/inifile-cpp](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++.
 - [mcmtroffaes/inipp](https://github.com/mcmtroffaes/inipp) - Simple C++ ini parser.
@@ -177,7 +179,6 @@
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [Koihik/LuaFormatter](https://github.com/Koihik/LuaFormatter) - Code formatter for Lua
 - [apple/swift-llbuild](https://github.com/apple/swift-llbuild) - A low-level build system, used by Xcode and the Swift Package Manager
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
@@ -468,7 +469,7 @@
 - [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📍 A Neovim plugin that displays interactive scrollbars.
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [hoob3rt/lualine.nvim](https://github.com/hoob3rt/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
-- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, tmux, kitty, iTerm, Konsole, and Alacritty written in Lua
+- [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, and Alacritty written in Lua
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
@@ -805,6 +806,8 @@
 
 ## Swift 
 
+- [natmark/ewis](https://github.com/natmark/ewis) - terminal-based text editor written in swift
+- [SailyTeam/Saily](https://github.com/SailyTeam/Saily) - Modern. Fast. Beautiful.
 - [Ponyboy47/Pathman](https://github.com/Ponyboy47/Pathman) - Swift type-safe path, file, and directory library using POSIX C APIs
 - [mxcl/Path.swift](https://github.com/mxcl/Path.swift) - Delightful, robust, cross-platform and chainable file-pathing functions.
 - [alblue/SILInspector](https://github.com/alblue/SILInspector) - An application for experimenting with Swift's Intermediate Language
@@ -1134,6 +1137,8 @@
 
 ## TypeScript 
 
+- [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
+- [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [norio-nomura/cli_discord_bot](https://github.com/norio-nomura/cli_discord_bot) - CLI Discord Bot
 - [EvgeniyPeshkov/syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
 - [fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) - rust-analyzer extension for coc.nvim
