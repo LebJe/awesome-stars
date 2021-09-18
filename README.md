@@ -57,6 +57,7 @@
 
 ## C 
 
+- [mehmetoguzderin/tree-sitter-wgsl](https://github.com/mehmetoguzderin/tree-sitter-wgsl) - 
 - [ZkHaider/SwiftySyntax](https://github.com/ZkHaider/SwiftySyntax) - Swift wrapper around the Tree-Sitter lib, an incremental parser system for syntax.
 - [nvim-treesitter/tree-sitter-lua](https://github.com/nvim-treesitter/tree-sitter-lua) - Lua grammar for tree-sitter.
 - [mpx/lua-cjson](https://github.com/mpx/lua-cjson) - Lua CJSON is a fast JSON encoding/parsing module for Lua
@@ -170,6 +171,7 @@
 
 ## C++ 
 
+- [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
 - [xpol/lua-rapidjson](https://github.com/xpol/lua-rapidjson) - A JSON module for Lua based on the very fast RapidJSON library.
 - [Rookfighter/inifile-cpp](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++.
@@ -363,6 +365,7 @@
 
 ## JavaScript 
 
+- [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [ikatyang/tree-sitter-yaml](https://github.com/ikatyang/tree-sitter-yaml) - YAML grammar for tree-sitter
 - [kishikawakatsumi/swift-compiler-discord-bot](https://github.com/kishikawakatsumi/swift-compiler-discord-bot) - 
 - [GwynethLlewelyn/Go.novaextension](https://github.com/GwynethLlewelyn/Go.novaextension) - A quick & dirty Go language template for the Panic Nova editor
@@ -691,6 +694,7 @@
 
 ## Rust 
 
+- [wasm-lsp/wasm-lsp-server](https://github.com/wasm-lsp/wasm-lsp-server) - A language server for WebAssembly
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
