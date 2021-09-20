@@ -57,6 +57,7 @@
 
 ## C 
 
+- [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [mehmetoguzderin/tree-sitter-wgsl](https://github.com/mehmetoguzderin/tree-sitter-wgsl) - 
 - [ZkHaider/SwiftySyntax](https://github.com/ZkHaider/SwiftySyntax) - Swift wrapper around the Tree-Sitter lib, an incremental parser system for syntax.
@@ -172,6 +173,7 @@
 
 ## C++ 
 
+- [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
 - [xpol/lua-rapidjson](https://github.com/xpol/lua-rapidjson) - A JSON module for Lua based on the very fast RapidJSON library.
@@ -354,6 +356,7 @@
 
 ## Java 
 
+- [readdle/swift-java-codegen](https://github.com/readdle/swift-java-codegen) - Swift Java Codegeneration annotation processor
 - [MSPaintIDE/MSPaintIDE](https://github.com/MSPaintIDE/MSPaintIDE) - Programming in MS Paint
 - [eclipse/lsp4j](https://github.com/eclipse/lsp4j) - A Java implementation of the language server protocol intended to be consumed by tools and language servers implemented in Java.
 - [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
@@ -435,6 +438,7 @@
 
 ## Kotlin 
 
+- [msink/kotlin-libui](https://github.com/msink/kotlin-libui) - Kotlin/Native interop to libui: a portable GUI library
 - [fwcd/kotlin-debug-adapter](https://github.com/fwcd/kotlin-debug-adapter) - Kotlin/JVM debugging for any editor/IDE using the Debug Adapter Protocol
 - [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol
 - [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Kotlin, and Java.
@@ -443,6 +447,7 @@
 
 ## Lua 
 
+- [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - WIP: Statusline written in pure lua. Supports co-routines, functions and jobs.
 - [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - 🌈 Rainbow parentheses for neovim using tree-sitter 🌈
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in lua, with real-time feedback.
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
@@ -540,6 +545,7 @@
 
 ## Others 
 
+- [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [pwsacademy/swift-setup](https://github.com/pwsacademy/swift-setup) - Student-friendly setup instructions for platforms, editors, and IDEs that support Swift.
 - [one-dark/iterm-one-dark-theme](https://github.com/one-dark/iterm-one-dark-theme) - One Dark theme for iTerm2.
 - [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
@@ -694,6 +700,8 @@
 
 ## Rust 
 
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
+- [rust-native-ui/libui-rs](https://github.com/rust-native-ui/libui-rs) - Rust bindings to the minimalist, native, cross-platform UI toolkit `libui`
 - [rhysd/kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [wasm-lsp/wasm-lsp-server](https://github.com/wasm-lsp/wasm-lsp-server) - A language server for WebAssembly
@@ -812,6 +820,12 @@
 
 ## Swift 
 
+- [square/Valet](https://github.com/square/Valet) - Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
+- [andriydruk/swift-weather-app](https://github.com/andriydruk/swift-weather-app) - Cross-platform Swift application for iOS/Mac/Android/Windows
+- [sclukey/libui-swift-examples](https://github.com/sclukey/libui-swift-examples) - Examples programs for libui-swift
+- [eugene-gilmore/libui-swift](https://github.com/eugene-gilmore/libui-swift) - Swifty libui
+- [sclukey/libui-swift](https://github.com/sclukey/libui-swift) - Swifty libui
+- [therecipe/swift](https://github.com/therecipe/swift) - Qt binding for Swift | Showcase example for https://github.com/therecipe/qt
 - [natmark/ewis](https://github.com/natmark/ewis) - terminal-based text editor written in swift
 - [SailyTeam/Saily](https://github.com/SailyTeam/Saily) - Modern. Fast. Beautiful.
 - [Ponyboy47/Pathman](https://github.com/Ponyboy47/Pathman) - Swift type-safe path, file, and directory library using POSIX C APIs
