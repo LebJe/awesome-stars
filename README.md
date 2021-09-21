@@ -57,6 +57,7 @@
 
 ## C 
 
+- [nvim-neorg/tree-sitter-norg](https://github.com/nvim-neorg/tree-sitter-norg) - A TreeSitter parser for the Neorg File Format
 - [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [mehmetoguzderin/tree-sitter-wgsl](https://github.com/mehmetoguzderin/tree-sitter-wgsl) - 
@@ -276,6 +277,8 @@
 
 ## Go 
 
+- [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
+- [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally
 - [go-ini/ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go
 - [snapcore/snapd](https://github.com/snapcore/snapd) - The snapd and snap tools enable systems to work with .snap files.
 - [arduino/arduino-language-server](https://github.com/arduino/arduino-language-server) - An Arduino Language Server based on Clangd to Arduino code autocompletion
@@ -335,6 +338,7 @@
 
 ## HTML 
 
+- [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
 - [slebok/zoo](https://github.com/slebok/zoo) - Grammar Zoo
 - [yaml/yaml-spec](https://github.com/yaml/yaml-spec) - YAML Specification
 - [SwiftWeekly/swiftweekly.github.io](https://github.com/SwiftWeekly/swiftweekly.github.io) - A community-driven weekly newsletter about Swift.org
@@ -356,6 +360,7 @@
 
 ## Java 
 
+- [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 - [readdle/swift-java-codegen](https://github.com/readdle/swift-java-codegen) - Swift Java Codegeneration annotation processor
 - [MSPaintIDE/MSPaintIDE](https://github.com/MSPaintIDE/MSPaintIDE) - Programming in MS Paint
 - [eclipse/lsp4j](https://github.com/eclipse/lsp4j) - A Java implementation of the language server protocol intended to be consumed by tools and language servers implemented in Java.
@@ -447,6 +452,14 @@
 
 ## Lua 
 
+- [tami5/sqlite.lua](https://github.com/tami5/sqlite.lua) - SQLite/LuaJIT binding for lua and neovim
+- [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
+- [jameshiew/nvim-magic](https://github.com/jameshiew/nvim-magic) - :genie: Pluggable framework for using AI code assistance in Neovim
+- [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
+- [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - A better way to create key mappings in Neovim.
+- [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
+- [GustavoKatel/sidebar.nvim](https://github.com/GustavoKatel/sidebar.nvim) - A generic and modular lua sidebar for Neovim
+- [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - WIP: Statusline written in pure lua. Supports co-routines, functions and jobs.
 - [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - 🌈 Rainbow parentheses for neovim using tree-sitter 🌈
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in lua, with real-time feedback.
@@ -700,6 +713,8 @@
 
 ## Rust 
 
+- [Kampfkarren/full-moon](https://github.com/Kampfkarren/full-moon) - A lossless Lua 5.1 parser
+- [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [rust-native-ui/libui-rs](https://github.com/rust-native-ui/libui-rs) - Rust bindings to the minimalist, native, cross-platform UI toolkit `libui`
 - [rhysd/kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
@@ -789,6 +804,7 @@
 
 ## Shell 
 
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars) - Displays an interactive and searchable list of your GitHub starred repositories
 - [kawarimidoll/gh-graph](https://github.com/kawarimidoll/gh-graph) - GitHub contribution graph in your terminal
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
@@ -820,6 +836,7 @@
 
 ## Swift 
 
+- [elai950/AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI
 - [square/Valet](https://github.com/square/Valet) - Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
 - [andriydruk/swift-weather-app](https://github.com/andriydruk/swift-weather-app) - Cross-platform Swift application for iOS/Mac/Android/Windows
 - [sclukey/libui-swift-examples](https://github.com/sclukey/libui-swift-examples) - Examples programs for libui-swift
