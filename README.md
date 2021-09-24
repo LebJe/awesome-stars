@@ -57,6 +57,7 @@
 
 ## C 
 
+- [WeirdMath/SwiftyHaru](https://github.com/WeirdMath/SwiftyHaru) - A safe cross-platform Swift wrapper for LibHaru — a library for creating PDF documents.
 - [nvim-neorg/tree-sitter-norg](https://github.com/nvim-neorg/tree-sitter-norg) - A TreeSitter parser for the Neorg File Format
 - [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -719,6 +720,7 @@
 
 ## Rust 
 
+- [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
 - [gfx-rs/wgpu-native](https://github.com/gfx-rs/wgpu-native) - Native WebGPU implementation based on wgpu-core
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -786,7 +788,7 @@
 - [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [rcore-os/cpio](https://github.com/rcore-os/cpio) - Freestanding CPIO file reader in Rust.
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
@@ -847,6 +849,7 @@
 
 ## Swift 
 
+- [shaps80/Logging](https://github.com/shaps80/Logging) - Apple's SwiftLog + OSLog style StringInterpolation
 - [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
 - [spevans/swift-project1](https://github.com/spevans/swift-project1) - A minimal bare metal kernel in Swift
 - [STREGAsGate/Raylib](https://github.com/STREGAsGate/Raylib) - A Swift package for Raylib. Builds Raylib from source so no need to fiddle with libraries. Just add as a dependency in you game package and go!
