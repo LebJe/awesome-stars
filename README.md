@@ -279,6 +279,7 @@
 
 ## Go 
 
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally
 - [go-ini/ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go
@@ -376,6 +377,7 @@
 
 ## JavaScript 
 
+- [m-novikov/tree-sitter-sql](https://github.com/m-novikov/tree-sitter-sql) - SQL syntax highlighting for tree-sitter
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [NickCarneiro/curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
