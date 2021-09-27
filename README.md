@@ -377,6 +377,8 @@
 
 ## JavaScript 
 
+- [kishikawakatsumi/SourceKitForSafari](https://github.com/kishikawakatsumi/SourceKitForSafari) - SourceKit for Safari is a Safari extension for GitHub, that enables Xcode features like go to definition, find references, or documentation on hover.
+- [fregante/setup-git-user](https://github.com/fregante/setup-git-user) - GitHub Action that sets the git user and email to enable commiting
 - [dawidd6/action-checkout-pr](https://github.com/dawidd6/action-checkout-pr) - :gear: A GitHub Action to checkout a pull request with ability to push back
 - [m-novikov/tree-sitter-sql](https://github.com/m-novikov/tree-sitter-sql) - SQL syntax highlighting for tree-sitter
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
@@ -622,6 +624,7 @@
 
 ## Python 
 
+- [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite) - The infrastructure and project index comprising the Swift source compatibility suite.
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [OctoPrint/OctoPrint-FirmwareCheck](https://github.com/OctoPrint/OctoPrint-FirmwareCheck) - Checks for unsafe or broken printer firmwares
 - [angusshire/greenhat](https://github.com/angusshire/greenhat) - :construction_worker: Quick hack for making real work happen.
@@ -852,6 +855,7 @@
 
 ## Swift 
 
+- [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) - HTTP/2 support for SwiftNIO
 - [karwa/swift-checkit](https://github.com/karwa/swift-checkit) - 
 - [Flight-School/AnyCodable](https://github.com/Flight-School/AnyCodable) - Type-erased wrappers for Encodable, Decodable, and Codable values
 - [shaps80/Logging](https://github.com/shaps80/Logging) - Apple's SwiftLog + OSLog style StringInterpolation
