@@ -176,6 +176,7 @@
 
 ## C++ 
 
+- [WebAssembly/wasm-c-api](https://github.com/WebAssembly/wasm-c-api) - Wasm C API prototype
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
@@ -280,6 +281,7 @@
 
 ## Go 
 
+- [vilmibm/gh-screensaver](https://github.com/vilmibm/gh-screensaver) - full terminal animations
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally
@@ -482,7 +484,7 @@
 - [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - Lua Language Server coded by Lua
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [xiyaowong/coc-lightbulb](https://github.com/xiyaowong/coc-lightbulb) - VSCode 💡 for coc.nvim
-- [windwp/windline.nvim](https://github.com/windwp/windline.nvim) - The next generation neovim statusline.  Animation statusline
+- [windwp/windline.nvim](https://github.com/windwp/windline.nvim) - Animation statusline, floating window statusline. Use lua + luv make some wind
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [tjdevries/gruvbuddy.nvim](https://github.com/tjdevries/gruvbuddy.nvim) - Gruvbox colors using https://github.com/tjdevries/colorbuddy.vim
 - [nvim-treesitter/playground](https://github.com/nvim-treesitter/playground) - Treesitter playground integrated into Neovim
@@ -570,6 +572,8 @@
 
 ## Others 
 
+- [amosgyamfi/swiftui-animation-library](https://github.com/amosgyamfi/swiftui-animation-library) - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band, Kitchen Sink and Wobble effects. Browse, find and download the animation that fits your needs.
+- [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [pwsacademy/swift-setup](https://github.com/pwsacademy/swift-setup) - Student-friendly setup instructions for platforms, editors, and IDEs that support Swift.
@@ -727,6 +731,7 @@
 
 ## Rust 
 
+- [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
 - [gfx-rs/wgpu-native](https://github.com/gfx-rs/wgpu-native) - Native WebGPU implementation based on wgpu-core
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
