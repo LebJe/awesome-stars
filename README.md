@@ -731,6 +731,7 @@
 
 ## Rust 
 
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
 - [gfx-rs/wgpu-native](https://github.com/gfx-rs/wgpu-native) - Native WebGPU implementation based on wgpu-core
