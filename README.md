@@ -281,6 +281,8 @@
 
 ## Go 
 
+- [itchyny/maze](https://github.com/itchyny/maze) - A maze command written in Go
+- [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [vilmibm/gh-screensaver](https://github.com/vilmibm/gh-screensaver) - full terminal animations
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
 - [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
@@ -862,6 +864,9 @@
 
 ## Swift 
 
+- [iliasaz/cocilib](https://github.com/iliasaz/cocilib) - Swift bridge to OCILIB
+- [iliasaz/SwiftOracle](https://github.com/iliasaz/SwiftOracle) - OCILIB wrapper for Swift, linux compatible
+- [h1257977/SwiftOracle](https://github.com/h1257977/SwiftOracle) - OCILIB wrapper for Swift, linux compatible
 - [apple/swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing) - An early experimental general-purpose pattern matching engine for Swift.
 - [revolter/EvaluateForXcode](https://github.com/revolter/EvaluateForXcode) - Xcode extension that evaluates selected mathematical expressions and replaces them with the result
 - [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) - HTTP/2 support for SwiftNIO
@@ -1292,6 +1297,7 @@
 
 ## Vim script 
 
+- [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
 - [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
 - [kana/vim-textobj-user](https://github.com/kana/vim-textobj-user) - Vim plugin: Create your own text objects
 - [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
