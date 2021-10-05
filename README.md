@@ -864,6 +864,7 @@
 
 ## Swift 
 
+- [vapor/multipart-kit](https://github.com/vapor/multipart-kit) - 🏞 Parses and serializes multipart-encoded data with Codable support.
 - [iliasaz/cocilib](https://github.com/iliasaz/cocilib) - Swift bridge to OCILIB
 - [iliasaz/SwiftOracle](https://github.com/iliasaz/SwiftOracle) - OCILIB wrapper for Swift, linux compatible
 - [h1257977/SwiftOracle](https://github.com/h1257977/SwiftOracle) - OCILIB wrapper for Swift, linux compatible
