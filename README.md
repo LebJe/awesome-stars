@@ -36,6 +36,7 @@
   - [PowerShell](#powershell)
   - [PureBasic](#purebasic)
   - [Python](#python)
+  - [Reason](#reason)
   - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -108,7 +109,6 @@
 - [aquynh/capstone](https://github.com/aquynh/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [openlink/iODBC](https://github.com/openlink/iODBC) - An open-source ODBC driver manager and SDK that facilitates the development of database-independent applications on linux, freebsd, unix and MacOS X platforms.
-- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [open-iscsi/open-iscsi](https://github.com/open-iscsi/open-iscsi) - iSCSI tools for Linux
 - [sahlberg/libiscsi](https://github.com/sahlberg/libiscsi) - iscsi client library and utilities
 - [dinhvh/libetpan](https://github.com/dinhvh/libetpan) - Mail Framework for C Language
@@ -708,6 +708,10 @@
 - [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap) - A Sublime-like minimap for VIM, based on the Drawille console-based drawing library
 - [pycontribs/ansi2html](https://github.com/pycontribs/ansi2html) - Convert text with ansi color codes to HTML
 
+## Reason 
+
+- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
+
 ## Rich Text Format 
 
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
@@ -860,7 +864,7 @@
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [ArtSabintsev/Cognac-Xcode](https://github.com/ArtSabintsev/Cognac-Xcode) - An Alluring, Dark, and Muted Theme For Xcode.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## Swift 
 
