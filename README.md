@@ -81,7 +81,6 @@
 - [Wilfred/tree-sitter-elisp](https://github.com/Wilfred/tree-sitter-elisp) - tree-sitter grammar for emacs lisp
 - [vigoux/tree-sitter-viml](https://github.com/vigoux/tree-sitter-viml) - Tree-sitter parser for VimL
 - [uyha/tree-sitter-cmake](https://github.com/uyha/tree-sitter-cmake) - A Tree-sitter parser for CMake
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
 - [oblitum/caps2esc](https://github.com/oblitum/caps2esc) - Transforming the most useless key ever in the most useful one
 - [oblitum/Interception](https://github.com/oblitum/Interception) - The Interception API aims to build a portable programming interface that allows one to intercept and control a range of input devices.
@@ -176,6 +175,7 @@
 
 ## C++ 
 
+- [pulzed/mINI](https://github.com/pulzed/mINI) - INI file reader and writer
 - [WebAssembly/wasm-c-api](https://github.com/WebAssembly/wasm-c-api) - Wasm C API prototype
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
@@ -639,6 +639,7 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [snapcore/snapcraft](https://github.com/snapcore/snapcraft) - Package, distribute, and update any app for Linux and IoT.
 - [willmcgugan/textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [sublimelsp/LSP](https://github.com/sublimelsp/LSP) - Client implementation of the Language Server Protocol for Sublime Text
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py) - This is the updated Python wrapper for the Heroku API V3. https://devcenter.heroku.com/articles/platform-api-reference The Heroku REST API allows Heroku users to manage their accounts, applications, addons, and other aspects related to Heroku. It allows you to easily utilize the Heroku platform from your applications.
