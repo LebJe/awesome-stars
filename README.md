@@ -502,7 +502,7 @@
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Create Neovim `:map`pings in Lua with ease!
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions
-- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📍 A Neovim plugin that displays interactive scrollbars.
+- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📍 A Neovim plugin that displays interactive vertical scrollbars.
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [hoob3rt/lualine.nvim](https://github.com/hoob3rt/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, tmux and Alacritty written in Lua
@@ -738,6 +738,7 @@
 
 ## Rust 
 
+- [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
@@ -869,6 +870,8 @@
 
 ## Swift 
 
+- [vapor-community/stripe-kit](https://github.com/vapor-community/stripe-kit) - 
+- [GraphQLSwift/DataLoader](https://github.com/GraphQLSwift/DataLoader) - DataLoader is a generic utility to be used as part of your Swift application's data fetching layer to provide a simplified and consistent API over various remote data sources such as databases or web services via batching and caching.
 - [vapor/multipart-kit](https://github.com/vapor/multipart-kit) - 🏞 Parses and serializes multipart-encoded data with Codable support.
 - [iliasaz/cocilib](https://github.com/iliasaz/cocilib) - Swift bridge to OCILIB
 - [iliasaz/SwiftOracle](https://github.com/iliasaz/SwiftOracle) - OCILIB wrapper for Swift, linux compatible
