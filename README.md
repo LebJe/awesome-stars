@@ -738,6 +738,7 @@
 
 ## Rust 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
@@ -870,6 +871,8 @@
 
 ## Swift 
 
+- [oozoofrog/SwiftDemangle](https://github.com/oozoofrog/SwiftDemangle) - SwiftDemangling by Swift
+- [Ponyboy47/ErrNo](https://github.com/Ponyboy47/ErrNo) - Swift enum wrapper for C errno values
 - [vapor-community/stripe-kit](https://github.com/vapor-community/stripe-kit) - 
 - [GraphQLSwift/DataLoader](https://github.com/GraphQLSwift/DataLoader) - DataLoader is a generic utility to be used as part of your Swift application's data fetching layer to provide a simplified and consistent API over various remote data sources such as databases or web services via batching and caching.
 - [vapor/multipart-kit](https://github.com/vapor/multipart-kit) - 🏞 Parses and serializes multipart-encoded data with Codable support.
