@@ -738,6 +738,7 @@
 
 ## Rust 
 
+- [mcobzarenco/zee](https://github.com/mcobzarenco/zee) - A modern text editor for the terminal written in Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
@@ -753,7 +754,6 @@
 - [rust-native-ui/libui-rs](https://github.com/rust-native-ui/libui-rs) - Rust bindings to the minimalist, native, cross-platform UI toolkit `libui`
 - [rhysd/kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [wasm-lsp/wasm-lsp-server](https://github.com/wasm-lsp/wasm-lsp-server) - A language server for WebAssembly
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -782,7 +782,6 @@
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [wfxr/csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
-- [silvanshade/lspower](https://github.com/silvanshade/lspower) - Tower-based Rust crate for the Language Server Protocol
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
@@ -871,6 +870,7 @@
 
 ## Swift 
 
+- [aaronjedwards/swift-tds](https://github.com/aaronjedwards/swift-tds) - Non-blocking, event-driven Swift implementation of the TDS Protocol
 - [oozoofrog/SwiftDemangle](https://github.com/oozoofrog/SwiftDemangle) - SwiftDemangling by Swift
 - [Ponyboy47/ErrNo](https://github.com/Ponyboy47/ErrNo) - Swift enum wrapper for C errno values
 - [vapor-community/stripe-kit](https://github.com/vapor-community/stripe-kit) - 
