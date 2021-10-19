@@ -351,6 +351,7 @@
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
 - [slebok/zoo](https://github.com/slebok/zoo) - Grammar Zoo
 - [yaml/yaml-spec](https://github.com/yaml/yaml-spec) - YAML Specification
+- [toml-lang/toml.io](https://github.com/toml-lang/toml.io) - Source Code for toml.io
 - [SwiftWeekly/swiftweekly.github.io](https://github.com/SwiftWeekly/swiftweekly.github.io) - A community-driven weekly newsletter about Swift.org
 - [imthath-m/swimbols](https://github.com/imthath-m/swimbols) - A repo to share your thoughts, new feature ideas and issues about Swimbols.
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
@@ -420,7 +421,6 @@
 - [ikatyang/tree-sitter-toml](https://github.com/ikatyang/tree-sitter-toml) - TOML grammar for tree-sitter
 - [tree-sitter/tree-sitter-regex](https://github.com/tree-sitter/tree-sitter-regex) - Tree-sitter parser for regular expressions
 - [tree-sitter/tree-sitter-java](https://github.com/tree-sitter/tree-sitter-java) - Java grammar for tree-sitter
-- [toml-lang/toml.io](https://github.com/toml-lang/toml.io) - Source Code for toml.io
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [tree-sitter/tree-sitter-css](https://github.com/tree-sitter/tree-sitter-css) - CSS grammar for Tree-sitter
 - [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
