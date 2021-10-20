@@ -175,6 +175,9 @@
 
 ## C++ 
 
+- [tomaka/luawrapper](https://github.com/tomaka/luawrapper) - Easy-to-use lua wrapper for C++
+- [satoren/kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua
+- [JakobOvrum/LuaCpp](https://github.com/JakobOvrum/LuaCpp) - Bridge between Lua and C++ which completely abstracts the Lua stack.
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [pulzed/mINI](https://github.com/pulzed/mINI) - INI file reader and writer
 - [WebAssembly/wasm-c-api](https://github.com/WebAssembly/wasm-c-api) - Wasm C API prototype
@@ -468,6 +471,7 @@
 
 ## Lua 
 
+- [kikito/inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !
 - [sidebar-nvim/sections-dap](https://github.com/sidebar-nvim/sections-dap) - Dap sections for sidebar.nvim
 - [tami5/sqlite.lua](https://github.com/tami5/sqlite.lua) - SQLite/LuaJIT binding for lua and neovim
@@ -869,7 +873,7 @@
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [ArtSabintsev/Cognac-Xcode](https://github.com/ArtSabintsev/Cognac-Xcode) - An Alluring, Dark, and Muted Theme For Xcode.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## Swift 
 
