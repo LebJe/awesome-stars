@@ -388,6 +388,7 @@
 
 ## JavaScript 
 
+- [apple/swift-docc-render](https://github.com/apple/swift-docc-render) - Web renderer for Swift-DocC documentation.
 - [kishikawakatsumi/SourceKitForSafari](https://github.com/kishikawakatsumi/SourceKitForSafari) - SourceKit for Safari is a Safari extension for GitHub, that enables Xcode features like go to definition, find references, or documentation on hover.
 - [fregante/setup-git-user](https://github.com/fregante/setup-git-user) - GitHub Action that sets the git user and email to enable commiting
 - [dawidd6/action-checkout-pr](https://github.com/dawidd6/action-checkout-pr) - :gear: A GitHub Action to checkout a pull request with ability to push back
@@ -513,7 +514,7 @@
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions
 - [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📍 A Neovim plugin that displays interactive vertical scrollbars.
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
-- [hoob3rt/lualine.nvim](https://github.com/hoob3rt/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
+- [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, tmux and Alacritty written in Lua
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
