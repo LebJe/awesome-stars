@@ -473,6 +473,7 @@
 
 ## Lua 
 
+- [windwp/nvim-spectre](https://github.com/windwp/nvim-spectre) - Find the enemy and replace them with dark power.
 - [teal-language/teal-language-server](https://github.com/teal-language/teal-language-server) - A language server for Teal, a typed dialect of Lua
 - [kikito/inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !
@@ -640,6 +641,7 @@
 
 ## Python 
 
+- [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite) - The infrastructure and project index comprising the Swift source compatibility suite.
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [OctoPrint/OctoPrint-FirmwareCheck](https://github.com/OctoPrint/OctoPrint-FirmwareCheck) - Checks for unsafe or broken printer firmwares
