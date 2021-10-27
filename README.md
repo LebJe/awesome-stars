@@ -474,6 +474,7 @@
 
 ## Lua 
 
+- [Olivine-Labs/busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
 - [windwp/nvim-spectre](https://github.com/windwp/nvim-spectre) - Find the enemy and replace them with dark power.
 - [teal-language/teal-language-server](https://github.com/teal-language/teal-language-server) - A language server for Teal, a typed dialect of Lua
 - [kikito/inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables
@@ -795,7 +796,7 @@
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [wfxr/csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
-- [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -822,7 +823,7 @@
 - [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [rcore-os/cpio](https://github.com/rcore-os/cpio) - Freestanding CPIO file reader in Rust.
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
