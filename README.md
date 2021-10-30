@@ -68,7 +68,6 @@
 - [ZkHaider/SwiftySyntax](https://github.com/ZkHaider/SwiftySyntax) - Swift wrapper around the Tree-Sitter lib, an incremental parser system for syntax.
 - [nvim-treesitter/tree-sitter-lua](https://github.com/nvim-treesitter/tree-sitter-lua) - Lua grammar for tree-sitter.
 - [mpx/lua-cjson](https://github.com/mpx/lua-cjson) - Lua CJSON is a fast JSON encoding/parsing module for Lua
-- [zdharma/zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
 - [rswier/c4](https://github.com/rswier/c4) - C in four functions
 - [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) - Mirror of the LuaJIT git repository
 - [lua/lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
@@ -246,6 +245,7 @@
 
 ## CMake 
 
+- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 
 ## CSS 
@@ -300,7 +300,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
 - [protocolbuffers/protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
-- [cavaliergopher/rpm](https://github.com/cavaliergopher/rpm) - A native implementation of the RPM file specification in Go
+- [cavaliergopher/rpm](https://github.com/cavaliergopher/rpm) - A Go implementation of the RPM file format
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [neovim/go-client](https://github.com/neovim/go-client) - Nvim Go client
@@ -469,7 +469,7 @@
 - [msink/kotlin-libui](https://github.com/msink/kotlin-libui) - Kotlin/Native interop to libui: a portable GUI library
 - [fwcd/kotlin-debug-adapter](https://github.com/fwcd/kotlin-debug-adapter) - Kotlin/JVM debugging for any editor/IDE using the Debug Adapter Protocol
 - [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol
-- [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Kotlin, and Java.
+- [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 
