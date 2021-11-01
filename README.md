@@ -477,6 +477,7 @@
 
 ## Lua 
 
+- [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) - A Neovim plugin that evaluates code blocks inside documents
 - [Olivine-Labs/busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
 - [windwp/nvim-spectre](https://github.com/windwp/nvim-spectre) - Find the enemy and replace them with dark power.
 - [teal-language/teal-language-server](https://github.com/teal-language/teal-language-server) - A language server for Teal, a typed dialect of Lua
@@ -759,6 +760,7 @@
 
 ## Rust 
 
+- [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [mcobzarenco/zee](https://github.com/mcobzarenco/zee) - A modern text editor for the terminal written in Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
