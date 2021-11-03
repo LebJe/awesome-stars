@@ -58,6 +58,7 @@
 
 ## C 
 
+- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
 - [weyhan/lua4swift](https://github.com/weyhan/lua4swift) - High-level (convenient) Lua bindings for Swift
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [WeirdMath/SwiftyHaru](https://github.com/WeirdMath/SwiftyHaru) - A safe cross-platform Swift wrapper for LibHaru — a library for creating PDF documents.
@@ -727,7 +728,7 @@
 - [numirias/semshi](https://github.com/numirias/semshi) - 🌈 Semantic Highlighting for Python in Neovim
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [Valloric/MatchTagAlways](https://github.com/Valloric/MatchTagAlways) - A Vim plugin that always highlights the enclosing html/xml tags
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap) - A Sublime-like minimap for VIM, based on the Drawille console-based drawing library
 - [pycontribs/ansi2html](https://github.com/pycontribs/ansi2html) - Convert text with ansi color codes to HTML
 
@@ -896,6 +897,7 @@
 
 ## Swift 
 
+- [Kitura/Kitura](https://github.com/Kitura/Kitura) - A Swift web framework and HTTP server.
 - [ChimeHQ/LanguageServerProtocol](https://github.com/ChimeHQ/LanguageServerProtocol) - Swift library for working with LSP
 - [DoccZz/SwiftMarkdownBuilder](https://github.com/DoccZz/SwiftMarkdownBuilder) - `resultBuilder` support for `swift-markdown`
 - [apple/swift-docc-symbolkit](https://github.com/apple/swift-docc-symbolkit) - A Swift package for encoding and decoding Swift Symbol Graph files.
