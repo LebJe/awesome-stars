@@ -176,6 +176,7 @@
 
 ## C++ 
 
+- [Roblox/luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [tomaka/luawrapper](https://github.com/tomaka/luawrapper) - Easy-to-use lua wrapper for C++
 - [satoren/kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua
@@ -478,6 +479,7 @@
 
 ## Lua 
 
+- [Roblox/roact](https://github.com/Roblox/roact) - A view management library for Roblox Lua similar to React
 - [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) - A Neovim plugin that evaluates code blocks inside documents
 - [Olivine-Labs/busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
 - [windwp/nvim-spectre](https://github.com/windwp/nvim-spectre) - Find the enemy and replace them with dark power.
@@ -897,6 +899,7 @@
 
 ## Swift 
 
+- [apple/swift-metrics](https://github.com/apple/swift-metrics) - A Metrics API for Swift
 - [Kitura/Kitura](https://github.com/Kitura/Kitura) - A Swift web framework and HTTP server.
 - [ChimeHQ/LanguageServerProtocol](https://github.com/ChimeHQ/LanguageServerProtocol) - Swift library for working with LSP
 - [DoccZz/SwiftMarkdownBuilder](https://github.com/DoccZz/SwiftMarkdownBuilder) - `resultBuilder` support for `swift-markdown`
