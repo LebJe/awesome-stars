@@ -176,6 +176,7 @@
 
 ## C++ 
 
+- [alandefreitas/moderncpp](https://github.com/alandefreitas/moderncpp) - Modern C++: Snippets and Examples
 - [Roblox/luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [tomaka/luawrapper](https://github.com/tomaka/luawrapper) - Easy-to-use lua wrapper for C++
@@ -595,6 +596,7 @@
 
 ## Others 
 
+- [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [umutphp/famous-bugs](https://github.com/umutphp/famous-bugs) - Famous bugs fixed, problems solved and failures experienced  in software history :bug: :bee: :ant: :beetle:
 - [amosgyamfi/swiftui-animation-library](https://github.com/amosgyamfi/swiftui-animation-library) - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band, Kitchen Sink and Wobble effects. Browse, find and download the animation that fits your needs.
