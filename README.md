@@ -176,6 +176,7 @@
 
 ## C++ 
 
+- [bitcoin-core/gui](https://github.com/bitcoin-core/gui) - Bitcoin Core GUI staging repository
 - [alandefreitas/moderncpp](https://github.com/alandefreitas/moderncpp) - Modern C++: Snippets and Examples
 - [Roblox/luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 - [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
