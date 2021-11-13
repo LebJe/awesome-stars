@@ -295,6 +295,7 @@
 
 ## Go 
 
+- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [itchyny/maze](https://github.com/itchyny/maze) - A maze command written in Go
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
@@ -399,6 +400,7 @@
 
 ## JavaScript 
 
+- [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [hakimel/Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [GoogleChromeLabs/wasm-feature-detect](https://github.com/GoogleChromeLabs/wasm-feature-detect) - A small library to detect which features of WebAssembly are supported.
@@ -569,6 +571,7 @@
 
 ## Markdown 
 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
 ## Nim 
@@ -876,6 +879,7 @@
 
 ## Shell 
 
+- [rupa/z](https://github.com/rupa/z) - z - jump around
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [docker-library/docker](https://github.com/docker-library/docker) - Docker Official Image packaging for Docker
 - [Jarzon/yaml-sucks](https://github.com/Jarzon/yaml-sucks) - YAML sucks.
