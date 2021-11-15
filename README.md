@@ -1134,7 +1134,7 @@
 - [airbnb/epoxy-ios](https://github.com/airbnb/epoxy-ios) - Epoxy is a suite of declarative UI APIs for building UIKit applications in Swift
 - [plotfi/swiftdasm](https://github.com/plotfi/swiftdasm) - An arm64 disassembler written in Swift.
 - [maustinstar/liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI.
-- [yaproq/yaproq](https://github.com/yaproq/yaproq) - A templating language for Swift
+- [yaproq/yaproq](https://github.com/yaproq/yaproq) - A templating language in Swift
 - [RockfordWei/Perfect-INI](https://github.com/RockfordWei/Perfect-INI) - Swift encoder and decoder for INI files.
 - [supabase-community/postgrest-swift](https://github.com/supabase-community/postgrest-swift) - Swift client for PostgREST
 - [Dev1an/Swift-Atem](https://github.com/Dev1an/Swift-Atem) - Blackmagic Design Atem network protocol implementation in swift 5.1 using NIO 2
