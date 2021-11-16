@@ -28,6 +28,7 @@
   - [M](#m)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
+  - [MoonScript](#moonscript)
   - [Nim](#nim)
   - [Objective-C](#objective-c)
   - [Objective-C++](#objective-c++)
@@ -574,6 +575,10 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
+## MoonScript 
+
+- [luarocks/luarocks-site](https://github.com/luarocks/luarocks-site) - LuaRocks website and module host
+
 ## Nim 
 
 - [jiro4989/build-deb-action](https://github.com/jiro4989/build-deb-action) - build-deb-action builds a simple debian package.
@@ -605,6 +610,7 @@
 
 ## Others 
 
+- [swiftwasm/awesome-swiftwasm](https://github.com/swiftwasm/awesome-swiftwasm) - A community-driven curated list of SwiftWasm projects and content
 - [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap for learning the C++ programming language for beginners and experienced devs. // Дорожная карта по изучению языка программирования C++ для начинающих и практикующих.
 - [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -776,6 +782,9 @@
 
 ## Rust 
 
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+- [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
@@ -919,6 +928,8 @@
 
 ## Swift 
 
+- [akkyie/WAKit](https://github.com/akkyie/WAKit) - WebAssembly Runtime written in Swift.
+- [Apodini/webidl2swift](https://github.com/Apodini/webidl2swift) - 
 - [JamitLabs/Accio](https://github.com/JamitLabs/Accio) - A dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
 - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more.
 - [Moya/Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
