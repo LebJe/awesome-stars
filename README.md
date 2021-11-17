@@ -177,6 +177,7 @@
 
 ## C++ 
 
+- [GEOSwift/geos](https://github.com/GEOSwift/geos) - GEOS packaging for SPM, CocoaPods, and Carthage
 - [p-ranav/structopt](https://github.com/p-ranav/structopt) - Parse command line arguments by defining a struct
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [bitcoin-core/gui](https://github.com/bitcoin-core/gui) - Bitcoin Core GUI staging repository
@@ -782,6 +783,8 @@
 
 ## Rust 
 
+- [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
+- [google/evcxr](https://github.com/google/evcxr) - 
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
@@ -928,6 +931,7 @@
 
 ## Swift 
 
+- [GEOSwift/GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geometry Engine.
 - [akkyie/WAKit](https://github.com/akkyie/WAKit) - WebAssembly Runtime written in Swift.
 - [Apodini/webidl2swift](https://github.com/Apodini/webidl2swift) - 
 - [JamitLabs/Accio](https://github.com/JamitLabs/Accio) - A dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
@@ -1245,7 +1249,7 @@
 - [tsolomko/SWCompression](https://github.com/tsolomko/SWCompression) - A Swift framework for working with compression, archives and containers.
 - [swift-server/async-http-client](https://github.com/swift-server/async-http-client) - HTTP client library built on SwiftNIO
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥  Control your external monitor brightness & volume on your Mac
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [vapor-community/stripe](https://github.com/vapor-community/stripe) - Stripe library for Vapor
 - [sendyhalim/Swime](https://github.com/sendyhalim/Swime) - 🗂 Swift MIME type checking based on magic bytes
 - [swiftwasm/carton](https://github.com/swiftwasm/carton) - 📦 Watcher, bundler, and test runner for your SwiftWasm apps
