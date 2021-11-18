@@ -177,6 +177,7 @@
 
 ## C++ 
 
+- [r-darwish/kilopp](https://github.com/r-darwish/kilopp) - The Kilo editor in modern C++
 - [GEOSwift/geos](https://github.com/GEOSwift/geos) - GEOS packaging for SPM, CocoaPods, and Carthage
 - [p-ranav/structopt](https://github.com/p-ranav/structopt) - Parse command line arguments by defining a struct
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
@@ -402,6 +403,7 @@
 
 ## JavaScript 
 
+- [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [hakimel/Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
@@ -772,7 +774,7 @@
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 🚀 Manage background services with macOS' launchctl daemon manager
 - [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 💀Formerly the core formulae for the Homebrew package manager on Linux
-- [Cellane/awesome-vapor](https://github.com/Cellane/awesome-vapor) - A curated list of Vapor-related awesome projects.
+- [vapor-community/awesome-vapor](https://github.com/vapor-community/awesome-vapor) - A curated list of Vapor-related awesome projects.
 - [toy/image_optim](https://github.com/toy/image_optim) - Optimize images using multiple utilities
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
@@ -783,6 +785,7 @@
 
 ## Rust 
 
+- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
 - [google/evcxr](https://github.com/google/evcxr) - 
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
@@ -931,6 +934,7 @@
 
 ## Swift 
 
+- [ChimeHQ/SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift wrappers for the tree-sitter incremental parsing system
 - [GEOSwift/GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geometry Engine.
 - [akkyie/WAKit](https://github.com/akkyie/WAKit) - WebAssembly Runtime written in Swift.
 - [Apodini/webidl2swift](https://github.com/Apodini/webidl2swift) - 
