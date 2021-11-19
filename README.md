@@ -59,6 +59,8 @@
 
 ## C 
 
+- [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
 - [weyhan/lua4swift](https://github.com/weyhan/lua4swift) - High-level (convenient) Lua bindings for Swift
@@ -262,7 +264,6 @@
 ## CSS 
 
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
-- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
@@ -429,6 +430,7 @@
 - [jasonplatts/nova-ruby-gems](https://github.com/jasonplatts/nova-ruby-gems) - 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
+- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [dessant/repo-lockdown](https://github.com/dessant/repo-lockdown) - GitHub Action that immediately closes and locks issues and pull requests
 - [tree-sitter/tree-sitter-c-sharp](https://github.com/tree-sitter/tree-sitter-c-sharp) - C# Grammar for tree-sitter
 - [tree-sitter/tree-sitter-scala](https://github.com/tree-sitter/tree-sitter-scala) - Scala grammar for tree-sitter
@@ -479,6 +481,7 @@
 
 ## Jupyter Notebook 
 
+- [tensorflow/swift](https://github.com/tensorflow/swift) - Swift for TensorFlow
 - [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 - [Esri/workforce-scripts](https://github.com/Esri/workforce-scripts) - A set of scripts to help administer Workforce projects.
 
@@ -493,6 +496,7 @@
 
 ## Lua 
 
+- [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [Roblox/roact](https://github.com/Roblox/roact) - A view management library for Roblox Lua similar to React
 - [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) - A Neovim plugin that evaluates code blocks inside documents
 - [Olivine-Labs/busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
@@ -785,6 +789,11 @@
 
 ## Rust 
 
+- [phsym/prettytable-rs](https://github.com/phsym/prettytable-rs) - A rust library to print aligned and formatted tables
+- [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
+- [BurntSushi/rust-csv](https://github.com/BurntSushi/rust-csv) - A CSV parser for Rust, with Serde support.
+- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
 - [google/evcxr](https://github.com/google/evcxr) - 
