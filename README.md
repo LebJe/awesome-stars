@@ -59,6 +59,7 @@
 
 ## C 
 
+- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
@@ -680,6 +681,7 @@
 
 ## Python 
 
+- [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite) - The infrastructure and project index comprising the Swift source compatibility suite.
@@ -943,6 +945,10 @@
 
 ## Swift 
 
+- [vapor/console-kit](https://github.com/vapor/console-kit) - 💻 APIs for creating interactive CLI tools.
+- [Macro-swift/Macro](https://github.com/Macro-swift/Macro) - An unopinionated SwiftNIO based asynchronous I/O framework, Node.js like.
+- [NozeIO/Noze.io](https://github.com/NozeIO/Noze.io) - Evented I/O streams for Swift
+- [twostraws/Brisk](https://github.com/twostraws/Brisk) - A proof of concept scripting library for Swift
 - [ChimeHQ/SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift wrappers for the tree-sitter incremental parsing system
 - [GEOSwift/GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geometry Engine.
 - [akkyie/WAKit](https://github.com/akkyie/WAKit) - WebAssembly Runtime written in Swift.
@@ -1315,6 +1321,7 @@
 
 ## TypeScript 
 
+- [vincaslt/vscode-highlight-matching-tag](https://github.com/vincaslt/vscode-highlight-matching-tag) - Highlights matching opening or closing tag in  VSCode
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
 - [kilbd/nova-rust](https://github.com/kilbd/nova-rust) - A Rust extension for the Nova text editor, using the Rust Analyzer language server.
 - [kkiyama117/coc-toml](https://github.com/kkiyama117/coc-toml) - Toml extension for coc-nvim, using taplo for lsp engine
