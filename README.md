@@ -121,7 +121,7 @@
 - [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [B-Con/crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
-- [Zunawe/md5-c](https://github.com/Zunawe/md5-c) - A basic MD5 hash algorithm (functionally similar to md5sum on Linux)
+- [Zunawe/md5-c](https://github.com/Zunawe/md5-c) - A simple, commented reference implementation of the MD5 hash algorithm
 - [gshahbazian/SwiftGumbo](https://github.com/gshahbazian/SwiftGumbo) - A Swift wrapper and CSS like query library for the gumbo-parser HTML library
 - [libffi/libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library.
 - [libgit2/pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
@@ -180,6 +180,7 @@
 
 ## C++ 
 
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [r-darwish/kilopp](https://github.com/r-darwish/kilopp) - The Kilo editor in modern C++
 - [GEOSwift/geos](https://github.com/GEOSwift/geos) - GEOS packaging for SPM, CocoaPods, and Carthage
 - [p-ranav/structopt](https://github.com/p-ranav/structopt) - Parse command line arguments by defining a struct
@@ -259,6 +260,7 @@
 
 ## CMake 
 
+- [cpp-best-practices/cpp_starter_project](https://github.com/cpp-best-practices/cpp_starter_project) - A template CMake project to get you started with C++ and tooling
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 
@@ -497,6 +499,7 @@
 
 ## Lua 
 
+- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [Roblox/roact](https://github.com/Roblox/roact) - A view management library for Roblox Lua similar to React
 - [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) - A Neovim plugin that evaluates code blocks inside documents
@@ -618,6 +621,8 @@
 
 ## Others 
 
+- [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
+- [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig
 - [swiftwasm/awesome-swiftwasm](https://github.com/swiftwasm/awesome-swiftwasm) - A community-driven curated list of SwiftWasm projects and content
 - [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap for learning the C++ programming language for beginners and experienced devs. // Дорожная карта по изучению языка программирования C++ для начинающих и практикующих.
 - [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
