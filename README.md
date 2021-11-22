@@ -909,6 +909,7 @@
 
 ## Scheme 
 
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
@@ -968,7 +969,7 @@
 - [apple/swift-docc-symbolkit](https://github.com/apple/swift-docc-symbolkit) - A Swift package for encoding and decoding Swift Symbol Graph files.
 - [apple/swift-docc](https://github.com/apple/swift-docc) - Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
-- [OpenKitten/MongoKitten](https://github.com/OpenKitten/MongoKitten) - Native MongoDB driver for Swift, written in Swift
+- [orlandos-nl/MongoKitten](https://github.com/orlandos-nl/MongoKitten) - Native MongoDB driver for Swift, written in Swift
 - [aaronjedwards/swift-tds](https://github.com/aaronjedwards/swift-tds) - Non-blocking, event-driven Swift implementation of the TDS Protocol
 - [oozoofrog/SwiftDemangle](https://github.com/oozoofrog/SwiftDemangle) - SwiftDemangling by Swift
 - [Ponyboy47/ErrNo](https://github.com/Ponyboy47/ErrNo) - Swift enum wrapper for C errno values
@@ -1281,7 +1282,7 @@
 - [jkandzi/Progress.swift](https://github.com/jkandzi/Progress.swift) - :hourglass: Add beautiful progress bars to your loops.
 - [kishikawakatsumi/KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
 - [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - VT100/Xterm Terminal emulator in Swift
-- [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - Swifty and modern UserDefaults
+- [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
 - [ChimeHQ/SwiftLSPClient](https://github.com/ChimeHQ/SwiftLSPClient) - A Swift library for interacting with Language Server Protocol implementations
 - [onevcat/Rainbow](https://github.com/onevcat/Rainbow) - Delightful console output for Swift developers.
 - [vapor/fluent](https://github.com/vapor/fluent) - Vapor ORM (queries, models, and relations) for NoSQL and SQL databases
