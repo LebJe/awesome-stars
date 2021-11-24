@@ -503,6 +503,7 @@
 
 ## Lua 
 
+- [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [Roblox/roact](https://github.com/Roblox/roact) - A view management library for Roblox Lua similar to React
@@ -803,6 +804,8 @@
 
 ## Rust 
 
+- [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [khvzak/mlua](https://github.com/khvzak/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) bindings to Rust with async/await support
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
@@ -962,6 +965,9 @@
 
 ## Swift 
 
+- [SwiftAndroid/swift-jni](https://github.com/SwiftAndroid/swift-jni) - Wrap JNI functions (WIP)
+- [soto-project/soto-core](https://github.com/soto-project/soto-core) - Core framework of Soto the Swift SDK for AWS
+- [kyleve/Listable](https://github.com/kyleve/Listable) - Declarative list views for iOS apps.
 - [SwiftyLua/SwiftyLua](https://github.com/SwiftyLua/SwiftyLua) - Swift bridge for Lua
 - [SwiftyLua/lua4swift](https://github.com/SwiftyLua/lua4swift) - High-level (convenient) Lua bindings for Swift
 - [vapor/console-kit](https://github.com/vapor/console-kit) - 💻 APIs for creating interactive CLI tools.
