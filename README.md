@@ -52,6 +52,7 @@
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
+  - [WebAssembly](#webassembly)
 
 ## AutoIt 
 
@@ -187,6 +188,7 @@
 
 ## C++ 
 
+- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [0ldsk00l/nestopia](https://github.com/0ldsk00l/nestopia) - Cross-platform Nestopia emulator core with a GUI
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
@@ -639,6 +641,10 @@
 
 ## Others 
 
+- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+- [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
+- [WebAssembly/proposals](https://github.com/WebAssembly/proposals) - Tracking WebAssembly proposals
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig
 - [swiftwasm/awesome-swiftwasm](https://github.com/swiftwasm/awesome-swiftwasm) - A community-driven curated list of SwiftWasm projects and content
@@ -980,6 +986,7 @@
 
 ## Swift 
 
+- [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 - [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
@@ -1497,6 +1504,10 @@
 ## Vue 
 
 - [microsoft/language-server-protocol-inspector](https://github.com/microsoft/language-server-protocol-inspector) - Interactive Language Server log inspector
+
+## WebAssembly 
+
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly
 
 
 ## License
