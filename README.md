@@ -11,6 +11,7 @@
   - [C++](#c++)
   - [CMake](#cmake)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [Crystal](#crystal)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
@@ -175,7 +176,7 @@
 
 ## C# # 
 
-- [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ Portable Remote Desktop P2P based. No configuration or installation needed, communicate your endpoint to the peer, and vice versa, press connect and enjoy. 🖥️
+- [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ Remote Desktop P2P based. Portable, No configuration or installation needed, communicate your endpoint to the peer, and vice versa, press connect and enjoy. 🖥️
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
@@ -283,6 +284,10 @@
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+
+## Clojure 
+
+- [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
 ## Crystal 
 
@@ -440,7 +445,6 @@
 - [GwynethLlewelyn/Go.novaextension](https://github.com/GwynethLlewelyn/Go.novaextension) - A quick & dirty Go language template for the Panic Nova editor
 - [slackhq/tree-sitter-hack](https://github.com/slackhq/tree-sitter-hack) - Hack grammar for tree-sitter
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [alex-pinkus/experimental-tree-sitter-swift](https://github.com/alex-pinkus/experimental-tree-sitter-swift) - An experimental tree-sitter grammar for the Swift programming language.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [QthCN/tree-sitter-swift](https://github.com/QthCN/tree-sitter-swift) - Swift grammar for tree-sitter
 - [miloyip/nativejson-benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
@@ -514,6 +518,8 @@
 
 ## Lua 
 
+- [stein197/lua-catchify](https://github.com/stein197/lua-catchify) - Tiny try-catch-finally statement for Lua
+- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [stein197/lua-switch](https://github.com/stein197/lua-switch) - Switch statement for Lua
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [lunarmodules/LDoc](https://github.com/lunarmodules/LDoc) - LDoc is a LuaDoc-compatible documentation generator which can also process C extension source. Markdown may be optionally used to render comments, as well as integrated readme documentation and pretty-printed example files.
@@ -648,7 +654,7 @@
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig
 - [swiftwasm/awesome-swiftwasm](https://github.com/swiftwasm/awesome-swiftwasm) - A community-driven curated list of SwiftWasm projects and content
-- [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap for learning the C++ programming language for beginners and experienced devs. // Дорожная карта по изучению языка программирования C++ для начинающих и практикующих.
+- [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap for learning the C++ programming language for beginners and experienced devs.
 - [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [umutphp/famous-bugs](https://github.com/umutphp/famous-bugs) - Famous bugs fixed, problems solved and failures experienced  in software history :bug: :bee: :ant: :beetle:
@@ -824,6 +830,7 @@
 
 ## Rust 
 
+- [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -920,7 +927,7 @@
 - [racer-rust/racer](https://github.com/racer-rust/racer) - Rust Code Completion utility
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [rcore-os/cpio](https://github.com/rcore-os/cpio) - Freestanding CPIO file reader in Rust.
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
@@ -986,6 +993,8 @@
 
 ## Swift 
 
+- [ivanvorobei/SPConfetti](https://github.com/ivanvorobei/SPConfetti) - Show the confetti only when the user is having fun, and if not having fun, don't show it.
+- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Wrapper around Swift types that can be modified concurrently by different users, and merged again automatically (a CRDT).
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
@@ -1371,6 +1380,7 @@
 
 ## TypeScript 
 
+- [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [vincaslt/vscode-highlight-matching-tag](https://github.com/vincaslt/vscode-highlight-matching-tag) - Highlights matching opening or closing tag in  VSCode
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
 - [kilbd/nova-rust](https://github.com/kilbd/nova-rust) - A Rust extension for the Nova text editor, using the Rust Analyzer language server.
@@ -1388,6 +1398,7 @@
 - [one-dark/vscode-one-dark-theme](https://github.com/one-dark/vscode-one-dark-theme) - One Dark theme for VS Code.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [microsoft/vscode-anycode](https://github.com/microsoft/vscode-anycode) - 
+- [alex-pinkus/experimental-tree-sitter-swift](https://github.com/alex-pinkus/experimental-tree-sitter-swift) - An experimental tree-sitter grammar for the Swift programming language.
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [robb-j/nova-xml](https://github.com/robb-j/nova-xml) - Adds XML linting, schema support and formatting to Nova
 - [wasm-lsp/vscode-wasm](https://github.com/wasm-lsp/vscode-wasm) - Visual Studio Code client for the WebAssembly language server
@@ -1507,6 +1518,7 @@
 
 ## WebAssembly 
 
+- [WebAssembly/spec](https://github.com/WebAssembly/spec) - WebAssembly specification, reference interpreter, and test suite.
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly
 
 
