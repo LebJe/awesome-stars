@@ -193,6 +193,8 @@
 
 ## C++ 
 
+- [Neargye/semver](https://github.com/Neargye/semver) - Semantic Versioning for modern C++
+- [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
 - [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [0ldsk00l/nestopia](https://github.com/0ldsk00l/nestopia) - Cross-platform Nestopia emulator core with a GUI
@@ -718,6 +720,7 @@
 
 ## PowerShell 
 
+- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 
 ## PureBasic 
@@ -840,6 +843,7 @@
 
 ## Rust 
 
+- [zombodb/pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust!
 - [japaric/xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
@@ -1010,6 +1014,7 @@
 
 ## Swift 
 
+- [uraimo/SwiftyLISP](https://github.com/uraimo/SwiftyLISP) - A minimal LISP implemented in Swift
 - [vedantapps/MultiScreenApp](https://github.com/vedantapps/MultiScreenApp) - An app that uses Multipeer Connectivity to play a video across 6 different iOS screens with an additional phone acting as a Main/Control phone.
 - [davedelong/AOC](https://github.com/davedelong/AOC) - Advent of Code
 - [kean/APIClient](https://github.com/kean/APIClient) - A web API client in Swift built using Async/Await
