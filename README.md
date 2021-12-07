@@ -35,6 +35,7 @@
   - [Objective-C++](#objective-c++)
   - [Others](#others)
   - [PHP](#php)
+  - [PLpgSQL](#plpgsql)
   - [PowerShell](#powershell)
   - [PureBasic](#purebasic)
   - [Python](#python)
@@ -527,6 +528,7 @@
 
 ## Lua 
 
+- [jonstoler/lua-toml](https://github.com/jonstoler/lua-toml) - toml decoder/encoder for Lua
 - [sumneko/vscode-lua](https://github.com/sumneko/vscode-lua) - Release lua-language-server for VSCode
 - [actboy168/lua-debug](https://github.com/actboy168/lua-debug) - Lua Debug Adapter for Visual Studio Code
 - [stein197/lua-catchify](https://github.com/stein197/lua-catchify) - Tiny try-catch-finally statement for Lua
@@ -686,7 +688,7 @@
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [mmstick/cargo-deb](https://github.com/mmstick/cargo-deb) - A cargo subcommand that generates Debian packages from information in Cargo.toml
 - [CreativeTools/3DBenchy](https://github.com/CreativeTools/3DBenchy) - #3DBenchy is a 3D model specifically designed for testing and benchmarking 3D printers. It is a small recognizable object that you can download for free, make and share.
-- [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and general product feedback.
+- [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) - 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -717,6 +719,10 @@
 ## PHP 
 
 - [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
+
+## PLpgSQL 
+
+- [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 
 ## PowerShell 
 
@@ -1014,6 +1020,7 @@
 
 ## Swift 
 
+- [vapor/async-kit](https://github.com/vapor/async-kit) - Sugary extensions for the SwiftNIO library
 - [uraimo/SwiftyLISP](https://github.com/uraimo/SwiftyLISP) - A minimal LISP implemented in Swift
 - [vedantapps/MultiScreenApp](https://github.com/vedantapps/MultiScreenApp) - An app that uses Multipeer Connectivity to play a video across 6 different iOS screens with an additional phone acting as a Main/Control phone.
 - [davedelong/AOC](https://github.com/davedelong/AOC) - Advent of Code
