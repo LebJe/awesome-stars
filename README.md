@@ -528,6 +528,8 @@
 
 ## Lua 
 
+- [VonHeikemen/searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner?
+- [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
 - [jonstoler/lua-toml](https://github.com/jonstoler/lua-toml) - toml decoder/encoder for Lua
 - [sumneko/vscode-lua](https://github.com/sumneko/vscode-lua) - Release lua-language-server for VSCode
 - [actboy168/lua-debug](https://github.com/actboy168/lua-debug) - Lua Debug Adapter for Visual Studio Code
@@ -1020,6 +1022,7 @@
 
 ## Swift 
 
+- [AlwaysRightInstitute/Mustache](https://github.com/AlwaysRightInstitute/Mustache) - A simple Mustache parser/evaluator for Swift
 - [vapor/async-kit](https://github.com/vapor/async-kit) - Sugary extensions for the SwiftNIO library
 - [uraimo/SwiftyLISP](https://github.com/uraimo/SwiftyLISP) - A minimal LISP implemented in Swift
 - [vedantapps/MultiScreenApp](https://github.com/vedantapps/MultiScreenApp) - An app that uses Multipeer Connectivity to play a video across 6 different iOS screens with an additional phone acting as a Main/Control phone.
