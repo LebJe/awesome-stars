@@ -194,6 +194,7 @@
 
 ## C++ 
 
+- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [Neargye/semver](https://github.com/Neargye/semver) - Semantic Versioning for modern C++
 - [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
 - [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
@@ -1025,6 +1026,7 @@
 
 ## Swift 
 
+- [swiftwasm/WasmTransformer](https://github.com/swiftwasm/WasmTransformer) - A Swift package for reading, writing, and transformation of WebAssembly binaries
 - [AlwaysRightInstitute/Mustache](https://github.com/AlwaysRightInstitute/Mustache) - A simple Mustache parser/evaluator for Swift
 - [vapor/async-kit](https://github.com/vapor/async-kit) - Sugary extensions for the SwiftNIO library
 - [uraimo/SwiftyLISP](https://github.com/uraimo/SwiftyLISP) - A minimal LISP implemented in Swift
