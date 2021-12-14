@@ -1026,6 +1026,8 @@
 
 ## Swift 
 
+- [orlandos-nl/IkigaJSON](https://github.com/orlandos-nl/IkigaJSON) - A high performance JSON library in Swift
+- [skelpo/JSON](https://github.com/skelpo/JSON) - For dealing with ambiguous JSON that doesn't connect to a specific type
 - [swiftwasm/WasmTransformer](https://github.com/swiftwasm/WasmTransformer) - A Swift package for reading, writing, and transformation of WebAssembly binaries
 - [AlwaysRightInstitute/Mustache](https://github.com/AlwaysRightInstitute/Mustache) - A simple Mustache parser/evaluator for Swift
 - [vapor/async-kit](https://github.com/vapor/async-kit) - Sugary extensions for the SwiftNIO library
@@ -1166,7 +1168,7 @@
 - [kelvin13/png](https://github.com/kelvin13/png) - decode, inspect, edit, and encode png images in pure swift
 - [Raureif/WikipediaKit](https://github.com/Raureif/WikipediaKit) - Wikipedia API Client Framework for Swift on macOS, iOS, watchOS, and tvOS
 - [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
-- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
 - [DominikButz/DYPopoverView](https://github.com/DominikButz/DYPopoverView) - SwiftUI implementation of a popover view with arrow
 - [mtynior/ColorizeSwift](https://github.com/mtynior/ColorizeSwift) - Terminal string styling for Swift.
 - [Apodini/Apodini](https://github.com/Apodini/Apodini) - Apodini - A declarative, composable server-side Swift framework
