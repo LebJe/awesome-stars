@@ -328,6 +328,7 @@
 
 ## Go 
 
+- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -853,6 +854,7 @@
 
 ## Rust 
 
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [zombodb/pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust!
 - [japaric/xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
@@ -1026,6 +1028,7 @@
 
 ## Swift 
 
+- [swift-extras/swift-extras-uuid](https://github.com/swift-extras/swift-extras-uuid) - A UUID implementation without the use of Foundation in pure Swift.
 - [orlandos-nl/IkigaJSON](https://github.com/orlandos-nl/IkigaJSON) - A high performance JSON library in Swift
 - [skelpo/JSON](https://github.com/skelpo/JSON) - For dealing with ambiguous JSON that doesn't connect to a specific type
 - [swiftwasm/WasmTransformer](https://github.com/swiftwasm/WasmTransformer) - A Swift package for reading, writing, and transformation of WebAssembly binaries
@@ -1112,7 +1115,7 @@
 - [brightdigit/MistKit](https://github.com/brightdigit/MistKit) - Swift Package for Server-Side and Command-Line Access to CloudKit Web Services
 - [pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump) - A collection of tools for debugging, diffing, and testing your application's data structures.
 - [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
-- [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission. Support SwiftUI.
+- [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.
 - [Apodini/ApodiniMigrator](https://github.com/Apodini/ApodiniMigrator) - 
 - [CLILogger/CLILogger](https://github.com/CLILogger/CLILogger) - Send the plain log to terminal with your preferred format and colorful style.
 - [stevapple/package-syntax-parser](https://github.com/stevapple/package-syntax-parser) - 
