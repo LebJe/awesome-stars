@@ -854,6 +854,7 @@
 
 ## Rust 
 
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [zombodb/pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust!
@@ -1379,7 +1380,7 @@
 - [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [jkandzi/Progress.swift](https://github.com/jkandzi/Progress.swift) - :hourglass: Add beautiful progress bars to your loops.
 - [kishikawakatsumi/KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
-- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - VT100/Xterm Terminal emulator in Swift
+- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
 - [ChimeHQ/SwiftLSPClient](https://github.com/ChimeHQ/SwiftLSPClient) - A Swift library for interacting with Language Server Protocol implementations
 - [onevcat/Rainbow](https://github.com/onevcat/Rainbow) - Delightful console output for Swift developers.
