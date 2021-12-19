@@ -195,6 +195,8 @@
 
 ## C++ 
 
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
+- [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [Neargye/semver](https://github.com/Neargye/semver) - Semantic Versioning for modern C++
 - [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
@@ -560,7 +562,7 @@
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - A better way to create key mappings in Neovim.
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
-- [famiu/feline.nvim](https://github.com/famiu/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
+- [feline-nvim/feline.nvim](https://github.com/feline-nvim/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - WIP: Statusline written in pure lua. Supports co-routines, functions and jobs.
 - [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - 🌈 Rainbow parentheses for neovim using tree-sitter 🌈
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in lua, with real-time feedback.
@@ -855,6 +857,7 @@
 
 ## Rust 
 
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -1030,6 +1033,8 @@
 
 ## Swift 
 
+- [michaeleisel/ZippyJSON](https://github.com/michaeleisel/ZippyJSON) - A much faster version of JSONDecoder
+- [xcodereleases/xcinfo](https://github.com/xcodereleases/xcinfo) - Install as many Xcodes at once as you can
 - [swift-extras/swift-extras-uuid](https://github.com/swift-extras/swift-extras-uuid) - A UUID implementation without the use of Foundation in pure Swift.
 - [orlandos-nl/IkigaJSON](https://github.com/orlandos-nl/IkigaJSON) - A high performance JSON library in Swift
 - [skelpo/JSON](https://github.com/skelpo/JSON) - For dealing with ambiguous JSON that doesn't connect to a specific type
@@ -1427,6 +1432,7 @@
 
 ## TypeScript 
 
+- [teal-language/vscode-teal](https://github.com/teal-language/vscode-teal) - Teal language support for Visual Studio Code
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [vincaslt/vscode-highlight-matching-tag](https://github.com/vincaslt/vscode-highlight-matching-tag) - Highlights matching opening or closing tag in  VSCode
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
