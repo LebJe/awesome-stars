@@ -182,7 +182,7 @@
 ## C# # 
 
 - [migueldeicaza/XtermSharp](https://github.com/migueldeicaza/XtermSharp) - XTerm emulator as a .NET library
-- [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ Remote Desktop P2P based. Portable, No configuration or installation needed, communicate your endpoint to the peer, and vice versa, press connect and enjoy. 🖥️
+- [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ Remote Desktop P2P based. Portable, No Configuration or Installation Needed, communicate your Endpoint to the Peer, and vice versa, Press Connect and Enjoy. 🖥️
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
