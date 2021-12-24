@@ -199,6 +199,7 @@
 
 ## C++ 
 
+- [google/cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform GUI Library - Report issues here: https://trac.wxwidgets.org/
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
@@ -1046,6 +1047,7 @@
 
 ## Swift 
 
+- [yahoojapan/SwiftyXMLParser](https://github.com/yahoojapan/SwiftyXMLParser) - Simple XML Parser implemented in Swift
 - [Automotive-Swift/Swift-UDS](https://github.com/Automotive-Swift/Swift-UDS) - Asynchronous OBD2 and UDS library for Swift 5.5 (and above)
 - [Cornucopia-Swift/CornucopiaStreams](https://github.com/Cornucopia-Swift/CornucopiaStreams) - Cornucopia Streams Library
 - [Automotive-Swift/ECUmulator](https://github.com/Automotive-Swift/ECUmulator) - Emulating Electronic Control Units (ECU)
