@@ -410,6 +410,7 @@
 
 ## HTML 
 
+- [OPENDAP/libdap4](https://github.com/OPENDAP/libdap4) - A new version of libdap that contains both DAP2 and DAP4 support
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
@@ -755,6 +756,7 @@
 
 ## Python 
 
+- [sdispater/tomlkit](https://github.com/sdispater/tomlkit) - Style-preserving TOML library for Python
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) - a pythonic generic language server
@@ -869,6 +871,7 @@
 
 ## Rust 
 
+- [ordian/toml_edit](https://github.com/ordian/toml_edit) - Yet another format-preserving TOML parser
 - [kateinoigakukun/wasminspect](https://github.com/kateinoigakukun/wasminspect) - An interactive debugger for WebAssembly
 - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
@@ -1062,7 +1065,7 @@
 - [uraimo/SwiftyLISP](https://github.com/uraimo/SwiftyLISP) - A minimal LISP implemented in Swift
 - [vedantapps/MultiScreenApp](https://github.com/vedantapps/MultiScreenApp) - An app that uses Multipeer Connectivity to play a video across 6 different iOS screens with an additional phone acting as a Main/Control phone.
 - [davedelong/AOC](https://github.com/davedelong/AOC) - Advent of Code
-- [kean/Get](https://github.com/kean/Get) - A web API client in Swift built using Async/Await
+- [kean/Get](https://github.com/kean/Get) - A Swift web API client built using async/await
 - [ivanvorobei/SPConfetti](https://github.com/ivanvorobei/SPConfetti) - Show the confetti only when the user is having fun, and if not having fun, don't show it.
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Wrapper around Swift types that can be modified concurrently by different users, and merged again automatically (a CRDT).
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
@@ -1450,6 +1453,7 @@
 
 ## TypeScript 
 
+- [swift-server/vscode-swift](https://github.com/swift-server/vscode-swift) - VSCode Extension for Swift
 - [teal-language/vscode-teal](https://github.com/teal-language/vscode-teal) - Teal language support for Visual Studio Code
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [vincaslt/vscode-highlight-matching-tag](https://github.com/vincaslt/vscode-highlight-matching-tag) - Highlights matching opening or closing tag in  VSCode
