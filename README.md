@@ -1545,6 +1545,7 @@
 
 ## Vim script 
 
+- [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
 - [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
 - [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
 - [kana/vim-textobj-user](https://github.com/kana/vim-textobj-user) - Vim plugin: Create your own text objects
