@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Assembly](#assembly)
   - [AutoIt](#autoit)
   - [C](#c)
   - [C#](#c#)
@@ -56,6 +57,10 @@
   - [VimL](#viml)
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
+
+## Assembly 
+
+- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
 
 ## AutoIt 
 
@@ -199,6 +204,7 @@
 
 ## C++ 
 
+- [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [google/cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform GUI Library - Report issues here: https://trac.wxwidgets.org/
@@ -1456,6 +1462,7 @@
 
 ## TypeScript 
 
+- [fannheyward/coc-sql](https://github.com/fannheyward/coc-sql) - SQL extension for coc.nvim
 - [swift-server/vscode-swift](https://github.com/swift-server/vscode-swift) - VSCode Extension for Swift
 - [teal-language/vscode-teal](https://github.com/teal-language/vscode-teal) - Teal language support for Visual Studio Code
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
