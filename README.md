@@ -69,6 +69,7 @@
 
 ## C 
 
+- [nih-at/libzip](https://github.com/nih-at/libzip) - A C library for reading, creating, and modifying zip archives.
 - [Automotive-Swift/Swift-SocketCAN](https://github.com/Automotive-Swift/Swift-SocketCAN) - Access the Linux SocketCAN API via Swift
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
