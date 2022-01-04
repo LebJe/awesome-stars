@@ -209,6 +209,7 @@
 
 ## C++ 
 
+- [vslavik/winsparkle](https://github.com/vslavik/winsparkle) - App update framework for Windows, inspired by Sparkle for macOS
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [google/cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime.
@@ -558,6 +559,7 @@
 
 ## Lua 
 
+- [psliwka/termcolors.nvim](https://github.com/psliwka/termcolors.nvim) - generate colors for your terminal from any Neovim colorscheme 🌈
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
 - [VonHeikemen/searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner?
@@ -1091,7 +1093,7 @@
 - [uraimo/SwiftyLISP](https://github.com/uraimo/SwiftyLISP) - A minimal LISP implemented in Swift
 - [vedantapps/MultiScreenApp](https://github.com/vedantapps/MultiScreenApp) - An app that uses Multipeer Connectivity to play a video across 6 different iOS screens with an additional phone acting as a Main/Control phone.
 - [davedelong/AOC](https://github.com/davedelong/AOC) - Advent of Code
-- [kean/Get](https://github.com/kean/Get) - A Swift web API client built using async/await
+- [kean/Get](https://github.com/kean/Get) - Web API client built using async/await
 - [ivanvorobei/SPConfetti](https://github.com/ivanvorobei/SPConfetti) - Show the confetti only when the user is having fun, and if not having fun, don't show it.
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Wrapper around Swift types that can be modified concurrently by different users, and merged again automatically (a CRDT).
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
