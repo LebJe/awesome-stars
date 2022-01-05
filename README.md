@@ -209,6 +209,7 @@
 
 ## C++ 
 
+- [neo3587/regedit](https://github.com/neo3587/regedit) - Windows register editor for C++
 - [vslavik/winsparkle](https://github.com/vslavik/winsparkle) - App update framework for Windows, inspired by Sparkle for macOS
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
@@ -1074,6 +1075,8 @@
 
 ## Swift 
 
+- [friedrichweise/wechsel](https://github.com/friedrichweise/wechsel) - use your keyboard to manage bluetooth connections on macOS
+- [sindresorhus/LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [compnerd/swift-win32](https://github.com/compnerd/swift-win32) - A Windows application framework for Swift
 - [philipturner/swift-colab](https://github.com/philipturner/swift-colab) - Sideloading Swift on Google Colab, post-mortem Swift for TensorFlow
@@ -1172,7 +1175,7 @@
 - [pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump) - A collection of tools for debugging, diffing, and testing your application's data structures.
 - [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
 - [ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.
-- [Apodini/ApodiniMigrator](https://github.com/Apodini/ApodiniMigrator) - 
+- [Apodini/ApodiniMigrator](https://github.com/Apodini/ApodiniMigrator) - Automated, machine-readable Migration Guides for Apodini Web Services.
 - [CLILogger/CLILogger](https://github.com/CLILogger/CLILogger) - Send the plain log to terminal with your preferred format and colorful style.
 - [stevapple/package-syntax-parser](https://github.com/stevapple/package-syntax-parser) - 
 - [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
@@ -1480,6 +1483,7 @@
 
 ## TypeScript 
 
+- [fappelman/swift-add-documentation](https://github.com/fappelman/swift-add-documentation) - VSC extension that adds swift documentation
 - [fannheyward/coc-sql](https://github.com/fannheyward/coc-sql) - SQL extension for coc.nvim
 - [swift-server/vscode-swift](https://github.com/swift-server/vscode-swift) - VSCode Extension for Swift
 - [teal-language/vscode-teal](https://github.com/teal-language/vscode-teal) - Teal language support for Visual Studio Code
