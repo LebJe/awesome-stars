@@ -707,6 +707,7 @@
 
 ## Others 
 
+- [swift-server/guides](https://github.com/swift-server/guides) - Guides for building, debugging and deploying Swift Server applications
 - [vshymanskyy/awesome-wasm-tools](https://github.com/vshymanskyy/awesome-wasm-tools) - 😎 A curated list of awesome, language-agnostic WebAssembly tools
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -1084,6 +1085,7 @@
 
 ## Swift 
 
+- [Saelyria/Artemis](https://github.com/Saelyria/Artemis) - Write GraphQL queries like SwiftUI views - no strings, no dictionaries.
 - [friedrichweise/wechsel](https://github.com/friedrichweise/wechsel) - use your keyboard to manage bluetooth connections on macOS
 - [sindresorhus/LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
