@@ -211,6 +211,8 @@
 
 ## C++ 
 
+- [DimaRU/qlift](https://github.com/DimaRU/qlift) - Swift library to use Qt
+- [Longhanks/qlift](https://github.com/Longhanks/qlift) - Swift library to use Qt
 - [GiovanniDicanio/WinReg](https://github.com/GiovanniDicanio/WinReg) - Convenient high-level C++ wrapper around the Windows Registry API
 - [spiderpigpig/regedit](https://github.com/spiderpigpig/regedit) - Windows register editor for C++
 - [neo3587/regedit](https://github.com/neo3587/regedit) - Windows register editor for C++
@@ -681,6 +683,8 @@
 
 ## Objective-C 
 
+- [tanin47/tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
+- [packagesdev/packages](https://github.com/packagesdev/packages) - Integrated Packaging Environment for OS X
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [kevingessner/FunctionFlip](https://github.com/kevingessner/FunctionFlip) - Learn more (and get binaries) at http://kevingessner.com/software/functionflip/
 - [gitx/gitx](https://github.com/gitx/gitx) - The best fork of the best lightweight, visual git client for macOS. Current development focus is on modernizing, bug fixing, and removing legacy git command line usage in favour of libgit2 and objective-git.
@@ -1085,6 +1089,10 @@
 
 ## Swift 
 
+- [llvm-swift/LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - A Swift wrapper for the LLVM C API (version 11.0)
+- [stackotter/swift-bundler](https://github.com/stackotter/swift-bundler) - Create macOS apps with Swift packages instead of Xcode projects
+- [stackotter/delta-client](https://github.com/stackotter/delta-client) - An open source Minecraft Java Edition client built for speed.
+- [Longhanks/swiftmine](https://github.com/Longhanks/swiftmine) - Example using Qlift to consume Qt APIs from Swift
 - [Saelyria/Artemis](https://github.com/Saelyria/Artemis) - Write GraphQL queries like SwiftUI views - no strings, no dictionaries.
 - [friedrichweise/wechsel](https://github.com/friedrichweise/wechsel) - use your keyboard to manage bluetooth connections on macOS
 - [sindresorhus/LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds
@@ -1125,7 +1133,7 @@
 - [twostraws/Brisk](https://github.com/twostraws/Brisk) - A proof of concept scripting library for Swift
 - [ChimeHQ/SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift wrappers for the tree-sitter incremental parsing system
 - [GEOSwift/GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geometry Engine.
-- [akkyie/WAKit](https://github.com/akkyie/WAKit) - WebAssembly Runtime written in Swift.
+- [swiftwasm/WAKit](https://github.com/swiftwasm/WAKit) - WebAssembly Runtime written in Swift
 - [Apodini/webidl2swift](https://github.com/Apodini/webidl2swift) - 
 - [JamitLabs/Accio](https://github.com/JamitLabs/Accio) - A dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
 - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more.
