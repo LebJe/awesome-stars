@@ -211,6 +211,7 @@
 
 ## C++ 
 
+- [michaeleisel/zld](https://github.com/michaeleisel/zld) - A faster version of Apple's linker
 - [DimaRU/qlift](https://github.com/DimaRU/qlift) - Swift library to use Qt
 - [Longhanks/qlift](https://github.com/Longhanks/qlift) - Swift library to use Qt
 - [GiovanniDicanio/WinReg](https://github.com/GiovanniDicanio/WinReg) - Convenient high-level C++ wrapper around the Windows Registry API
@@ -607,7 +608,7 @@
 - [grafi-tt/lunajson](https://github.com/grafi-tt/lunajson) - A strict and fast JSON parser/decoder/encoder written in pure Lua.
 - [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua
 - [jiyinyiyong/json-lua](https://github.com/jiyinyiyong/json-lua) - JSON encoder/decoder
-- [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One Dark Theme for Neovim &gt;= 0.5.0 written in lua based on Atom's One Dark UI Theme. Additionally, it comes with 5 color variant styles
+- [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One Dark and Light Theme for Neovim &gt;= 0.5.0 written in lua based on Atom's One Dark UI and One Light UI Theme. Additionally, it comes with 5 color variant styles
 - [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - Lua Language Server coded by Lua
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [xiyaowong/coc-lightbulb](https://github.com/xiyaowong/coc-lightbulb) - VSCode 💡 for coc.nvim
