@@ -211,6 +211,7 @@
 
 ## C++ 
 
+- [360Controller/360Controller](https://github.com/360Controller/360Controller) - TattieBogle Xbox 360 Driver (with improvements)
 - [michaeleisel/zld](https://github.com/michaeleisel/zld) - A faster version of Apple's linker
 - [DimaRU/qlift](https://github.com/DimaRU/qlift) - Swift library to use Qt
 - [Longhanks/qlift](https://github.com/Longhanks/qlift) - Swift library to use Qt
@@ -359,6 +360,7 @@
 
 ## Go 
 
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. zoro 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. 内网穿透.
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -568,6 +570,7 @@
 
 ## Lua 
 
+- [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) - Virtual text context for neovim treesitter
 - [psliwka/termcolors.nvim](https://github.com/psliwka/termcolors.nvim) - generate colors for your terminal from any Neovim colorscheme 🌈
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
@@ -608,7 +611,7 @@
 - [grafi-tt/lunajson](https://github.com/grafi-tt/lunajson) - A strict and fast JSON parser/decoder/encoder written in pure Lua.
 - [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua
 - [jiyinyiyong/json-lua](https://github.com/jiyinyiyong/json-lua) - JSON encoder/decoder
-- [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One Dark and Light Theme for Neovim &gt;= 0.5.0 written in lua based on Atom's One Dark UI and One Light UI Theme. Additionally, it comes with 5 color variant styles
+- [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles
 - [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - Lua Language Server coded by Lua
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
 - [xiyaowong/coc-lightbulb](https://github.com/xiyaowong/coc-lightbulb) - VSCode 💡 for coc.nvim
@@ -712,6 +715,7 @@
 
 ## Others 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [swift-server/guides](https://github.com/swift-server/guides) - Guides for building, debugging and deploying Swift Server applications
 - [vshymanskyy/awesome-wasm-tools](https://github.com/vshymanskyy/awesome-wasm-tools) - 😎 A curated list of awesome, language-agnostic WebAssembly tools
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
@@ -910,6 +914,8 @@
 
 ## Rust 
 
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [georust/gdal](https://github.com/georust/gdal) - Rust bindings for GDAL
 - [ordian/toml_edit](https://github.com/ordian/toml_edit) - Yet another format-preserving TOML parser
 - [kateinoigakukun/wasminspect](https://github.com/kateinoigakukun/wasminspect) - An interactive debugger for WebAssembly
