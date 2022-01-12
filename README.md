@@ -234,6 +234,7 @@
 - [0ldsk00l/nestopia](https://github.com/0ldsk00l/nestopia) - Cross-platform Nestopia emulator core with a GUI
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
+- [cpp-best-practices/cpp_starter_project](https://github.com/cpp-best-practices/cpp_starter_project) - A template CMake project to get you started with C++ and tooling
 - [r-darwish/kilopp](https://github.com/r-darwish/kilopp) - The Kilo editor in modern C++
 - [GEOSwift/geos](https://github.com/GEOSwift/geos) - GEOS packaging for SPM, CocoaPods, and Carthage
 - [p-ranav/structopt](https://github.com/p-ranav/structopt) - Parse command line arguments by defining a struct
@@ -313,7 +314,6 @@
 
 ## CMake 
 
-- [cpp-best-practices/cpp_starter_project](https://github.com/cpp-best-practices/cpp_starter_project) - A template CMake project to get you started with C++ and tooling
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 
@@ -562,6 +562,7 @@
 
 ## Kotlin 
 
+- [one-dark/jetbrains-one-dark-theme](https://github.com/one-dark/jetbrains-one-dark-theme) - One Dark theme for JetBrains.
 - [codymikol/git-down](https://github.com/codymikol/git-down) - A rewrite of the popular project GitUp that works in Linux, Mac, and Windows.
 - [msink/kotlin-libui](https://github.com/msink/kotlin-libui) - Kotlin/Native interop to libui: a portable GUI library
 - [fwcd/kotlin-debug-adapter](https://github.com/fwcd/kotlin-debug-adapter) - Kotlin/JVM debugging for any editor/IDE using the Debug Adapter Protocol
@@ -958,7 +959,7 @@
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [mcobzarenco/zee](https://github.com/mcobzarenco/zee) - A modern text editor for the terminal written in Rust
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a syntax-aware diff 🟥🟩
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
@@ -1101,6 +1102,8 @@
 
 ## Swift 
 
+- [attaswift/BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic in pure Swift
+- [rhummelmose/BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE
 - [llvm-swift/LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - A Swift wrapper for the LLVM C API (version 11.0)
 - [stackotter/swift-bundler](https://github.com/stackotter/swift-bundler) - Create macOS apps with Swift packages instead of Xcode projects
 - [stackotter/delta-client](https://github.com/stackotter/delta-client) - An open source Minecraft Java Edition client built for speed.
