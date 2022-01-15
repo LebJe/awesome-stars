@@ -211,6 +211,7 @@
 
 ## C++ 
 
+- [nextgis-borsch/lib_opencad](https://github.com/nextgis-borsch/lib_opencad) - OpenSource library under X11/MIT license for everyday use. Under development, but some of basic functionality is already available.
 - [360Controller/360Controller](https://github.com/360Controller/360Controller) - TattieBogle Xbox 360 Driver (with improvements)
 - [michaeleisel/zld](https://github.com/michaeleisel/zld) - A faster version of Apple's linker
 - [DimaRU/qlift](https://github.com/DimaRU/qlift) - Swift library to use Qt
@@ -222,7 +223,7 @@
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [google/cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime.
-- [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform GUI Library - Report issues here: https://trac.wxwidgets.org/
+- [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
@@ -1543,7 +1544,7 @@
 - [one-dark/vscode-one-dark-theme](https://github.com/one-dark/vscode-one-dark-theme) - One Dark theme for VS Code.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [microsoft/vscode-anycode](https://github.com/microsoft/vscode-anycode) - 
-- [alex-pinkus/experimental-tree-sitter-swift](https://github.com/alex-pinkus/experimental-tree-sitter-swift) - An experimental tree-sitter grammar for the Swift programming language.
+- [alex-pinkus/tree-sitter-swift](https://github.com/alex-pinkus/tree-sitter-swift) - An experimental tree-sitter grammar for the Swift programming language.
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [robb-j/nova-xml](https://github.com/robb-j/nova-xml) - Adds XML linting, schema support and formatting to Nova
 - [wasm-lsp/vscode-wasm](https://github.com/wasm-lsp/vscode-wasm) - Visual Studio Code client for the WebAssembly language server
