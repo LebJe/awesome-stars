@@ -211,6 +211,8 @@
 
 ## C++ 
 
+- [auriamg/macdylibbundler](https://github.com/auriamg/macdylibbundler) - Utility to ease bundling libraries into executables for OSX
+- [qt/qtbase](https://github.com/qt/qtbase) - Qt Base (Core, Gui, Widgets, Network, ...)
 - [nextgis-borsch/lib_opencad](https://github.com/nextgis-borsch/lib_opencad) - OpenSource library under X11/MIT license for everyday use. Under development, but some of basic functionality is already available.
 - [360Controller/360Controller](https://github.com/360Controller/360Controller) - TattieBogle Xbox 360 Driver (with improvements)
 - [michaeleisel/zld](https://github.com/michaeleisel/zld) - A faster version of Apple's linker
@@ -1107,6 +1109,7 @@
 
 ## Swift 
 
+- [swiftui-library/hstack-snap-to-scroll](https://github.com/swiftui-library/hstack-snap-to-scroll) - Easy-to-use HStack that snaps to elements on scroll.
 - [attaswift/BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic in pure Swift
 - [rhummelmose/BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE
 - [llvm-swift/LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - A Swift wrapper for the LLVM C API (version 11.0)
