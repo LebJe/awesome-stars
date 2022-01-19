@@ -71,6 +71,8 @@
 
 ## C 
 
+- [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
+- [jdah/minecraft-again](https://github.com/jdah/minecraft-again) - yeah I made it again
 - [mitchellh/tree-sitter-proto](https://github.com/mitchellh/tree-sitter-proto) - A tree-sitter grammar for protocol buffer files (proto3).
 - [nih-at/libzip](https://github.com/nih-at/libzip) - A C library for reading, creating, and modifying zip archives.
 - [Automotive-Swift/Swift-SocketCAN](https://github.com/Automotive-Swift/Swift-SocketCAN) - Access the Linux SocketCAN API via Swift
