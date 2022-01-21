@@ -645,7 +645,7 @@
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Create Neovim `:map`pings in Lua with ease!
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions
-- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📍 A Neovim plugin that displays interactive vertical scrollbars.
+- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars.
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github theme for Neovim, kitty, iTerm, Konsole, tmux and Alacritty written in Lua
@@ -1116,6 +1116,7 @@
 
 ## Swift 
 
+- [apple/swift-docc-plugin](https://github.com/apple/swift-docc-plugin) - Swift Package Manager command plugin for Swift-DocC
 - [valentinradu/Helm](https://github.com/valentinradu/Helm) - A graph-based SwiftUI router
 - [dduan/Markra](https://github.com/dduan/Markra) - An open-source Markdown-to-JIRA syntax editor written in SwiftUI for macOS
 - [swiftui-library/hstack-snap-to-scroll](https://github.com/swiftui-library/hstack-snap-to-scroll) - Easy-to-use HStack that snaps to elements on scroll.
