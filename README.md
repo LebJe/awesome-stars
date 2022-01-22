@@ -365,6 +365,7 @@
 
 ## Go 
 
+- [airbusgeo/godal](https://github.com/airbusgeo/godal) - golang wrapper for github.com/OSGEO/gdal
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -931,6 +932,7 @@
 
 ## Rust 
 
+- [georust/gpx](https://github.com/georust/gpx) - Rust read/write support for GPS Exchange Format (GPX)
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
@@ -1292,7 +1294,7 @@
 - [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
 - [reitermarkus/DDC.swift](https://github.com/reitermarkus/DDC.swift) - Display Data Channel (DDC) and Extended Display Identification Data (EDID) API for Swift
 - [socketio/socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - 
-- [witekbobrowski/EPUBKit](https://github.com/witekbobrowski/EPUBKit) - 📚 A simple Swift library for parsing EPUB documents
+- [witekbobrowski/EPUBKit](https://github.com/witekbobrowski/EPUBKit) - 📚 Simple EPUB Parser in Swift
 - [Decybel07/L10n-swift](https://github.com/Decybel07/L10n-swift) - Localization of the application with ability to change language "on the fly" and support for plural form in any language.
 - [JosephDuffy/VaporDocC](https://github.com/JosephDuffy/VaporDocC) - Vapor middleware that serves a DocC archive
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
