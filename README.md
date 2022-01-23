@@ -506,6 +506,7 @@
 - [GwynethLlewelyn/Go.novaextension](https://github.com/GwynethLlewelyn/Go.novaextension) - A quick & dirty Go language template for the Panic Nova editor
 - [slackhq/tree-sitter-hack](https://github.com/slackhq/tree-sitter-hack) - Hack grammar for tree-sitter
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
+- [alex-pinkus/tree-sitter-swift](https://github.com/alex-pinkus/tree-sitter-swift) - A tree-sitter grammar for the Swift programming language.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [QthCN/tree-sitter-swift](https://github.com/QthCN/tree-sitter-swift) - Swift grammar for tree-sitter
 - [miloyip/nativejson-benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
@@ -1118,6 +1119,7 @@
 
 ## Swift 
 
+- [swiftui-library/action-button](https://github.com/swiftui-library/action-button) - 
 - [apple/swift-docc-plugin](https://github.com/apple/swift-docc-plugin) - Swift Package Manager command plugin for Swift-DocC
 - [valentinradu/Helm](https://github.com/valentinradu/Helm) - A graph-based SwiftUI router
 - [dduan/Markra](https://github.com/dduan/Markra) - An open-source Markdown-to-JIRA syntax editor written in SwiftUI for macOS
@@ -1537,6 +1539,7 @@
 
 ## TypeScript 
 
+- [iamcco/coc-vimlsp](https://github.com/iamcco/coc-vimlsp) - viml language server
 - [fappelman/swift-add-documentation](https://github.com/fappelman/swift-add-documentation) - VSC extension that adds swift documentation
 - [fannheyward/coc-sql](https://github.com/fannheyward/coc-sql) - SQL extension for coc.nvim
 - [swift-server/vscode-swift](https://github.com/swift-server/vscode-swift) - VSCode Extension for Swift
@@ -1559,7 +1562,6 @@
 - [one-dark/vscode-one-dark-theme](https://github.com/one-dark/vscode-one-dark-theme) - One Dark theme for VS Code.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [microsoft/vscode-anycode](https://github.com/microsoft/vscode-anycode) - 
-- [alex-pinkus/tree-sitter-swift](https://github.com/alex-pinkus/tree-sitter-swift) - A tree-sitter grammar for the Swift programming language.
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [robb-j/nova-xml](https://github.com/robb-j/nova-xml) - Adds XML linting, schema support and formatting to Nova
 - [wasm-lsp/vscode-wasm](https://github.com/wasm-lsp/vscode-wasm) - Visual Studio Code client for the WebAssembly language server
