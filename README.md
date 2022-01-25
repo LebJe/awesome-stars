@@ -213,12 +213,12 @@
 
 ## C++ 
 
+- [DimaRU/qlift](https://github.com/DimaRU/qlift) - Swift library to use Qt
 - [auriamg/macdylibbundler](https://github.com/auriamg/macdylibbundler) - Utility to ease bundling libraries into executables for OSX
 - [qt/qtbase](https://github.com/qt/qtbase) - Qt Base (Core, Gui, Widgets, Network, ...)
 - [nextgis-borsch/lib_opencad](https://github.com/nextgis-borsch/lib_opencad) - OpenSource library under X11/MIT license for everyday use. Under development, but some of basic functionality is already available.
 - [360Controller/360Controller](https://github.com/360Controller/360Controller) - TattieBogle Xbox 360 Driver (with improvements)
 - [michaeleisel/zld](https://github.com/michaeleisel/zld) - A faster version of Apple's linker
-- [DimaRU/qlift](https://github.com/DimaRU/qlift) - Swift library to use Qt
 - [Longhanks/qlift](https://github.com/Longhanks/qlift) - Swift library to use Qt
 - [GiovanniDicanio/WinReg](https://github.com/GiovanniDicanio/WinReg) - Convenient high-level C++ wrapper around the Windows Registry API
 - [spiderpigpig/regedit](https://github.com/spiderpigpig/regedit) - Windows register editor for C++
