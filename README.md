@@ -464,6 +464,7 @@
 
 ## Haskell 
 
+- [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
 - [typesanitizer/ozil](https://github.com/typesanitizer/ozil) - Browsing man pages and help pages with zero friction.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
@@ -1121,6 +1122,7 @@
 
 ## Swift 
 
+- [nicklockwood/ShapeScript](https://github.com/nicklockwood/ShapeScript) - Source code for the ShapeScript 3D modeling app for macOS
 - [swiftui-library/action-button](https://github.com/swiftui-library/action-button) - 
 - [apple/swift-docc-plugin](https://github.com/apple/swift-docc-plugin) - Swift Package Manager command plugin for Swift-DocC
 - [valentinradu/Helm](https://github.com/valentinradu/Helm) - A graph-based SwiftUI router
