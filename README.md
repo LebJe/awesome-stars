@@ -59,6 +59,7 @@
   - [VimL](#viml)
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
+  - [Zig](#zig)
 
 ## Assembly 
 
@@ -197,6 +198,7 @@
 
 ## C# # 
 
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) - A tool to view and extract the contents of an Windows Installer (.msi) file.
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 - [migueldeicaza/XtermSharp](https://github.com/migueldeicaza/XtermSharp) - XTerm emulator as a .NET library
@@ -819,6 +821,7 @@
 
 ## Python 
 
+- [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [clangd/clangd](https://github.com/clangd/clangd) - clangd language server
 - [sdispater/tomlkit](https://github.com/sdispater/tomlkit) - Style-preserving TOML library for Python
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
@@ -935,6 +938,7 @@
 
 ## Rust 
 
+- [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
 - [georust/gpx](https://github.com/georust/gpx) - Rust read/write support for GPS Exchange Format (GPX)
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
@@ -1004,7 +1008,7 @@
 - [zonyitoo/rust-ini](https://github.com/zonyitoo/rust-ini) - INI file parser in Rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [edg-l/treelight](https://github.com/edg-l/treelight) - A syntax highlighter for the web using tree-sitter.
 - [vi/timeago](https://github.com/vi/timeago) - In Rust, format Duration into a string like "1 hour ago" or "01hou".
@@ -1688,6 +1692,10 @@
 
 - [WebAssembly/spec](https://github.com/WebAssembly/spec) - WebAssembly specification, reference interpreter, and test suite.
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly
+
+## Zig 
+
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
