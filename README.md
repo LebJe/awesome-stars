@@ -217,6 +217,7 @@
 
 ## C++ 
 
+- [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze #includes in C and C++ source files
 - [xinhuang/clang-playground](https://github.com/xinhuang/clang-playground) - This is the repository for clang-playground series.
 - [DimaRU/qlift](https://github.com/DimaRU/qlift) - Swift library to use Qt
 - [auriamg/macdylibbundler](https://github.com/auriamg/macdylibbundler) - Utility to ease bundling libraries into executables for OSX
@@ -371,6 +372,7 @@
 
 ## Go 
 
+- [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
 - [airbusgeo/godal](https://github.com/airbusgeo/godal) - golang wrapper for github.com/OSGEO/gdal
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
@@ -1090,6 +1092,7 @@
 
 ## Shell 
 
+- [josa42/coc-sh](https://github.com/josa42/coc-sh) - SH language server extension using bash-language-server for coc.nvim.
 - [wine-staging/wine-staging](https://github.com/wine-staging/wine-staging) - Staging repository for Wine - Bugtracker and Patches: https://bugs.winehq.org/ Website:
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
