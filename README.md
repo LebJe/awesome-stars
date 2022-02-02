@@ -1133,6 +1133,7 @@
 
 ## Swift 
 
+- [FelixHerrmann/swift-multipart-formdata](https://github.com/FelixHerrmann/swift-multipart-formdata) - Build multipart/form-data type-safe in Swift.
 - [apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors) - Peer-to-peer cluster implementation for Swift Distributed Actors
 - [nicklockwood/ShapeScript](https://github.com/nicklockwood/ShapeScript) - Source code for the ShapeScript 3D modeling app for macOS
 - [swiftui-library/action-button](https://github.com/swiftui-library/action-button) - 
