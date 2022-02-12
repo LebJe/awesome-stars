@@ -63,7 +63,7 @@
 
 ## Assembly 
 
-- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
+- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
 ## AutoIt 
 
@@ -217,6 +217,7 @@
 
 ## C++ 
 
+- [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze #includes in C and C++ source files
@@ -679,7 +680,7 @@
 - [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) - 
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.05 secs
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [crispgm/dotfiles](https://github.com/crispgm/dotfiles) - dotfiles to provision a new macOS with cosy dev setups
 - [RRethy/nvim-base16](https://github.com/RRethy/nvim-base16) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
@@ -946,6 +947,7 @@
 
 ## Rust 
 
+- [georust/proj](https://github.com/georust/proj) - Rust bindings for the latest stable release of PROJ
 - [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
 - [georust/gpx](https://github.com/georust/gpx) - Rust read/write support for GPS Exchange Format (GPX)
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
