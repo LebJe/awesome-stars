@@ -1137,6 +1137,7 @@
 
 ## Swift 
 
+- [DimaRU/QliftUIC](https://github.com/DimaRU/QliftUIC) - Generate Swift code from Qt5 user interfaces.
 - [guykogus/CodableGeoJSON](https://github.com/guykogus/CodableGeoJSON) - Swift implementation of GeoJSON with Codable objects
 - [kelvin13/swift-json](https://github.com/kelvin13/swift-json) - high-performance json parsing in swift
 - [FelixHerrmann/swift-multipart-formdata](https://github.com/FelixHerrmann/swift-multipart-formdata) - Build multipart/form-data type-safe in Swift.
