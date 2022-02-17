@@ -643,7 +643,7 @@
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
 - [grafi-tt/lunajson](https://github.com/grafi-tt/lunajson) - A strict and fast JSON parser/decoder/encoder written in pure Lua.
 - [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua
-- [jiyinyiyong/json-lua](https://github.com/jiyinyiyong/json-lua) - JSON encoder/decoder
+- [tiye/json-lua](https://github.com/tiye/json-lua) - JSON encoder/decoder
 - [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles
 - [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - Lua Language Server coded by Lua
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
@@ -1037,7 +1037,7 @@
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [wfxr/csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
+- [wfxr/csview](https://github.com/wfxr/csview) - 📠 Pretty cli csv viewer with cjk/emoji support.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
@@ -1141,6 +1141,7 @@
 
 ## Swift 
 
+- [pointfreeco/swift-html](https://github.com/pointfreeco/swift-html) - 🗺  A Swift DSL for type-safe, extensible, and transformable HTML documents.
 - [DimaRU/QliftUIC](https://github.com/DimaRU/QliftUIC) - Generate Swift code from Qt5 user interfaces.
 - [guykogus/CodableGeoJSON](https://github.com/guykogus/CodableGeoJSON) - Swift implementation of GeoJSON with Codable objects
 - [kelvin13/swift-json](https://github.com/kelvin13/swift-json) - high-performance json parsing in swift
