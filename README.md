@@ -1141,9 +1141,11 @@
 
 ## Swift 
 
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
+- [kieranb662/SwiftUI-Color-Kit](https://github.com/kieranb662/SwiftUI-Color-Kit) - SwiftUI Color Pickers, Gradient Pickers And All The Utilities Needed To Make Your Own!
 - [Losiowaty/PlaygroundTester](https://github.com/Losiowaty/PlaygroundTester) - PlaygroundTester enables you to easily run tests for your iPad Playgrounds 4 project.
 - [ChimeHQ/JSONRPC](https://github.com/ChimeHQ/JSONRPC) - Swift library for JSON-RPC
-- [kelvin13/entrapta](https://github.com/kelvin13/entrapta) - generate apple-style api documentation websites
+- [kelvin13/swift-biome](https://github.com/kelvin13/swift-biome) - create integrated multi-module, multi-package API reference docs
 - [ivanvorobei/SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI.
 - [pointfreeco/swift-html](https://github.com/pointfreeco/swift-html) - 🗺  A Swift DSL for type-safe, extensible, and transformable HTML documents.
 - [DimaRU/QliftUIC](https://github.com/DimaRU/QliftUIC) - Generate Swift code from Qt5 user interfaces.
