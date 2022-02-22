@@ -217,6 +217,7 @@
 
 ## C++ 
 
+- [doctest/doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues
 - [index-machines/index](https://github.com/index-machines/index) - The Index is an open source pick and place machine.
 - [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
@@ -712,6 +713,7 @@
 
 ## Nim 
 
+- [PMunch/nimlsp](https://github.com/PMunch/nimlsp) - Language Server Protocol implementation for Nim
 - [jiro4989/build-deb-action](https://github.com/jiro4989/build-deb-action) - build-deb-action builds a simple debian package.
 
 ## OCaml 
@@ -1580,7 +1582,7 @@
 - [teal-language/vscode-teal](https://github.com/teal-language/vscode-teal) - Teal language support for Visual Studio Code
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [vincaslt/vscode-highlight-matching-tag](https://github.com/vincaslt/vscode-highlight-matching-tag) - Highlights matching opening or closing tag in  VSCode
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [kilbd/nova-rust](https://github.com/kilbd/nova-rust) - A Rust extension for the Nova text editor, using the Rust Analyzer language server.
 - [kkiyama117/coc-toml](https://github.com/kkiyama117/coc-toml) - Toml extension for coc-nvim, using taplo for lsp engine
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
