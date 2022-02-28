@@ -72,6 +72,7 @@
 
 ## C 
 
+- [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [libgit2/rugged](https://github.com/libgit2/rugged) - ruby bindings to libgit2
 - [keplerproject/luafilesystem](https://github.com/keplerproject/luafilesystem) - LuaFileSystem is a Lua library developed to complement the set of functions related to file systems offered by the standard Lua distribution.
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
