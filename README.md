@@ -754,6 +754,7 @@
 
 ## Others 
 
+- [bojan/xcode-one-dark](https://github.com/bojan/xcode-one-dark) - Atom One Dark theme for Xcode
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [swift-server/guides](https://github.com/swift-server/guides) - Guides for building, debugging and deploying Swift Server applications
