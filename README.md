@@ -797,6 +797,7 @@
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [TablePlus/TablePlus-Windows](https://github.com/TablePlus/TablePlus-Windows) - TablePlus Windows issue tracker
 - [Homebrew/discussions](https://github.com/Homebrew/discussions) - 🗣 Public open-ended discussions. Replacement for our Discourse.
+- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [pyston/pyston_v1](https://github.com/pyston/pyston_v1) - The previous version of Pyston, a faster implementation of the Python programming language.  Please use this link for the new repository:
 - [seanosullivanuk/nova-markdownclips](https://github.com/seanosullivanuk/nova-markdownclips) - Basic and Extended Markdown Syntax Clips for Nova
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
@@ -894,7 +895,6 @@
 - [Viatorus/quom](https://github.com/Viatorus/quom) - Quom generates a single file from your for C/C++ sources. This is also known as amalgamation.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
