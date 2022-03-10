@@ -1133,7 +1133,7 @@
 - [ryanmjacobs/c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
 - [readdle/swift-android-toolchain](https://github.com/readdle/swift-android-toolchain) - 
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [CSCIX65G/SwiftCrossCompilers](https://github.com/CSCIX65G/SwiftCrossCompilers) - SPM toolchain to cross compile Raspberry Pi Swift binaries on macOS
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
@@ -1150,6 +1150,9 @@
 
 ## Swift 
 
+- [robreuss/ElementalController_iOS_Sample](https://github.com/robreuss/ElementalController_iOS_Sample) - An iOS sample application for ElementalController
+- [robreuss/ElementalController_Linux_Sample](https://github.com/robreuss/ElementalController_Linux_Sample) - 
+- [robreuss/ElementalController](https://github.com/robreuss/ElementalController) - A lightweight network controller framework in Swift for iOS and Linux, with Raspberry Pi support
 - [valentinradu/Trellis](https://github.com/valentinradu/Trellis) - A zero-dependency architectural framework that helps writing clean, predictable, testable applications in Swift.
 - [Esri/arcgis-runtime-ios-async-await](https://github.com/Esri/arcgis-runtime-ios-async-await) - Async/Await wrappers around the ArcGIS Runtime SDK for iOS methods that Xcode does not automatically wrap.
 - [Esri/arcgis-runtime-ios](https://github.com/Esri/arcgis-runtime-ios) - Swift Package Manager support for ArcGIS Runtime SDK for iOS
