@@ -888,6 +888,7 @@
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [mosra/m.css](https://github.com/mosra/m.css) - A no-nonsense, no-JavaScript CSS framework, site and documentation theme for content-oriented websites
 - [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
@@ -1150,6 +1151,7 @@
 
 ## Swift 
 
+- [Bouke/NetService](https://github.com/Bouke/NetService) - Swift NetService (Bonjour / Zeroconf / mDNS) implementation for Linux
 - [robreuss/ElementalController_iOS_Sample](https://github.com/robreuss/ElementalController_iOS_Sample) - An iOS sample application for ElementalController
 - [robreuss/ElementalController_Linux_Sample](https://github.com/robreuss/ElementalController_Linux_Sample) - 
 - [robreuss/ElementalController](https://github.com/robreuss/ElementalController) - A lightweight network controller framework in Swift for iOS and Linux, with Raspberry Pi support
@@ -1644,7 +1646,6 @@
 - [neoclide/coc-git](https://github.com/neoclide/coc-git) - Git integration of coc.nvim
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [dansomething/coc-java-debug](https://github.com/dansomething/coc-java-debug) - An extension for coc.nvim to enable Java debugging via jdt.ls
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - VSCode Neovim Integration
