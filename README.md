@@ -72,6 +72,7 @@
 
 ## C 
 
+- [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [libgit2/rugged](https://github.com/libgit2/rugged) - ruby bindings to libgit2
 - [keplerproject/luafilesystem](https://github.com/keplerproject/luafilesystem) - LuaFileSystem is a Lua library developed to complement the set of functions related to file systems offered by the standard Lua distribution.
@@ -506,7 +507,7 @@
 
 ## JavaScript 
 
-- [yerovyespitia/StateofMac](https://github.com/yerovyespitia/StateofMac) - 
+- [yerovyespitia/StateofMac](https://github.com/yerovyespitia/StateofMac) - State of Mac is the easiest way to know if your favorite game runs on Apple silicon and find the best way to run that game. Also, you can collaborate with State of Mac by adding your own experience running a game on Apple silicon.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
@@ -581,7 +582,7 @@
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [dcwatson/Rust.novaextension](https://github.com/dcwatson/Rust.novaextension) - Rust support for Panic's Nova editor.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
-- [mmshivesh/Python-Nova.novaextension](https://github.com/mmshivesh/Python-Nova.novaextension) - Python Language Server (PyLS) Extension for Nova editor
+- [mmshivesh/Python-Nova.novaextension](https://github.com/mmshivesh/Python-Nova.novaextension) - Python Extension for Panic's Nova editor for macOS
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 
