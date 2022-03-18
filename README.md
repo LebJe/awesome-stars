@@ -1154,6 +1154,8 @@
 
 ## Swift 
 
+- [pointfreeco/swift-parsing](https://github.com/pointfreeco/swift-parsing) - A library for turning nebulous data into well-structured data, with a focus on composition, performance, generality, and ergonomics.
+- [GeorgeElsham/HidingViews](https://github.com/GeorgeElsham/HidingViews) - Custom ViewModifier: `.isHidden(_:)` - Easily hide Views, controlled by a boolean. https://stackoverflow.com/a/59228385/9607863
 - [Bouke/NetService](https://github.com/Bouke/NetService) - Swift NetService (Bonjour / Zeroconf / mDNS) implementation for Linux
 - [robreuss/ElementalController_iOS_Sample](https://github.com/robreuss/ElementalController_iOS_Sample) - An iOS sample application for ElementalController
 - [robreuss/ElementalController_Linux_Sample](https://github.com/robreuss/ElementalController_Linux_Sample) - 
