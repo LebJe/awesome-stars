@@ -383,6 +383,7 @@
 
 ## Go 
 
+- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
 - [airbusgeo/godal](https://github.com/airbusgeo/godal) - golang wrapper for github.com/OSGEO/gdal
@@ -507,6 +508,7 @@
 
 ## JavaScript 
 
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [yerovyespitia/StateofMac](https://github.com/yerovyespitia/StateofMac) - State of Mac is the easiest way to know if your favorite game runs on Apple silicon and find the best way to run that game. Also, you can collaborate with State of Mac by adding your own experience running a game on Apple silicon.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
