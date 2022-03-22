@@ -202,6 +202,8 @@
 
 ## C# # 
 
+- [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
+- [CircumSpector/DS4Windows](https://github.com/CircumSpector/DS4Windows) - The battle-tested industry-standard remapping tool for Windows.
 - [veler/PaZword](https://github.com/veler/PaZword) - A password manager made in UWP technology
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) - A tool to view and extract the contents of an Windows Installer (.msi) file.
@@ -844,7 +846,6 @@
 
 ## Python 
 
-- [stackotter/SwiftGtkUI](https://github.com/stackotter/SwiftGtkUI) - A cross-platform SwiftUI-like framework built on SwiftGtk.
 - [LimerBoy/Impulse](https://github.com/LimerBoy/Impulse) - :bomb: Impulse Denial-of-service ToolKit
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
@@ -1157,6 +1158,8 @@
 
 ## Swift 
 
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [stackotter/SwiftGtkUI](https://github.com/stackotter/SwiftGtkUI) - A cross-platform SwiftUI-like framework built on SwiftGtk.
 - [pointfreeco/swift-parsing](https://github.com/pointfreeco/swift-parsing) - A library for turning nebulous data into well-structured data, with a focus on composition, performance, generality, and ergonomics.
 - [GeorgeElsham/HidingViews](https://github.com/GeorgeElsham/HidingViews) - Custom ViewModifier: `.isHidden(_:)` - Easily hide Views, controlled by a boolean. https://stackoverflow.com/a/59228385/9607863
 - [Bouke/NetService](https://github.com/Bouke/NetService) - Swift NetService (Bonjour / Zeroconf / mDNS) implementation for Linux
