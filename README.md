@@ -759,6 +759,7 @@
 
 ## Others 
 
+- [carson-katri/awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) - A list of cool DSLs made with Swift 5.4’s @resultBuilder
 - [bojan/xcode-one-dark](https://github.com/bojan/xcode-one-dark) - Atom One Dark theme for Xcode
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -982,7 +983,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [zombodb/pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust!
+- [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
 - [japaric/xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
@@ -1158,8 +1159,10 @@
 
 ## Swift 
 
+- [robb/Swim](https://github.com/robb/Swim) - A DSL for writing HTML in Swift
+- [ilyapuchka/graphique](https://github.com/ilyapuchka/graphique) - Experimental GraphQL query builders
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [stackotter/SwiftGtkUI](https://github.com/stackotter/SwiftGtkUI) - A cross-platform SwiftUI-like framework built on SwiftGtk.
+- [stackotter/swift-cross-ui](https://github.com/stackotter/swift-cross-ui) - A cross-platform SwiftUI-like UI framework built on SwiftGtk.
 - [pointfreeco/swift-parsing](https://github.com/pointfreeco/swift-parsing) - A library for turning nebulous data into well-structured data, with a focus on composition, performance, generality, and ergonomics.
 - [GeorgeElsham/HidingViews](https://github.com/GeorgeElsham/HidingViews) - Custom ViewModifier: `.isHidden(_:)` - Easily hide Views, controlled by a boolean. https://stackoverflow.com/a/59228385/9607863
 - [Bouke/NetService](https://github.com/Bouke/NetService) - Swift NetService (Bonjour / Zeroconf / mDNS) implementation for Linux
