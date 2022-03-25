@@ -965,6 +965,7 @@
 
 ## Rust 
 
+- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
