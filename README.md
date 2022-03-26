@@ -222,6 +222,7 @@
 
 ## C++ 
 
+- [openhoangnc/taskbar-stats](https://github.com/openhoangnc/taskbar-stats) - Display live system stats on Windows's taskbar
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [doctest/doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework
@@ -1160,6 +1161,8 @@
 
 ## Swift 
 
+- [KS1019/SwiftyShell](https://github.com/KS1019/SwiftyShell) - Example implementation of shell in Swift
+- [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
 - [robb/Swim](https://github.com/robb/Swim) - A DSL for writing HTML in Swift
 - [ilyapuchka/graphique](https://github.com/ilyapuchka/graphique) - Experimental GraphQL query builders
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
