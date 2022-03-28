@@ -1173,7 +1173,7 @@
 - [robreuss/ElementalController_iOS_Sample](https://github.com/robreuss/ElementalController_iOS_Sample) - An iOS sample application for ElementalController
 - [robreuss/ElementalController_Linux_Sample](https://github.com/robreuss/ElementalController_Linux_Sample) - 
 - [robreuss/ElementalController](https://github.com/robreuss/ElementalController) - A lightweight network controller framework in Swift for iOS and Linux, with Raspberry Pi support
-- [valentinradu/Trellis](https://github.com/valentinradu/Trellis) - A zero-dependency architectural framework that helps writing clean, predictable, testable applications in Swift.
+- [valentinradu/Trellis](https://github.com/valentinradu/Trellis) - A lightweight architectural framework inspired by Redux and the microservices architecture. It helps write clean, predictable, and above all, testable applications in Swift by favoring unidirectional data flow, separation of concerns and business logic encapsulation.
 - [Esri/arcgis-runtime-ios-async-await](https://github.com/Esri/arcgis-runtime-ios-async-await) - Async/Await wrappers around the ArcGIS Runtime SDK for iOS methods that Xcode does not automatically wrap.
 - [Esri/arcgis-runtime-ios](https://github.com/Esri/arcgis-runtime-ios) - Swift Package Manager support for ArcGIS Runtime SDK for iOS
 - [neoneye/SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - iOS framework for creating forms
