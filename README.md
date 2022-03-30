@@ -222,6 +222,8 @@
 
 ## C++ 
 
+- [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
+- [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
 - [openhoangnc/taskbar-stats](https://github.com/openhoangnc/taskbar-stats) - Display live system stats on Windows's taskbar
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
@@ -386,6 +388,7 @@
 
 ## Go 
 
+- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
@@ -527,7 +530,7 @@
 - [dawidd6/action-checkout-pr](https://github.com/dawidd6/action-checkout-pr) - :gear: A GitHub Action to checkout a pull request with ability to push back
 - [m-novikov/tree-sitter-sql](https://github.com/m-novikov/tree-sitter-sql) - SQL syntax highlighting for tree-sitter
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - convert curl commands to Python, JavaScript, Go, PHP, R, Dart, Java, MATLAB, Rust, Elixir and more
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - generate code from Curl commands
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [ikatyang/tree-sitter-yaml](https://github.com/ikatyang/tree-sitter-yaml) - YAML grammar for tree-sitter
 - [kishikawakatsumi/swift-compiler-discord-bot](https://github.com/kishikawakatsumi/swift-compiler-discord-bot) - 
@@ -848,6 +851,7 @@
 
 ## Python 
 
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [LimerBoy/Impulse](https://github.com/LimerBoy/Impulse) - :bomb: Impulse Denial-of-service ToolKit
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
