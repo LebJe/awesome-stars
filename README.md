@@ -530,7 +530,6 @@
 - [dawidd6/action-checkout-pr](https://github.com/dawidd6/action-checkout-pr) - :gear: A GitHub Action to checkout a pull request with ability to push back
 - [m-novikov/tree-sitter-sql](https://github.com/m-novikov/tree-sitter-sql) - SQL syntax highlighting for tree-sitter
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Turn curl commands into code
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [ikatyang/tree-sitter-yaml](https://github.com/ikatyang/tree-sitter-yaml) - YAML grammar for tree-sitter
 - [kishikawakatsumi/swift-compiler-discord-bot](https://github.com/kishikawakatsumi/swift-compiler-discord-bot) - 
@@ -776,7 +775,7 @@
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [WebAssembly/proposals](https://github.com/WebAssembly/proposals) - Tracking WebAssembly proposals
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
-- [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig
+- [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [swiftwasm/awesome-swiftwasm](https://github.com/swiftwasm/awesome-swiftwasm) - A community-driven curated list of SwiftWasm projects and content
 - [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap for learning the C++ programming language for beginners and experienced devs.
 - [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
@@ -1165,6 +1164,7 @@
 
 ## Swift 
 
+- [dduan/TOMLDeserializer](https://github.com/dduan/TOMLDeserializer) - Parse TOML files into Swift objects.
 - [KS1019/SwiftyShell](https://github.com/KS1019/SwiftyShell) - Example implementation of shell in Swift
 - [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
 - [robb/Swim](https://github.com/robb/Swim) - A DSL for writing HTML in Swift
@@ -1626,6 +1626,7 @@
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [JohnnyMorganz/stylua-action](https://github.com/JohnnyMorganz/stylua-action) - GitHub action for StyLua
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - generate code from cURL commands
 - [Esri/arcgis-rest-js](https://github.com/Esri/arcgis-rest-js) - compact, modular JavaScript wrappers for the ArcGIS REST API
 - [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
