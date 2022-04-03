@@ -1167,7 +1167,8 @@
 
 ## Swift 
 
-- [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - Swift system for working with language syntax
+- [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
+- [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - A system for highlighting, indenting, and querying syntax on macOS and iOS
 - [square/StringTemplate](https://github.com/square/StringTemplate) - Quickly and easily apply a template to a target string.
 - [dduan/TOMLDeserializer](https://github.com/dduan/TOMLDeserializer) - Parse TOML files into Swift objects.
 - [KS1019/SwiftyShell](https://github.com/KS1019/SwiftyShell) - Example implementation of shell in Swift
@@ -1618,6 +1619,7 @@
 
 ## TypeScript 
 
+- [fwal/setup-swift](https://github.com/fwal/setup-swift) - GitHub Action that setup a Swift environment
 - [iamcco/coc-vimlsp](https://github.com/iamcco/coc-vimlsp) - viml language server
 - [fappelman/swift-add-documentation](https://github.com/fappelman/swift-add-documentation) - VSC extension that adds swift documentation
 - [fannheyward/coc-sql](https://github.com/fannheyward/coc-sql) - SQL extension for coc.nvim
@@ -1653,7 +1655,7 @@
 - [voldikss/coc-cmake](https://github.com/voldikss/coc-cmake) - coc.nvim extension for cmake language
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [sgwilym/nova-deno](https://github.com/sgwilym/nova-deno) - A Deno extension for Nova.
-- [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for Yaml Files
+- [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [neoclide/coc-prettier](https://github.com/neoclide/coc-prettier) - Prettier extension for coc.nvim.
 - [fannheyward/coc-pyright](https://github.com/fannheyward/coc-pyright) - Pyright extension for coc.nvim
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
