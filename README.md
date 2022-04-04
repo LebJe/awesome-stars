@@ -202,6 +202,7 @@
 
 ## C# # 
 
+- [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
 - [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
 - [CircumSpector/DS4Windows](https://github.com/CircumSpector/DS4Windows) - The battle-tested industry-standard remapping tool for Windows.
 - [veler/PaZword](https://github.com/veler/PaZword) - A password manager made in UWP technology
@@ -972,6 +973,7 @@
 
 ## Rust 
 
+- [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
