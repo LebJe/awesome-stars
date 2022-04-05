@@ -223,6 +223,8 @@
 
 ## C++ 
 
+- [TorqueGameEngines/Torque3D](https://github.com/TorqueGameEngines/Torque3D) - 
+- [GarageGames/Torque3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames
 - [microsoft/cppwinrt](https://github.com/microsoft/cppwinrt) - C++ language projection for the Windows Runtime
 - [darlinghq/darling-dmg](https://github.com/darlinghq/darling-dmg) - FUSE module for .dmg files (containing an HFS+ filesystem)
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
@@ -1169,6 +1171,9 @@
 
 ## Swift 
 
+- [PureSwift/Socket](https://github.com/PureSwift/Socket) - Swift async/await based socket
+- [stackotter/swift-mixin](https://github.com/stackotter/swift-mixin) - An intuitive library for hooking functions in Swift.
+- [zydeco/capstone-swift](https://github.com/zydeco/capstone-swift) - Swift bindings for Capstone Engine
 - [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
 - [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - A system for highlighting, indenting, and querying syntax on macOS and iOS
 - [square/StringTemplate](https://github.com/square/StringTemplate) - Quickly and easily apply a template to a target string.
@@ -1449,7 +1454,7 @@
 - [JohnSundell/Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
 - [amzn/smoke-framework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language.
 - [amzn/smoke-aws](https://github.com/amzn/smoke-aws) - AWS services integration for the Smoke Framework
-- [kylebrowning/APNSwift](https://github.com/kylebrowning/APNSwift) - An HTTP/2 APNS library built on swift-nio
+- [swift-server-community/APNSwift](https://github.com/swift-server-community/APNSwift) - An HTTP/2 APNS library built on swift-nio
 - [johnno1962/Dynamo](https://github.com/johnno1962/Dynamo) - High Performance (nearly)100% Swift Web server supporting dynamic content.
 - [karwa/swift-url](https://github.com/karwa/swift-url) - A new URL type for Swift
 - [rhx/SwiftGtk](https://github.com/rhx/SwiftGtk) - A Swift wrapper around gtk-3.x and gtk-4.x that is largely auto-generated from gobject-introspection
