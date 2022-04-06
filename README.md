@@ -63,6 +63,7 @@
 
 ## Assembly 
 
+- [TheAlgorithms/AArch64_Assembly](https://github.com/TheAlgorithms/AArch64_Assembly) - All Algorithms implemented in AArch64 Assembly
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
 ## AutoIt 
@@ -768,6 +769,7 @@
 
 ## Others 
 
+- [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 - [carson-katri/awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) - A list of cool DSLs made with Swift 5.4’s @resultBuilder
 - [bojan/xcode-one-dark](https://github.com/bojan/xcode-one-dark) - Atom One Dark theme for Xcode
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
@@ -1130,6 +1132,7 @@
 
 ## Shell 
 
+- [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 - [josa42/coc-sh](https://github.com/josa42/coc-sh) - SH language server extension using bash-language-server for coc.nvim.
 - [wine-staging/wine-staging](https://github.com/wine-staging/wine-staging) - Staging repository for Wine - Bugtracker and Patches: https://bugs.winehq.org/ Website:
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
@@ -1171,6 +1174,7 @@
 
 ## Swift 
 
+- [alchemy-swift/alchemy](https://github.com/alchemy-swift/alchemy) - Elegant, batteries included web framework for Swift.
 - [PureSwift/Socket](https://github.com/PureSwift/Socket) - Swift async/await based socket
 - [stackotter/swift-mixin](https://github.com/stackotter/swift-mixin) - An intuitive library for hooking functions in Swift.
 - [zydeco/capstone-swift](https://github.com/zydeco/capstone-swift) - Swift bindings for Capstone Engine
@@ -1626,6 +1630,7 @@
 
 ## TypeScript 
 
+- [neovim/node-client](https://github.com/neovim/node-client) - Nvim Node.js client and plugin host
 - [fwal/setup-swift](https://github.com/fwal/setup-swift) - GitHub Action that setup a Swift environment
 - [iamcco/coc-vimlsp](https://github.com/iamcco/coc-vimlsp) - viml language server
 - [fappelman/swift-add-documentation](https://github.com/fappelman/swift-add-documentation) - VSC extension that adds swift documentation
