@@ -73,6 +73,7 @@
 
 ## C 
 
+- [openresty/lua-cjson](https://github.com/openresty/lua-cjson) - Lua CJSON is a fast JSON encoding/parsing module for Lua
 - [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [libgit2/rugged](https://github.com/libgit2/rugged) - ruby bindings to libgit2
@@ -924,7 +925,7 @@
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by qpdf
-- [MartinThoma/PyPDF2](https://github.com/MartinThoma/PyPDF2) - A utility to read and write PDFs with Python
+- [py-pdf/PyPDF2](https://github.com/py-pdf/PyPDF2) - A utility to read and write PDFs with Python
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -1175,6 +1176,7 @@
 
 ## Swift 
 
+- [stackotter/swift-css-parser](https://github.com/stackotter/swift-css-parser) - An lightweight CSS parser for parsing and creating CSS stylesheets
 - [madmachineio/MadDrivers](https://github.com/madmachineio/MadDrivers) - MadMachine drivers for sensors and other devices based on SwiftIO
 - [madmachineio/SwiftIO](https://github.com/madmachineio/SwiftIO) - A Swift framework for microcontrollers.
 - [alchemy-swift/alchemy](https://github.com/alchemy-swift/alchemy) - Elegant, batteries included web framework for Swift.
