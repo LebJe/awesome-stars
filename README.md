@@ -226,6 +226,7 @@
 
 ## C++ 
 
+- [libgeos/geos](https://github.com/libgeos/geos) - Geometry Engine, Open Source
 - [TorqueGameEngines/Torque3D](https://github.com/TorqueGameEngines/Torque3D) - 
 - [GarageGames/Torque3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames
 - [microsoft/cppwinrt](https://github.com/microsoft/cppwinrt) - C++ language projection for the Windows Runtime
@@ -349,6 +350,7 @@
 
 ## CMake 
 
+- [xpol/setup-lua](https://github.com/xpol/setup-lua) - GitHub action to setup Lua.
 - [cpp-best-practices/cpp_starter_project](https://github.com/cpp-best-practices/cpp_starter_project) - A template CMake project to get you started with C++ and tooling
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
@@ -524,6 +526,7 @@
 
 ## JavaScript 
 
+- [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [yerovyespitia/StateofMac](https://github.com/yerovyespitia/StateofMac) - State of Mac is the easiest way to know if your favorite game runs on Apple silicon and find the best way to run that game. Also, you can collaborate with State of Mac by adding your own experience running a game on Apple silicon.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -772,6 +775,7 @@
 
 ## Others 
 
+- [diyprojames/3dPrinterConfigs](https://github.com/diyprojames/3dPrinterConfigs) - My 3d printer configs
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 - [carson-katri/awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) - A list of cool DSLs made with Swift 5.4’s @resultBuilder
 - [bojan/xcode-one-dark](https://github.com/bojan/xcode-one-dark) - Atom One Dark theme for Xcode
