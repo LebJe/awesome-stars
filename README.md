@@ -775,6 +775,7 @@
 
 ## Others 
 
+- [Flawioo/Creality-Ender-3-board-v4.2.7](https://github.com/Flawioo/Creality-Ender-3-board-v4.2.7) - Marlin Firmware to get Creality v4.2.7 boards working perfectly
 - [diyprojames/3dPrinterConfigs](https://github.com/diyprojames/3dPrinterConfigs) - My 3d printer configs
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 - [carson-katri/awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) - A list of cool DSLs made with Swift 5.4’s @resultBuilder
@@ -1181,7 +1182,7 @@
 
 ## Swift 
 
-- [stackotter/swift-css-parser](https://github.com/stackotter/swift-css-parser) - An lightweight CSS parser for parsing and creating CSS stylesheets
+- [stackotter/swift-css-parser](https://github.com/stackotter/swift-css-parser) - A lightweight CSS parser for parsing and creating CSS stylesheets
 - [madmachineio/MadDrivers](https://github.com/madmachineio/MadDrivers) - MadMachine drivers for sensors and other devices based on SwiftIO
 - [madmachineio/SwiftIO](https://github.com/madmachineio/SwiftIO) - A Swift framework for microcontrollers.
 - [alchemy-swift/alchemy](https://github.com/alchemy-swift/alchemy) - Elegant, batteries included web framework for Swift.
