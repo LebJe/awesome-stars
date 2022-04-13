@@ -965,6 +965,7 @@
 
 ## Ruby 
 
+- [Homebrew/formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) - 🏎 An online formulae browser for Homebrew
 - [textmate/c.tmbundle](https://github.com/textmate/c.tmbundle) - TextMate support for C
 - [neovim/neovim-ruby](https://github.com/neovim/neovim-ruby) - Ruby support for Neovim
 - [xcpretty/xcpretty](https://github.com/xcpretty/xcpretty) - Flexible and fast xcodebuild formatter
@@ -1182,6 +1183,8 @@
 
 ## Swift 
 
+- [shareup/wasm-interpreter-apple](https://github.com/shareup/wasm-interpreter-apple) - 
+- [ChimeHQ/DebugAdapterProtocol](https://github.com/ChimeHQ/DebugAdapterProtocol) - Swift library for working with Debug Adapter Protocol (DAP)
 - [stackotter/swift-css-parser](https://github.com/stackotter/swift-css-parser) - A lightweight CSS parser for parsing and creating CSS stylesheets
 - [madmachineio/MadDrivers](https://github.com/madmachineio/MadDrivers) - MadMachine drivers for sensors and other devices based on SwiftIO
 - [madmachineio/SwiftIO](https://github.com/madmachineio/SwiftIO) - A Swift framework for microcontrollers.
@@ -1205,7 +1208,7 @@
 - [robreuss/ElementalController_iOS_Sample](https://github.com/robreuss/ElementalController_iOS_Sample) - An iOS sample application for ElementalController
 - [robreuss/ElementalController_Linux_Sample](https://github.com/robreuss/ElementalController_Linux_Sample) - 
 - [robreuss/ElementalController](https://github.com/robreuss/ElementalController) - A lightweight network controller framework in Swift for iOS and Linux, with Raspberry Pi support
-- [valentinradu/Trellis](https://github.com/valentinradu/Trellis) - A lightweight architectural framework inspired by Redux and the microservices architecture. It helps write clean, predictable, and above all, testable applications in Swift by favoring unidirectional data flow, separation of concerns and business logic encapsulation.
+- [valentinradu/Trellis](https://github.com/valentinradu/Trellis) - A lightweight, event-driven architectural framework
 - [Esri/arcgis-runtime-ios-async-await](https://github.com/Esri/arcgis-runtime-ios-async-await) - Async/Await wrappers around the ArcGIS Runtime SDK for iOS methods that Xcode does not automatically wrap.
 - [Esri/arcgis-runtime-ios](https://github.com/Esri/arcgis-runtime-ios) - Swift Package Manager support for ArcGIS Runtime SDK for iOS
 - [neoneye/SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - iOS framework for creating forms
