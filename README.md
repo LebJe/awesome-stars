@@ -1185,6 +1185,7 @@
 
 ## Swift 
 
+- [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃Create hand-drawn, sketchy, comic shape in Swift
 - [shareup/wasm-interpreter-apple](https://github.com/shareup/wasm-interpreter-apple) - 
 - [ChimeHQ/DebugAdapterProtocol](https://github.com/ChimeHQ/DebugAdapterProtocol) - Swift library for working with Debug Adapter Protocol (DAP)
 - [stackotter/swift-css-parser](https://github.com/stackotter/swift-css-parser) - A lightweight CSS parser for parsing and creating CSS stylesheets
