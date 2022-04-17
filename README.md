@@ -407,6 +407,7 @@
 - [airbusgeo/godal](https://github.com/airbusgeo/godal) - golang wrapper for github.com/OSGEO/gdal
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. zoro 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. 内网穿透.
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
@@ -531,7 +532,6 @@
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [yerovyespitia/StateofMac](https://github.com/yerovyespitia/StateofMac) - State of Mac is the easiest way to know if your favorite game runs on Apple silicon and find the best way to run that game. Also, you can collaborate with State of Mac by adding your own experience running a game on Apple silicon.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
@@ -705,7 +705,7 @@
 - [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
-- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (&gt;= 0.5)
+- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
 - [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) - 
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
@@ -1185,6 +1185,7 @@
 
 ## Swift 
 
+- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃Create hand-drawn, sketchy, comic shape in Swift
 - [shareup/wasm-interpreter-apple](https://github.com/shareup/wasm-interpreter-apple) - 
 - [ChimeHQ/DebugAdapterProtocol](https://github.com/ChimeHQ/DebugAdapterProtocol) - Swift library for working with Debug Adapter Protocol (DAP)
