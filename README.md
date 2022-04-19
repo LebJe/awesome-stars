@@ -73,6 +73,7 @@
 
 ## C 
 
+- [bedrocklinux/bedrocklinux-userland](https://github.com/bedrocklinux/bedrocklinux-userland) - This tracks development for the things such as scripts and (defaults for) config files for Bedrock Linux
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 - [openresty/lua-cjson](https://github.com/openresty/lua-cjson) - Lua CJSON is a fast JSON encoding/parsing module for Lua
 - [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
@@ -686,7 +687,7 @@
 - [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim) - Neovim/Vim color scheme inspired by Dark+ and Light+ theme in Visual Studio Code
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
 - [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall) - Provides the missing :LspInstall for nvim-lspconfig
-- [Pocco81/DAPInstall.nvim](https://github.com/Pocco81/DAPInstall.nvim) - 🦆 A NeoVim plugin for managing several debuggers for Nvim-dap
+- [Pocco81/dap-buddy.nvim](https://github.com/Pocco81/dap-buddy.nvim) - 🦆 A NeoVim plugin for managing several debuggers for Nvim-dap
 - [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) - An extension for nvim-dap, providing default configurations for python and methods to debug individual test methods or classes.
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Create Neovim `:map`pings in Lua with ease!
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
@@ -987,6 +988,7 @@
 
 ## Rust 
 
+- [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [Kampfkarren/selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
@@ -1185,6 +1187,7 @@
 
 ## Swift 
 
+- [stackotter/scute](https://github.com/stackotter/scute) - An extensible static site generation tool built with Swift.
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃Create hand-drawn, sketchy, comic shape in Swift
 - [shareup/wasm-interpreter-apple](https://github.com/shareup/wasm-interpreter-apple) - 
@@ -1342,7 +1345,7 @@
 - [CLILogger/CLILogger](https://github.com/CLILogger/CLILogger) - Send the plain log to terminal with your preferred format and colorful style.
 - [stevapple/package-syntax-parser](https://github.com/stevapple/package-syntax-parser) - 
 - [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
-- [Flinesoft/AnyLint](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of scripts & regular expressions.
+- [FlineDev/AnyLint](https://github.com/FlineDev/AnyLint) - Lint anything by combining the power of scripts & regular expressions.
 - [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [grpc/grpc-swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC.
 - [kaishin/Gifu](https://github.com/kaishin/Gifu) - High-performance animated GIF support for iOS in Swift
@@ -1351,7 +1354,7 @@
 - [Apodini/ApodiniXpenseExample](https://github.com/Apodini/ApodiniXpenseExample) - Apodini Xpense Example
 - [wickwirew/Shift](https://github.com/wickwirew/Shift) - Shift is a simple, declarative animation library for building complex view controller and view transitions in UIKit.
 - [jdfergason/swift-toml](https://github.com/jdfergason/swift-toml) - Swift package for parsing TOML documents
-- [Flinesoft/BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
+- [FlineDev/BartyCrouch](https://github.com/FlineDev/BartyCrouch) - Localization/I18n: Incrementally update/translate your Strings files from .swift, .h, .m(m), .storyboard or .xib files.
 - [swift-server/swift-service-lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting.
 - [NSHipster/swift-log-github-actions](https://github.com/NSHipster/swift-log-github-actions) - GitHub Actions workflow logging for Swift
 - [apple/swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
