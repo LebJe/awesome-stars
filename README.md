@@ -777,6 +777,7 @@
 
 ## Others 
 
+- [swift-issues-migration/swift-issues](https://github.com/swift-issues-migration/swift-issues) - 
 - [Flawioo/Creality-Ender-3-board-v4.2.7](https://github.com/Flawioo/Creality-Ender-3-board-v4.2.7) - Marlin Firmware to get Creality v4.2.7 boards working perfectly
 - [diyprojames/3dPrinterConfigs](https://github.com/diyprojames/3dPrinterConfigs) - My 3d printer configs
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
@@ -868,6 +869,7 @@
 
 ## Python 
 
+- [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [LimerBoy/Impulse](https://github.com/LimerBoy/Impulse) - :bomb: Impulse Denial-of-service ToolKit
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
@@ -1650,6 +1652,7 @@
 
 ## TypeScript 
 
+- [jurplel/install-qt-action](https://github.com/jurplel/install-qt-action) - Install Qt on your Github Actions workflows with just one simple action
 - [tediousjs/tedious](https://github.com/tediousjs/tedious) - Node TDS module for connecting to SQL Server databases.
 - [neovim/node-client](https://github.com/neovim/node-client) - Nvim Node.js client and plugin host
 - [fwal/setup-swift](https://github.com/fwal/setup-swift) - GitHub Action that setup a Swift environment
