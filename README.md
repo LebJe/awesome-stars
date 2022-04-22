@@ -777,6 +777,7 @@
 
 ## Others 
 
+- [swift-issues-migration/swift-issues-v2](https://github.com/swift-issues-migration/swift-issues-v2) - 
 - [swift-issues-migration/swift-issues](https://github.com/swift-issues-migration/swift-issues) - 
 - [Flawioo/Creality-Ender-3-board-v4.2.7](https://github.com/Flawioo/Creality-Ender-3-board-v4.2.7) - Marlin Firmware to get Creality v4.2.7 boards working perfectly
 - [diyprojames/3dPrinterConfigs](https://github.com/diyprojames/3dPrinterConfigs) - My 3d printer configs
@@ -990,6 +991,7 @@
 
 ## Rust 
 
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [Kampfkarren/selene](https://github.com/Kampfkarren/selene) - A blazing-fast modern Lua linter written in Rust
