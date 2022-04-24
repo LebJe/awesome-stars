@@ -358,6 +358,7 @@
 
 ## CSS 
 
+- [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub
 - [aalvarado/JiraDarkTheme](https://github.com/aalvarado/JiraDarkTheme) - 🌙 😎 Jira Dark Theme Usercss / Stylus
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -629,6 +630,7 @@
 
 ## Lua 
 
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for NeoVim
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) - Hlsearch Lens for Neovim
@@ -778,6 +780,8 @@
 
 ## Others 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [swift-issues-migration/swift-issues-v3](https://github.com/swift-issues-migration/swift-issues-v3) - 
 - [swift-issues-migration/swift-issues-v2](https://github.com/swift-issues-migration/swift-issues-v2) - 
 - [swift-issues-migration/swift-issues](https://github.com/swift-issues-migration/swift-issues) - 
 - [Flawioo/Creality-Ender-3-board-v4.2.7](https://github.com/Flawioo/Creality-Ender-3-board-v4.2.7) - Marlin Firmware to get Creality v4.2.7 boards working perfectly
@@ -871,6 +875,7 @@
 
 ## Python 
 
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [LimerBoy/Impulse](https://github.com/LimerBoy/Impulse) - :bomb: Impulse Denial-of-service ToolKit
@@ -992,6 +997,7 @@
 
 ## Rust 
 
+- [iceiix/stevenarella](https://github.com/iceiix/stevenarella) - Multi-protocol Minecraft-compatible client written in Rust
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
