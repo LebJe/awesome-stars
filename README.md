@@ -206,6 +206,7 @@
 
 ## C# # 
 
+- [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
 - [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
 - [CircumSpector/DS4Windows](https://github.com/CircumSpector/DS4Windows) - The battle-tested industry-standard remapping tool for Windows.
@@ -227,6 +228,7 @@
 
 ## C++ 
 
+- [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [libgeos/geos](https://github.com/libgeos/geos) - Geometry Engine, Open Source
 - [TorqueGameEngines/Torque3D](https://github.com/TorqueGameEngines/Torque3D) - 
 - [GarageGames/Torque3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames
@@ -630,6 +632,7 @@
 
 ## Lua 
 
+- [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for NeoVim
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
@@ -780,6 +783,7 @@
 
 ## Others 
 
+- [apple/swift-issues](https://github.com/apple/swift-issues) - DO NOT MODIFY ISSUES
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [swift-issues-migration/swift-issues-v3](https://github.com/swift-issues-migration/swift-issues-v3) - 
 - [swift-issues-migration/swift-issues-v2](https://github.com/swift-issues-migration/swift-issues-v2) - 
@@ -997,6 +1001,8 @@
 
 ## Rust 
 
+- [servo/font-kit](https://github.com/servo/font-kit) - A cross-platform font loading library written in Rust
+- [silvanshade/web-tree-sitter-sys](https://github.com/silvanshade/web-tree-sitter-sys) - Raw bindings to the web-tree-sitter-sys API for projects using wasm-bindgen
 - [iceiix/stevenarella](https://github.com/iceiix/stevenarella) - Multi-protocol Minecraft-compatible client written in Rust
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
@@ -1198,6 +1204,9 @@
 
 ## Swift 
 
+- [LiarPrincess/Violet](https://github.com/LiarPrincess/Violet) - Python VM written in Swift
+- [CodeEditApp/CodeEditKit](https://github.com/CodeEditApp/CodeEditKit) - CodeEditKit is an interface between CodeEdit and extensions
+- [Flowductive/easy-firebase](https://github.com/Flowductive/easy-firebase) - A Swifty solution for all things Firebase. Quickly implement Firestore and Authentication on iOS and macOS using native Swift protocols and methods.
 - [stackotter/scute](https://github.com/stackotter/scute) - An extensible static site generation tool built with Swift.
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃Create hand-drawn, sketchy, comic shape in Swift
