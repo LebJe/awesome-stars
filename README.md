@@ -632,6 +632,7 @@
 
 ## Lua 
 
+- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allows you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for NeoVim
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
@@ -783,6 +784,7 @@
 
 ## Others 
 
+- [swiftwasm/swiftwasm-book](https://github.com/swiftwasm/swiftwasm-book) - The SwiftWasm book to get you started
 - [apple/swift-issues](https://github.com/apple/swift-issues) - DO NOT MODIFY ISSUES
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [swift-issues-migration/swift-issues-v3](https://github.com/swift-issues-migration/swift-issues-v3) - 
@@ -1204,6 +1206,7 @@
 
 ## Swift 
 
+- [MillerTechnologyPeru/SmartLock](https://github.com/MillerTechnologyPeru/SmartLock) - Swift BLE Smart Lock system
 - [LiarPrincess/Violet](https://github.com/LiarPrincess/Violet) - Python VM written in Swift
 - [CodeEditApp/CodeEditKit](https://github.com/CodeEditApp/CodeEditKit) - CodeEditKit is an interface between CodeEdit and extensions
 - [Flowductive/easy-firebase](https://github.com/Flowductive/easy-firebase) - A Swifty solution for all things Firebase. Quickly implement Firestore and Authentication on iOS and macOS using native Swift protocols and methods.
