@@ -547,7 +547,6 @@
 - [fregante/setup-git-user](https://github.com/fregante/setup-git-user) - GitHub Action that sets the git user and email to enable commiting
 - [dawidd6/action-checkout-pr](https://github.com/dawidd6/action-checkout-pr) - :gear: A GitHub Action to checkout a pull request with ability to push back
 - [m-novikov/tree-sitter-sql](https://github.com/m-novikov/tree-sitter-sql) - SQL syntax highlighting for tree-sitter
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [ikatyang/tree-sitter-yaml](https://github.com/ikatyang/tree-sitter-yaml) - YAML grammar for tree-sitter
 - [kishikawakatsumi/swift-compiler-discord-bot](https://github.com/kishikawakatsumi/swift-compiler-discord-bot) - 
@@ -1206,10 +1205,11 @@
 
 ## Swift 
 
+- [twostraws/Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
 - [MillerTechnologyPeru/SmartLock](https://github.com/MillerTechnologyPeru/SmartLock) - Swift BLE Smart Lock system
 - [LiarPrincess/Violet](https://github.com/LiarPrincess/Violet) - Python VM written in Swift
 - [CodeEditApp/CodeEditKit](https://github.com/CodeEditApp/CodeEditKit) - CodeEditKit is an interface between CodeEdit and extensions
-- [Flowductive/easy-firebase](https://github.com/Flowductive/easy-firebase) - A Swifty solution for all things Firebase. Quickly implement Firestore and Authentication on iOS and macOS using native Swift protocols and methods.
+- [Flowductive/easy-firebase](https://github.com/Flowductive/easy-firebase) - 🔥 A Swifty solution for all things Firebase. Quickly implement Firestore and Authentication on iOS + macOS using Swift protocols and methods.
 - [stackotter/scute](https://github.com/stackotter/scute) - An extensible static site generation tool built with Swift.
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃Create hand-drawn, sketchy, comic shape in Swift
@@ -1285,7 +1285,7 @@
 - [uraimo/SwiftyLISP](https://github.com/uraimo/SwiftyLISP) - A minimal LISP implemented in Swift
 - [vedantapps/MultiScreenApp](https://github.com/vedantapps/MultiScreenApp) - An app that uses Multipeer Connectivity to play a video across 6 different iOS screens with an additional phone acting as a Main/Control phone.
 - [davedelong/AOC](https://github.com/davedelong/AOC) - Advent of Code
-- [CreateAPI/Get](https://github.com/CreateAPI/Get) - Web API client built using async/await
+- [kean/Get](https://github.com/kean/Get) - Web API client built using async/await
 - [ivanvorobei/SPConfetti](https://github.com/ivanvorobei/SPConfetti) - Show the confetti only when the user is having fun, and if not having fun, don't show it.
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Wrapper around Swift types that can be modified concurrently by different users, and merged again automatically (a CRDT).
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
@@ -1690,6 +1690,7 @@
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [JohnnyMorganz/stylua-action](https://github.com/JohnnyMorganz/stylua-action) - GitHub action for StyLua
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - generate code from cURL commands
 - [Esri/arcgis-rest-js](https://github.com/Esri/arcgis-rest-js) - compact, modular JavaScript wrappers for the ArcGIS REST API
 - [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
