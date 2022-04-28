@@ -73,6 +73,7 @@
 
 ## C 
 
+- [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [bedrocklinux/bedrocklinux-userland](https://github.com/bedrocklinux/bedrocklinux-userland) - This tracks development for the things such as scripts and (defaults for) config files for Bedrock Linux
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 - [openresty/lua-cjson](https://github.com/openresty/lua-cjson) - Lua CJSON is a fast JSON encoding/parsing module for Lua
@@ -206,6 +207,7 @@
 
 ## C# # 
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
 - [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
@@ -354,7 +356,7 @@
 ## CMake 
 
 - [xpol/setup-lua](https://github.com/xpol/setup-lua) - GitHub action to setup Lua.
-- [cpp-best-practices/cpp_starter_project](https://github.com/cpp-best-practices/cpp_starter_project) - A template CMake project to get you started with C++ and tooling
+- [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) - A template CMake project to get you started with C++ and tooling
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 
@@ -532,6 +534,7 @@
 
 ## JavaScript 
 
+- [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [yerovyespitia/StateofMac](https://github.com/yerovyespitia/StateofMac) - State of Mac is the easiest way to know if your favorite game runs on Apple silicon and find the best way to run that game. Also, you can collaborate with State of Mac by adding your own experience running a game on Apple silicon.
@@ -783,6 +786,7 @@
 
 ## Others 
 
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [swiftwasm/swiftwasm-book](https://github.com/swiftwasm/swiftwasm-book) - The SwiftWasm book to get you started
 - [apple/swift-issues](https://github.com/apple/swift-issues) - DO NOT MODIFY ISSUES
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
@@ -871,6 +875,7 @@
 
 ## PowerShell 
 
+- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 
@@ -1205,6 +1210,7 @@
 
 ## Swift 
 
+- [pointfreeco/swift-case-paths](https://github.com/pointfreeco/swift-case-paths) - 🧰 Case paths bring the power and ergonomics of key paths to enums!
 - [twostraws/Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
 - [MillerTechnologyPeru/SmartLock](https://github.com/MillerTechnologyPeru/SmartLock) - Swift BLE Smart Lock system
 - [LiarPrincess/Violet](https://github.com/LiarPrincess/Violet) - Python VM written in Swift
