@@ -408,7 +408,7 @@
 
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
 - [airbusgeo/godal](https://github.com/airbusgeo/godal) - golang wrapper for github.com/OSGEO/gdal
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
@@ -1216,6 +1216,7 @@
 
 ## Swift 
 
+- [kmentrobin/AppleLocalSearch](https://github.com/kmentrobin/AppleLocalSearch) - Native Swift point of interest search using MKLocalSearch, SwiftUI and Combine
 - [pointfreeco/swift-case-paths](https://github.com/pointfreeco/swift-case-paths) - 🧰 Case paths bring the power and ergonomics of key paths to enums!
 - [twostraws/Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
 - [MillerTechnologyPeru/SmartLock](https://github.com/MillerTechnologyPeru/SmartLock) - Swift BLE Smart Lock system
@@ -1704,7 +1705,7 @@
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [JohnnyMorganz/stylua-action](https://github.com/JohnnyMorganz/stylua-action) - GitHub action for StyLua
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - generate code from cURL commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
 - [Esri/arcgis-rest-js](https://github.com/Esri/arcgis-rest-js) - compact, modular JavaScript wrappers for the ArcGIS REST API
 - [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
