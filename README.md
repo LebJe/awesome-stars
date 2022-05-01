@@ -230,6 +230,7 @@
 
 ## C++ 
 
+- [teachingtechYT/Marlin](https://github.com/teachingtechYT/Marlin) - Optimized firmware for RepRap 3D printers based on the Arduino platform.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [libgeos/geos](https://github.com/libgeos/geos) - Geometry Engine, Open Source
 - [TorqueGameEngines/Torque3D](https://github.com/TorqueGameEngines/Torque3D) - 
@@ -1216,6 +1217,9 @@
 
 ## Swift 
 
+- [dankinsoid/VDFlow](https://github.com/dankinsoid/VDFlow) - 
+- [freshOS/Networking](https://github.com/freshOS/Networking) - ⚡️ Concise networking code leveraging async-await, Decodable & Generics.
+- [CreateAPI/CreateAPI](https://github.com/CreateAPI/CreateAPI) - Delightful code generator for OpenAPI specs
 - [kmentrobin/AppleLocalSearch](https://github.com/kmentrobin/AppleLocalSearch) - Native Swift point of interest search using MKLocalSearch, SwiftUI and Combine
 - [pointfreeco/swift-case-paths](https://github.com/pointfreeco/swift-case-paths) - 🧰 Case paths bring the power and ergonomics of key paths to enums!
 - [twostraws/Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
@@ -1749,7 +1753,7 @@
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [dansomething/coc-java-debug](https://github.com/dansomething/coc-java-debug) - An extension for coc.nvim to enable Java debugging via jdt.ls
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - VSCode Neovim Integration
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for Visual Studio Code using embedded Neovim
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [clangd/coc-clangd](https://github.com/clangd/coc-clangd) - clangd extension for coc.nvim
 - [surfcodes/surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
