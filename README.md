@@ -72,6 +72,8 @@
 
 ## C 
 
+- [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
+- [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
 - [ElementsProject/libwally-core](https://github.com/ElementsProject/libwally-core) - Useful primitives for wallets
 - [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
@@ -234,6 +236,10 @@
 
 ## C++ 
 
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
+- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
+- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
+- [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11
 - [Inori/GPCS4](https://github.com/Inori/GPCS4) - A work-in-progress PlayStation 4 emulator.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -1239,6 +1245,8 @@
 
 ## Swift 
 
+- [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+- [pedrommcarrasco/Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - 🍎 Screensaver inspired by Apple's Event on October 30, 2018
 - [Sjors/libwally-swift](https://github.com/Sjors/libwally-swift) - Swift wrapper for LibWally, a collection of useful primitives for cryptocurrency wallets
 - [ZeeQL/ZeeQL3](https://github.com/ZeeQL/ZeeQL3) - The ZeeQL (EOF/CoreData/AR like) Database Toolkit for Swift
 - [MillerTechnologyPeru/BluetoothExplorer](https://github.com/MillerTechnologyPeru/BluetoothExplorer) - Bluetooth Explorer iOS & Android App
