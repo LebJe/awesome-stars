@@ -503,6 +503,7 @@
 
 ## HTML 
 
+- [swiftwasm/size-tracker](https://github.com/swiftwasm/size-tracker) - Utility for tracking size of `.wasm` binaries produced by latest SwiftWasm snapshots
 - [fmtlib/fmtlib.github.io](https://github.com/fmtlib/fmtlib.github.io) - The fmt library website
 - [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
 - [OPENDAP/libdap4](https://github.com/OPENDAP/libdap4) - A new version of libdap that contains both DAP2 and DAP4 support
@@ -674,7 +675,7 @@
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [Roblox/roact](https://github.com/Roblox/roact) - A view management library for Roblox Lua similar to React
-- [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) - A Neovim plugin that evaluates code blocks inside documents
+- [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) - Neovim plugin that evaluates code blocks inside documents
 - [Olivine-Labs/busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power.
 - [teal-language/teal-language-server](https://github.com/teal-language/teal-language-server) - A language server for Teal, a typed dialect of Lua
