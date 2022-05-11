@@ -503,6 +503,7 @@
 
 ## HTML 
 
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [swiftwasm/size-tracker](https://github.com/swiftwasm/size-tracker) - Utility for tracking size of `.wasm` binaries produced by latest SwiftWasm snapshots
 - [fmtlib/fmtlib.github.io](https://github.com/fmtlib/fmtlib.github.io) - The fmt library website
 - [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
@@ -518,7 +519,6 @@
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [SwiftPackageIndex/SPI-Playgrounds-Releases](https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases) - 
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
-- [vapor/docs](https://github.com/vapor/docs) - 📖 Documentation markdown for all Vapor packages.
 
 ## Haml 
 
@@ -803,6 +803,7 @@
 
 ## Others 
 
+- [Jdsleppy/django-orm-cheatsheet](https://github.com/Jdsleppy/django-orm-cheatsheet) - A cheatsheet for the Django ORM
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [swiftwasm/swiftwasm-book](https://github.com/swiftwasm/swiftwasm-book) - The SwiftWasm book to get you started
 - [apple/swift-issues](https://github.com/apple/swift-issues) - DO NOT MODIFY ISSUES
@@ -1246,6 +1247,8 @@
 
 ## Swift 
 
+- [ChimeHQ/TextFormation](https://github.com/ChimeHQ/TextFormation) - Rules system for live typing completions
+- [bloomberg/xcdiff](https://github.com/bloomberg/xcdiff) - A tool which helps you diff xcodeproj files.
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 - [pedrommcarrasco/Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - 🍎 Screensaver inspired by Apple's Event on October 30, 2018
 - [Sjors/libwally-swift](https://github.com/Sjors/libwally-swift) - Swift wrapper for LibWally, a collection of useful primitives for cryptocurrency wallets
@@ -1699,6 +1702,7 @@
 - [vapor-community/HTMLKit](https://github.com/vapor-community/HTMLKit) - A type-safe DSL that renders dynamic HTML templates in Swift
 - [davedelong/time](https://github.com/davedelong/time) - Building a better date/time library for Swift
 - [sharplet/Regex](https://github.com/sharplet/Regex) - A delightful and expressive regular expression type for Swift.
+- [vapor/docs](https://github.com/vapor/docs) - 📖 Documentation markdown for all Vapor packages.
 - [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
 - [yeokm1/SwiftSerial](https://github.com/yeokm1/SwiftSerial) - A Swift Linux and Mac library for reading and writing to serial ports.
 - [uraimo/SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) - A Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
