@@ -420,6 +420,7 @@
 
 ## Go 
 
+- [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
@@ -550,6 +551,7 @@
 
 ## JavaScript 
 
+- [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
@@ -903,6 +905,7 @@
 
 ## Python 
 
+- [cxnder/ktool](https://github.com/cxnder/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 - [pwwang/toml-bench](https://github.com/pwwang/toml-bench) - Which toml package to use in python?
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
@@ -1026,6 +1029,7 @@
 
 ## Rust 
 
+- [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
@@ -1247,6 +1251,13 @@
 
 ## Swift 
 
+- [abertelrud/swiftpm-buildtool-plugin-examples](https://github.com/abertelrud/swiftpm-buildtool-plugin-examples) - Some examples of SwiftPM build tool plugins to go along with SE-0303 + SE-0325
+- [mxcl/PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
+- [async-plus/async-plus](https://github.com/async-plus/async-plus) - ⛓ A chainable interface for Swift's async/await.
+- [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
+- [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
+- [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - Swift AST to HTML conversion
+- [saagarjha/unxip](https://github.com/saagarjha/unxip) - A fast Xcode unarchiver
 - [ChimeHQ/TextFormation](https://github.com/ChimeHQ/TextFormation) - Rules system for live typing completions
 - [bloomberg/xcdiff](https://github.com/bloomberg/xcdiff) - A tool which helps you diff xcodeproj files.
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
@@ -1327,7 +1338,7 @@
 - [attaswift/BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic in pure Swift
 - [rhummelmose/BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE
 - [llvm-swift/LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - A Swift wrapper for the LLVM C API (version 11.0)
-- [stackotter/swift-bundler](https://github.com/stackotter/swift-bundler) - Create macOS apps with Swift packages instead of Xcode projects
+- [stackotter/swift-bundler](https://github.com/stackotter/swift-bundler) - An Xcodeproj-less tool for creating cross-platform Swift apps.
 - [stackotter/delta-client](https://github.com/stackotter/delta-client) - An open source Minecraft Java Edition client built for speed.
 - [Longhanks/swiftmine](https://github.com/Longhanks/swiftmine) - Example using Qlift to consume Qt APIs from Swift
 - [Saelyria/Artemis](https://github.com/Saelyria/Artemis) - Write GraphQL queries like SwiftUI views - no strings, no dictionaries.
