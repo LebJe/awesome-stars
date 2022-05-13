@@ -420,6 +420,7 @@
 
 ## Go 
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
@@ -1029,6 +1030,7 @@
 
 ## Rust 
 
+- [alexcrichton/toml-rs](https://github.com/alexcrichton/toml-rs) - A TOML encoding/decoding library for Rust
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
