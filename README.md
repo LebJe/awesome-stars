@@ -72,6 +72,7 @@
 
 ## C 
 
+- [MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations) - Configurations for Marlin Firmware
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
 - [ElementsProject/libwally-core](https://github.com/ElementsProject/libwally-core) - Useful primitives for wallets
@@ -816,9 +817,6 @@
 - [swiftwasm/swiftwasm-book](https://github.com/swiftwasm/swiftwasm-book) - The SwiftWasm book to get you started
 - [apple/swift-issues](https://github.com/apple/swift-issues) - DO NOT MODIFY ISSUES
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
-- [swift-issues-migration/swift-issues-v3](https://github.com/swift-issues-migration/swift-issues-v3) - 
-- [swift-issues-migration/swift-issues-v2](https://github.com/swift-issues-migration/swift-issues-v2) - 
-- [swift-issues-migration/swift-issues](https://github.com/swift-issues-migration/swift-issues) - 
 - [Flawioo/Creality-Ender-3-board-v4.2.7](https://github.com/Flawioo/Creality-Ender-3-board-v4.2.7) - Marlin Firmware to get Creality v4.2.7 boards working perfectly
 - [diyprojames/3dPrinterConfigs](https://github.com/diyprojames/3dPrinterConfigs) - My 3d printer configs
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
@@ -830,7 +828,7 @@
 - [vshymanskyy/awesome-wasm-tools](https://github.com/vshymanskyy/awesome-wasm-tools) - 😎 A curated list of awesome, language-agnostic WebAssembly tools
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [WebAssembly/proposals](https://github.com/WebAssembly/proposals) - Tracking WebAssembly proposals
