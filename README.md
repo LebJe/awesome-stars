@@ -424,6 +424,7 @@
 
 ## Go 
 
+- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -1256,6 +1257,7 @@
 
 ## Swift 
 
+- [hashemi/lc3-swift](https://github.com/hashemi/lc3-swift) - LC-3 virtual machine written in Swift
 - [tevelee/Eval](https://github.com/tevelee/Eval) - Eval is a lightweight interpreter framework written in  Swift, evaluating expressions at runtime
 - [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based content management system powered by Vapor 4.
 - [dabrahams/SwiftMarpa](https://github.com/dabrahams/SwiftMarpa) - Swift wrapper for the libMarpa parsing library
