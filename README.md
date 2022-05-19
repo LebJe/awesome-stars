@@ -786,6 +786,7 @@
 
 ## Objective-C 
 
+- [robovm/apple-ios-samples](https://github.com/robovm/apple-ios-samples) - 
 - [tanin47/tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
 - [packagesdev/packages](https://github.com/packagesdev/packages) - Integrated Packaging Environment for OS X
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
@@ -1257,6 +1258,7 @@
 
 ## Swift 
 
+- [ggoraa/LuaKit](https://github.com/ggoraa/LuaKit) - A Swift SPM framework for running and managing Lua code from Swift.
 - [ericsink/SwiftWinRT](https://github.com/ericsink/SwiftWinRT) - WinRT Bridging for Swift
 - [ABridoux/scout](https://github.com/ABridoux/scout) - Reading and writing in JSON, Plist, YAML and XML data made simple when the data format is not known at build time. Swift library and command-line tool.
 - [ABridoux/lux](https://github.com/ABridoux/lux) - A Swift library with a dedicated command-line tool to highlight plain code (e.g. for terminal output), HTML files code blocks or attributed strings (e.g. for macOS or iOS apps)
@@ -1656,7 +1658,7 @@
 - [carson-katri/swift-request](https://github.com/carson-katri/swift-request) - Declarative HTTP networking, designed for SwiftUI
 - [1024jp/GzipSwift](https://github.com/1024jp/GzipSwift) - Swift framework that enables gzip/gunzip Data using zlib
 - [Bouke/Glob](https://github.com/Bouke/Glob) - Glob for Swift 5
-- [SwiftPackageIndex/SemanticVersion](https://github.com/SwiftPackageIndex/SemanticVersion) - Represent semantic versions like "1.0.0" or "1.2.3-beta1" in Swift
+- [SwiftPackageIndex/SemanticVersion](https://github.com/SwiftPackageIndex/SemanticVersion) - Represent semantic versions like "1.0.0" or "1.2.3-beta1" (SemVer) in Swift
 - [peripheryapp/periphery](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
 - [buttaface/swift-android-sdk](https://github.com/buttaface/swift-android-sdk) - Android SDKs for Swift
 - [vapor-community/Imperial](https://github.com/vapor-community/Imperial) - Federated Authentication with OAuth providers
