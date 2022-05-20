@@ -1014,6 +1014,7 @@
 
 ## Ruby 
 
+- [ruby/typeprof](https://github.com/ruby/typeprof) - An experimental type-level Ruby interpreter for testing and understanding Ruby code
 - [Homebrew/formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) - 🏎 An online formulae browser for Homebrew
 - [textmate/c.tmbundle](https://github.com/textmate/c.tmbundle) - TextMate support for C
 - [neovim/neovim-ruby](https://github.com/neovim/neovim-ruby) - Ruby support for Neovim
