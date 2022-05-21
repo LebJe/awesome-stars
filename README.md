@@ -76,7 +76,6 @@
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
 - [ElementsProject/libwally-core](https://github.com/ElementsProject/libwally-core) - Useful primitives for wallets
-- [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [krzyzanowskim/tree-sitter-xcframework](https://github.com/krzyzanowskim/tree-sitter-xcframework) - binary build of tree-sitter for apple platforms
@@ -814,6 +813,7 @@
 
 ## Others 
 
+- [winget-run/wingetdotrun](https://github.com/winget-run/wingetdotrun) - 📦 Finding winget packages made easy 🔍
 - [Jdsleppy/django-orm-cheatsheet](https://github.com/Jdsleppy/django-orm-cheatsheet) - A cheatsheet for the Django ORM
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [swiftwasm/swiftwasm-book](https://github.com/swiftwasm/swiftwasm-book) - The SwiftWasm book to get you started
@@ -1288,6 +1288,7 @@
 - [Sjors/libwally-swift](https://github.com/Sjors/libwally-swift) - Swift wrapper for LibWally, a collection of useful primitives for cryptocurrency wallets
 - [ZeeQL/ZeeQL3](https://github.com/ZeeQL/ZeeQL3) - The ZeeQL (EOF/CoreData/AR like) Database Toolkit for Swift
 - [MillerTechnologyPeru/BluetoothExplorer](https://github.com/MillerTechnologyPeru/BluetoothExplorer) - Bluetooth Explorer iOS & Android App
+- [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [rogerluan/JSEN](https://github.com/rogerluan/JSEN) - JSEN (JSON Swift Enum Notation) is a lightweight enum representation of a JSON, written in Swift.
 - [JARMourato/Kodable](https://github.com/JARMourato/Kodable) - A supercharged extension of Codable
 - [pointfreeco/swift-url-routing](https://github.com/pointfreeco/swift-url-routing) - A bidirectional router with more type safety and less fuss.
