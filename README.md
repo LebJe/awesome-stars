@@ -72,6 +72,8 @@
 
 ## C 
 
+- [redis/hiredis](https://github.com/redis/hiredis) - Minimalistic C client for Redis &gt;= 1.2
+- [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 - [MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations) - Configurations for Marlin Firmware
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
@@ -236,6 +238,8 @@
 
 ## C++ 
 
+- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
+- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [SAP/odbc-cpp-wrapper](https://github.com/SAP/odbc-cpp-wrapper) - An object-oriented C++-wrapper of the ODBC API
 - [BeamMP/BeamMP-Server](https://github.com/BeamMP/BeamMP-Server) - 
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
@@ -309,7 +313,6 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
-- [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
 - [xpol/lua-rapidjson](https://github.com/xpol/lua-rapidjson) - A JSON module for Lua based on the very fast RapidJSON library.
 - [Rookfighter/inifile-cpp](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++.
 - [mcmtroffaes/inipp](https://github.com/mcmtroffaes/inipp) - Simple C++ ini parser.
@@ -374,6 +377,7 @@
 - [xpol/setup-lua](https://github.com/xpol/setup-lua) - GitHub action to setup Lua.
 - [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) - A template CMake project to get you started with C++ and tooling
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
+- [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 
 ## CSS 
@@ -658,6 +662,7 @@
 
 ## Lua 
 
+- [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) - A LUA implementation at attempting to bring local network multiplayer to BeamNG.drive
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allows you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
@@ -1036,6 +1041,8 @@
 
 ## Rust 
 
+- [apollographql/router](https://github.com/apollographql/router) - 🦀 Rust Graph Routing runtime for Apollo Federation 🚀
+- [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [alexcrichton/toml-rs](https://github.com/alexcrichton/toml-rs) - A TOML encoding/decoding library for Rust
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
@@ -1259,6 +1266,9 @@
 
 ## Swift 
 
+- [macadmins/nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates.
+- [alankarmisra/SwiftSignatureView](https://github.com/alankarmisra/SwiftSignatureView) - A lightweight, fast and customizable option for capturing fluid, variable-stroke-width signatures within your app.
+- [carson-katri/reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI
 - [ggoraa/LuaKit](https://github.com/ggoraa/LuaKit) - A Swift SPM framework for running and managing Lua code from Swift.
 - [ericsink/SwiftWinRT](https://github.com/ericsink/SwiftWinRT) - WinRT Bridging for Swift
 - [ABridoux/scout](https://github.com/ABridoux/scout) - Reading and writing in JSON, Plist, YAML and XML data made simple when the data format is not known at build time. Swift library and command-line tool.
