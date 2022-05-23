@@ -1054,7 +1054,7 @@
 - [mufeedvh/moonwalk](https://github.com/mufeedvh/moonwalk) - Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [coloradocolby/thokr](https://github.com/coloradocolby/thokr) - ⌨️ a sleek typing tui written in rust
+- [coloradocolby/thokr](https://github.com/coloradocolby/thokr) - ✨ sleek typing tui written in rust
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [hush-shell/hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
