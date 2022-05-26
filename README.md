@@ -54,7 +54,6 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [V](#v)
-- [Vim Snippet](#vim-snippet)
 - [Vim script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
@@ -1339,7 +1338,7 @@
 - [stackotter/swift-mixin](https://github.com/stackotter/swift-mixin) - An intuitive library for hooking functions in Swift.
 - [zydeco/capstone-swift](https://github.com/zydeco/capstone-swift) - Swift bindings for Capstone Engine
 - [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
-- [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - A system for highlighting, indenting, and querying syntax on macOS and iOS
+- [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - Swift library for highlighting, indenting, and querying language syntax
 - [square/StringTemplate](https://github.com/square/StringTemplate) - Quickly and easily apply a template to a target string.
 - [dduan/TOMLDeserializer](https://github.com/dduan/TOMLDeserializer) - Parse TOML files into Swift objects.
 - [KS1019/SwiftyShell](https://github.com/KS1019/SwiftyShell) - Example implementation of shell in Swift
@@ -1862,6 +1861,7 @@
 - [weirongxu/coc-explorer](https://github.com/weirongxu/coc-explorer) - 📁 Explorer for coc.nvim
 - [fannheyward/coc-marketplace](https://github.com/fannheyward/coc-marketplace) - coc.nvim extensions marketplace
 - [josa42/coc-go](https://github.com/josa42/coc-go) - Go language server extension using gopls for coc.nvim.
+- [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets) - Snippets solution for coc.nvim
 - [neoclide/coc-solargraph](https://github.com/neoclide/coc-solargraph) - Solargraph extension for coc.nvim
 - [neoclide/coc-html](https://github.com/neoclide/coc-html) - Html language server extension for coc.nvim.
 - [neoclide/coc-json](https://github.com/neoclide/coc-json) - Json language extension for coc.nvim
@@ -1878,10 +1878,6 @@
 
 - [vlang/ui](https://github.com/vlang/ui) - Cross-platform UI library written in V
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-
-## Vim Snippet 
-
-- [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets) - Snippets solution for coc.nvim
 
 ## Vim script 
 
