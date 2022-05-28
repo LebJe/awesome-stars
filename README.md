@@ -1272,6 +1272,7 @@
 
 ## Swift 
 
+- [simonbs/Prettier](https://github.com/simonbs/Prettier) - ✨ Wrapper for the Prettier code formatter written in Swift
 - [macadmins/nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates.
 - [alankarmisra/SwiftSignatureView](https://github.com/alankarmisra/SwiftSignatureView) - A lightweight, fast and customizable option for capturing fluid, variable-stroke-width signatures within your app.
 - [carson-katri/reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI
@@ -1338,7 +1339,7 @@
 - [stackotter/swift-mixin](https://github.com/stackotter/swift-mixin) - An intuitive library for hooking functions in Swift.
 - [zydeco/capstone-swift](https://github.com/zydeco/capstone-swift) - Swift bindings for Capstone Engine
 - [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
-- [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - Swift library for highlighting, indenting, and querying language syntax
+- [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - Swift library for highlighting, indenting, and querying structured syntax
 - [square/StringTemplate](https://github.com/square/StringTemplate) - Quickly and easily apply a template to a target string.
 - [dduan/TOMLDeserializer](https://github.com/dduan/TOMLDeserializer) - Parse TOML files into Swift objects.
 - [KS1019/SwiftyShell](https://github.com/KS1019/SwiftyShell) - Example implementation of shell in Swift
