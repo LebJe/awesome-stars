@@ -566,6 +566,7 @@
 
 ## JavaScript 
 
+- [seanmiddleditch/gha-setup-vsdevenv](https://github.com/seanmiddleditch/gha-setup-vsdevenv) - GitHub Action to setup the VS dev environment for the job
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
@@ -672,7 +673,7 @@
 - [adam10603/BeamNG-Arcade-Steering](https://github.com/adam10603/BeamNG-Arcade-Steering) - Overhauled version of BeamNG.drive's steering input system for gamepad and keyboard.
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) - A LUA implementation at attempting to bring local network multiplayer to BeamNG.drive
-- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allows you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
+- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for NeoVim
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager for Neovim which lets you edit your filesystem like you edit text
@@ -1054,6 +1055,7 @@
 
 ## Rust 
 
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
 - [apollographql/router](https://github.com/apollographql/router) - 🦀 Rust Graph Routing runtime for Apollo Federation 🚀
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
@@ -1280,6 +1282,7 @@
 
 ## Swift 
 
+- [SwiftPackageIndex/SwiftPackageIndex-Blog](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Blog) - The Swift Package Index Blog.
 - [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
 - [simonbs/Prettier](https://github.com/simonbs/Prettier) - ✨ Wrapper for the Prettier code formatter written in Swift
 - [macadmins/nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates.
