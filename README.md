@@ -1055,6 +1055,7 @@
 
 ## Rust 
 
+- [Freaky/Compactor](https://github.com/Freaky/Compactor) - A user interface for Windows 10 filesystem compression
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
 - [apollographql/router](https://github.com/apollographql/router) - 🦀 Rust Graph Routing runtime for Apollo Federation 🚀
@@ -1282,6 +1283,7 @@
 
 ## Swift 
 
+- [CodeEditApp/CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) - The Editor Text View for CodeEdit
 - [SwiftPackageIndex/SwiftPackageIndex-Blog](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Blog) - The Swift Package Index Blog.
 - [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
 - [simonbs/Prettier](https://github.com/simonbs/Prettier) - ✨ Wrapper for the Prettier code formatter written in Swift
