@@ -242,6 +242,7 @@
 
 ## C++ 
 
+- [egor-tensin/vs-shell](https://github.com/egor-tensin/vs-shell) - GitHub action to set up the Visual Studio shell environment
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [SAP/odbc-cpp-wrapper](https://github.com/SAP/odbc-cpp-wrapper) - An object-oriented C++-wrapper of the ODBC API
@@ -292,7 +293,6 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
-- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [Neargye/semver](https://github.com/Neargye/semver) - Semantic Versioning for modern C++
 - [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
 - [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
@@ -641,7 +641,6 @@
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [tree-sitter/tree-sitter-swift](https://github.com/tree-sitter/tree-sitter-swift) - Swift grammar for tree-sitter
-- [pre-commit/action](https://github.com/pre-commit/action) - a GitHub action to run `pre-commit`
 - [vgorloff/swift-everywhere-toolchain](https://github.com/vgorloff/swift-everywhere-toolchain) - Automated workflow to compile Swift Toolchain, for making Android apps with Swift.
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) - Get the previous tag
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
@@ -897,6 +896,7 @@
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [pre-commit/action](https://github.com/pre-commit/action) - a GitHub action to run `pre-commit`
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [tallpants/vscode-theme-iterm2](https://github.com/tallpants/vscode-theme-iterm2) - 🎨 Color scheme for iTerm2 matching Visual Studio Code's default Dark+ and Light+ themes.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -1103,6 +1103,7 @@
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
 - [japaric/xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
