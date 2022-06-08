@@ -148,7 +148,7 @@
 - [rxi/microtar](https://github.com/rxi/microtar) - A lightweight tar library written in ANSI C
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
-- [cs50/libcs50](https://github.com/cs50/libcs50) - CS50 Library for C
+- [cs50/libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
 - [vlang/vc](https://github.com/vlang/vc) - V compiler's source translated from V to C
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
@@ -1071,7 +1071,7 @@
 - [mufeedvh/moonwalk](https://github.com/mufeedvh/moonwalk) - Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [coloradocolby/thokr](https://github.com/coloradocolby/thokr) - ✨ sleek typing tui written in rust
+- [coloradocolby/thokr](https://github.com/coloradocolby/thokr) - ✨ sleek typing tui with visualized results and historical logging
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [hush-shell/hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
