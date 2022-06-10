@@ -128,7 +128,7 @@
 - [ndevilla/iniparser](https://github.com/ndevilla/iniparser) - ini file parser
 - [lexborisov/myhtml](https://github.com/lexborisov/myhtml) - Fast C/C++ HTML 5 Parser. Using threads.
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
-- [AlwaysRightInstitute/wren-swift](https://github.com/AlwaysRightInstitute/wren-swift) - The wren scripting language as a Swift package, w/ some Swift API wrappers
+- [helje5/wren-swift](https://github.com/helje5/wren-swift) - The wren scripting language as a Swift package, w/ some Swift API wrappers
 - [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
 - [rocky/remake](https://github.com/rocky/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more
 - [Wilfred/tree-sitter-elisp](https://github.com/Wilfred/tree-sitter-elisp) - tree-sitter grammar for emacs lisp
@@ -242,6 +242,8 @@
 
 ## C++ 
 
+- [egor-tensin/setup-clang](https://github.com/egor-tensin/setup-clang) - GitHub action to set up Clang & LLVM
+- [egor-tensin/setup-mingw](https://github.com/egor-tensin/setup-mingw) - GitHub action to set up MinGW-w64
 - [egor-tensin/vs-shell](https://github.com/egor-tensin/vs-shell) - GitHub action to set up the Visual Studio shell environment
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -268,7 +270,7 @@
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [doctest/doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues
-- [index-machines/index](https://github.com/index-machines/index) - The Index is an open source pick and place machine.
+- [opulo-inc/lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 - [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
@@ -567,6 +569,7 @@
 
 ## JavaScript 
 
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [seanmiddleditch/gha-setup-vsdevenv](https://github.com/seanmiddleditch/gha-setup-vsdevenv) - GitHub Action to setup the VS dev environment for the job
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
@@ -1161,7 +1164,7 @@
 - [zonyitoo/rust-ini](https://github.com/zonyitoo/rust-ini) - INI file parser in Rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [edg-l/treelight](https://github.com/edg-l/treelight) - A syntax highlighter for the web using tree-sitter.
 - [vi/timeago](https://github.com/vi/timeago) - In Rust, format Duration into a string like "1 hour ago" or "01hou".
@@ -1597,7 +1600,7 @@
 - [michaelnisi/skull](https://github.com/michaelnisi/skull) - Swift SQLite
 - [BinaryBirds/spec](https://github.com/BinaryBirds/spec) - Unit testing Vapor 4 applications through declarative specifications.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
-- [AlwaysRightInstitute/SwiftyWasmer](https://github.com/AlwaysRightInstitute/SwiftyWasmer) - A Swift API for the Wasmer WebAssembly Runtime
+- [helje5/SwiftyWasmer](https://github.com/helje5/SwiftyWasmer) - A Swift API for the Wasmer WebAssembly Runtime
 - [tuist/tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
 - [DeclarativeHub/ReactiveKit](https://github.com/DeclarativeHub/ReactiveKit) - A Swift Reactive Programming Kit
 - [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
