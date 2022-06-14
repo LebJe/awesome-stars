@@ -242,6 +242,7 @@
 
 ## C++ 
 
+- [nasa/astrobee](https://github.com/nasa/astrobee) - NASA Astrobee Robot Software
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [egor-tensin/setup-clang](https://github.com/egor-tensin/setup-clang) - GitHub action to set up Clang & LLVM
@@ -570,6 +571,7 @@
 
 ## JavaScript 
 
+- [ThatTonybo/BeamAdvisor](https://github.com/ThatTonybo/BeamAdvisor) - ETS2/ATS inspired information+navigation widget for BeamNG.drive
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [seanmiddleditch/gha-setup-vsdevenv](https://github.com/seanmiddleditch/gha-setup-vsdevenv) - GitHub Action to setup the VS dev environment for the job
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -1228,6 +1230,7 @@
 
 ## SCSS 
 
+- [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [apple/swift-org-website](https://github.com/apple/swift-org-website) - Swift.org website
 - [BenjaminHoegh/OneDark.novaextension](https://github.com/BenjaminHoegh/OneDark.novaextension) - Atom One Dark theme for Nova
 - [habovh/nova-one-dark-pro](https://github.com/habovh/nova-one-dark-pro) - Atom One Dark theme for Nova
@@ -1500,7 +1503,7 @@
 - [brightdigit/MistKit](https://github.com/brightdigit/MistKit) - Swift Package for Server-Side and Command-Line Access to CloudKit Web Services
 - [pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump) - A collection of tools for debugging, diffing, and testing your application's data structures.
 - [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
-- [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.
+- [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
 - [Apodini/ApodiniMigrator](https://github.com/Apodini/ApodiniMigrator) - Automated, machine-readable Migration Guides for Apodini Web Services.
 - [CLILogger/CLILogger](https://github.com/CLILogger/CLILogger) - Send the plain log to terminal with your preferred format and colorful style.
 - [stevapple/package-syntax-parser](https://github.com/stevapple/package-syntax-parser) - 
