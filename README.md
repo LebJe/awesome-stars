@@ -242,6 +242,7 @@
 
 ## C++ 
 
+- [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - The main repository containing Stunt Rally sources and game data. A 3D racing game based on VDrift and OGRE with own Track Editor.
 - [BeamMP/BeamMP-Launcher](https://github.com/BeamMP/BeamMP-Launcher) - 
 - [nasa/astrobee](https://github.com/nasa/astrobee) - NASA Astrobee Robot Software
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
