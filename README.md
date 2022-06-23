@@ -1301,6 +1301,7 @@
 
 ## Swift 
 
+- [pointfreeco/swift-tagged](https://github.com/pointfreeco/swift-tagged) - 🏷 A wrapper type for safer, expressive code.
 - [App-Maker-Software/SwiftGit3](https://github.com/App-Maker-Software/SwiftGit3) - SwiftGit2 working with SPM, M1 and supports git push and other features
 - [googleprojectzero/fuzzilli](https://github.com/googleprojectzero/fuzzilli) - A JavaScript Engine Fuzzer
 - [kateinoigakukun/wasmic-ios](https://github.com/kateinoigakukun/wasmic-ios) - Wasmic allows you to run WebAssembly in a safe way on iOS.
