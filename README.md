@@ -71,6 +71,8 @@
 
 ## C 
 
+- [ericsink/wasm2cil](https://github.com/ericsink/wasm2cil) - A "compiler" that can take a WebAssembly/WASI module and convert it to a .NET assembly
+- [wapm-packages/sqlite](https://github.com/wapm-packages/sqlite) - SQLite compiled to WebAssembly and WASI
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
 - [julian-r/file-windows](https://github.com/julian-r/file-windows) - File and Libmagic build with Visual Studio
 - [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux.
@@ -1285,7 +1287,7 @@
 - [readdle/swift-android-toolchain](https://github.com/readdle/swift-android-toolchain) - 
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- [CSCIX65G/SwiftCrossCompilers](https://github.com/CSCIX65G/SwiftCrossCompilers) - SPM toolchain to cross compile Raspberry Pi Swift binaries on macOS
+- [CSCIX65G/SwiftCrossCompilers](https://github.com/CSCIX65G/SwiftCrossCompilers) - SPM toolchain to cross compile Raspberry Pi (arm64) and Amd64 Swift binaries on macOS
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [SPMDestinations/buildscripts](https://github.com/SPMDestinations/buildscripts) - Scripts to assist building the toolchain
@@ -1305,7 +1307,7 @@
 - [App-Maker-Software/SwiftGit3](https://github.com/App-Maker-Software/SwiftGit3) - SwiftGit2 working with SPM, M1 and supports git push and other features
 - [googleprojectzero/fuzzilli](https://github.com/googleprojectzero/fuzzilli) - A JavaScript Engine Fuzzer
 - [kateinoigakukun/wasmic-ios](https://github.com/kateinoigakukun/wasmic-ios) - Wasmic allows you to run WebAssembly in a safe way on iOS.
-- [CodeEditApp/CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) - The Editor Text View for CodeEdit
+- [CodeEditApp/CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) - A code editor view written in Swift powered by tree-sitter.
 - [SwiftPackageIndex/SwiftPackageIndex-Blog](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Blog) - The Swift Package Index Blog.
 - [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
 - [simonbs/Prettier](https://github.com/simonbs/Prettier) - ✨ Wrapper for the Prettier code formatter written in Swift
