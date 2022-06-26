@@ -71,6 +71,7 @@
 
 ## C 
 
+- [ly4k/PwnKit](https://github.com/ly4k/PwnKit) - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation
 - [ericsink/wasm2cil](https://github.com/ericsink/wasm2cil) - A "compiler" that can take a WebAssembly/WASI module and convert it to a .NET assembly
 - [wapm-packages/sqlite](https://github.com/wapm-packages/sqlite) - SQLite compiled to WebAssembly and WASI
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
@@ -363,7 +364,7 @@
 - [CommanderBubble/MD5](https://github.com/CommanderBubble/MD5) - A C++ implementation of the Message Digest 5 algorithm
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
-- [vector-of-bool/dds](https://github.com/vector-of-bool/dds) - A C++ tool for a new decade
+- [vector-of-bool/bpt](https://github.com/vector-of-bool/bpt) - A C++ tool for a new decade
 - [kwin/macdependency](https://github.com/kwin/macdependency) - MacDependency shows all dependent libraries and frameworks of a given executable, dynamic library or framework on Mac OS X
 - [google/cppdap](https://github.com/google/cppdap) - C++ library for the Debug Adapter Protocol
 - [cebix/macemu](https://github.com/cebix/macemu) - Basilisk II and SheepShaver Macintosh emulators
@@ -1303,6 +1304,8 @@
 
 ## Swift 
 
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
+- [trozware/swiftui-mac-2022](https://github.com/trozware/swiftui-mac-2022) - Sample app to accompany article.
 - [pointfreeco/swift-tagged](https://github.com/pointfreeco/swift-tagged) - 🏷 A wrapper type for safer, expressive code.
 - [App-Maker-Software/SwiftGit3](https://github.com/App-Maker-Software/SwiftGit3) - SwiftGit2 working with SPM, M1 and supports git push and other features
 - [googleprojectzero/fuzzilli](https://github.com/googleprojectzero/fuzzilli) - A JavaScript Engine Fuzzer
