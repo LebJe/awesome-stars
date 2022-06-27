@@ -815,6 +815,7 @@
 
 ## Objective-C 
 
+- [mmattozzi/cocoa-rest-client](https://github.com/mmattozzi/cocoa-rest-client) - A free, native Apple macOS app for testing HTTP/REST endpoints
 - [BeamNG/remotecontrol](https://github.com/BeamNG/remotecontrol) - Remote Control App for BeamNG.drive
 - [robovm/apple-ios-samples](https://github.com/robovm/apple-ios-samples) - 
 - [tanin47/tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
@@ -1304,6 +1305,7 @@
 
 ## Swift 
 
+- [robreuss/VirtualGameController](https://github.com/robreuss/VirtualGameController) - Software-based game controllers for iOS, tvOS, OS X and watchOS in Swift 4.2.
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 - [trozware/swiftui-mac-2022](https://github.com/trozware/swiftui-mac-2022) - Sample app to accompany article.
 - [pointfreeco/swift-tagged](https://github.com/pointfreeco/swift-tagged) - 🏷 A wrapper type for safer, expressive code.
@@ -1382,7 +1384,7 @@
 - [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
 - [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - Swift library for highlighting, indenting, and querying structured syntax
 - [square/StringTemplate](https://github.com/square/StringTemplate) - Quickly and easily apply a template to a target string.
-- [dduan/TOMLDeserializer](https://github.com/dduan/TOMLDeserializer) - Parse TOML files into Swift objects.
+- [dduan/TOMLDeserializer](https://github.com/dduan/TOMLDeserializer) - Replaced by https://github.com/dduan/TOMLDecoder
 - [KS1019/SwiftyShell](https://github.com/KS1019/SwiftyShell) - Example implementation of shell in Swift
 - [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
 - [robb/Swim](https://github.com/robb/Swim) - A DSL for writing HTML in Swift
