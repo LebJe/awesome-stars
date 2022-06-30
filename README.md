@@ -67,7 +67,7 @@
 ## AutoIt 
 
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 
 ## C 
 
@@ -1072,6 +1072,7 @@
 
 ## Rust 
 
+- [microsoft/windows-app-rs](https://github.com/microsoft/windows-app-rs) - Rust for the Windows App SDK
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
 - [TheHellBox/KISS-multiplayer](https://github.com/TheHellBox/KISS-multiplayer) - Multiplayer mod for BeamNG.drive
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
@@ -1305,6 +1306,7 @@
 
 ## Swift 
 
+- [aheze/Multiliner](https://github.com/aheze/Multiliner) - An Xcode source extension to expand lengthy lines.
 - [robreuss/VirtualGameController](https://github.com/robreuss/VirtualGameController) - Software-based game controllers for iOS, tvOS, OS X and watchOS in Swift 4.2.
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 - [trozware/swiftui-mac-2022](https://github.com/trozware/swiftui-mac-2022) - Sample app to accompany article.
