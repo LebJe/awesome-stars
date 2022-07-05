@@ -246,6 +246,7 @@
 
 ## C++ 
 
+- [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [andreisperid/E-TKT](https://github.com/andreisperid/E-TKT) - anachronic label maker
 - [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - The main repository containing Stunt Rally sources and game data. A 3D racing game based on VDrift and OGRE with own Track Editor.
 - [BeamMP/BeamMP-Launcher](https://github.com/BeamMP/BeamMP-Launcher) - 
@@ -730,7 +731,7 @@
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - WIP: Statusline written in pure lua. Supports co-routines, functions and jobs.
 - [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. https://sr.ht/~p00f/nvim-ts-rainbow preferred
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere.
-- [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds 3 kind of horizontal highlights for text filetypes, like `markdown`, `vimwiki` and `orgmode`
+- [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [grafi-tt/lunajson](https://github.com/grafi-tt/lunajson) - A strict and fast JSON parser/decoder/encoder written in pure Lua.
 - [rxi/json.lua](https://github.com/rxi/json.lua) - A lightweight JSON library for Lua
 - [tiye/json-lua](https://github.com/tiye/json-lua) - JSON encoder/decoder
