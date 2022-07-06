@@ -845,6 +845,7 @@
 
 ## Others 
 
+- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [uluadist/ulua](https://github.com/uluadist/ulua) - ULua: Universal Lua Distribution
 - [compnerd/gha-setup-swift](https://github.com/compnerd/gha-setup-swift) - Setup Swift (on Windows) on GitHub Actions Builders
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
@@ -947,6 +948,7 @@
 
 ## Python 
 
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [cxnder/ktool](https://github.com/cxnder/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 - [pwwang/toml-bench](https://github.com/pwwang/toml-bench) - Which toml package to use in python?
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
