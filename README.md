@@ -686,7 +686,7 @@
 ## Lua 
 
 - [ckipp01/stylua-nvim](https://github.com/ckipp01/stylua-nvim) - Let's just use a formatter and never discuss formatting again.
-- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Lightweight package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - [WIP] Lightweight package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [codecat/beamngts](https://github.com/codecat/beamngts) - Typescript declarations for the BeamNG Lua environment.
 - [adam10603/BeamNG-Arcade-Steering](https://github.com/adam10603/BeamNG-Arcade-Steering) - Overhauled version of BeamNG.drive's steering input system for gamepad and keyboard.
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
@@ -966,7 +966,7 @@
 - [sdispater/tomlkit](https://github.com/sdispater/tomlkit) - Style-preserving TOML library for Python
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
-- [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) - a pythonic generic language server
+- [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) - A pythonic generic language server
 - [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
@@ -1317,7 +1317,7 @@
 ## Swift 
 
 - [JaapWijnen/swift-xml-parser](https://github.com/JaapWijnen/swift-xml-parser) - 
-- [ggoraa/moc](https://github.com/ggoraa/moc) - A (really) native and powerful macOS and iPadOS Telegram client, optimized for moderating large communities and personal use. Currently in alpha
+- [mock-foundation/moc](https://github.com/mock-foundation/moc) - A (really) native and powerful macOS and iPadOS Telegram client, optimized for moderating large communities and personal use. Currently in alpha
 - [SwiftFiddle/swiftregex](https://github.com/SwiftFiddle/swiftregex) - Swift Regex is an online tool to learn, build and test Swift Regex Regex and Regex Builder.
 - [aheze/Multiliner](https://github.com/aheze/Multiliner) - An Xcode source extension to expand lengthy lines.
 - [robreuss/VirtualGameController](https://github.com/robreuss/VirtualGameController) - Software-based game controllers for iOS, tvOS, OS X and watchOS in Swift 4.2.
@@ -1750,7 +1750,7 @@
 - [JohnSundell/ShellOut](https://github.com/JohnSundell/ShellOut) - Easily run shell commands from a Swift script or command line tool
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [lukaskubanek/LoremSwiftum](https://github.com/lukaskubanek/LoremSwiftum) - A lightweight lorem ipsum generator for Swift
-- [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - Offline Toolbox for Developers
+- [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
 - [swift-extras/swift-extras-base64](https://github.com/swift-extras/swift-extras-base64) - Base64 encode and decode without the use of Foundation in pure Swift.
 - [swift-extras/swift-extras-json](https://github.com/swift-extras/swift-extras-json) - JSON encoding and decoding without the use of Foundation in pure Swift.
 - [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The master list of repositories for the Swift Package Index.
