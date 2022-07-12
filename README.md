@@ -884,6 +884,7 @@
 - [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap for learning the C++ programming language for beginners and experienced devs.
 - [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [umutphp/famous-bugs](https://github.com/umutphp/famous-bugs) - Famous bugs fixed, problems solved and failures experienced  in software history :bug: :bee: :ant: :beetle:
 - [amosgyamfi/swiftui-animation-library](https://github.com/amosgyamfi/swiftui-animation-library) - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS app
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
@@ -973,7 +974,6 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) - A pythonic generic language server
 - [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
-- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite) - The infrastructure and project index comprising the Swift source compatibility suite.
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
