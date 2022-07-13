@@ -905,6 +905,7 @@
 - [github-community/community](https://github.com/github-community/community) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) - 
+- [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [gredman/csharp-novaextension](https://github.com/gredman/csharp-novaextension) - Nova syntax highlighting for C#
@@ -1299,7 +1300,6 @@
 - [flowkey/swift-android-toolchain](https://github.com/flowkey/swift-android-toolchain) - Build Swift for Android from your Mac
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
-- [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [hodovani/pre-commit-swift](https://github.com/hodovani/pre-commit-swift) - 
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [ryanmjacobs/c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
