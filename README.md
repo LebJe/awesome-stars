@@ -246,6 +246,7 @@
 
 ## C++ 
 
+- [maharmstone/tdscpp](https://github.com/maharmstone/tdscpp) - C++ bindings for the TDS protocol
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [andreisperid/E-TKT](https://github.com/andreisperid/E-TKT) - anachronic label maker
@@ -486,7 +487,7 @@
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
-- [supabase-community/postgrest-go](https://github.com/supabase-community/postgrest-go) - Isomorphic Go client for PostgREST.
+- [supabase-community/postgrest-go](https://github.com/supabase-community/postgrest-go) - Isomorphic Go client for PostgREST. (Now Updating)
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
@@ -1893,7 +1894,7 @@
 - [neoclide/neovim](https://github.com/neoclide/neovim) - Node client API for both vim8 and neovim.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code
-- [voldikss/coc-cmake](https://github.com/voldikss/coc-cmake) - coc.nvim extension for cmake language
+- [voldikss/coc-cmake](https://github.com/voldikss/coc-cmake) - See https://github.com/voldikss/coc-extensions
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [sgwilym/nova-deno](https://github.com/sgwilym/nova-deno) - A Deno extension for Nova.
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
