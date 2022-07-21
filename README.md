@@ -93,7 +93,7 @@
 - [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [libgit2/rugged](https://github.com/libgit2/rugged) - ruby bindings to libgit2
-- [keplerproject/luafilesystem](https://github.com/keplerproject/luafilesystem) - LuaFileSystem is a Lua library developed to complement the set of functions related to file systems offered by the standard Lua distribution.
+- [lunarmodules/luafilesystem](https://github.com/lunarmodules/luafilesystem) - LuaFileSystem is a Lua library developed to complement the set of functions related to file systems offered by the standard Lua distribution.
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
 - [jdah/minecraft-again](https://github.com/jdah/minecraft-again) - yeah I made it again
 - [mitchellh/tree-sitter-proto](https://github.com/mitchellh/tree-sitter-proto) - A tree-sitter grammar for protocol buffer files (proto3).
@@ -246,6 +246,7 @@
 
 ## C++ 
 
+- [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
 - [maharmstone/tdscpp](https://github.com/maharmstone/tdscpp) - C++ bindings for the TDS protocol
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
@@ -687,6 +688,7 @@
 
 ## Lua 
 
+- [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) - Official Alpine Linux Docker image. Win at minimalism!
 - [ckipp01/stylua-nvim](https://github.com/ckipp01/stylua-nvim) - Let's just use a formatter and never discuss formatting again.
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [codecat/beamngts](https://github.com/codecat/beamngts) - Typescript declarations for the BeamNG Lua environment.
