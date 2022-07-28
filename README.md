@@ -590,6 +590,7 @@
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
+- [jurplel/install-qt-action](https://github.com/jurplel/install-qt-action) - Install Qt on your Github Actions workflows with just one simple action
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [yerovyespitia/StateofMac](https://github.com/yerovyespitia/StateofMac) - State of Mac is the easiest way to know if your favorite game runs on Apple silicon and find the best way to run that game. Also, you can collaborate with State of Mac by adding your own experience ru
@@ -1325,6 +1326,7 @@
 
 ## Swift 
 
+- [malcommac/SwiftLocation](https://github.com/malcommac/SwiftLocation) - 🛰 CoreLocation Made Easy - Efficient & Easy Location Tracker, IP Location, Gecoder, Geofence, Autocomplete, Beacon Ranging, Broadcaster and Visits Monitoring
 - [karwa/uniqueid](https://github.com/karwa/uniqueid) - Random and time-ordered UUID generation in Swift
 - [pzerelles/swift-tds](https://github.com/pzerelles/swift-tds) - Non-blocking, event-driven Swift implementation of the TDS Protocol
 - [JaapWijnen/swift-xml-parser](https://github.com/JaapWijnen/swift-xml-parser) - 
@@ -1623,7 +1625,7 @@
 - [supabase-community/storage-swift](https://github.com/supabase-community/storage-swift) - Swift client library to interact with Supabase Storage
 - [daltoniam/Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
 - [supabase-community/realtime-swift](https://github.com/supabase-community/realtime-swift) - A Swift client for Supabase Realtime server.
-- [supabase-community/gotrue-swift](https://github.com/supabase-community/gotrue-swift) - A swift client library for GoTrue.
+- [supabase-community/gotrue-swift](https://github.com/supabase-community/gotrue-swift) - A Swift client library for GoTrue.
 - [supabase-community/supabase-swift](https://github.com/supabase-community/supabase-swift) - A Swift client for Supabase
 - [mchakravarty/CodeEditorView](https://github.com/mchakravarty/CodeEditorView) - SwiftUI code editor view for iOS and macOS
 - [mchakravarty/CodeEditorDemo](https://github.com/mchakravarty/CodeEditorDemo) - Demo app for CodeEditorView
@@ -1862,7 +1864,6 @@
 - [OmniSharp/omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode) - Official C# support for Visual Studio Code (powered by OmniSharp)
 - [coc-extensions/coc-omnisharp](https://github.com/coc-extensions/coc-omnisharp) - OmniSharp integration for coc.nvim
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [jurplel/install-qt-action](https://github.com/jurplel/install-qt-action) - Install Qt on your Github Actions workflows with just one simple action
 - [tediousjs/tedious](https://github.com/tediousjs/tedious) - Node TDS module for connecting to SQL Server databases.
 - [neovim/node-client](https://github.com/neovim/node-client) - Nvim Node.js client and plugin host
 - [swift-actions/setup-swift](https://github.com/swift-actions/setup-swift) - GitHub Action that setup a Swift environment
