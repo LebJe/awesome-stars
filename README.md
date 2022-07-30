@@ -71,6 +71,7 @@
 
 ## C 
 
+- [WebAssembly/wasi-libc](https://github.com/WebAssembly/wasi-libc) - WASI libc implementation for WebAssembly
 - [ly4k/PwnKit](https://github.com/ly4k/PwnKit) - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation
 - [ericsink/wasm2cil](https://github.com/ericsink/wasm2cil) - A "compiler" that can take a WebAssembly/WASI module and convert it to a .NET assembly
 - [wapm-packages/sqlite](https://github.com/wapm-packages/sqlite) - SQLite compiled to WebAssembly and WASI
