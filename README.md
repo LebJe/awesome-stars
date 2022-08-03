@@ -71,6 +71,8 @@
 
 ## C 
 
+- [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [WebAssembly/wasi-libc](https://github.com/WebAssembly/wasi-libc) - WASI libc implementation for WebAssembly
 - [ly4k/PwnKit](https://github.com/ly4k/PwnKit) - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation
 - [ericsink/wasm2cil](https://github.com/ericsink/wasm2cil) - A "compiler" that can take a WebAssembly/WASI module and convert it to a .NET assembly
@@ -591,6 +593,7 @@
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
+- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [jurplel/install-qt-action](https://github.com/jurplel/install-qt-action) - Install Qt on your Github Actions workflows with just one simple action
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
@@ -1115,7 +1118,6 @@
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [thatvegandev/thokr](https://github.com/thatvegandev/thokr) - ✨ sleek typing tui with visualized results and historical logging
-- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [hush-shell/hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime
@@ -1884,7 +1886,7 @@
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [JohnnyMorganz/stylua-action](https://github.com/JohnnyMorganz/stylua-action) - GitHub action for StyLua
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Rust, Elixir, Java, MATLAB, Dart and more
 - [Esri/arcgis-rest-js](https://github.com/Esri/arcgis-rest-js) - compact, modular JavaScript wrappers for the ArcGIS REST API
 - [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
