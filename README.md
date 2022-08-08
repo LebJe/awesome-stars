@@ -858,6 +858,7 @@
 
 ## Others 
 
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
@@ -966,6 +967,7 @@
 
 ## Python 
 
+- [BeamNG/BeamNGpy](https://github.com/BeamNG/BeamNGpy) - Python API for BeamNG.tech
 - [ErlerPhilipp/dr2_logger](https://github.com/ErlerPhilipp/dr2_logger) - A logging and analysis tool for Dirt Rally 2.0
 - [WebAssembly/component-model](https://github.com/WebAssembly/component-model) - Repository for design and specification of the Component Model
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
@@ -1330,6 +1332,7 @@
 
 ## Swift 
 
+- [swiftstack/network](https://github.com/swiftstack/network) - Non-blocking Socket, Server, Client, DNS
 - [apple/swift-llvm-bindings](https://github.com/apple/swift-llvm-bindings) - Swift Bindings for LLVM Project APIs
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [malcommac/SwiftLocation](https://github.com/malcommac/SwiftLocation) - 🛰 CoreLocation Made Easy - Efficient & Easy Location Tracker, IP Location, Gecoder, Geofence, Autocomplete, Beacon Ranging, Broadcaster and Visits Monitoring
