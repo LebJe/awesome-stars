@@ -252,6 +252,7 @@
 
 ## C++ 
 
+- [nezticle/qtoutgauge](https://github.com/nezticle/qtoutgauge) - A Qt Module for consuming the OutGauge protocol with Qt/QML
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
 - [maharmstone/tdscpp](https://github.com/maharmstone/tdscpp) - C++ bindings for the TDS protocol
@@ -731,7 +732,7 @@
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [Roblox/roact](https://github.com/Roblox/roact) - A view management library for Roblox Lua similar to React
 - [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) - Neovim plugin that evaluates code blocks inside documents
-- [Olivine-Labs/busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
+- [lunarmodules/busted](https://github.com/lunarmodules/busted) - Elegant Lua unit testing.
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power.
 - [teal-language/teal-language-server](https://github.com/teal-language/teal-language-server) - A language server for Teal, a typed dialect of Lua
 - [kikito/inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables
@@ -1335,6 +1336,7 @@
 
 ## Swift 
 
+- [Lighter-swift/Lighter](https://github.com/Lighter-swift/Lighter) - Swift APIs for SQLite: Type-safe down to the schema. Very, very, fast. Dependency free.
 - [rensbreur/SwiftTUI](https://github.com/rensbreur/SwiftTUI) - SwiftUI for terminal applications
 - [ChimeHQ/ChimeKit](https://github.com/ChimeHQ/ChimeKit) - Framework for building Chime extensions
 - [swiftstack/network](https://github.com/swiftstack/network) - Non-blocking Socket, Server, Client, DNS
@@ -1896,7 +1898,7 @@
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [JohnnyMorganz/stylua-action](https://github.com/JohnnyMorganz/stylua-action) - GitHub action for StyLua
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Rust, Elixir, Java, MATLAB, Dart and more
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, Dart and more
 - [Esri/arcgis-rest-js](https://github.com/Esri/arcgis-rest-js) - compact, modular JavaScript wrappers for the ArcGIS REST API
 - [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
