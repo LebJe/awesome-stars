@@ -71,6 +71,7 @@
 
 ## C 
 
+- [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
@@ -737,7 +738,7 @@
 - [kikito/inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !
 - [sidebar-nvim/sections-dap](https://github.com/sidebar-nvim/sections-dap) - Dap sections for sidebar.nvim
-- [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite/LuaJIT binding for lua and neovim
+- [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 - [jameshiew/nvim-magic](https://github.com/jameshiew/nvim-magic) - :genie: Pluggable framework for using AI code assistance in Neovim
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
