@@ -1101,6 +1101,7 @@
 
 ## Rust 
 
+- [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
 - [Cpp-Project-Manager/Cpp-Project-Manager](https://github.com/Cpp-Project-Manager/Cpp-Project-Manager) - A C++ Template Generator and Project manager. The C++ equivalent to rust's cargo.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
