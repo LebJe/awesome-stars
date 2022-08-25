@@ -54,7 +54,7 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [V](#v)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [Zig](#zig)
@@ -974,7 +974,7 @@
 - [BeamNG/BeamNGpy](https://github.com/BeamNG/BeamNGpy) - Python API for BeamNG.tech
 - [ErlerPhilipp/dr2_logger](https://github.com/ErlerPhilipp/dr2_logger) - A logging and analysis tool for Dirt Rally 2.0
 - [WebAssembly/component-model](https://github.com/WebAssembly/component-model) - Repository for design and specification of the Component Model
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [cxnder/ktool](https://github.com/cxnder/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
@@ -1977,7 +1977,7 @@
 - [vlang/ui](https://github.com/vlang/ui) - Cross-platform UI library written in V
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
-## Vim script 
+## Vim Script 
 
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
 - [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
