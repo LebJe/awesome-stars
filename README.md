@@ -814,6 +814,7 @@
 
 ## Markdown 
 
+- [apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
@@ -1367,7 +1368,7 @@
 - [macadmins/nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates.
 - [alankarmisra/SwiftSignatureView](https://github.com/alankarmisra/SwiftSignatureView) - A lightweight, fast and customizable option for capturing fluid, variable-stroke-width signatures within your app.
 - [carson-katri/reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client built in SwiftUI
-- [ggoraa/LuaKit](https://github.com/ggoraa/LuaKit) - A Swift SPM framework for running and managing Lua code from Swift.
+- [mock-foundation/luakit](https://github.com/mock-foundation/luakit) - A Swift SPM framework for running and managing Lua code from Swift.
 - [ericsink/SwiftWinRT](https://github.com/ericsink/SwiftWinRT) - WinRT Bridging for Swift
 - [ABridoux/scout](https://github.com/ABridoux/scout) - Reading and writing in JSON, Plist, YAML and XML data made simple when the data format is not known at build time. Swift library and command-line tool.
 - [ABridoux/lux](https://github.com/ABridoux/lux) - A Swift library with a dedicated command-line tool to highlight plain code (e.g. for terminal output), HTML files code blocks or attributed strings (e.g. for macOS or iOS apps)
