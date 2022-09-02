@@ -1340,6 +1340,8 @@
 
 ## Swift 
 
+- [STREGAsGate/Lua](https://github.com/STREGAsGate/Lua) - Lua for Swift
+- [litewrap/GreenSocket](https://github.com/litewrap/GreenSocket) - Socket framework for Swift using the Swift Package Manager. Works on iOS, macOS, Linux and Windows.
 - [compnerd/swift-winmd](https://github.com/compnerd/swift-winmd) - Windows Metadata Parser in Swift
 - [Lighter-swift/Lighter](https://github.com/Lighter-swift/Lighter) - Swift APIs for SQLite: Type-safe down to the schema. Very, very, fast. Dependency free.
 - [rensbreur/SwiftTUI](https://github.com/rensbreur/SwiftTUI) - SwiftUI for terminal applications
