@@ -72,6 +72,7 @@
 
 ## C 
 
+- [fabulouspanda/MacMiner](https://github.com/fabulouspanda/MacMiner) - The first native Mac GUI for Bitcoin, Litecoin and Alt Coin mining
 - [ctreffs/SwiftNFD](https://github.com/ctreffs/SwiftNFD) - Swift wrapper for Native File Dialog, a tiny, neat C library that portably invokes native file open and save dialogs.
 - [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
@@ -594,6 +595,7 @@
 
 ## JavaScript 
 
+- [yuki-yano/coc-nav](https://github.com/yuki-yano/coc-nav) - 
 - [ThatTonybo/BeamAdvisor](https://github.com/ThatTonybo/BeamAdvisor) - ETS2/ATS inspired information+navigation widget for BeamNG.drive
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [seanmiddleditch/gha-setup-vsdevenv](https://github.com/seanmiddleditch/gha-setup-vsdevenv) - GitHub Action to setup the VS dev environment for the job
@@ -1341,6 +1343,7 @@
 
 ## Swift 
 
+- [BrentMifsud/AsyncValue](https://github.com/BrentMifsud/AsyncValue) - A simple swift package that provides a Swift Concurrency equivalent to `@Published`.
 - [STREGAsGate/Lua](https://github.com/STREGAsGate/Lua) - Lua for Swift
 - [litewrap/GreenSocket](https://github.com/litewrap/GreenSocket) - Socket framework for Swift using the Swift Package Manager. Works on iOS, macOS, Linux and Windows.
 - [compnerd/swift-winmd](https://github.com/compnerd/swift-winmd) - Windows Metadata Parser in Swift
