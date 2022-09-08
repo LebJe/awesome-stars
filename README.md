@@ -418,6 +418,7 @@
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
+- [marzer/poxy](https://github.com/marzer/poxy) - Documentation generator for C++
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -689,7 +690,7 @@
 ## Jupyter Notebook 
 
 - [tensorflow/swift](https://github.com/tensorflow/swift) - Swift for TensorFlow
-- [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
+- [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
 - [Esri/workforce-scripts](https://github.com/Esri/workforce-scripts) - A set of scripts to help administer Workforce projects.
 
 ## Kotlin 
@@ -1031,7 +1032,6 @@
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [marzer/poxy](https://github.com/marzer/poxy) - Documentation generator for C++
 - [aio-libs/aiomysql](https://github.com/aio-libs/aiomysql) - aiomysql is a library for accessing a MySQL database from the asyncio
 - [aio-libs/aiopg](https://github.com/aio-libs/aiopg) - aiopg is a library for accessing a PostgreSQL database from the asyncio
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
@@ -1519,7 +1519,7 @@
 - [Macro-swift/Macro](https://github.com/Macro-swift/Macro) - An unopinionated SwiftNIO based asynchronous I/O framework, Node.js like.
 - [NozeIO/Noze.io](https://github.com/NozeIO/Noze.io) - Evented I/O streams for Swift
 - [twostraws/Brisk](https://github.com/twostraws/Brisk) - A proof of concept scripting library for Swift
-- [ChimeHQ/SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift wrappers for the tree-sitter incremental parsing system
+- [ChimeHQ/SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift API for the tree-sitter incremental parsing system
 - [GEOSwift/GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geometry Engine.
 - [swiftwasm/WAKit](https://github.com/swiftwasm/WAKit) - WebAssembly Runtime written in Swift
 - [Apodini/webidl2swift](https://github.com/Apodini/webidl2swift) - 
