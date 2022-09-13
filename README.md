@@ -249,7 +249,7 @@
 - [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET/Mono = ❤
 - [microsoft/python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 - [LibAtem/LibAtem](https://github.com/LibAtem/LibAtem) - Blackmagic Atem client for .Net Core
 
 ## C++ 
@@ -1346,6 +1346,8 @@
 
 ## Swift 
 
+- [shaps80/MarkdownText](https://github.com/shaps80/MarkdownText) - A native SwiftUI view for rendering Markdown text in an iOS or macOS app
+- [shaps80/MarkdownTextDemo](https://github.com/shaps80/MarkdownTextDemo) - A demo app for showcasing the MarkdownText library.
 - [BrentMifsud/AsyncValue](https://github.com/BrentMifsud/AsyncValue) - A simple swift package that provides a Swift Concurrency equivalent to `@Published`.
 - [STREGAsGate/Lua](https://github.com/STREGAsGate/Lua) - Lua for Swift
 - [litewrap/GreenSocket](https://github.com/litewrap/GreenSocket) - Socket framework for Swift using the Swift Package Manager. Works on iOS, macOS, Linux and Windows.
