@@ -943,7 +943,7 @@
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
-- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [pre-commit/action](https://github.com/pre-commit/action) - a GitHub action to run `pre-commit`
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
@@ -1346,6 +1346,7 @@
 
 ## Swift 
 
+- [iq3addLi/swift-vapor-layered-realworld-example-app](https://github.com/iq3addLi/swift-vapor-layered-realworld-example-app) - Exemplary real world application built with Swift + Vapor. 🐦💧
 - [shaps80/MarkdownText](https://github.com/shaps80/MarkdownText) - A native SwiftUI view for rendering Markdown text in an iOS or macOS app
 - [shaps80/MarkdownTextDemo](https://github.com/shaps80/MarkdownTextDemo) - A demo app for showcasing the MarkdownText library.
 - [BrentMifsud/AsyncValue](https://github.com/BrentMifsud/AsyncValue) - A simple swift package that provides a Swift Concurrency equivalent to `@Published`.
