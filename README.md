@@ -72,6 +72,7 @@
 
 ## C 
 
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [fabulouspanda/MacMiner](https://github.com/fabulouspanda/MacMiner) - The first native Mac GUI for Bitcoin, Litecoin and Alt Coin mining
 - [ctreffs/SwiftNFD](https://github.com/ctreffs/SwiftNFD) - Swift wrapper for Native File Dialog, a tiny, neat C library that portably invokes native file open and save dialogs.
 - [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
@@ -1236,7 +1237,7 @@
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [wfxr/csview](https://github.com/wfxr/csview) - 📠 Pretty csv viewer for cli with cjk/emoji support.
+- [wfxr/csview](https://github.com/wfxr/csview) - 📠 Pretty and fast csv viewer for cli with cjk/emoji support.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
