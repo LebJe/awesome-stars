@@ -995,7 +995,6 @@
 - [LimerBoy/Impulse](https://github.com/LimerBoy/Impulse) - :bomb: Impulse Denial-of-service ToolKit
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-- [clangd/clangd](https://github.com/clangd/clangd) - clangd language server
 - [sdispater/tomlkit](https://github.com/sdispater/tomlkit) - Style-preserving TOML library for Python
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -1310,6 +1309,7 @@
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 - [josa42/coc-sh](https://github.com/josa42/coc-sh) - SH language server extension using bash-language-server for coc.nvim.
 - [wine-staging/wine-staging](https://github.com/wine-staging/wine-staging) - Staging repository for Wine - Bugtracker and Patches: https://bugs.winehq.org/ Website:
+- [clangd/clangd](https://github.com/clangd/clangd) - clangd language server
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [wasmerio/wasmer-install](https://github.com/wasmerio/wasmer-install) - Wasmer Binary Installer https://wasmer.io/
