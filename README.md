@@ -255,6 +255,7 @@
 
 ## C++ 
 
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [nezticle/qtoutgauge](https://github.com/nezticle/qtoutgauge) - A Qt Module for consuming the OutGauge protocol with Qt/QML
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
@@ -705,6 +706,7 @@
 
 ## Lua 
 
+- [JustLazzy/jl-laptop](https://github.com/JustLazzy/jl-laptop) - laptop script
 - [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) - Official Alpine Linux Docker image. Win at minimalism!
 - [ckipp01/stylua-nvim](https://github.com/ckipp01/stylua-nvim) - Let's just use a formatter and never discuss formatting again.
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
