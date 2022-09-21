@@ -582,6 +582,7 @@
 
 ## Java 
 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [PhoenicisOrg/phoenicis](https://github.com/PhoenicisOrg/phoenicis) - Phoenicis PlayOnLinux and PlayOnMac 5 repository
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
 - [readdle/swift-java-codegen](https://github.com/readdle/swift-java-codegen) - Swift Java Codegeneration annotation processor
@@ -981,6 +982,7 @@
 
 ## Python 
 
+- [stackotter/the-ctf-book](https://github.com/stackotter/the-ctf-book) - An interactive course accompanied by a CTF, that brings you right through from beginner to advanced in a variety of fields relevant to hacking.
 - [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
 - [BeamNG/BeamNGpy](https://github.com/BeamNG/BeamNGpy) - Python API for BeamNG.tech
 - [ErlerPhilipp/dr2_logger](https://github.com/ErlerPhilipp/dr2_logger) - A logging and analysis tool for Dirt Rally 2.0
@@ -988,6 +990,7 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [cxnder/ktool](https://github.com/cxnder/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 - [pwwang/toml-bench](https://github.com/pwwang/toml-bench) - Which toml package to use in python?
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -1121,7 +1124,6 @@
 - [TheHellBox/KISS-multiplayer](https://github.com/TheHellBox/KISS-multiplayer) - Multiplayer mod for BeamNG.drive
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [Freaky/Compactor](https://github.com/Freaky/Compactor) - A user interface for Windows 10 filesystem compression
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [apollographql/router](https://github.com/apollographql/router) - A configurable, high-performance routing runtime for Apollo Federation 🚀
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [alexcrichton/toml-rs](https://github.com/alexcrichton/toml-rs) - A TOML encoding/decoding library for Rust
@@ -1920,7 +1922,7 @@
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [JohnnyMorganz/stylua-action](https://github.com/JohnnyMorganz/stylua-action) - GitHub action for StyLua
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, Dart and more
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, C#, Dart and more
 - [Esri/arcgis-rest-js](https://github.com/Esri/arcgis-rest-js) - compact, modular JavaScript wrappers for the ArcGIS REST API
 - [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
