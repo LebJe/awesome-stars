@@ -1162,7 +1162,7 @@
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [georust/gdal](https://github.com/georust/gdal) - Rust bindings for GDAL
-- [ordian/toml_edit](https://github.com/ordian/toml_edit) - Yet another format-preserving TOML parser
+- [toml-rs/toml_edit](https://github.com/toml-rs/toml_edit) - Yet another format-preserving TOML parser
 - [kateinoigakukun/wasminspect](https://github.com/kateinoigakukun/wasminspect) - An interactive debugger for WebAssembly
 - [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
