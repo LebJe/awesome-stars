@@ -277,7 +277,7 @@
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [SAP/odbc-cpp-wrapper](https://github.com/SAP/odbc-cpp-wrapper) - An object-oriented C++-wrapper of the ODBC API
-- [BeamMP/BeamMP-Server](https://github.com/BeamMP/BeamMP-Server) - 
+- [BeamMP/BeamMP-Server](https://github.com/BeamMP/BeamMP-Server) - Server for the multiplayer mod BeamMP for BeamNG.drive
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
 - [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
