@@ -295,7 +295,7 @@
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
 - [openhoangnc/taskbar-stats](https://github.com/openhoangnc/taskbar-stats) - Display live system stats on Windows's taskbar
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [doctest/doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework
 - [protobuf-c/protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
@@ -419,6 +419,7 @@
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
+- [marzer/poxy](https://github.com/marzer/poxy) - Documentation generator for C++
 - [arcticicestudio/nord](https://github.com/arcticicestudio/nord) - An arctic, north-bluish color palette.
 - [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -848,7 +849,6 @@
 - [mmattozzi/cocoa-rest-client](https://github.com/mmattozzi/cocoa-rest-client) - A free, native Apple macOS app for testing HTTP/REST endpoints
 - [BeamNG/remotecontrol](https://github.com/BeamNG/remotecontrol) - Remote Control App for BeamNG.drive
 - [robovm/apple-ios-samples](https://github.com/robovm/apple-ios-samples) - 
-- [Flowductive/easy-firebase](https://github.com/Flowductive/easy-firebase) - 🔥 A Swifty solution for all things Firebase. Quickly implement Firestore and Authentication on iOS + macOS using Swift protocols and methods.
 - [tanin47/tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
 - [packagesdev/packages](https://github.com/packagesdev/packages) - Integrated Packaging Environment for OS X
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
@@ -1039,7 +1039,6 @@
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [marzer/poxy](https://github.com/marzer/poxy) - Documentation generator for C++
 - [aio-libs/aiomysql](https://github.com/aio-libs/aiomysql) - aiomysql is a library for accessing a MySQL database from the asyncio
 - [aio-libs/aiopg](https://github.com/aio-libs/aiopg) - aiopg is a library for accessing a PostgreSQL database from the asyncio
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
@@ -1439,6 +1438,7 @@
 - [MillerTechnologyPeru/SmartLock](https://github.com/MillerTechnologyPeru/SmartLock) - Swift BLE Smart Lock system
 - [LiarPrincess/Violet](https://github.com/LiarPrincess/Violet) - Python VM written in Swift
 - [CodeEditApp/CodeEditKit](https://github.com/CodeEditApp/CodeEditKit) - CodeEditKit is an interface between CodeEdit and extensions
+- [Flowductive/easy-firebase](https://github.com/Flowductive/easy-firebase) - 🔥 A Swifty solution for all things Firebase. Quickly implement Firestore and Authentication on iOS + macOS using Swift protocols and methods.
 - [stackotter/scute](https://github.com/stackotter/scute) - An extensible static site generation tool built with Swift.
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃Create hand-drawn, sketchy, comic shape in Swift
