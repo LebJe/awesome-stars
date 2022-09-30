@@ -875,6 +875,7 @@
 
 ## Others 
 
+- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1353,6 +1354,8 @@
 
 ## Swift 
 
+- [ChimeHQ/chime-swift](https://github.com/ChimeHQ/chime-swift) - A Chime extension for Swift
+- [ordo-one/package-benchmark](https://github.com/ordo-one/package-benchmark) - Swift benchmark runner as a SwiftPM command plug-in.
 - [sersoft-gmbh/device-input](https://github.com/sersoft-gmbh/device-input) - Processes inputs read from /dev/input device streams
 - [paulw11/stopwatch](https://github.com/paulw11/stopwatch) - Code for How not to create a stopwatch in Swift
 - [iq3addLi/swift-vapor-layered-realworld-example-app](https://github.com/iq3addLi/swift-vapor-layered-realworld-example-app) - Exemplary real world application built with Swift + Vapor. 🐦💧
