@@ -72,6 +72,7 @@
 
 ## C 
 
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [neoclide/wasm-fuzzy](https://github.com/neoclide/wasm-fuzzy) - Fuzzy match at native speed
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -1358,7 +1359,7 @@
 ## Swift 
 
 - [ChimeHQ/chime-swift](https://github.com/ChimeHQ/chime-swift) - A Chime extension for Swift
-- [ordo-one/package-benchmark](https://github.com/ordo-one/package-benchmark) - Swift benchmark runner as a SwiftPM command plug-in.
+- [ordo-one/package-benchmark](https://github.com/ordo-one/package-benchmark) - Swift benchmark runner as a SwiftPM command plug-in with CI support.
 - [sersoft-gmbh/device-input](https://github.com/sersoft-gmbh/device-input) - Processes inputs read from /dev/input device streams
 - [paulw11/stopwatch](https://github.com/paulw11/stopwatch) - Code for How not to create a stopwatch in Swift
 - [iq3addLi/swift-vapor-layered-realworld-example-app](https://github.com/iq3addLi/swift-vapor-layered-realworld-example-app) - Exemplary real world application built with Swift + Vapor. 🐦💧
