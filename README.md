@@ -1360,6 +1360,8 @@
 
 ## Swift 
 
+- [omaralbeik/Drops](https://github.com/omaralbeik/Drops) - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
+- [ChimeHQ/chime-rust](https://github.com/ChimeHQ/chime-rust) - A Chime extension for Rust
 - [ChimeHQ/chime-swift](https://github.com/ChimeHQ/chime-swift) - A Chime extension for Swift
 - [ordo-one/package-benchmark](https://github.com/ordo-one/package-benchmark) - Swift benchmark runner as a SwiftPM command plug-in with CI support.
 - [sersoft-gmbh/device-input](https://github.com/sersoft-gmbh/device-input) - Processes inputs read from /dev/input device streams
