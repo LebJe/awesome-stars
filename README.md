@@ -260,6 +260,7 @@
 
 ## C++ 
 
+- [markondej/cpp-icmplib](https://github.com/markondej/cpp-icmplib) - A C++ header-only ICMP Ping library
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [nezticle/qtoutgauge](https://github.com/nezticle/qtoutgauge) - A Qt Module for consuming the OutGauge protocol with Qt/QML
@@ -603,6 +604,7 @@
 
 ## JavaScript 
 
+- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [yuki-yano/coc-nav](https://github.com/yuki-yano/coc-nav) - 
 - [ThatTonybo/BeamAdvisor](https://github.com/ThatTonybo/BeamAdvisor) - ETS2/ATS inspired information+navigation widget for BeamNG.drive
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -1361,6 +1363,8 @@
 
 ## Swift 
 
+- [codeface-io/SwiftLSP](https://github.com/codeface-io/SwiftLSP) - The Language Server Protocol in Swift
+- [codeface-io/LSPService](https://github.com/codeface-io/LSPService) - Use Local LSP Servers via WebSockets
 - [omaralbeik/Drops](https://github.com/omaralbeik/Drops) - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
 - [ChimeHQ/chime-rust](https://github.com/ChimeHQ/chime-rust) - A Chime extension for Rust
 - [ChimeHQ/chime-swift](https://github.com/ChimeHQ/chime-swift) - A Chime extension for Swift
