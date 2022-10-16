@@ -1363,6 +1363,7 @@
 
 ## Swift 
 
+- [hirotakan/MessagePacker](https://github.com/hirotakan/MessagePacker) - MessagePack serializer implementation for Swift. msgpack.org[Swift]
 - [sourcelocation/cardculator](https://github.com/sourcelocation/cardculator) - PiP/Mini calculator for jailbroken iOS devices
 - [codeface-io/SwiftLSP](https://github.com/codeface-io/SwiftLSP) - The Language Server Protocol in Swift
 - [codeface-io/LSPService](https://github.com/codeface-io/LSPService) - Use Local LSP Servers via WebSockets
