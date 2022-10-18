@@ -716,7 +716,6 @@
 
 - [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker / colorizer plugin.
 - [lvimuser/lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) - 
-- [JustLazzy/jl-laptop](https://github.com/JustLazzy/jl-laptop) - Laptop script for fivem, that has boosting, darkweb, and bennys shop apps
 - [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) - Official Alpine Linux Docker image. Win at minimalism!
 - [ckipp01/stylua-nvim](https://github.com/ckipp01/stylua-nvim) - Let's just use a formatter and never discuss formatting again.
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -1761,7 +1760,7 @@
 - [alexsteinerde/docker-client-swift](https://github.com/alexsteinerde/docker-client-swift) - This is a Docker Client written in Swift. It's using the NIO Framework to communicate with the Docker Engine via sockets.
 - [cezheng/Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift with XPath & CSS support
 - [kodlian/SwiftRegexDSL](https://github.com/kodlian/SwiftRegexDSL) - A Declarative Structured Language for regular expressions in Swift.
-- [apple/swift-syntax](https://github.com/apple/swift-syntax) - SwiftPM package for SwiftSyntax library.
+- [apple/swift-syntax](https://github.com/apple/swift-syntax) - A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
 - [nodes-vapor/gatekeeper](https://github.com/nodes-vapor/gatekeeper) - Rate limiting middleware for Vapor 👮
 - [silt-lang/silt](https://github.com/silt-lang/silt) - An in-progress fast, dependently typed, functional programming language implemented in Swift.
 - [OpenCombine/OpenCombine](https://github.com/OpenCombine/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
