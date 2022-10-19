@@ -675,7 +675,6 @@
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [bsneed/StellarSwift](https://github.com/bsneed/StellarSwift) - Swift Addons for Panic's Nova app.
 - [SwiftFiddle/swiftfiddle-web](https://github.com/SwiftFiddle/swiftfiddle-web) - SwiftFiddle is an online playground for creating, sharing and embedding Swift fiddles (little Swift programs that run directly in your browser).
-- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [unsignedapps/swift-create-xcframework](https://github.com/unsignedapps/swift-create-xcframework) - A simple Command Line Tool to create XCFrameworks by wrapping xcodebuild.
 - [LinusU/node-appdmg](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs
 - [merico-dev/tree-sitter-swift](https://github.com/merico-dev/tree-sitter-swift) - Swift grammar for tree-sitter
@@ -1362,6 +1361,7 @@
 
 ## Swift 
 
+- [jectivex/JXKit](https://github.com/jectivex/JXKit) - The pure swift interface to JavaScriptCore for iOS, macOS, tvOS, and Linux
 - [hirotakan/MessagePacker](https://github.com/hirotakan/MessagePacker) - MessagePack serializer implementation for Swift. msgpack.org[Swift]
 - [sourcelocation/cardculator](https://github.com/sourcelocation/cardculator) - PiP/Mini calculator for jailbroken iOS devices
 - [codeface-io/SwiftLSP](https://github.com/codeface-io/SwiftLSP) - The Language Server Protocol in Swift
@@ -1986,6 +1986,7 @@
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [dansomething/coc-java-debug](https://github.com/dansomething/coc-java-debug) - An extension for coc.nvim to enable Java debugging via jdt.ls
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
