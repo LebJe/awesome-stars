@@ -605,6 +605,7 @@
 ## JavaScript 
 
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [WordPress/wordpress-wasm](https://github.com/WordPress/wordpress-wasm) - Run WordPress in the browser thanks to WebAssembly magic
 - [yuki-yano/coc-nav](https://github.com/yuki-yano/coc-nav) - 
 - [ThatTonybo/BeamAdvisor](https://github.com/ThatTonybo/BeamAdvisor) - ETS2/ATS inspired information+navigation widget for BeamNG.drive
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -968,7 +969,6 @@
 
 ## PHP 
 
-- [WordPress/wordpress-wasm](https://github.com/WordPress/wordpress-wasm) - Run WordPress in the browser thanks to WebAssembly magic
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
 - [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
 
