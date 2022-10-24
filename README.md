@@ -260,6 +260,7 @@
 
 ## C++ 
 
+- [markondej/fm_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
 - [markondej/cpp-icmplib](https://github.com/markondej/cpp-icmplib) - A C++ header-only ICMP Ping library
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -1974,7 +1975,7 @@
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox, Thunderbird & others.
-- [kerhub/issue-forms-creator](https://github.com/kerhub/issue-forms-creator) - Interface to generate Github Issue Forms
+- [kerhub/issue-forms-creator](https://github.com/kerhub/issue-forms-creator) - GitHub Issue Forms generator
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
