@@ -37,7 +37,6 @@
 - [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
-- [PLpgSQL](#plpgsql)
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [PureBasic](#purebasic)
@@ -973,10 +972,6 @@
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
 - [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
 
-## PLpgSQL 
-
-- [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
-
 ## Pascal 
 
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
@@ -1181,6 +1176,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
+- [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
 - [japaric/xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
