@@ -960,6 +960,7 @@
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [pre-commit/action](https://github.com/pre-commit/action) - a GitHub action to run `pre-commit`
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [tallpants/vscode-theme-iterm2](https://github.com/tallpants/vscode-theme-iterm2) - 🎨 Color scheme for iTerm2 matching Visual Studio Code's default Dark+ and Light+ themes.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [arcticicestudio/nord-iterm2](https://github.com/arcticicestudio/nord-iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
@@ -1817,7 +1818,6 @@
 - [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [compnerd/DXSample](https://github.com/compnerd/DXSample) - Sample Program for DirectX 12 + Swift
 - [JohnSundell/ShellOut](https://github.com/JohnSundell/ShellOut) - Easily run shell commands from a Swift script or command line tool
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [lukaskubanek/LoremSwiftum](https://github.com/lukaskubanek/LoremSwiftum) - A lightweight lorem ipsum generator for Swift
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
 - [swift-extras/swift-extras-base64](https://github.com/swift-extras/swift-extras-base64) - Base64 encode and decode without the use of Foundation in pure Swift.
