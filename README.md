@@ -1359,6 +1359,7 @@
 
 ## Swift 
 
+- [FluidGroup/JAYSON](https://github.com/FluidGroup/JAYSON) - 🧱 A JSON decoding/encoding library that handles optimistically or strictly.
 - [swiftwasm/WebWorkerKit](https://github.com/swiftwasm/WebWorkerKit) - A way of running Swift Distributed Actors in their own worker "thread"
 - [johnfairh/RubyGateway](https://github.com/johnfairh/RubyGateway) - Embed Ruby in Swift: load Gems, run scripts, call APIs seamlessly in both directions.
 - [jectivex/JXKit](https://github.com/jectivex/JXKit) - The pure swift interface to JavaScriptCore for iOS, macOS, tvOS, and Linux
