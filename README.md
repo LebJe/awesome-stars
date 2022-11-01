@@ -467,6 +467,8 @@
 
 ## Go 
 
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh
+- [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
@@ -1057,7 +1059,7 @@
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [mosra/m.css](https://github.com/mosra/m.css) - A no-nonsense, no-JavaScript CSS framework, site and documentation theme for content-oriented websites
-- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
+- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code. This
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [Viatorus/quom](https://github.com/Viatorus/quom) - Quom generates a single file from your for C/C++ sources. This is also known as amalgamation.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
