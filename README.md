@@ -81,6 +81,7 @@
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [fabulouspanda/MacMiner](https://github.com/fabulouspanda/MacMiner) - The first native Mac GUI for Bitcoin, Litecoin and Alt Coin mining
 - [ctreffs/SwiftNFD](https://github.com/ctreffs/SwiftNFD) - Swift wrapper for Native File Dialog, a tiny, neat C library that portably invokes native file open and save dialogs.
+- [STREGAsGate/Lua](https://github.com/STREGAsGate/Lua) - Lua for Swift
 - [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
@@ -261,6 +262,7 @@
 
 ## C++ 
 
+- [audiorouterdev/audio-router](https://github.com/audiorouterdev/audio-router) - Routes audio from programs to different audio devices.
 - [markondej/fm_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
 - [markondej/cpp-icmplib](https://github.com/markondej/cpp-icmplib) - A C++ header-only ICMP Ping library
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
@@ -1385,7 +1387,6 @@
 - [shaps80/MarkdownText](https://github.com/shaps80/MarkdownText) - A native SwiftUI view for rendering Markdown text in an iOS or macOS app
 - [shaps80/MarkdownTextDemo](https://github.com/shaps80/MarkdownTextDemo) - A demo app for showcasing the MarkdownText library.
 - [BrentMifsud/AsyncValue](https://github.com/BrentMifsud/AsyncValue) - A simple swift package that provides a Swift Concurrency equivalent to `@Published`.
-- [STREGAsGate/Lua](https://github.com/STREGAsGate/Lua) - Lua for Swift
 - [litewrap/GreenSocket](https://github.com/litewrap/GreenSocket) - Socket framework for Swift using the Swift Package Manager. Works on iOS, macOS, Linux and Windows.
 - [compnerd/swift-winmd](https://github.com/compnerd/swift-winmd) - Windows Metadata Parser in Swift
 - [Lighter-swift/Lighter](https://github.com/Lighter-swift/Lighter) - Swift APIs for SQLite: Type-safe down to the schema. Very, very, fast. Dependency free.
