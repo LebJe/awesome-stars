@@ -299,7 +299,7 @@
 - [libgeos/geos](https://github.com/libgeos/geos) - Geometry Engine, Open Source
 - [TorqueGameEngines/Torque3D](https://github.com/TorqueGameEngines/Torque3D) - 
 - [GarageGames/Torque3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames
-- [microsoft/cppwinrt](https://github.com/microsoft/cppwinrt) - C++ language projection for the Windows Runtime
+- [microsoft/cppwinrt](https://github.com/microsoft/cppwinrt) - C++/WinRT
 - [darlinghq/darling-dmg](https://github.com/darlinghq/darling-dmg) - FUSE module for .dmg files (containing an HFS+ filesystem)
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
@@ -612,6 +612,7 @@
 
 ## JavaScript 
 
+- [staysail/nova-clangd](https://github.com/staysail/nova-clangd) - ClangD Extension for Nova
 - [swiftwasm/setup-swiftwasm](https://github.com/swiftwasm/setup-swiftwasm) - An action to download a prebuilt SwiftWasm toolchain and add it to the PATH
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [yuki-yano/coc-nav](https://github.com/yuki-yano/coc-nav) - 
@@ -790,7 +791,7 @@
 - [nvim-treesitter/module-template](https://github.com/nvim-treesitter/module-template) - A repository template to create you own nvim-treesitter module !
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim) - Neovim/Vim color scheme inspired by Dark+ and Light+ theme in Visual Studio Code
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
 - [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall) - Provides the missing :LspInstall for nvim-lspconfig
@@ -953,7 +954,6 @@
 - [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
-- [gredman/csharp-novaextension](https://github.com/gredman/csharp-novaextension) - Nova syntax highlighting for C#
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [TablePlus/TablePlus-Windows](https://github.com/TablePlus/TablePlus-Windows) - TablePlus Windows issue tracker
 - [Homebrew/discussions](https://github.com/Homebrew/discussions) - 🗣 Public open-ended discussions. Replacement for our Discourse.
@@ -1323,6 +1323,7 @@
 - [staysail/nova-c](https://github.com/staysail/nova-c) - C support for Nova using Tree-Sitter
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
+- [gredman/csharp-novaextension](https://github.com/gredman/csharp-novaextension) - Nova syntax highlighting for C#
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## Shell 
@@ -1370,6 +1371,8 @@
 
 ## Swift 
 
+- [flowkey/UIKit-cross-platform](https://github.com/flowkey/UIKit-cross-platform) - Cross-platform Swift implementation of UIKit, mostly for Android
+- [Bouke/HAP](https://github.com/Bouke/HAP) - Swift implementation of the Homekit Accessory Protocol
 - [groue/GRDBQuery](https://github.com/groue/GRDBQuery) - The SwiftUI companion for GRDB
 - [ChimeHQ/chime-elixir](https://github.com/ChimeHQ/chime-elixir) - A Chime extension for Elixir
 - [ChimeHQ/chime-python](https://github.com/ChimeHQ/chime-python) - A Chime extension for Rust
@@ -1933,6 +1936,7 @@
 
 ## TypeScript 
 
+- [rcjsuen/dockerfile-language-service](https://github.com/rcjsuen/dockerfile-language-service) - Dockerfile language service for providing an API to create feature-rich Dockerfile editors in JavaScript.
 - [WordPress/wordpress-wasm](https://github.com/WordPress/wordpress-wasm) - Run WordPress in the browser thanks to WebAssembly magic
 - [xiyaowong/coc-symbol-line](https://github.com/xiyaowong/coc-symbol-line) - Symbols outline for coc.nvim
 - [xiyaowong/coc-stylua](https://github.com/xiyaowong/coc-stylua) - StyLua extension for coc.nvim.
