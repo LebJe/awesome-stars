@@ -1132,6 +1132,8 @@
 
 ## Rust 
 
+- [syntacti/lapce-swift](https://github.com/syntacti/lapce-swift) - lapce-swift
+- [lapce/lapce-rust](https://github.com/lapce/lapce-rust) - 
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
 - [Cpp-Project-Manager/Cpp-Project-Manager](https://github.com/Cpp-Project-Manager/Cpp-Project-Manager) - A C++ Template Generator and Project manager. The C++ equivalent to rust's cargo.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
@@ -1371,6 +1373,7 @@
 
 ## Swift 
 
+- [Genaro-Chris/SignalHandler](https://github.com/Genaro-Chris/SignalHandler) - 
 - [DominikHorn/ASN1Parser](https://github.com/DominikHorn/ASN1Parser) - Minimalistic Swift parser for ASN.1 data. Currently supports DER and therefore also BER binary format
 - [flowkey/UIKit-cross-platform](https://github.com/flowkey/UIKit-cross-platform) - Cross-platform Swift implementation of UIKit, mostly for Android
 - [Bouke/HAP](https://github.com/Bouke/HAP) - Swift implementation of the Homekit Accessory Protocol
