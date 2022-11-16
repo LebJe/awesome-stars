@@ -617,6 +617,7 @@
 - [staysail/nova-clangd](https://github.com/staysail/nova-clangd) - ClangD Extension for Nova
 - [swiftwasm/setup-swiftwasm](https://github.com/swiftwasm/setup-swiftwasm) - An action to download a prebuilt SwiftWasm toolchain and add it to the PATH
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [WordPress/wordpress-wasm](https://github.com/WordPress/wordpress-wasm) - Run WordPress in the browser thanks to WebAssembly magic
 - [yuki-yano/coc-nav](https://github.com/yuki-yano/coc-nav) - 
 - [ThatTonybo/BeamAdvisor](https://github.com/ThatTonybo/BeamAdvisor) - ETS2/ATS inspired information+navigation widget for BeamNG.drive
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -1376,6 +1377,8 @@
 
 ## Swift 
 
+- [Azoy/Echo](https://github.com/Azoy/Echo) - A complete reflection library for Swift
+- [canopas/UIPilot](https://github.com/canopas/UIPilot) - The missing typesafe SwiftUI navigation library
 - [orchetect/OSCKit](https://github.com/orchetect/OSCKit) - Open Sound Control (OSC) library written in Swift.
 - [funcmike/rabbitmq-nio](https://github.com/funcmike/rabbitmq-nio) - A Swift implementation of AMQP 0.9.1 protocol: decoder + encoder and non-blocking client
 - [Genaro-Chris/SignalHandler](https://github.com/Genaro-Chris/SignalHandler) - 
@@ -1946,7 +1949,6 @@
 ## TypeScript 
 
 - [rcjsuen/dockerfile-language-service](https://github.com/rcjsuen/dockerfile-language-service) - Dockerfile language service for providing an API to create feature-rich Dockerfile editors in JavaScript.
-- [WordPress/wordpress-wasm](https://github.com/WordPress/wordpress-wasm) - Run WordPress in the browser thanks to WebAssembly magic
 - [xiyaowong/coc-symbol-line](https://github.com/xiyaowong/coc-symbol-line) - Symbols outline for coc.nvim
 - [xiyaowong/coc-stylua](https://github.com/xiyaowong/coc-stylua) - StyLua extension for coc.nvim.
 - [xiyaowong/coc-lightbulb-](https://github.com/xiyaowong/coc-lightbulb-) - Code action 💡 for coc.nvim
