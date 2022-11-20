@@ -613,6 +613,7 @@
 
 ## JavaScript 
 
+- [guillaumealgis/Serpens.novaextension](https://github.com/guillaumealgis/Serpens.novaextension) - Python Language Server (PyLS) Extension for Nova editor
 - [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
 - [staysail/nova-clangd](https://github.com/staysail/nova-clangd) - ClangD Extension for Nova
 - [swiftwasm/setup-swiftwasm](https://github.com/swiftwasm/setup-swiftwasm) - An action to download a prebuilt SwiftWasm toolchain and add it to the PATH
@@ -1378,6 +1379,8 @@
 
 ## Swift 
 
+- [soulverteam/SoulverStringParsing](https://github.com/soulverteam/SoulverStringParsing) - Learn about how SoulverCore can give Swift "better than regex" data parsing features (for many common tasks)
+- [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating mathematical expressions
 - [PureSwift/WLAN](https://github.com/PureSwift/WLAN) - Wireless LAN (WiFi) API for Swift (Supports Linux)
 - [PureSwift/BluetoothWeb](https://github.com/PureSwift/BluetoothWeb) - Swift library for Bluetooth Web API (WebAssembly)
 - [adam-fowler/compress-nio](https://github.com/adam-fowler/compress-nio) - Compression/Decompression support for Swift NIO ByteBuffer
