@@ -1380,6 +1380,8 @@
 
 ## Swift 
 
+- [jagreenwood/OpenWeatherKit](https://github.com/jagreenwood/OpenWeatherKit) - An open implementation of Apple's WeatherKit for Swift.
+- [sammysmallman/OSCKit](https://github.com/sammysmallman/OSCKit) - The OSCKit package provides the classes needed for your apps to communicate among computers, sound synthesizers, and other multimedia devices via OSC over an IP network.
 - [AudioKit/Waveform](https://github.com/AudioKit/Waveform) - GPU accelerated waveform view
 - [orchetect/MIDIKit](https://github.com/orchetect/MIDIKit) - 🎹 Modern multi-platform Swift CoreMIDI wrapper with MIDI 2.0 support.
 - [orchetect/SwiftRadix](https://github.com/orchetect/SwiftRadix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
