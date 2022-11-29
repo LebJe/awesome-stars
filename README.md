@@ -265,6 +265,7 @@
 
 ## C++ 
 
+- [luajit-remake/luajit-remake](https://github.com/luajit-remake/luajit-remake) - An ongoing attempt to re-engineer LuaJIT from scratch
 - [aristocratos/btop4win](https://github.com/aristocratos/btop4win) - btop++ for windows
 - [audiorouterdev/audio-router](https://github.com/audiorouterdev/audio-router) - Routes audio from programs to different audio devices.
 - [markondej/fm_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
@@ -1069,7 +1070,7 @@
 - [mosra/m.css](https://github.com/mosra/m.css) - A no-nonsense, no-JavaScript CSS framework, site and documentation theme for content-oriented websites
 - [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project http
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
-- [Viatorus/quom](https://github.com/Viatorus/quom) - Quom generates a single file from your for C/C++ sources. This is also known as amalgamation.
+- [Viatorus/quom](https://github.com/Viatorus/quom) - Quom generates a single header file from your for C/C++ sources. This is also known as amalgamation.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
@@ -1927,7 +1928,7 @@
 - [brokenhandsio/leaf-error-middleware](https://github.com/brokenhandsio/leaf-error-middleware) - Serve up custom 404 and server error pages for your Vapor App
 - [finestructure/Arena](https://github.com/finestructure/Arena) - A command line tool to create Swift Playground projects with SPM package dependencies
 - [SwiftGit2/SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift bindings to libgit2
-- [vapor-community/HTMLKit](https://github.com/vapor-community/HTMLKit) - A type-safe DSL that renders dynamic HTML templates in Swift
+- [vapor-community/HTMLKit](https://github.com/vapor-community/HTMLKit) - Create and render HTML templates with HTMLKit
 - [davedelong/time](https://github.com/davedelong/time) - Building a better date/time library for Swift
 - [sharplet/Regex](https://github.com/sharplet/Regex) - A delightful and expressive regular expression type for Swift.
 - [vapor/docs](https://github.com/vapor/docs) - 📖 Documentation markdown for all Vapor packages.
