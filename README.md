@@ -81,7 +81,6 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [neoclide/wasm-fuzzy](https://github.com/neoclide/wasm-fuzzy) - Fuzzy match at native speed
-- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [fabulouspanda/MacMiner](https://github.com/fabulouspanda/MacMiner) - The first native Mac GUI for Bitcoin, Litecoin and Alt Coin mining
 - [ctreffs/SwiftNFD](https://github.com/ctreffs/SwiftNFD) - Swift wrapper for Native File Dialog, a tiny, neat C library that portably invokes native file open and save dialogs.
 - [STREGAsGate/Lua](https://github.com/STREGAsGate/Lua) - Lua for Swift
@@ -732,6 +731,7 @@
 - [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .c)
 - [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker / colorizer plugin.
 - [lvimuser/lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) - 
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) - Official Alpine Linux Docker image. Win at minimalism!
 - [ckipp01/stylua-nvim](https://github.com/ckipp01/stylua-nvim) - Let's just use a formatter and never discuss formatting again.
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -1047,7 +1047,7 @@
 - [neovim/pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [NationalSecurityAgency/qgis-datetimetools-plugin](https://github.com/NationalSecurityAgency/qgis-datetimetools-plugin) - QGIS conversion tools to display the local date, time, time zone, convert between UNIX time (Epoch), Julian dates, ISO8601, calculate the difference between two dates, select a location and time zone 
-- [dbohdan/remarshal](https://github.com/dbohdan/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
+- [remarshal-project/remarshal](https://github.com/remarshal-project/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [uiri/toml](https://github.com/uiri/toml) - Python lib for TOML
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
@@ -1381,6 +1381,7 @@
 
 ## Swift 
 
+- [nathantannar4/Turbocharger](https://github.com/nathantannar4/Turbocharger) - Turbocharger aims accelerate SwiftUI development by providing commonly desired views and view modifiers
 - [jagreenwood/OpenWeatherKit](https://github.com/jagreenwood/OpenWeatherKit) - An open implementation of Apple's WeatherKit for Swift.
 - [sammysmallman/OSCKit](https://github.com/sammysmallman/OSCKit) - The OSCKit package provides the classes needed for your apps to communicate among computers, sound synthesizers, and other multimedia devices via OSC over an IP network.
 - [AudioKit/Waveform](https://github.com/AudioKit/Waveform) - GPU accelerated waveform view
