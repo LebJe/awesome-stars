@@ -1381,6 +1381,7 @@
 
 ## Swift 
 
+- [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts
 - [nathantannar4/Turbocharger](https://github.com/nathantannar4/Turbocharger) - Turbocharger aims accelerate SwiftUI development by providing commonly desired views and view modifiers
 - [jagreenwood/OpenWeatherKit](https://github.com/jagreenwood/OpenWeatherKit) - An open implementation of Apple's WeatherKit for Swift.
 - [sammysmallman/OSCKit](https://github.com/sammysmallman/OSCKit) - The OSCKit package provides the classes needed for your apps to communicate among computers, sound synthesizers, and other multimedia devices via OSC over an IP network.
