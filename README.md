@@ -615,6 +615,7 @@
 
 ## JavaScript 
 
+- [neoclide/coc-repl](https://github.com/neoclide/coc-repl) - Read-Eval-Print-Loop (REPL) for coc.nvim
 - [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
 - [staysail/nova-clangd](https://github.com/staysail/nova-clangd) - ClangD Extension for Nova
 - [swiftwasm/setup-swiftwasm](https://github.com/swiftwasm/setup-swiftwasm) - An action to download a prebuilt SwiftWasm toolchain and add it to the PATH
