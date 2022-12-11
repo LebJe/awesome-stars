@@ -1162,7 +1162,7 @@
 - [mufeedvh/moonwalk](https://github.com/mufeedvh/moonwalk) - Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [thatvegandev/thokr](https://github.com/thatvegandev/thokr) - ✨ sleek typing tui with visualized results and historical logging
+- [jrnxf/thokr](https://github.com/jrnxf/thokr) - ✨ sleek typing tui with visualized results and historical logging
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [hush-shell/hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
@@ -1379,6 +1379,7 @@
 
 ## Swift 
 
+- [orlandos-nl/NioDNS](https://github.com/orlandos-nl/NioDNS) - 
 - [Frizlab/stream-reader](https://github.com/Frizlab/stream-reader) - A simple stream protocol in Swift with concrete implementations
 - [adamwulf/PonyExpress](https://github.com/adamwulf/PonyExpress) - Type-safe NotificationCenter alternative for Swift
 - [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts
