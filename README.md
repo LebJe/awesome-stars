@@ -619,7 +619,7 @@
 - [staysail/nova-clangd](https://github.com/staysail/nova-clangd) - ClangD Extension for Nova
 - [swiftwasm/setup-swiftwasm](https://github.com/swiftwasm/setup-swiftwasm) - An action to download a prebuilt SwiftWasm toolchain and add it to the PATH
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [WordPress/wordpress-sandbox](https://github.com/WordPress/wordpress-sandbox) - Run WordPress in the browser thanks to WebAssembly magic
+- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser thanks to WebAssembly magic
 - [yuki-yano/coc-nav](https://github.com/yuki-yano/coc-nav) - 
 - [ThatTonybo/BeamAdvisor](https://github.com/ThatTonybo/BeamAdvisor) - ETS2/ATS inspired information+navigation widget for BeamNG.drive
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
