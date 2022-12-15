@@ -1379,7 +1379,7 @@
 
 ## Swift 
 
-- [orlandos-nl/NioDNS](https://github.com/orlandos-nl/NioDNS) - 
+- [orlandos-nl/NioDNS](https://github.com/orlandos-nl/NioDNS) - A DNS Resolver in Swift
 - [Frizlab/stream-reader](https://github.com/Frizlab/stream-reader) - A simple stream protocol in Swift with concrete implementations
 - [adamwulf/PonyExpress](https://github.com/adamwulf/PonyExpress) - Type-safe NotificationCenter alternative for Swift
 - [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts
