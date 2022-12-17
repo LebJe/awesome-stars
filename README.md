@@ -521,7 +521,7 @@
 - [supabase-community/postgrest-go](https://github.com/supabase-community/postgrest-go) - Isomorphic Go client for PostgREST. (Now Updating)
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
-- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
+- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [BurntSushi/toml-test](https://github.com/BurntSushi/toml-test) - A language agnostic test suite for TOML parsers.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
