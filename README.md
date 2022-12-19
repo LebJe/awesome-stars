@@ -245,7 +245,7 @@
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
 - [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
-- [CircumSpector/DS4Windows](https://github.com/CircumSpector/DS4Windows) - The battle-tested industry-standard remapping tool for Windows.
+- [CircumSpector/DS4Windows](https://github.com/CircumSpector/DS4Windows) - A reimagination of DS4Windows.
 - [veler/PaZword](https://github.com/veler/PaZword) - A password manager made in UWP technology
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) - A tool to view and extract the contents of an Windows Installer (.msi) file.
