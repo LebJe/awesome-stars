@@ -1508,7 +1508,7 @@
 - [Flowductive/easy-firebase](https://github.com/Flowductive/easy-firebase) - 🔥 A Swifty solution for all things Firebase. Quickly implement Firestore and Authentication on iOS + macOS using Swift protocols and methods.
 - [stackotter/scute](https://github.com/stackotter/scute) - An extensible static site generation tool built with Swift.
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
-- [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃Create hand-drawn, sketchy, comic shape in Swift
+- [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃 Create hand-drawn, sketchy, comic shape in Swift
 - [shareup/wasm-interpreter-apple](https://github.com/shareup/wasm-interpreter-apple) - 
 - [ChimeHQ/DebugAdapterProtocol](https://github.com/ChimeHQ/DebugAdapterProtocol) - Swift library for working with Debug Adapter Protocol (DAP)
 - [stackotter/swift-css-parser](https://github.com/stackotter/swift-css-parser) - A lightweight CSS parser for parsing and creating CSS stylesheets
