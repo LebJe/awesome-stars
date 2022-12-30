@@ -138,6 +138,7 @@
 - [weyhan/lua4swift](https://github.com/weyhan/lua4swift) - High-level (convenient) Lua bindings for Swift
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [WeirdMath/SwiftyHaru](https://github.com/WeirdMath/SwiftyHaru) - A safe cross-platform Swift wrapper for LibHaru — a library for creating PDF documents.
+- [STREGAsGate/Raylib](https://github.com/STREGAsGate/Raylib) - A Swift package for Raylib. Builds Raylib from source so no need to fiddle with libraries. Just add as a dependency in you game package and go!
 - [nvim-neorg/tree-sitter-norg](https://github.com/nvim-neorg/tree-sitter-norg) - A TreeSitter parser for the Neorg File Format
 - [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -265,6 +266,7 @@
 
 ## C++ 
 
+- [Neargye/nameof](https://github.com/Neargye/nameof) - Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum
 - [mriscoc/Ender3V2S1](https://github.com/mriscoc/Ender3V2S1) - This is optimized firmware for Ender3 V2/S1 3D printers.
 - [luajit-remake/luajit-remake](https://github.com/luajit-remake/luajit-remake) - An ongoing attempt to re-engineer LuaJIT from scratch
 - [aristocratos/btop4win](https://github.com/aristocratos/btop4win) - btop++ for windows
@@ -1633,7 +1635,6 @@
 - [shaps80/Logging](https://github.com/shaps80/Logging) - Apple's SwiftLog + OSLog style StringInterpolation
 - [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
 - [spevans/swift-project1](https://github.com/spevans/swift-project1) - A minimal bare metal kernel in Swift
-- [STREGAsGate/Raylib](https://github.com/STREGAsGate/Raylib) - A Swift package for Raylib. Builds Raylib from source so no need to fiddle with libraries. Just add as a dependency in you game package and go!
 - [twostraws/whats-new-in-swift-5-5](https://github.com/twostraws/whats-new-in-swift-5-5) - 
 - [elai950/AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI
 - [square/Valet](https://github.com/square/Valet) - Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
