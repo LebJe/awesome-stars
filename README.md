@@ -1009,6 +1009,7 @@
 
 ## Python 
 
+- [wbsth/rbr-telemetry-viewer](https://github.com/wbsth/rbr-telemetry-viewer) - GUI Tool for viewing telemetry data from Richard Burns Rally simulator
 - [stackotter/the-ctf-book](https://github.com/stackotter/the-ctf-book) - An interactive course accompanied by a CTF, that brings you right through from beginner to advanced in a variety of fields relevant to hacking.
 - [regen100/cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake LSP Implementation
 - [BeamNG/BeamNGpy](https://github.com/BeamNG/BeamNGpy) - Python API for BeamNG.tech
@@ -1384,6 +1385,7 @@
 
 ## Swift 
 
+- [giginet/Scipio](https://github.com/giginet/Scipio) - A new build tool to generate XCFramework
 - [orlandos-nl/NioDNS](https://github.com/orlandos-nl/NioDNS) - A DNS Resolver in Swift
 - [Frizlab/stream-reader](https://github.com/Frizlab/stream-reader) - A simple stream protocol in Swift with concrete implementations
 - [adamwulf/PonyExpress](https://github.com/adamwulf/PonyExpress) - Type-safe NotificationCenter alternative for Swift
