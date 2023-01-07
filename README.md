@@ -1388,6 +1388,9 @@
 
 ## Swift 
 
+- [stefanspringer1/SwiftXML](https://github.com/stefanspringer1/SwiftXML) - A library written in Swift to process XML
+- [DougGregor/swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
+- [pointfreeco/composable-core-location](https://github.com/pointfreeco/composable-core-location) - A library that bridges the Composable Architecture and Core Location.
 - [giginet/Scipio](https://github.com/giginet/Scipio) - A new build tool to generate XCFramework
 - [orlandos-nl/NioDNS](https://github.com/orlandos-nl/NioDNS) - A DNS Resolver in Swift
 - [Frizlab/stream-reader](https://github.com/Frizlab/stream-reader) - A simple stream protocol in Swift with concrete implementations
