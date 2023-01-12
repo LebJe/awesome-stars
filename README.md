@@ -122,7 +122,7 @@
 - [Automotive-Swift/Swift-SocketCAN](https://github.com/Automotive-Swift/Swift-SocketCAN) - Access the Linux SocketCAN API via Swift
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
-- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
+- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter, and the most universal WASM runtime
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [brenns10/lsh](https://github.com/brenns10/lsh) - Simple shell implementation.  Tutorial here -&gt;
@@ -138,6 +138,7 @@
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
 - [weyhan/lua4swift](https://github.com/weyhan/lua4swift) - High-level (convenient) Lua bindings for Swift
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [WeirdMath/SwiftyHaru](https://github.com/WeirdMath/SwiftyHaru) - A safe cross-platform Swift wrapper for LibHaru — a library for creating PDF documents.
 - [STREGAsGate/Raylib](https://github.com/STREGAsGate/Raylib) - A Swift package for Raylib. Builds Raylib from source so no need to fiddle with libraries. Just add as a dependency in you game package and go!
@@ -1239,7 +1240,6 @@
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [graphql-rust/graphql-client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust
@@ -1703,7 +1703,7 @@
 - [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support
 - [luoxiu/Chalk](https://github.com/luoxiu/Chalk) - ✏️Expressive styling on terminal string. (chalk for swift)
 - [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library
-- [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
+- [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [kirualex/SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine
 - [Quick/Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C
