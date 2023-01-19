@@ -438,6 +438,7 @@
 - [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub
 - [aalvarado/JiraDarkTheme](https://github.com/aalvarado/JiraDarkTheme) - 🌙 😎 Jira Dark Theme Usercss / Stylus
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 - [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -1370,7 +1371,6 @@
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
 - [flowkey/swift-android-toolchain](https://github.com/flowkey/swift-android-toolchain) - Build Swift for Android from your Mac
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [hodovani/pre-commit-swift](https://github.com/hodovani/pre-commit-swift) - 
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
@@ -1393,6 +1393,7 @@
 
 ## Swift 
 
+- [pointfreeco/pointfreeco](https://github.com/pointfreeco/pointfreeco) - 🎬 The source for www.pointfree.co, a video series on functional programming and the Swift programming language.
 - [tgrapperon/swift-dependencies-additions](https://github.com/tgrapperon/swift-dependencies-additions) - More dependencies for `swift-dependencies`
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [stefanspringer1/SwiftXML](https://github.com/stefanspringer1/SwiftXML) - A library written in Swift to process XML
