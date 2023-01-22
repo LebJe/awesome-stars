@@ -1393,6 +1393,7 @@
 
 ## Swift 
 
+- [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [roanutil/CoreDataRepository](https://github.com/roanutil/CoreDataRepository) - An async library for using CoreData in the background
 - [vmanot/SwiftDB](https://github.com/vmanot/SwiftDB) - A modern database abstraction layer, batteries included.
 - [val-lang/val](https://github.com/val-lang/val) - The val compiler
