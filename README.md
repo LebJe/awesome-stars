@@ -433,6 +433,7 @@
 
 ## CSS 
 
+- [brokenhandsio/are-we-server-yet](https://github.com/brokenhandsio/are-we-server-yet) - Are we server yet? A simple reckoning of Swift’s readiness for Server-related things. Inspired by arewewebyet.org
 - [Birkbjo/OctoPrint-Themeify](https://github.com/Birkbjo/OctoPrint-Themeify) - Beautiful themes for OctoPrint
 - [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub
 - [aalvarado/JiraDarkTheme](https://github.com/aalvarado/JiraDarkTheme) - 🌙 😎 Jira Dark Theme Usercss / Stylus
