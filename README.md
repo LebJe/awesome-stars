@@ -1641,7 +1641,7 @@
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [orlandos-nl/MongoKitten](https://github.com/orlandos-nl/MongoKitten) - Native MongoDB driver for Swift, written in Swift
 - [aaronjedwards/swift-tds](https://github.com/aaronjedwards/swift-tds) - Non-blocking, event-driven Swift implementation of the TDS Protocol
-- [oozoofrog/SwiftDemangle](https://github.com/oozoofrog/SwiftDemangle) - SwiftDemangling by Swift
+- [oozoofrog/SwiftDemangle](https://github.com/oozoofrog/SwiftDemangle) - SwiftDemangling for Swift, clone from apple/swift/lib/Demangling
 - [Ponyboy47/ErrNo](https://github.com/Ponyboy47/ErrNo) - Swift enum wrapper for C errno values
 - [vapor-community/stripe-kit](https://github.com/vapor-community/stripe-kit) - 
 - [GraphQLSwift/DataLoader](https://github.com/GraphQLSwift/DataLoader) - DataLoader is a generic utility to be used as part of your Swift application's data fetching layer to provide a simplified and consistent API over various remote data sources such as databases or web 
