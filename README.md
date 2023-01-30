@@ -71,6 +71,7 @@
 
 ## C 
 
+- [pmaillot/X32-Behringer](https://github.com/pmaillot/X32-Behringer) - This GIT repo (C language) holds applications and utilities for the Behringer X32 and M32 mixing consoles. Additional details, documentation, implementation examples and apps can be found in my websit
 - [mika-n/NGPCarMenu](https://github.com/mika-n/NGPCarMenu) - Custom "Select Car in-game menu" for Richard Burns Rally (RBR v1.02 SSE) game. The plugin supports custom car preview images (the real RBR 3D rendered custom car images), car specs from NGP physics mo
 - [admkopec/BetaOS](https://github.com/admkopec/BetaOS) - An operating system written in Swift
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
