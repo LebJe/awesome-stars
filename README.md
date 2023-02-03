@@ -1396,6 +1396,8 @@
 
 ## Swift 
 
+- [Esri/arcgis-maps-sdk-swift](https://github.com/Esri/arcgis-maps-sdk-swift) - Swift Package Manager support for ArcGIS Maps SDK for Swift
+- [Esri/arcgis-maps-sdk-swift-samples](https://github.com/Esri/arcgis-maps-sdk-swift-samples) - SwiftUI samples demonstrating various capabilities of ArcGIS Maps SDK for Swift
 - [henrybetts/swift-webgpu](https://github.com/henrybetts/swift-webgpu) - Swift bindings for WebGPU
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [roanutil/CoreDataRepository](https://github.com/roanutil/CoreDataRepository) - An async library for using CoreData in the background
