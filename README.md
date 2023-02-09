@@ -7,6 +7,7 @@
 
 - [Assembly](#assembly)
 - [AutoIt](#autoit)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -68,6 +69,10 @@
 
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
+
+## Batchfile 
+
+- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 
 ## C 
 
@@ -432,7 +437,6 @@
 
 - [xpol/setup-lua](https://github.com/xpol/setup-lua) - GitHub action to setup Lua.
 - [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) - A template CMake project to get you started with C++ and tooling
-- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 
@@ -1558,7 +1562,7 @@
 - [stackotter/swift-mixin](https://github.com/stackotter/swift-mixin) - An intuitive library for hooking functions in Swift.
 - [zydeco/capstone-swift](https://github.com/zydeco/capstone-swift) - Swift bindings for Capstone Engine
 - [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
-- [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - Swift library for highlighting, indenting, and querying structured syntax
+- [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - A Swift library for efficient, flexible content-based text styling
 - [square/StringTemplate](https://github.com/square/StringTemplate) - Quickly and easily apply a template to a target string.
 - [dduan/TOMLDeserializer](https://github.com/dduan/TOMLDeserializer) - Replaced by https://github.com/dduan/TOMLDecoder
 - [KS1019/SwiftyShell](https://github.com/KS1019/SwiftyShell) - Example implementation of shell in Swift
