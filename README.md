@@ -747,6 +747,7 @@
 
 ## Lua 
 
+- [bluebird75/luaunit](https://github.com/bluebird75/luaunit) - LuaUnit is a popular unit-testing framework for Lua, with an interface typical of xUnit libraries (Python unittest, Junit, NUnit, ...). It supports several output formats (Text, TAP, JUnit, ...) to be
 - [roobert/search-replace.nvim](https://github.com/roobert/search-replace.nvim) - :monocle_face: A Neovim search and replace plugin that builds on the native search and replace experience.
 - [teal-language/cyan](https://github.com/teal-language/cyan) - The Teal build system and project manager
 - [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .c)
