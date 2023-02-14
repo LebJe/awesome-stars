@@ -1165,7 +1165,7 @@
 
 ## Rust 
 
-- [KoBruhh/RASCII](https://github.com/KoBruhh/RASCII) - Advanced image to ascii art fully created with rust 🦀 🚀
+- [KoBruhh/RASCII](https://github.com/KoBruhh/RASCII) - Advanced image to ascii art written in rust 🦀 🚀
 - [lapce/lapce-volts](https://github.com/lapce/lapce-volts) - 
 - [syntacti/lapce-swift](https://github.com/syntacti/lapce-swift) - lapce-swift
 - [lapce/lapce-rust](https://github.com/lapce/lapce-rust) - 
