@@ -747,6 +747,7 @@
 
 ## Lua 
 
+- [giann/croissant](https://github.com/giann/croissant) - 🥐 A Lua REPL and debugger
 - [bluebird75/luaunit](https://github.com/bluebird75/luaunit) - LuaUnit is a popular unit-testing framework for Lua, with an interface typical of xUnit libraries (Python unittest, Junit, NUnit, ...). It supports several output formats (Text, TAP, JUnit, ...) to be
 - [roobert/search-replace.nvim](https://github.com/roobert/search-replace.nvim) - :monocle_face: A Neovim search and replace plugin that builds on the native search and replace experience.
 - [teal-language/cyan](https://github.com/teal-language/cyan) - The Teal build system and project manager
@@ -1407,6 +1408,7 @@
 
 ## Swift 
 
+- [Esri/arcgis-maps-sdk-swift-toolkit](https://github.com/Esri/arcgis-maps-sdk-swift-toolkit) - Mapping components that will simplify your iOS app development with the ArcGIS Maps SDK for Swift.
 - [sourcelocation/AirTroller](https://github.com/sourcelocation/AirTroller) - AirDrop spammer / flooder to troll friends
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [pointfreeco/swiftui-navigation](https://github.com/pointfreeco/swiftui-navigation) - Tools for making SwiftUI navigation simpler, more ergonomic and more precise.
