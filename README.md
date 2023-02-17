@@ -277,6 +277,7 @@
 
 ## C++ 
 
+- [ikalnytskyi/termcolor](https://github.com/ikalnytskyi/termcolor) - Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force.
 - [zhllxt/asio2](https://github.com/zhllxt/asio2) - Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_port.
 - [hdoc/hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++.
 - [HanaMcHanaface/RBRCountdown](https://github.com/HanaMcHanaface/RBRCountdown) - This is a plugin for Richard Burns Rally that adds a countdown before the stage starts.
@@ -1243,7 +1244,7 @@
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
-- [google/evcxr](https://github.com/google/evcxr) - 
+- [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
