@@ -1409,6 +1409,7 @@
 
 ## Swift 
 
+- [m-barthelemy/DockerSwift](https://github.com/m-barthelemy/DockerSwift) - A Swift client library for Docker
 - [Esri/arcgis-maps-sdk-swift-toolkit](https://github.com/Esri/arcgis-maps-sdk-swift-toolkit) - Mapping components that will simplify your iOS app development with the ArcGIS Maps SDK for Swift.
 - [sourcelocation/AirTroller](https://github.com/sourcelocation/AirTroller) - AirDrop spammer / flooder to troll friends
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
