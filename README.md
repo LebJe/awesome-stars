@@ -77,7 +77,6 @@
 ## C 
 
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
-- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [pmaillot/X32-Behringer](https://github.com/pmaillot/X32-Behringer) - This GIT repo (C language) holds applications and utilities for the Behringer X32 and M32 mixing consoles. Additional details, documentation, implementation examples and apps can be found in my websit
 - [mika-n/NGPCarMenu](https://github.com/mika-n/NGPCarMenu) - Custom "Select Car in-game menu" for Richard Burns Rally (RBR v1.02 SSE) game. The plugin supports custom car preview images (the real RBR 3D rendered custom car images), car specs from NGP physics mo
@@ -277,7 +276,9 @@
 
 ## C++ 
 
+- [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [ikalnytskyi/termcolor](https://github.com/ikalnytskyi/termcolor) - Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force.
+- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [zhllxt/asio2](https://github.com/zhllxt/asio2) - Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_port.
 - [hdoc/hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++.
 - [HanaMcHanaface/RBRCountdown](https://github.com/HanaMcHanaface/RBRCountdown) - This is a plugin for Richard Burns Rally that adds a countdown before the stage starts.
@@ -1409,6 +1410,7 @@
 
 ## Swift 
 
+- [freddi-kit/ArtifactBundleGen](https://github.com/freddi-kit/ArtifactBundleGen) - 
 - [cooklang/cooklang-swift](https://github.com/cooklang/cooklang-swift) - Cooklang parser implementation in Swift
 - [cooklang/CookCLI](https://github.com/cooklang/CookCLI) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 - [m-barthelemy/DockerSwift](https://github.com/m-barthelemy/DockerSwift) - A Swift client library for Docker
