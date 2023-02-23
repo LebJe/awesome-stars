@@ -583,6 +583,7 @@
 
 ## HTML 
 
+- [w3c/webvtt](https://github.com/w3c/webvtt) - WebVTT Standard
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [swiftwasm/size-tracker](https://github.com/swiftwasm/size-tracker) - Utility for tracking size of `.wasm` binaries produced by latest SwiftWasm snapshots
@@ -1168,6 +1169,7 @@
 
 ## Rust 
 
+- [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [KoBruhh/RASCII](https://github.com/KoBruhh/RASCII) - Advanced image to ascii art written in rust 🦀 🚀
 - [lapce/lapce-volts](https://github.com/lapce/lapce-volts) - 
 - [syntacti/lapce-swift](https://github.com/syntacti/lapce-swift) - lapce-swift
@@ -1410,6 +1412,7 @@
 
 ## Swift 
 
+- [AvdLee/Roadmap](https://github.com/AvdLee/Roadmap) - Publish your roadmap inside your app and allow users to vote for upcoming features
 - [freddi-kit/ArtifactBundleGen](https://github.com/freddi-kit/ArtifactBundleGen) - 
 - [cooklang/cooklang-swift](https://github.com/cooklang/cooklang-swift) - Cooklang parser implementation in Swift
 - [cooklang/CookCLI](https://github.com/cooklang/CookCLI) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
@@ -2019,6 +2022,7 @@
 
 ## TypeScript 
 
+- [pixelomer/discord-fs](https://github.com/pixelomer/discord-fs) - Discord as a filesystem
 - [guillaumealgis/Serpens.novaextension](https://github.com/guillaumealgis/Serpens.novaextension) - Python Language Server (PyLS) Extension for Nova editor
 - [rcjsuen/dockerfile-language-service](https://github.com/rcjsuen/dockerfile-language-service) - Dockerfile language service for providing an API to create feature-rich Dockerfile editors in JavaScript.
 - [xiyaowong/coc-symbol-line](https://github.com/xiyaowong/coc-symbol-line) - Symbols outline for coc.nvim
