@@ -763,7 +763,6 @@
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [codecat/beamngts](https://github.com/codecat/beamngts) - Typescript declarations for the BeamNG Lua environment.
 - [adam10603/BeamNG-Arcade-Steering](https://github.com/adam10603/BeamNG-Arcade-Steering) - A mod that overhauls BeamNG.drive's steering input system for gamepad and keyboard.
-- [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) - A LUA implementation at attempting to bring local network multiplayer to BeamNG.drive
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
@@ -2032,6 +2031,7 @@
 - [coc-extensions/coc-powershell](https://github.com/coc-extensions/coc-powershell) - PowerShellEditorService integration for coc.vim
 - [OmniSharp/omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode) - Official C# support for Visual Studio Code (powered by OmniSharp)
 - [coc-extensions/coc-omnisharp](https://github.com/coc-extensions/coc-omnisharp) - OmniSharp integration for coc.nvim
+- [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [tediousjs/tedious](https://github.com/tediousjs/tedious) - Node TDS module for connecting to SQL Server databases.
 - [neovim/node-client](https://github.com/neovim/node-client) - Nvim Node.js client and plugin host
 - [swift-actions/setup-swift](https://github.com/swift-actions/setup-swift) - GitHub Action that setup a Swift environment
