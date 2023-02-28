@@ -76,6 +76,7 @@
 
 ## C 
 
+- [Obverser/Kinzoku](https://github.com/Obverser/Kinzoku) - wgpu-native wrapper for Swift
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [pmaillot/X32-Behringer](https://github.com/pmaillot/X32-Behringer) - This GIT repo (C language) holds applications and utilities for the Behringer X32 and M32 mixing consoles. Additional details, documentation, implementation examples and apps can be found in my websit
@@ -926,6 +927,8 @@
 
 ## Others 
 
+- [nvim-lua/wishlist](https://github.com/nvim-lua/wishlist) - A public catalogue of Lua plugins Neovim users would like to see exist
+- [LuaLS/LLS-Addons](https://github.com/LuaLS/LLS-Addons) - Addons for use with Sumneko's Lua Language Server
 - [RichardBurnsRally/blender-track-exporter](https://github.com/RichardBurnsRally/blender-track-exporter) - Blender addon for exporting native RBR track formats
 - [RichardBurnsRally/RichardBurnsRally.github.io](https://github.com/RichardBurnsRally/RichardBurnsRally.github.io) - 
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
