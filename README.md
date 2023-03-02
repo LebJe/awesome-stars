@@ -1414,6 +1414,7 @@
 
 ## Swift 
 
+- [ThePotatoKing55/SwiftGLFW](https://github.com/ThePotatoKing55/SwiftGLFW) - A Swift library that makes GLFW a bit more manageable.
 - [pointfreeco/swift-overture](https://github.com/pointfreeco/swift-overture) - 🎼 A library for function composition.
 - [AvdLee/Roadmap](https://github.com/AvdLee/Roadmap) - Publish your roadmap inside your app and allow users to vote for upcoming features
 - [freddi-kit/ArtifactBundleGen](https://github.com/freddi-kit/ArtifactBundleGen) - 
