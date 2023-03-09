@@ -7,7 +7,6 @@
 
 - [Assembly](#assembly)
 - [AutoIt](#autoit)
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -69,10 +68,6 @@
 
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
-
-## Batchfile 
-
-- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 
 ## C 
 
@@ -1382,6 +1377,7 @@
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [wasmerio/wasmer-install](https://github.com/wasmerio/wasmer-install) - Wasmer Binary Installer https://wasmer.io/
 - [rupa/z](https://github.com/rupa/z) - z - jump around
+- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [docker-library/docker](https://github.com/docker-library/docker) - Docker Official Image packaging for Docker
 - [Jarzon/yaml-sucks](https://github.com/Jarzon/yaml-sucks) - YAML sucks.
@@ -1414,6 +1410,7 @@
 
 ## Swift 
 
+- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
 - [ThePotatoKing55/SwiftGLFW](https://github.com/ThePotatoKing55/SwiftGLFW) - A Swift library that makes GLFW a bit more manageable.
 - [pointfreeco/swift-overture](https://github.com/pointfreeco/swift-overture) - 🎼 A library for function composition.
 - [AvdLee/Roadmap](https://github.com/AvdLee/Roadmap) - Publish your roadmap inside your app and allow users to vote for upcoming features
