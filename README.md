@@ -1411,6 +1411,7 @@
 
 ## Swift 
 
+- [vapor-community/Lingo-Vapor](https://github.com/vapor-community/Lingo-Vapor) - Vapor provider for Lingo - the Swift localization library
 - [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
 - [johnpatrickmorgan/TCACoordinators](https://github.com/johnpatrickmorgan/TCACoordinators) - Powerful navigation in the Composable Architecture via the coordinator pattern
 - [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
