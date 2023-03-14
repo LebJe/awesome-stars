@@ -1026,7 +1026,6 @@
 
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
-- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
 ## PureBasic 
@@ -1379,6 +1378,7 @@
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [wasmerio/wasmer-install](https://github.com/wasmerio/wasmer-install) - Wasmer Binary Installer https://wasmer.io/
 - [rupa/z](https://github.com/rupa/z) - z - jump around
+- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [docker-library/docker](https://github.com/docker-library/docker) - Docker Official Image packaging for Docker
 - [Jarzon/yaml-sucks](https://github.com/Jarzon/yaml-sucks) - YAML sucks.
