@@ -2167,7 +2167,7 @@
 - [cohama/lexima.vim](https://github.com/cohama/lexima.vim) - Auto close parentheses and repeat by dot dot dot...
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [chrisbra/csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
-- [kkvh/vim-docker-tools](https://github.com/kkvh/vim-docker-tools) - Toolkit for managing docker containers in vim.
+- [kkvh/vim-docker-tools](https://github.com/kkvh/vim-docker-tools) - Toolkit for managing docker containers, networks and images in vim.
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [lifepillar/pgsql.vim](https://github.com/lifepillar/pgsql.vim) - The best PostgreSQL plugin for Vim!
 - [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
