@@ -488,6 +488,7 @@
 
 ## Go 
 
+- [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
