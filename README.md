@@ -272,6 +272,7 @@
 
 ## C++ 
 
+- [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [ikalnytskyi/termcolor](https://github.com/ikalnytskyi/termcolor) - Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force.
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
@@ -1027,6 +1028,7 @@
 
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
+- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
 ## PureBasic 
@@ -1379,7 +1381,6 @@
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [wasmerio/wasmer-install](https://github.com/wasmerio/wasmer-install) - Wasmer Binary Installer https://wasmer.io/
 - [rupa/z](https://github.com/rupa/z) - z - jump around
-- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [docker-library/docker](https://github.com/docker-library/docker) - Docker Official Image packaging for Docker
 - [Jarzon/yaml-sucks](https://github.com/Jarzon/yaml-sucks) - YAML sucks.
@@ -1412,6 +1413,8 @@
 
 ## Swift 
 
+- [pointfreeco/swift-clocks](https://github.com/pointfreeco/swift-clocks) - ⏰ A few clocks that make working with Swift concurrency more testable and more versatile.
+- [kara-lang/Kara](https://github.com/kara-lang/Kara) - An experimental functional programming language with dependent types, inspired by Swift and Idris.
 - [apple/swift-certificates](https://github.com/apple/swift-certificates) - An implementation of X.509 for Swift
 - [vapor-community/Lingo-Vapor](https://github.com/vapor-community/Lingo-Vapor) - Vapor provider for Lingo - the Swift localization library
 - [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
@@ -2029,6 +2032,7 @@
 
 ## TypeScript 
 
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [pixelomer/discord-fs](https://github.com/pixelomer/discord-fs) - Discord as a filesystem
 - [guillaumealgis/Serpens.novaextension](https://github.com/guillaumealgis/Serpens.novaextension) - Python Language Server (PyLS) Extension for Nova editor
 - [rcjsuen/dockerfile-language-service](https://github.com/rcjsuen/dockerfile-language-service) - Dockerfile language service for providing an API to create feature-rich Dockerfile editors in JavaScript.
