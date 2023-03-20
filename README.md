@@ -750,6 +750,7 @@
 
 ## Lua 
 
+- [lellolillili/rallymodemod](https://github.com/lellolillili/rallymodemod) - rally mode for BeamNG
 - [giann/croissant](https://github.com/giann/croissant) - 🥐 A Lua REPL and debugger
 - [bluebird75/luaunit](https://github.com/bluebird75/luaunit) - LuaUnit is a popular unit-testing framework for Lua, with an interface typical of xUnit libraries (Python unittest, Junit, NUnit, ...). It supports several output formats (Text, TAP, JUnit, ...) to be
 - [roobert/search-replace.nvim](https://github.com/roobert/search-replace.nvim) - :monocle_face: A Neovim search and replace plugin that builds on the native search and replace experience.
@@ -926,6 +927,8 @@
 
 ## Others 
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Repository of versioned package definitions for mason.nvim.
+- [package-url/purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby
 - [nvim-lua/wishlist](https://github.com/nvim-lua/wishlist) - A public catalogue of Lua plugins Neovim users would like to see exist
 - [LuaLS/LLS-Addons](https://github.com/LuaLS/LLS-Addons) - Addons for use with Sumneko's Lua Language Server
 - [RichardBurnsRally/blender-track-exporter](https://github.com/RichardBurnsRally/blender-track-exporter) - Blender addon for exporting native RBR track formats
