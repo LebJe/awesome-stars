@@ -927,7 +927,7 @@
 
 ## Others 
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Repository of versioned package definitions for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim.
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby
 - [nvim-lua/wishlist](https://github.com/nvim-lua/wishlist) - A public catalogue of Lua plugins Neovim users would like to see exist
 - [LuaLS/LLS-Addons](https://github.com/LuaLS/LLS-Addons) - Addons for use with Sumneko's Lua Language Server
