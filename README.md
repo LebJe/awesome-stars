@@ -494,7 +494,7 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [redis/go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens
+- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -1415,6 +1415,7 @@
 
 ## Swift 
 
+- [tuist/xcbeautify](https://github.com/tuist/xcbeautify) - A little beautifier tool for xcodebuild
 - [mczachurski/Swiftgger](https://github.com/mczachurski/Swiftgger) - OpenAPI support for server side Swift projects.
 - [CodeEditApp/CodeEditLanguages](https://github.com/CodeEditApp/CodeEditLanguages) - A Collection of Tree-Sitter Parsers for Syntax Highlighting
 - [CodeEditApp/CodeEditCLI](https://github.com/CodeEditApp/CodeEditCLI) - A command-line-interface to open files/folders in CodeEdit.app
