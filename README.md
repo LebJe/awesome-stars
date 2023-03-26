@@ -30,6 +30,7 @@
 - [M](#m)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mercury](#mercury)
 - [MoonScript](#moonscript)
 - [Nim](#nim)
 - [OCaml](#ocaml)
@@ -441,6 +442,7 @@
 
 ## CSS 
 
+- [dankinsoid/VaporToOpenAPI](https://github.com/dankinsoid/VaporToOpenAPI) - OpenAPI specification generator for Vapor based Swift projects.
 - [brokenhandsio/are-we-server-yet](https://github.com/brokenhandsio/are-we-server-yet) - Are we server yet? A simple reckoning of Swift’s readiness for Server-related things. Inspired by arewewebyet.org
 - [Birkbjo/OctoPrint-Themeify](https://github.com/Birkbjo/OctoPrint-Themeify) - Beautiful themes for OctoPrint
 - [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub
@@ -633,6 +635,9 @@
 
 ## JavaScript 
 
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [iocave/customize-ui](https://github.com/iocave/customize-ui) - UI Customization plugin for vscode
 - [staysail/nova-cdragon](https://github.com/staysail/nova-cdragon) - C and C++ support for Nova
 - [neoclide/coc-repl](https://github.com/neoclide/coc-repl) - Read-Eval-Print-Loop (REPL) for coc.nvim
 - [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
@@ -876,6 +881,10 @@
 - [apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+
+## Mercury 
+
+- [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 
 ## MoonScript 
 
@@ -1415,6 +1424,10 @@
 
 ## Swift 
 
+- [dankinsoid/SwiftOpenAPI](https://github.com/dankinsoid/SwiftOpenAPI) - Swift library which can generate output compatible with OpenAPI 3.1.0
+- [gonzalonunez/docc-gpt](https://github.com/gonzalonunez/docc-gpt) - 🧹 Self-documenting Swift code with GPT and DocC
+- [johnno1962/DLKit](https://github.com/johnno1962/DLKit) - A rather subscript oriented interface to the dynamic linker.
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [ChimeHQ/OAuthenticator](https://github.com/ChimeHQ/OAuthenticator) - OAuth 2.0 request authentication
 - [tuist/xcbeautify](https://github.com/tuist/xcbeautify) - A little beautifier tool for xcodebuild
 - [mczachurski/Swiftgger](https://github.com/mczachurski/Swiftgger) - OpenAPI support for server side Swift projects.
