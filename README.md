@@ -127,7 +127,7 @@
 - [Automotive-Swift/Swift-SocketCAN](https://github.com/Automotive-Swift/Swift-SocketCAN) - Access the Linux SocketCAN API via Swift
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
-- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter, and the most universal WASM runtime
+- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [brenns10/lsh](https://github.com/brenns10/lsh) - Simple shell implementation.  Tutorial here -&gt;
@@ -1048,6 +1048,7 @@
 
 ## Python 
 
+- [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [laixintao/pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
 - [wbsth/rbr-telemetry-viewer](https://github.com/wbsth/rbr-telemetry-viewer) - GUI Tool for viewing telemetry data from Richard Burns Rally simulator
 - [stackotter/the-ctf-book](https://github.com/stackotter/the-ctf-book) - An interactive course accompanied by a CTF, that brings you right through from beginner to advanced in a variety of fields relevant to hacking.
@@ -1424,6 +1425,8 @@
 
 ## Swift 
 
+- [vapor/design](https://github.com/vapor/design) - Contains the reference designs and build pipeline to generate all design files for Vapor's sites
+- [SerenaKit/Samra](https://github.com/SerenaKit/Samra) - A Proper, full-fledged native Asset Catalog explorer & editor for macOS.
 - [dankinsoid/SwiftOpenAPI](https://github.com/dankinsoid/SwiftOpenAPI) - Swift library which can generate output compatible with OpenAPI 3.1.0
 - [gonzalonunez/docc-gpt](https://github.com/gonzalonunez/docc-gpt) - 🧹 Self-documenting Swift code with GPT and DocC
 - [johnno1962/DLKit](https://github.com/johnno1962/DLKit) - A rather subscript oriented interface to the dynamic linker.
