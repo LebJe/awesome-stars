@@ -620,6 +620,7 @@
 
 ## Java 
 
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [PhoenicisOrg/phoenicis](https://github.com/PhoenicisOrg/phoenicis) - Phoenicis PlayOnLinux and PlayOnMac 5 repository
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
@@ -1427,6 +1428,8 @@
 
 ## Swift 
 
+- [swifweb/web](https://github.com/swifweb/web) - 🧱 Write your website in pure Swift with power of webassembly. DOM, CSS and all the WebAPIs are available out of the box.
+- [cfilipov/TextTable](https://github.com/cfilipov/TextTable) - Swift package for easily rendering text tables. Inspired by the Python tabulate library.
 - [vapor/design](https://github.com/vapor/design) - Contains the reference designs and build pipeline to generate all design files for Vapor's sites
 - [SerenaKit/Samra](https://github.com/SerenaKit/Samra) - A Proper, full-fledged native Asset Catalog explorer & editor for macOS.
 - [dankinsoid/SwiftOpenAPI](https://github.com/dankinsoid/SwiftOpenAPI) - Swift library which can generate output compatible with OpenAPI 3.1.0
