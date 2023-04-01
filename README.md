@@ -1186,6 +1186,7 @@
 
 ## Rust 
 
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [KoBruhh/RASCII](https://github.com/KoBruhh/RASCII) - Advanced image to ascii art written in rust 🦀 🚀
 - [lapce/lapce-volts](https://github.com/lapce/lapce-volts) - 
@@ -1428,6 +1429,7 @@
 
 ## Swift 
 
+- [trozware/To-Day](https://github.com/trozware/To-Day) - Simple daily todo checklist for Mac.
 - [swifweb/web](https://github.com/swifweb/web) - 🧱 Write your website in pure Swift with power of webassembly. DOM, CSS and all the WebAPIs are available out of the box.
 - [cfilipov/TextTable](https://github.com/cfilipov/TextTable) - Swift package for easily rendering text tables. Inspired by the Python tabulate library.
 - [vapor/design](https://github.com/vapor/design) - Contains the reference designs and build pipeline to generate all design files for Vapor's sites
