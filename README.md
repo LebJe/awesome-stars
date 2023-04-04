@@ -1030,6 +1030,7 @@
 
 ## PHP 
 
+- [stefangabos/world_countries](https://github.com/stefangabos/world_countries) - Constantly updated lists of world countries and their associated alpha-2, alpha-3 and numeric country codes as defined by the ISO 3166 standard, available in CSV, JSON , PHP, SQL and XML formats, in m
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
 - [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
 
@@ -1429,6 +1430,7 @@
 
 ## Swift 
 
+- [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
 - [nnabeyang/swift-msgpack](https://github.com/nnabeyang/swift-msgpack) - swift-msgpack is a library of MessagePack encoder & decoder for Swift based on Codable.
 - [johnpatrickmorgan/FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) - FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
 - [JCWasmx86/Swift-MesonLSP](https://github.com/JCWasmx86/Swift-MesonLSP) - An unofficial, unendorsed language server for meson written in Swift.
