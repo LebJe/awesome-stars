@@ -38,6 +38,7 @@
 - [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
+- [POV-Ray SDL](#pov-ray-sdl)
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [PureBasic](#purebasic)
@@ -246,6 +247,7 @@
 
 ## C# # 
 
+- [mika-n/User.RBRCustomReader](https://github.com/mika-n/User.RBRCustomReader) - Custom RBR data reader plugin for SimHub
 - [zissakos/RBRCIT](https://github.com/zissakos/RBRCIT) - RBR Car Installation Tool
 - [PowerShell/PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices) - A common platform for PowerShell development support in any editor or application!
 - [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) - OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
@@ -273,6 +275,7 @@
 
 ## C++ 
 
+- [SpartanJ/efsw](https://github.com/SpartanJ/efsw) - efsw is a C++ cross-platform file system watcher and notifier.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
@@ -859,7 +862,7 @@
 - [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) - 
 - [teal-language/tl](https://github.com/teal-language/tl) - The compiler for Teal, a typed dialect of Lua
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [crispgm/dotfiles](https://github.com/crispgm/dotfiles) - dotfiles to provision a new macOS with cosy dev setups
 - [wfxr/dotfiles](https://github.com/wfxr/dotfiles) - :house_with_garden: My dotfiles
@@ -1034,6 +1037,9 @@
 
 - [stefangabos/world_countries](https://github.com/stefangabos/world_countries) - Constantly updated lists of world countries and their associated alpha-2, alpha-3 and numeric country codes as defined by the ISO 3166 standard, available in CSV, JSON , PHP, SQL and XML formats, in m
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
+
+## POV-Ray SDL 
+
 - [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
 
 ## Pascal 
@@ -1433,6 +1439,7 @@
 
 ## Swift 
 
+- [driven-app/porsche-connect](https://github.com/driven-app/porsche-connect) - An unofficial Porsche Connect API library written in Swift
 - [swift-server/swiftly](https://github.com/swift-server/swiftly) - A Swift toolchain installer and manager, written in Swift.
 - [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
 - [nnabeyang/swift-msgpack](https://github.com/nnabeyang/swift-msgpack) - swift-msgpack is a library of MessagePack encoder & decoder for Swift based on Codable.
