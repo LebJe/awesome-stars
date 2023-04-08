@@ -400,7 +400,7 @@
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
-- [kelvin13/atomic-blonde](https://github.com/kelvin13/atomic-blonde) - SourceKit-based syntax highlighting for the Swift language
+- [tayloraswift/atomic-blonde](https://github.com/tayloraswift/atomic-blonde) - SourceKit-based syntax highlighting for the Swift language
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [TartanLlama/optional](https://github.com/TartanLlama/optional) - C++11/14/17 std::optional with functional-style extensions and reference support
@@ -471,7 +471,6 @@
 ## Dart 
 
 - [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
@@ -1256,6 +1255,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
 - [japaric/xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
@@ -1655,12 +1655,12 @@
 - [kieranb662/SwiftUI-Color-Kit](https://github.com/kieranb662/SwiftUI-Color-Kit) - SwiftUI Color Pickers, Gradient Pickers And All The Utilities Needed To Make Your Own!
 - [Losiowaty/PlaygroundTester](https://github.com/Losiowaty/PlaygroundTester) - PlaygroundTester enables you to easily run tests for your iPad Playgrounds 4 project.
 - [ChimeHQ/JSONRPC](https://github.com/ChimeHQ/JSONRPC) - Swift library for JSON-RPC
-- [kelvin13/swift-biome](https://github.com/kelvin13/swift-biome) - serve versioned, multi-package swift documentation, at scale
+- [tayloraswift/swift-biome](https://github.com/tayloraswift/swift-biome) - serve versioned, multi-package swift documentation, at scale
 - [ivanvorobei/SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI.
 - [pointfreeco/swift-html](https://github.com/pointfreeco/swift-html) - 🗺  A Swift DSL for type-safe, extensible, and transformable HTML documents.
 - [DimaRU/QliftUIC](https://github.com/DimaRU/QliftUIC) - Generate Swift code from Qt5 user interfaces.
 - [guykogus/CodableGeoJSON](https://github.com/guykogus/CodableGeoJSON) - Swift implementation of GeoJSON with Codable objects
-- [kelvin13/swift-json](https://github.com/kelvin13/swift-json) - high-performance json parsing and linting for server applications
+- [tayloraswift/swift-json](https://github.com/tayloraswift/swift-json) - high-performance json parsing and linting for server applications
 - [FelixHerrmann/swift-multipart-formdata](https://github.com/FelixHerrmann/swift-multipart-formdata) - Build multipart/form-data type-safe in Swift.
 - [apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors) - Peer-to-peer cluster implementation for Swift Distributed Actors
 - [nicklockwood/ShapeScript](https://github.com/nicklockwood/ShapeScript) - Source code for the ShapeScript 3D modeling app for macOS
@@ -1824,8 +1824,8 @@
 - [plarson/WKCodable](https://github.com/plarson/WKCodable) - Well-Known Binary & Text Encoding/Decoding for Swift
 - [square/Blueprint](https://github.com/square/Blueprint) - Declarative UI construction for iOS, written in Swift
 - [phimage/Erik](https://github.com/phimage/Erik) - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript.
-- [kelvin13/jpeg](https://github.com/kelvin13/jpeg) - decode, inspect, edit, and encode jpeg images in pure swift
-- [kelvin13/swift-png](https://github.com/kelvin13/swift-png) - decode, inspect, edit, and encode png images in pure swift
+- [tayloraswift/jpeg](https://github.com/tayloraswift/jpeg) - decode, inspect, edit, and encode jpeg images in pure swift
+- [tayloraswift/swift-png](https://github.com/tayloraswift/swift-png) - decode, inspect, edit, and encode png images in pure swift
 - [Raureif/WikipediaKit](https://github.com/Raureif/WikipediaKit) - Wikipedia API Client Framework for Swift on macOS, iOS, watchOS, and tvOS
 - [siteline/SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect) - Introspect underlying UIKit components from SwiftUI
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
@@ -1842,7 +1842,7 @@
 - [Decybel07/L10n-swift](https://github.com/Decybel07/L10n-swift) - Localization of the application with ability to change language "on the fly" and support for plural form in any language.
 - [JosephDuffy/VaporDocC](https://github.com/JosephDuffy/VaporDocC) - Vapor middleware that serves a DocC archive
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
-- [kelvin13/godot-swift](https://github.com/kelvin13/godot-swift) - swift language support for the godot game engine
+- [tayloraswift/godot-swift](https://github.com/tayloraswift/godot-swift) - swift language support for the godot game engine
 - [supabase-community/storage-swift](https://github.com/supabase-community/storage-swift) - Swift client library to interact with Supabase Storage
 - [daltoniam/Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
 - [supabase-community/realtime-swift](https://github.com/supabase-community/realtime-swift) - A Swift client for Supabase Realtime server.
