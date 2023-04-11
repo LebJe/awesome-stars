@@ -641,6 +641,7 @@
 
 ## JavaScript 
 
+- [zo-glass/swift-ptbr](https://github.com/zo-glass/swift-ptbr) - 
 - [DerekStride/tree-sitter-sql](https://github.com/DerekStride/tree-sitter-sql) - SQL grammar for tree-sitter
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -1438,6 +1439,7 @@
 
 ## Swift 
 
+- [brennobemoura/request-dl](https://github.com/brennobemoura/request-dl) - The Property protocol in RequestDL allows developers to customize URLRequest properties using a struct specification or the PropertyBuilder, making it easy to meet specific request requirements.
 - [vapor/penny-bot](https://github.com/vapor/penny-bot) - The code that runs Penny 🤖
 - [driven-app/porsche-connect](https://github.com/driven-app/porsche-connect) - An unofficial Porsche Connect API library written in Swift
 - [swift-server/swiftly](https://github.com/swift-server/swiftly) - A Swift toolchain installer and manager, written in Swift.
@@ -2246,7 +2248,7 @@
 
 ## Zig 
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
