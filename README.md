@@ -941,6 +941,7 @@
 
 ## Others 
 
+- [wbsth/rbr-simhub-overlays](https://github.com/wbsth/rbr-simhub-overlays) - My Simhub overlays for Richard Burns Rally
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim.
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby
 - [nvim-lua/wishlist](https://github.com/nvim-lua/wishlist) - A public catalogue of Lua plugins Neovim users would like to see exist
@@ -1439,6 +1440,8 @@
 
 ## Swift 
 
+- [GraphQLSwift/GraphQLTransportWS](https://github.com/GraphQLSwift/GraphQLTransportWS) - Swift implementation of the graphql-transport-ws WebSocket subprotocol.
+- [GraphQLSwift/GraphQLWS](https://github.com/GraphQLSwift/GraphQLWS) - Swift implementation of the graphql-ws WebSocket subprotocol.
 - [brennobemoura/request-dl](https://github.com/brennobemoura/request-dl) - The Property protocol in RequestDL allows developers to customize URLRequest properties using a struct specification or the PropertyBuilder, making it easy to meet specific request requirements.
 - [vapor/penny-bot](https://github.com/vapor/penny-bot) - The code that runs Penny 🤖
 - [driven-app/porsche-connect](https://github.com/driven-app/porsche-connect) - An unofficial Porsche Connect API library written in Swift
