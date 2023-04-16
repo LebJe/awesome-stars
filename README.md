@@ -267,7 +267,7 @@
 - [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-- [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET/Mono = ❤
+- [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET = ❤
 - [microsoft/python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
@@ -1440,6 +1440,7 @@
 
 ## Swift 
 
+- [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [GraphQLSwift/GraphQLTransportWS](https://github.com/GraphQLSwift/GraphQLTransportWS) - Swift implementation of the graphql-transport-ws WebSocket subprotocol.
 - [GraphQLSwift/GraphQLWS](https://github.com/GraphQLSwift/GraphQLWS) - Swift implementation of the graphql-ws WebSocket subprotocol.
 - [brennobemoura/request-dl](https://github.com/brennobemoura/request-dl) - The Property protocol in RequestDL allows developers to customize URLRequest properties using a struct specification or the PropertyBuilder, making it easy to meet specific request requirements.
@@ -2190,7 +2191,7 @@
 
 ## V 
 
-- [vlang/ui](https://github.com/vlang/ui) - Cross-platform UI library written in V
+- [vlang/ui](https://github.com/vlang/ui) - A cross-platform UI library written in V
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
 ## Vim Script 
