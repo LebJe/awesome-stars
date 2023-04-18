@@ -275,6 +275,7 @@
 
 ## C++ 
 
+- [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [SpartanJ/efsw](https://github.com/SpartanJ/efsw) - efsw is a C++ cross-platform file system watcher and notifier.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
@@ -1258,7 +1259,7 @@
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
-- [tcdi/pgx](https://github.com/tcdi/pgx) - Build Postgres Extensions with Rust!
+- [tcdi/pgrx](https://github.com/tcdi/pgrx) - Build Postgres Extensions with Rust!
 - [japaric/xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
