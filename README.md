@@ -275,6 +275,7 @@
 
 ## C++ 
 
+- [DimaRU/qlift6](https://github.com/DimaRU/qlift6) - Swift API for Qt6
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [SpartanJ/efsw](https://github.com/SpartanJ/efsw) - efsw is a C++ cross-platform file system watcher and notifier.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -1441,6 +1442,7 @@
 
 ## Swift 
 
+- [DimaRU/PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo) - Automated Swift Package version and build numbering via Git. Swift Package Manager plugin.
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [GraphQLSwift/GraphQLTransportWS](https://github.com/GraphQLSwift/GraphQLTransportWS) - Swift implementation of the graphql-transport-ws WebSocket subprotocol.
 - [GraphQLSwift/GraphQLWS](https://github.com/GraphQLSwift/GraphQLWS) - Swift implementation of the graphql-ws WebSocket subprotocol.
@@ -1480,7 +1482,7 @@
 - [cooklang/cooklang-swift](https://github.com/cooklang/cooklang-swift) - Cooklang parser implementation in Swift
 - [cooklang/CookCLI](https://github.com/cooklang/CookCLI) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 - [m-barthelemy/DockerSwift](https://github.com/m-barthelemy/DockerSwift) - A Swift client library for Docker
-- [Esri/arcgis-maps-sdk-swift-toolkit](https://github.com/Esri/arcgis-maps-sdk-swift-toolkit) - Mapping components that will simplify your iOS app development with the ArcGIS Maps SDK for Swift.
+- [Esri/arcgis-maps-sdk-swift-toolkit](https://github.com/Esri/arcgis-maps-sdk-swift-toolkit) - Mapping components that will simplify your Swift app development with the ArcGIS Maps SDK for Swift.
 - [sourcelocation/AirTroller](https://github.com/sourcelocation/AirTroller) - AirDrop spammer / flooder to troll friends
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [pointfreeco/swiftui-navigation](https://github.com/pointfreeco/swiftui-navigation) - Tools for making SwiftUI navigation simpler, more ergonomic and more precise.
@@ -1504,7 +1506,7 @@
 - [adamwulf/PonyExpress](https://github.com/adamwulf/PonyExpress) - Type-safe NotificationCenter alternative for Swift
 - [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts
 - [nathantannar4/Turbocharger](https://github.com/nathantannar4/Turbocharger) - Turbocharger aims accelerate SwiftUI development by providing commonly desired views and view modifiers
-- [jagreenwood/OpenWeatherKit](https://github.com/jagreenwood/OpenWeatherKit) - An open implementation of Apple's WeatherKit for Swift.
+- [jagreenwood/open-weather-kit](https://github.com/jagreenwood/open-weather-kit) - An open implementation of Apple's WeatherKit for Swift.
 - [sammysmallman/OSCKit](https://github.com/sammysmallman/OSCKit) - The OSCKit package provides the classes needed for your apps to communicate among computers, sound synthesizers, and other multimedia devices via OSC over an IP network.
 - [AudioKit/Waveform](https://github.com/AudioKit/Waveform) - GPU accelerated waveform view
 - [orchetect/MIDIKit](https://github.com/orchetect/MIDIKit) - 🎹 Modern multi-platform Swift CoreMIDI wrapper with MIDI 2.0 support.
