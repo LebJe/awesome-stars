@@ -1442,6 +1442,7 @@
 
 ## Swift 
 
+- [kciter/GlitchLabel](https://github.com/kciter/GlitchLabel) - G..lit...c...hing UILa..bel fo..r iO...S :tv:
 - [DimaRU/PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo) - Automated Swift Package version and build numbering via Git. Swift Package Manager plugin.
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [GraphQLSwift/GraphQLTransportWS](https://github.com/GraphQLSwift/GraphQLTransportWS) - Swift implementation of the graphql-transport-ws WebSocket subprotocol.
