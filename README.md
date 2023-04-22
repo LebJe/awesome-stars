@@ -502,7 +502,7 @@
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
-- [redis/go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
@@ -768,7 +768,7 @@
 - [roobert/search-replace.nvim](https://github.com/roobert/search-replace.nvim) - :monocle_face: A Neovim search and replace plugin that builds on the native search and replace experience.
 - [teal-language/cyan](https://github.com/teal-language/cyan) - The Teal build system and project manager
 - [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .c)
-- [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker/colorizer plugin.
+- [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Color picker and highlighter plugin for Neovim.
 - [lvimuser/lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) - 
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) - Official Alpine Linux Docker image. Win at minimalism!
@@ -1196,6 +1196,9 @@
 
 ## Rust 
 
+- [ahlinc/code-shape](https://github.com/ahlinc/code-shape) - Code-shape is a tool for extracting definitions from source code files
+- [lapce/wasi-experimental-http](https://github.com/lapce/wasi-experimental-http) - Experimental outbound HTTP support for WebAssembly and WASI
+- [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
@@ -1417,7 +1420,7 @@
 - [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars) - Displays an interactive and searchable list of your GitHub starred repositories
 - [kawarimidoll/gh-graph](https://github.com/kawarimidoll/gh-graph) - GitHub contribution graph in your terminal
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [flowkey/swift-android-toolchain](https://github.com/flowkey/swift-android-toolchain) - Build Swift for Android from your Mac
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
@@ -1597,8 +1600,8 @@
 - [abertelrud/swiftpm-buildtool-plugin-examples](https://github.com/abertelrud/swiftpm-buildtool-plugin-examples) - Some examples of SwiftPM build tool plugins to go along with SE-0303 + SE-0325
 - [mxcl/PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
 - [async-plus/async-plus](https://github.com/async-plus/async-plus) - ⛓ A chainable interface for Swift's async/await.
-- [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
-- [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
+- [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
+- [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - Swift AST to HTML conversion
 - [saagarjha/unxip](https://github.com/saagarjha/unxip) - A fast Xcode unarchiver
 - [ChimeHQ/TextFormation](https://github.com/ChimeHQ/TextFormation) - Rules system for live typing completions
