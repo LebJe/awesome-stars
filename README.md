@@ -1446,13 +1446,16 @@
 
 ## Swift 
 
+- [migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - New Godot bindings for Swift
+- [migueldeicaza/SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit) - Embed Godot into Swift apps
+- [alexandrehsaad/swift-measures](https://github.com/alexandrehsaad/swift-measures) - Swift package containing measurement types.
 - [SwiftedMind/Puddles](https://github.com/SwiftedMind/Puddles) - A native SwiftUI app architecture
 - [kciter/GlitchLabel](https://github.com/kciter/GlitchLabel) - G..lit...c...hing UILa..bel fo..r iO...S :tv:
 - [DimaRU/PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo) - Automated Swift Package version and build numbering via Git. Swift Package Manager plugin.
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [GraphQLSwift/GraphQLTransportWS](https://github.com/GraphQLSwift/GraphQLTransportWS) - Swift implementation of the graphql-transport-ws WebSocket subprotocol.
 - [GraphQLSwift/GraphQLWS](https://github.com/GraphQLSwift/GraphQLWS) - Swift implementation of the graphql-ws WebSocket subprotocol.
-- [brennobemoura/request-dl](https://github.com/brennobemoura/request-dl) - The Property protocol in RequestDL allows developers to customize URLRequest properties using a struct specification or the PropertyBuilder, making it easy to meet specific request requirements.
+- [brennobemoura/request-dl](https://github.com/brennobemoura/request-dl) - RequestDL is a Swift package designed to simplify the process of performing network requests. It provides a set of tools, including the Task protocol, which supports different types of requests, inclu
 - [vapor/penny-bot](https://github.com/vapor/penny-bot) - The code that runs Penny 🤖
 - [driven-app/porsche-connect](https://github.com/driven-app/porsche-connect) - An unofficial Porsche Connect API library written in Swift
 - [swift-server/swiftly](https://github.com/swift-server/swiftly) - A Swift toolchain installer and manager, written in Swift.
