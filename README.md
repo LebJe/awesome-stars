@@ -276,6 +276,7 @@
 
 ## C++ 
 
+- [ctreffs/SwiftImGui](https://github.com/ctreffs/SwiftImGui) - Swift wrapper around Dear imgui for macOS, iOS, Linux and Windows
 - [DimaRU/qlift6](https://github.com/DimaRU/qlift6) - Swift API for Qt6
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [SpartanJ/efsw](https://github.com/SpartanJ/efsw) - efsw is a C++ cross-platform file system watcher and notifier.
@@ -763,6 +764,7 @@
 
 ## Lua 
 
+- [cimgui/cimgui](https://github.com/cimgui/cimgui) - c-api for imgui (https://github.com/ocornut/imgui)    Look at: https://github.com/cimgui for other widgets
 - [lellolillili/rallymodemod](https://github.com/lellolillili/rallymodemod) - rally mode for BeamNG
 - [giann/croissant](https://github.com/giann/croissant) - 🥐 A Lua REPL and debugger
 - [bluebird75/luaunit](https://github.com/bluebird75/luaunit) - LuaUnit is a popular unit-testing framework for Lua, with an interface typical of xUnit libraries (Python unittest, Junit, NUnit, ...). It supports several output formats (Text, TAP, JUnit, ...) to be
@@ -1182,7 +1184,7 @@
 - [xcpretty/xcpretty](https://github.com/xcpretty/xcpretty) - Flexible and fast xcodebuild formatter
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 🚀 Manage background services using the daemon manager launchctl on macOS or systemctl on Linux.
 - [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 💀Formerly the core formulae for the Homebrew package manager on Linux
@@ -1446,6 +1448,7 @@
 
 ## Swift 
 
+- [apple/swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
 - [migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - New Godot bindings for Swift
 - [migueldeicaza/SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit) - Embed Godot into Swift apps
 - [alexandrehsaad/swift-measures](https://github.com/alexandrehsaad/swift-measures) - Swift package containing measurement types.
