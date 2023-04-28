@@ -276,6 +276,7 @@
 
 ## C++ 
 
+- [apple/swift-foundation-icu](https://github.com/apple/swift-foundation-icu) - 
 - [ctreffs/SwiftImGui](https://github.com/ctreffs/SwiftImGui) - Swift wrapper around Dear imgui for macOS, iOS, Linux and Windows
 - [DimaRU/qlift6](https://github.com/DimaRU/qlift6) - Swift API for Qt6
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
