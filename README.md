@@ -276,6 +276,7 @@
 
 ## C++ 
 
+- [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
 - [apple/swift-foundation-icu](https://github.com/apple/swift-foundation-icu) - 
 - [ctreffs/SwiftImGui](https://github.com/ctreffs/SwiftImGui) - Swift wrapper around Dear imgui for macOS, iOS, Linux and Windows
 - [DimaRU/qlift6](https://github.com/DimaRU/qlift6) - Swift API for Qt6
