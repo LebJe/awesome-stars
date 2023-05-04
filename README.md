@@ -248,6 +248,7 @@
 
 ## C# # 
 
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [mika-n/User.RBRCustomReader](https://github.com/mika-n/User.RBRCustomReader) - Custom RBR data reader plugin for SimHub
 - [zissakos/RBRCIT](https://github.com/zissakos/RBRCIT) - RBR Car Installation Tool
 - [PowerShell/PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices) - A common platform for PowerShell development support in any editor or application!
@@ -1450,6 +1451,9 @@
 
 ## Swift 
 
+- [openalloc/SwiftTabler](https://github.com/openalloc/SwiftTabler) - A multi-platform SwiftUI component for tabular data
+- [openalloc/SwiftNumberPad](https://github.com/openalloc/SwiftNumberPad) - A multi-platform SwiftUI component for basic number input
+- [freyaalminde/watch-date-picker](https://github.com/freyaalminde/watch-date-picker) - A customizable date picker for watchOS and SwiftUI.
 - [vinivendra/Gryphon](https://github.com/vinivendra/Gryphon) - The Swift to Kotlin translator.
 - [ChimeHQ/SwiftCoreSymbolication](https://github.com/ChimeHQ/SwiftCoreSymbolication) - Swift wrappers for CoreSymbolication
 - [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - A Swift library and command-line tool for drawing and converting SVG images.
