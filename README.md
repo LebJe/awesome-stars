@@ -307,7 +307,7 @@
 - [maharmstone/tdscpp](https://github.com/maharmstone/tdscpp) - C++ bindings for the TDS protocol
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
-- [andreisperid/E-TKT](https://github.com/andreisperid/E-TKT) - anachronic label maker
+- [andreisperid/E-TKT](https://github.com/andreisperid/E-TKT) - open source embossed label maker
 - [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - Note: development continues in stuntrally3. 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally sources and data.
 - [BeamMP/BeamMP-Launcher](https://github.com/BeamMP/BeamMP-Launcher) - Official BeamMP Launcher
 - [nasa/astrobee](https://github.com/nasa/astrobee) - NASA Astrobee Robot Software
@@ -1451,6 +1451,8 @@
 
 ## Swift 
 
+- [c-villain/SwipeActions](https://github.com/c-villain/SwipeActions) - Swipe actions, swipe menu based on SwiftUI
+- [tdeleon/Relax](https://github.com/tdeleon/Relax) - Declaratively build and send client requests for REST APIs in Swift.
 - [openalloc/SwiftTabler](https://github.com/openalloc/SwiftTabler) - A multi-platform SwiftUI component for tabular data
 - [openalloc/SwiftNumberPad](https://github.com/openalloc/SwiftNumberPad) - A multi-platform SwiftUI component for basic number input
 - [freyaalminde/watch-date-picker](https://github.com/freyaalminde/watch-date-picker) - A customizable date picker for watchOS and SwiftUI.
@@ -2004,7 +2006,7 @@
 - [Bouke/Glob](https://github.com/Bouke/Glob) - Glob for Swift 5
 - [SwiftPackageIndex/SemanticVersion](https://github.com/SwiftPackageIndex/SemanticVersion) - Represent semantic versions like "1.0.0" or "1.2.3-beta1" (SemVer) in Swift
 - [peripheryapp/periphery](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
-- [buttaface/swift-android-sdk](https://github.com/buttaface/swift-android-sdk) - Android SDKs for Swift
+- [finagolfin/swift-android-sdk](https://github.com/finagolfin/swift-android-sdk) - Android SDKs for Swift
 - [vapor-community/Imperial](https://github.com/vapor-community/Imperial) - Federated Authentication with OAuth providers
 - [JohnEstropia/CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift
 - [tdotclare/leaf](https://github.com/tdotclare/leaf) - 🍃 An expressive, performant, and extensible templating language built for Swift.
