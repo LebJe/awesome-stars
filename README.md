@@ -1202,6 +1202,7 @@
 
 ## Rust 
 
+- [Obverser/monopoly-ai](https://github.com/Obverser/monopoly-ai) - An AI Project for Monopoly
 - [ahlinc/code-shape](https://github.com/ahlinc/code-shape) - Code-shape is a tool for extracting definitions from source code files
 - [lapce/wasi-experimental-http](https://github.com/lapce/wasi-experimental-http) - Experimental outbound HTTP support for WebAssembly and WASI
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
