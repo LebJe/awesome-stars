@@ -73,7 +73,6 @@
 
 ## C 
 
-- [AdaEngine/AdaEngine](https://github.com/AdaEngine/AdaEngine) - AdaEngine - Multi-platform 2D and 3D game engine written on Swift
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [Obverser/Kinzoku](https://github.com/Obverser/Kinzoku) - wgpu-native wrapper for Swift
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
@@ -190,7 +189,7 @@
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
-- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
+- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), BPF, Ethereum VM, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore 
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [openlink/iODBC](https://github.com/openlink/iODBC) - An open-source ODBC driver manager and SDK that facilitates the development of database-independent applications on linux, freebsd, unix and MacOS X platforms.
 - [open-iscsi/open-iscsi](https://github.com/open-iscsi/open-iscsi) - iSCSI tools for Linux
@@ -1466,6 +1465,7 @@
 - [migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - New Godot bindings for Swift
 - [migueldeicaza/SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit) - Embed Godot into Swift apps
 - [alexandrehsaad/swift-measures](https://github.com/alexandrehsaad/swift-measures) - Swift package containing measurement types.
+- [AdaEngine/AdaEngine](https://github.com/AdaEngine/AdaEngine) - AdaEngine - Multi-platform 2D and 3D game engine written on Swift
 - [SwiftedMind/Puddles](https://github.com/SwiftedMind/Puddles) - A native SwiftUI app architecture
 - [kciter/GlitchLabel](https://github.com/kciter/GlitchLabel) - G..lit...c...hing UILa..bel fo..r iO...S :tv:
 - [DimaRU/PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo) - Automated Swift Package version and build numbering via Git. Swift Package Manager plugin.
