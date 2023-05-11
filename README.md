@@ -73,6 +73,7 @@
 
 ## C 
 
+- [jdah/reloadhost](https://github.com/jdah/reloadhost) - POSIX-friendly live code reloading
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [Obverser/Kinzoku](https://github.com/Obverser/Kinzoku) - wgpu-native wrapper for Swift
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
