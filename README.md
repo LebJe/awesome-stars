@@ -964,7 +964,7 @@
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [uluadist/ulua](https://github.com/uluadist/ulua) - ULua: Universal Lua Distribution
 - [compnerd/gha-setup-swift](https://github.com/compnerd/gha-setup-swift) - Setup Swift (on Windows) on GitHub Actions Builders
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [KRALYN/PositronV3](https://github.com/KRALYN/PositronV3) - A upside-down, fast, portable, and compact 3D printer
 - [winget-run/wingetdotrun](https://github.com/winget-run/wingetdotrun) - 📦 Finding winget packages made easy 🔍
 - [Jdsleppy/django-orm-cheatsheet](https://github.com/Jdsleppy/django-orm-cheatsheet) - A cheatsheet for the Django ORM
@@ -1452,6 +1452,9 @@
 
 ## Swift 
 
+- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - A cross platform 2D and 3D game engine written in Swift.
+- [STREGAsGate/GateEngineDemos](https://github.com/STREGAsGate/GateEngineDemos) - Example projects for GateEngine, a cross platform game engine for Swift developers.
+- [gonsolo/gonzales](https://github.com/gonsolo/gonzales) - Rendering Disney's Moana in Swift
 - [c-villain/SwipeActions](https://github.com/c-villain/SwipeActions) - Swipe actions, swipe menu based on SwiftUI
 - [tdeleon/Relax](https://github.com/tdeleon/Relax) - Declaratively build and send client requests for REST APIs in Swift.
 - [openalloc/SwiftTabler](https://github.com/openalloc/SwiftTabler) - A multi-platform SwiftUI component for tabular data
@@ -1528,7 +1531,7 @@
 - [DougGregor/swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [pointfreeco/composable-core-location](https://github.com/pointfreeco/composable-core-location) - A library that bridges the Composable Architecture and Core Location.
 - [giginet/Scipio](https://github.com/giginet/Scipio) - A new build tool to generate XCFramework
-- [orlandos-nl/NioDNS](https://github.com/orlandos-nl/NioDNS) - A DNS Resolver in Swift
+- [orlandos-nl/DNSClient](https://github.com/orlandos-nl/DNSClient) - A DNS Resolver in Swift
 - [Frizlab/stream-reader](https://github.com/Frizlab/stream-reader) - A simple stream protocol in Swift with concrete implementations
 - [adamwulf/PonyExpress](https://github.com/adamwulf/PonyExpress) - Type-safe NotificationCenter alternative for Swift
 - [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts
