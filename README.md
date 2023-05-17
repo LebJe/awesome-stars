@@ -38,7 +38,6 @@
 - [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
-- [POV-Ray SDL](#pov-ray-sdl)
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [PureBasic](#purebasic)
@@ -191,6 +190,7 @@
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), BPF, Ethereum VM, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore 
+- [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [openlink/iODBC](https://github.com/openlink/iODBC) - An open-source ODBC driver manager and SDK that facilitates the development of database-independent applications on linux, freebsd, unix and MacOS X platforms.
 - [open-iscsi/open-iscsi](https://github.com/open-iscsi/open-iscsi) - iSCSI tools for Linux
@@ -1044,10 +1044,6 @@
 
 - [stefangabos/world_countries](https://github.com/stefangabos/world_countries) - Constantly updated lists of world countries and their associated alpha-2, alpha-3 and numeric country codes as defined by the ISO 3166 standard, available in CSV, JSON , PHP, SQL and XML formats, in m
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
-
-## POV-Ray SDL 
-
-- [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
 
 ## Pascal 
 
