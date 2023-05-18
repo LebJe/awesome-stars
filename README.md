@@ -948,6 +948,7 @@
 
 ## Others 
 
+- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [wbsth/rbr-simhub-overlays](https://github.com/wbsth/rbr-simhub-overlays) - My Simhub overlays for Richard Burns Rally
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim.
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby
@@ -1448,6 +1449,7 @@
 
 ## Swift 
 
+- [yaslab/ULID.swift](https://github.com/yaslab/ULID.swift) - Universally Unique Lexicographically Sortable Identifier (ULID) in Swift.
 - [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - A cross platform 2D and 3D game engine written in Swift.
 - [STREGAsGate/GateEngineDemos](https://github.com/STREGAsGate/GateEngineDemos) - Example projects for GateEngine, a cross platform game engine for Swift developers.
 - [gonsolo/gonzales](https://github.com/gonsolo/gonzales) - Rendering Disney's Moana in Swift
