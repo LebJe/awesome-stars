@@ -949,6 +949,7 @@
 
 ## Others 
 
+- [Esri/arcgis-pro-sdk](https://github.com/Esri/arcgis-pro-sdk) - ArcGIS Pro SDK for Microsoft .NET is the new .NET SDK for the ArcGIS Pro Application.
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [wbsth/rbr-simhub-overlays](https://github.com/wbsth/rbr-simhub-overlays) - My Simhub overlays for Richard Burns Rally
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim.
