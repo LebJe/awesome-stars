@@ -196,7 +196,7 @@
 - [open-iscsi/open-iscsi](https://github.com/open-iscsi/open-iscsi) - iSCSI tools for Linux
 - [sahlberg/libiscsi](https://github.com/sahlberg/libiscsi) - iscsi client library and utilities
 - [dinhvh/libetpan](https://github.com/dinhvh/libetpan) - Mail Framework for C Language
-- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-report
+- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
 - [apple/swift-cmark](https://github.com/apple/swift-cmark) - CommonMark parsing and rendering library and program in C
 - [xoreaxeaxeax/movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
@@ -1118,6 +1118,7 @@
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
