@@ -1065,6 +1065,7 @@
 
 ## Python 
 
+- [edlund/amalgamate](https://github.com/edlund/amalgamate) - Amalgamate C source and header files.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [laixintao/pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
 - [wbsth/rbr-telemetry-viewer](https://github.com/wbsth/rbr-telemetry-viewer) - GUI Tool for viewing telemetry data from Richard Burns Rally simulator
