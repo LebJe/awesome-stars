@@ -277,6 +277,7 @@
 
 ## C++ 
 
+- [SergiusTheBest/plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library
 - [panicinc/icarus](https://github.com/panicinc/icarus) - Swift, C, C++, and Objective-C Support for Nova
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
 - [apple/swift-foundation-icu](https://github.com/apple/swift-foundation-icu) - 
