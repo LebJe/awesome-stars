@@ -668,6 +668,7 @@
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
+- [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - Swift AST to HTML conversion
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [jurplel/install-qt-action](https://github.com/jurplel/install-qt-action) - Install Qt on your Github Actions workflows with just one simple action
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
@@ -1480,7 +1481,7 @@
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [GraphQLSwift/GraphQLTransportWS](https://github.com/GraphQLSwift/GraphQLTransportWS) - Swift implementation of the graphql-transport-ws WebSocket subprotocol.
 - [GraphQLSwift/GraphQLWS](https://github.com/GraphQLSwift/GraphQLWS) - Swift implementation of the graphql-ws WebSocket subprotocol.
-- [brennobemoura/request-dl](https://github.com/brennobemoura/request-dl) - RequestDL is a Swift package designed to simplify the process of performing network requests. It provides a set of tools, including the Task protocol, which supports different types of requests, inclu
+- [request-dl/request-dl](https://github.com/request-dl/request-dl) - RequestDL is a Swift package designed to simplify the process of performing network requests. It provides a set of tools, including the Task protocol, which supports different types of requests, inclu
 - [vapor/penny-bot](https://github.com/vapor/penny-bot) - The code that runs Penny 🤖
 - [driven-app/porsche-connect](https://github.com/driven-app/porsche-connect) - An unofficial Porsche Connect API library written in Swift
 - [swift-server/swiftly](https://github.com/swift-server/swiftly) - A Swift toolchain installer and manager, written in Swift.
@@ -1632,7 +1633,6 @@
 - [async-plus/async-plus](https://github.com/async-plus/async-plus) - ⛓ A chainable interface for Swift's async/await.
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
-- [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - Swift AST to HTML conversion
 - [saagarjha/unxip](https://github.com/saagarjha/unxip) - A fast Xcode unarchiver
 - [ChimeHQ/TextFormation](https://github.com/ChimeHQ/TextFormation) - Rules system for live typing completions
 - [bloomberg/xcdiff](https://github.com/bloomberg/xcdiff) - A tool which helps you diff xcodeproj files.
@@ -2290,7 +2290,7 @@
 
 ## Zig 
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
