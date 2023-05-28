@@ -769,6 +769,7 @@
 
 ## Lua 
 
+- [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2) - Rainbow delimiters for Neovim through Tree-sitter
 - [cimgui/cimgui](https://github.com/cimgui/cimgui) - c-api for imgui (https://github.com/ocornut/imgui)    Look at: https://github.com/cimgui for other widgets
 - [lellolillili/rallymodemod](https://github.com/lellolillili/rallymodemod) - rally mode for BeamNG
 - [giann/croissant](https://github.com/giann/croissant) - 🥐 A Lua REPL and debugger
@@ -1210,7 +1211,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
-- [KoBruhh/RASCII](https://github.com/KoBruhh/RASCII) - Advanced image to ascii art written in rust 🦀 🚀
+- [KoBruhh/RASCII](https://github.com/KoBruhh/RASCII) - Advanced image to ASCII art tool written in Rust 🦀 🚀
 - [lapce/lapce-volts](https://github.com/lapce/lapce-volts) - 
 - [syntacti/lapce-swift](https://github.com/syntacti/lapce-swift) - lapce-swift
 - [lapce/lapce-rust](https://github.com/lapce/lapce-rust) - 
@@ -1740,7 +1741,7 @@
 - [davedelong/AOC](https://github.com/davedelong/AOC) - Advent of Code
 - [kean/Get](https://github.com/kean/Get) - Web API client built using async/await
 - [ivanvorobei/SPConfetti](https://github.com/ivanvorobei/SPConfetti) - Show the confetti only when the user is having fun, and if not having fun, don't show it.
-- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Wrapper around Swift types that can be modified concurrently by different users, and merged again automatically (a CRDT).
+- [automerge/automerge-swift-archived](https://github.com/automerge/automerge-swift-archived) - Wrapper around Swift types that can be modified concurrently by different users, and merged again automatically (a CRDT).
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
