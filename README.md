@@ -601,6 +601,7 @@
 
 - [w3c/webvtt](https://github.com/w3c/webvtt) - WebVTT Standard
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
+- [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - AST visualizer for Swift source code
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [swiftwasm/size-tracker](https://github.com/swiftwasm/size-tracker) - Utility for tracking size of `.wasm` binaries produced by latest SwiftWasm snapshots
 - [Homebrew/formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) - 🏎 An online formulae browser for Homebrew
@@ -1409,6 +1410,7 @@
 
 ## Scheme 
 
+- [objecthub/swift-lispkit](https://github.com/objecthub/swift-lispkit) - Interpreter framework for Lisp-based extension and scripting languages on macOS and iOS. LispKit is based on the R7RS standard for Scheme. Its compiler generates bytecode for a virtual machine. LispKi
 - [staysail/nova-c](https://github.com/staysail/nova-c) - C support for Nova using Tree-Sitter
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [gredman/csharp-novaextension](https://github.com/gredman/csharp-novaextension) - Nova syntax highlighting for C#
@@ -1458,6 +1460,9 @@
 
 ## Swift 
 
+- [qeude/SwiftDown](https://github.com/qeude/SwiftDown) - 📦 A themable markdown editor component for your SwiftUI apps.
+- [NSExceptional/DiscourseKit](https://github.com/NSExceptional/DiscourseKit) - A Swift wrapper for the Discourse API.
+- [Defxult/Discord.swift](https://github.com/Defxult/Discord.swift) - A Discord API library written in Swift for creating your own bot.
 - [0xOpenBytes/OpenWeather](https://github.com/0xOpenBytes/OpenWeather) - 🌤️ Open source weather experience
 - [yaslab/ULID.swift](https://github.com/yaslab/ULID.swift) - Universally Unique Lexicographically Sortable Identifier (ULID) in Swift.
 - [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - A cross platform 2D and 3D game engine written in Swift.
@@ -1636,7 +1641,6 @@
 - [async-plus/async-plus](https://github.com/async-plus/async-plus) - ⛓ A chainable interface for Swift's async/await.
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
-- [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - AST visualizer for Swift source code
 - [saagarjha/unxip](https://github.com/saagarjha/unxip) - A fast Xcode unarchiver
 - [ChimeHQ/TextFormation](https://github.com/ChimeHQ/TextFormation) - Rules system for live typing completions
 - [bloomberg/xcdiff](https://github.com/bloomberg/xcdiff) - A tool which helps you diff xcodeproj files.
