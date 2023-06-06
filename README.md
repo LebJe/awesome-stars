@@ -811,7 +811,7 @@
 - [lunarmodules/Penlight](https://github.com/lunarmodules/Penlight) - A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  M
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
-- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and much more. Powered by tree-sitter.
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [Roblox/roact](https://github.com/Roblox/roact) - A view management library for Roblox Lua similar to React
 - [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) - Neovim plugin that evaluates code blocks inside documents
@@ -955,6 +955,7 @@
 
 ## Others 
 
+- [macshome/The-Wisdom-of-Quinn](https://github.com/macshome/The-Wisdom-of-Quinn) - Share and Enjoy®
 - [Esri/arcgis-pro-sdk](https://github.com/Esri/arcgis-pro-sdk) - ArcGIS Pro SDK for Microsoft .NET is the new .NET SDK for the ArcGIS Pro Application.
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [wbsth/rbr-simhub-overlays](https://github.com/wbsth/rbr-simhub-overlays) - My Simhub overlays for Richard Burns Rally
