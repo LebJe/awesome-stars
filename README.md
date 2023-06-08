@@ -2142,7 +2142,7 @@
 - [xiyaowong/coc-lightbulb-](https://github.com/xiyaowong/coc-lightbulb-) - Code action 💡 for coc.nvim
 - [TypeScriptToLua/lua-types](https://github.com/TypeScriptToLua/lua-types) - TypeScript definitions for Lua standard library.
 - [coc-extensions/coc-powershell](https://github.com/coc-extensions/coc-powershell) - PowerShellEditorService integration for coc.vim
-- [dotnet/vscode-csharp](https://github.com/dotnet/vscode-csharp) - Official C# support for Visual Studio Code (powered by OmniSharp)
+- [dotnet/vscode-csharp](https://github.com/dotnet/vscode-csharp) - Official C# support for Visual Studio Code
 - [coc-extensions/coc-omnisharp](https://github.com/coc-extensions/coc-omnisharp) - OmniSharp integration for coc.nvim
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [tediousjs/tedious](https://github.com/tediousjs/tedious) - Node TDS module for connecting to SQL Server databases.
