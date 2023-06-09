@@ -74,6 +74,7 @@
 
 - [klange/nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
 - [jdah/reloadhost](https://github.com/jdah/reloadhost) - POSIX-friendly live code reloading
+- [apple/swift-foundation-icu](https://github.com/apple/swift-foundation-icu) - 
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [Obverser/Kinzoku](https://github.com/Obverser/Kinzoku) - wgpu-native wrapper for Swift
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
@@ -249,6 +250,7 @@
 
 ## C# # 
 
+- [Esri/arcgis-pro-sdk-community-samples](https://github.com/Esri/arcgis-pro-sdk-community-samples) - ArcGIS Pro SDK for Microsoft .NET Framework Community Samples
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [mika-n/User.RBRCustomReader](https://github.com/mika-n/User.RBRCustomReader) - Custom RBR data reader plugin for SimHub
 - [zissakos/RBRCIT](https://github.com/zissakos/RBRCIT) - RBR Car Installation Tool
@@ -284,7 +286,6 @@
 - [SergiusTheBest/plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library
 - [panicinc/icarus](https://github.com/panicinc/icarus) - Swift, C, C++, and Objective-C Support for Nova
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
-- [apple/swift-foundation-icu](https://github.com/apple/swift-foundation-icu) - 
 - [ctreffs/SwiftImGui](https://github.com/ctreffs/SwiftImGui) - Swift wrapper around Dear imgui for macOS, iOS, Linux and Windows
 - [DimaRU/qlift6](https://github.com/DimaRU/qlift6) - Swift API for Qt6
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
@@ -484,6 +485,7 @@
 ## Dart 
 
 - [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
@@ -1214,7 +1216,7 @@
 - [lapce/wasi-experimental-http](https://github.com/lapce/wasi-experimental-http) - Experimental outbound HTTP support for WebAssembly and WASI
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [UTFeight/RASCII](https://github.com/UTFeight/RASCII) - Advanced image to ASCII art tool & crate written in Rust 🦀🚀
 - [lapce/lapce-volts](https://github.com/lapce/lapce-volts) - 
@@ -1275,7 +1277,6 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [tcdi/pgrx](https://github.com/tcdi/pgrx) - Build Postgres Extensions with Rust!
 - [japaric/xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
