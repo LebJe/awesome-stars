@@ -406,7 +406,7 @@
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed 
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), compressed file
 - [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) - Index database library for use with sourcekit-lsp
 - [cedricve/raspicam](https://github.com/cedricve/raspicam) - AVA RaspiCam: C++ API for using Raspberry camera with/without OpenCv
@@ -670,7 +670,6 @@
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 - [yuki-yano/coc-nav](https://github.com/yuki-yano/coc-nav) - 
 - [ThatTonybo/BeamAdvisor](https://github.com/ThatTonybo/BeamAdvisor) - ETS2/ATS inspired information+navigation widget for BeamNG.drive
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [seanmiddleditch/gha-setup-vsdevenv](https://github.com/seanmiddleditch/gha-setup-vsdevenv) - GitHub Action to setup the VS dev environment for the job
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
