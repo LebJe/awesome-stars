@@ -421,7 +421,7 @@
 - [chadaustin/sajson](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [tree-sitter/tree-sitter-html](https://github.com/tree-sitter/tree-sitter-html) - HTML grammar for Tree-sitter
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
@@ -462,6 +462,7 @@
 
 ## CSS 
 
+- [iankoex/SteamPress](https://github.com/iankoex/SteamPress) - 
 - [dankinsoid/VaporToOpenAPI](https://github.com/dankinsoid/VaporToOpenAPI) - OpenAPI specification generator for Vapor based Swift projects.
 - [brokenhandsio/are-we-server-yet](https://github.com/brokenhandsio/are-we-server-yet) - Are we server yet? A simple reckoning of Swift’s readiness for Server-related things. Inspired by arewewebyet.org
 - [Birkbjo/OctoPrint-Themeify](https://github.com/Birkbjo/OctoPrint-Themeify) - Beautiful themes for OctoPrint
@@ -670,6 +671,7 @@
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 - [yuki-yano/coc-nav](https://github.com/yuki-yano/coc-nav) - 
 - [ThatTonybo/BeamAdvisor](https://github.com/ThatTonybo/BeamAdvisor) - ETS2/ATS inspired information+navigation widget for BeamNG.drive
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [seanmiddleditch/gha-setup-vsdevenv](https://github.com/seanmiddleditch/gha-setup-vsdevenv) - GitHub Action to setup the VS dev environment for the job
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
@@ -1497,7 +1499,7 @@
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [GraphQLSwift/GraphQLTransportWS](https://github.com/GraphQLSwift/GraphQLTransportWS) - Swift implementation of the graphql-transport-ws WebSocket subprotocol.
 - [GraphQLSwift/GraphQLWS](https://github.com/GraphQLSwift/GraphQLWS) - Swift implementation of the graphql-ws WebSocket subprotocol.
-- [request-dl/request-dl](https://github.com/request-dl/request-dl) - RequestDL is a Swift package designed to simplify the process of performing network requests. It provides a set of tools, including the RequestTask protocol, which supports different types of requests
+- [request-dl/request-dl](https://github.com/request-dl/request-dl) - Simplifies network requests in Swift with powerful types like DataTask, DownloadTask, and UploadTask.
 - [vapor/penny-bot](https://github.com/vapor/penny-bot) - The code that runs Penny 🤖
 - [driven-app/porsche-connect](https://github.com/driven-app/porsche-connect) - An unofficial Porsche Connect API library written in Swift
 - [swift-server/swiftly](https://github.com/swift-server/swiftly) - A Swift toolchain installer and manager, written in Swift.
@@ -1699,7 +1701,7 @@
 - [robb/Swim](https://github.com/robb/Swim) - A DSL for writing HTML in Swift
 - [ilyapuchka/graphique](https://github.com/ilyapuchka/graphique) - Experimental GraphQL query builders
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [stackotter/swift-cross-ui](https://github.com/stackotter/swift-cross-ui) - A cross-platform SwiftUI-like UI framework built on SwiftGtk.
+- [stackotter/swift-cross-ui](https://github.com/stackotter/swift-cross-ui) - A cross-platform SwiftUI-like UI framework built on Gtk4.
 - [pointfreeco/swift-parsing](https://github.com/pointfreeco/swift-parsing) - A library for turning nebulous data into well-structured data, with a focus on composition, performance, generality, and ergonomics.
 - [GeorgeElsham/HidingViews](https://github.com/GeorgeElsham/HidingViews) - Custom ViewModifier: `.isHidden(_:)` - Easily hide Views, controlled by a boolean. https://stackoverflow.com/a/59228385/9607863
 - [Bouke/NetService](https://github.com/Bouke/NetService) - Swift NetService (Bonjour / Zeroconf / mDNS) implementation for Linux
