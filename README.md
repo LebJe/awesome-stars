@@ -28,6 +28,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [M](#m)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mercury](#mercury)
@@ -891,6 +892,10 @@
 
 - [waydabber/m1ddc](https://github.com/waydabber/m1ddc) - This little tool controls external displays (connected via USB-C/DisplayPort Alt Mode) using DDC/CI on M1 Macs. Useful to embed in various scripts.
 
+## MDX 
+
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+
 ## Makefile 
 
 - [nlydv/nova-toml](https://github.com/nlydv/nova-toml) - Nova extension providing Tree Sitter-based syntax highlighting for TOML files
@@ -1301,7 +1306,6 @@
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [dtolnay/serde-yaml](https://github.com/dtolnay/serde-yaml) - Strongly typed YAML library for Rust
 - [chyh1990/yaml-rust](https://github.com/chyh1990/yaml-rust) - A pure rust YAML implementation.
@@ -1464,6 +1468,7 @@
 
 ## Swift 
 
+- [Kyle-Ye/Forumate](https://github.com/Kyle-Ye/Forumate) - A native client to access Discourse server for Apple Platforms
 - [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) - examples of how to use swift-nio
 - [EnesKaraosman/SwiftyChat](https://github.com/EnesKaraosman/SwiftyChat) - SwiftUI Chat UI (Client) Framework & Documentation to get started!
 - [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
@@ -1782,7 +1787,7 @@
 - [JamitLabs/Accio](https://github.com/JamitLabs/Accio) - A dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
 - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more.
 - [Moya/Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
-- [apple/swift-metrics](https://github.com/apple/swift-metrics) - A Metrics API for Swift
+- [apple/swift-metrics](https://github.com/apple/swift-metrics) - Metrics API for Swift
 - [Kitura/Kitura](https://github.com/Kitura/Kitura) - A Swift web framework and HTTP server.
 - [ChimeHQ/LanguageServerProtocol](https://github.com/ChimeHQ/LanguageServerProtocol) - Swift library for working with Language Server Protocol (LSP)
 - [DoccZz/SwiftMarkdownBuilder](https://github.com/DoccZz/SwiftMarkdownBuilder) - `resultBuilder` support for `swift-markdown`
