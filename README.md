@@ -585,7 +585,7 @@
 - [cavaliergopher/cpio](https://github.com/cavaliergopher/cpio) - Go package providing CPIO Readers and Writers.
 - [google/rpmpack](https://github.com/google/rpmpack) - rpmpack (tar2rpm) - package rpms in pure golang or cli
 - [blakesmith/ar](https://github.com/blakesmith/ar) - Golang ar archive file library
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
