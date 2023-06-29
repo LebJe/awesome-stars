@@ -252,6 +252,7 @@
 
 ## C# # 
 
+- [nicogis/ArcGISPro_AddIn_StreetView](https://github.com/nicogis/ArcGISPro_AddIn_StreetView) - ArcGIS Pro AddIn - StreetView
 - [Esri/arcgis-pro-sdk-community-samples](https://github.com/Esri/arcgis-pro-sdk-community-samples) - ArcGIS Pro SDK for Microsoft .NET Framework Community Samples
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [mika-n/User.RBRCustomReader](https://github.com/mika-n/User.RBRCustomReader) - Custom RBR data reader plugin for SimHub
@@ -1468,6 +1469,7 @@
 
 ## Swift 
 
+- [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) - Instrumentation library for Swift server applications
 - [Kyle-Ye/Forumate](https://github.com/Kyle-Ye/Forumate) - A native client to access Discourse server for Apple Platforms
 - [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) - examples of how to use swift-nio
 - [EnesKaraosman/SwiftyChat](https://github.com/EnesKaraosman/SwiftyChat) - SwiftUI Chat UI (Client) Framework & Documentation to get started!
@@ -1725,7 +1727,7 @@
 - [Losiowaty/PlaygroundTester](https://github.com/Losiowaty/PlaygroundTester) - PlaygroundTester enables you to easily run tests for your iPad Playgrounds 4 project.
 - [ChimeHQ/JSONRPC](https://github.com/ChimeHQ/JSONRPC) - Swift library for JSON-RPC
 - [tayloraswift/swift-biome](https://github.com/tayloraswift/swift-biome) - serve versioned, multi-package swift documentation, at scale
-- [ivanvorobei/SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI.
+- [sparrowcode/AlertKit](https://github.com/sparrowcode/AlertKit) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI.
 - [pointfreeco/swift-html](https://github.com/pointfreeco/swift-html) - 🗺  A Swift DSL for type-safe, extensible, and transformable HTML documents.
 - [DimaRU/QliftUIC](https://github.com/DimaRU/QliftUIC) - Generate Swift code from Qt5 user interfaces.
 - [guykogus/CodableGeoJSON](https://github.com/guykogus/CodableGeoJSON) - Swift implementation of GeoJSON with Codable objects
