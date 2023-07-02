@@ -1469,6 +1469,7 @@
 
 ## Swift 
 
+- [tristanlabelle/swift-dotnetmd](https://github.com/tristanlabelle/swift-dotnetmd) - A Swift library for reading .NET metadata files, including WinMD files.
 - [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) - Instrumentation library for Swift server applications
 - [Kyle-Ye/Forumate](https://github.com/Kyle-Ye/Forumate) - A native client to access Discourse server for Apple Platforms
 - [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) - examples of how to use swift-nio
@@ -1981,7 +1982,7 @@
 - [JohnSundell/Publish](https://github.com/JohnSundell/Publish) - A static site generator for Swift developers
 - [amzn/smoke-framework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language.
 - [amzn/smoke-aws](https://github.com/amzn/smoke-aws) - AWS services integration for the Smoke Framework
-- [swift-server-community/APNSwift](https://github.com/swift-server-community/APNSwift) - An HTTP/2 APNS library built on AsyncHTTPClient
+- [swift-server-community/APNSwift](https://github.com/swift-server-community/APNSwift) - 📱HTTP/2 Apple Push Notification Service built with swift - send push notifications to iOS, iPadOS, tvOS, macOS, watchOS, visionOS, and Safari!
 - [johnno1962/Dynamo](https://github.com/johnno1962/Dynamo) - High Performance (nearly)100% Swift Web server supporting dynamic content.
 - [karwa/swift-url](https://github.com/karwa/swift-url) - A new URL type for Swift
 - [rhx/SwiftGtk](https://github.com/rhx/SwiftGtk) - A Swift wrapper around gtk-3.x and gtk-4.x that is largely auto-generated from gobject-introspection
