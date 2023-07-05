@@ -1469,6 +1469,7 @@
 
 ## Swift 
 
+- [orlandos-nl/Citadel](https://github.com/orlandos-nl/Citadel) - SSH Client & Server in Swift
 - [tristanlabelle/swift-dotnetmd](https://github.com/tristanlabelle/swift-dotnetmd) - A Swift library for reading .NET metadata files, including WinMD files.
 - [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) - Instrumentation library for Swift server applications
 - [Kyle-Ye/Forumate](https://github.com/Kyle-Ye/Forumate) - A native client to access Discourse server for Apple Platforms
