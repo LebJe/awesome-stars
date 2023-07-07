@@ -331,7 +331,7 @@
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [SAP/odbc-cpp-wrapper](https://github.com/SAP/odbc-cpp-wrapper) - An object-oriented C++-wrapper of the ODBC API
 - [BeamMP/BeamMP-Server](https://github.com/BeamMP/BeamMP-Server) - Server for the multiplayer mod BeamMP for BeamNG.drive
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
 - [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [Inori/GPCS4](https://github.com/Inori/GPCS4) - A work-in-progress PlayStation 4 emulator.
@@ -859,7 +859,7 @@
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Create Neovim `:map`pings in Lua with ease!
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions
-- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars and signs.
+- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - A Neovim plugin that displays interactive vertical scrollbars and signs.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - Github's Neovim themes
@@ -962,6 +962,7 @@
 
 ## Others 
 
+- [swift-riscv/swift-riscv64](https://github.com/swift-riscv/swift-riscv64) - Building swift for riscv64 platforms
 - [macshome/The-Wisdom-of-Quinn](https://github.com/macshome/The-Wisdom-of-Quinn) - Share and Enjoy®
 - [Esri/arcgis-pro-sdk](https://github.com/Esri/arcgis-pro-sdk) - ArcGIS Pro SDK for Microsoft .NET is the new .NET SDK for the ArcGIS Pro Application.
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
@@ -1469,6 +1470,7 @@
 
 ## Swift 
 
+- [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
 - [orlandos-nl/Citadel](https://github.com/orlandos-nl/Citadel) - SSH Client & Server in Swift
 - [tristanlabelle/swift-dotnetmd](https://github.com/tristanlabelle/swift-dotnetmd) - A Swift library for reading .NET metadata files, including WinMD files.
 - [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) - Instrumentation library for Swift server applications
