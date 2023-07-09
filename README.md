@@ -1285,7 +1285,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
-- [tcdi/pgrx](https://github.com/tcdi/pgrx) - Build Postgres Extensions with Rust!
+- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [japaric/xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
@@ -1470,6 +1470,7 @@
 
 ## Swift 
 
+- [apple/swift-http-types](https://github.com/apple/swift-http-types) - Version-independent HTTP currency types for Swift
 - [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
 - [orlandos-nl/Citadel](https://github.com/orlandos-nl/Citadel) - SSH Client & Server in Swift
 - [tristanlabelle/swift-dotnetmd](https://github.com/tristanlabelle/swift-dotnetmd) - A Swift library for reading .NET metadata files, including WinMD files.
