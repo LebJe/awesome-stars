@@ -73,6 +73,7 @@
 
 ## C 
 
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [klange/nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
 - [jdah/reloadhost](https://github.com/jdah/reloadhost) - POSIX-friendly live code reloading
 - [apple/swift-foundation-icu](https://github.com/apple/swift-foundation-icu) - 
@@ -1579,7 +1580,7 @@
 - [AudioKit/Waveform](https://github.com/AudioKit/Waveform) - GPU accelerated waveform view
 - [orchetect/MIDIKit](https://github.com/orchetect/MIDIKit) - 🎹 Modern multi-platform Swift CoreMIDI wrapper with MIDI 2.0 support.
 - [orchetect/SwiftRadix](https://github.com/orchetect/SwiftRadix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
-- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - iOS/macOS/tvOS video player
+- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - iOS/macOS/tvOS/visionOS video player
 - [soulverteam/SoulverStringParsing](https://github.com/soulverteam/SoulverStringParsing) - Learn about how SoulverCore can give Swift "better than regex" data parsing features (for many common tasks)
 - [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating mathematical expressions
 - [PureSwift/WLAN](https://github.com/PureSwift/WLAN) - Wireless LAN (WiFi) API for Swift (Supports Linux)
