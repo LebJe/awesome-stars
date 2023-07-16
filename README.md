@@ -1472,6 +1472,7 @@
 
 ## Swift 
 
+- [vapor/websocket-kit](https://github.com/vapor/websocket-kit) - WebSocket client library built on SwiftNIO
 - [MalkarovPark/IndustrialKit](https://github.com/MalkarovPark/IndustrialKit) - The open source software platform for creating applications that enable the design and control of automated means of production.
 - [apple/swift-http-types](https://github.com/apple/swift-http-types) - Version-independent HTTP currency types for Swift
 - [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
@@ -1493,7 +1494,7 @@
 - [Defxult/Discord.swift](https://github.com/Defxult/Discord.swift) - A Discord API library written in Swift for creating your own bot.
 - [0xOpenBytes/OpenWeather](https://github.com/0xOpenBytes/OpenWeather) - 🌤️ Open source weather experience
 - [yaslab/ULID.swift](https://github.com/yaslab/ULID.swift) - Universally Unique Lexicographically Sortable Identifier (ULID) in Swift.
-- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - A cross platform 2D and 3D game engine written in Swift.
+- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - Cross platform Swift Game Engine. Supports Windows, Linux, macOS, HTML5, and more.
 - [STREGAsGate/GateEngineDemos](https://github.com/STREGAsGate/GateEngineDemos) - Example projects for GateEngine, a cross platform game engine for Swift developers.
 - [gonsolo/gonzales](https://github.com/gonsolo/gonzales) - Rendering Disney's Moana in Swift
 - [c-villain/SwipeActions](https://github.com/c-villain/SwipeActions) - Swipe actions, swipe menu based on SwiftUI
@@ -1699,7 +1700,7 @@
 - [CodeEditApp/CodeEditKit](https://github.com/CodeEditApp/CodeEditKit) - CodeEditKit is an interface between CodeEdit and extensions
 - [Flowductive/easy-firebase](https://github.com/Flowductive/easy-firebase) - 🔥 A Swifty solution for all things Firebase. Quickly implement Firestore and Authentication on iOS + macOS using Swift protocols and methods.
 - [stackotter/scute](https://github.com/stackotter/scute) - An extensible static site generation tool built with Swift.
-- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
+- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃 Create hand-drawn, sketchy, comic shape in Swift
 - [shareup/wasm-interpreter-apple](https://github.com/shareup/wasm-interpreter-apple) - 
 - [ChimeHQ/DebugAdapterProtocol](https://github.com/ChimeHQ/DebugAdapterProtocol) - Swift library for working with Debug Adapter Protocol (DAP)
