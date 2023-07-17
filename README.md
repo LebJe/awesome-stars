@@ -1494,7 +1494,7 @@
 - [Defxult/Discord.swift](https://github.com/Defxult/Discord.swift) - A Discord API library written in Swift for creating your own bot.
 - [0xOpenBytes/OpenWeather](https://github.com/0xOpenBytes/OpenWeather) - 🌤️ Open source weather experience
 - [yaslab/ULID.swift](https://github.com/yaslab/ULID.swift) - Universally Unique Lexicographically Sortable Identifier (ULID) in Swift.
-- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - Cross platform Swift Game Engine. Supports Windows, Linux, macOS, HTML5, and more.
+- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - Swift game engine supporting Windows, Linux, macOS, HTML5, and more
 - [STREGAsGate/GateEngineDemos](https://github.com/STREGAsGate/GateEngineDemos) - Example projects for GateEngine, a cross platform game engine for Swift developers.
 - [gonsolo/gonzales](https://github.com/gonsolo/gonzales) - Rendering Disney's Moana in Swift
 - [c-villain/SwipeActions](https://github.com/c-villain/SwipeActions) - Swipe actions, swipe menu based on SwiftUI
