@@ -899,6 +899,7 @@
 
 ## Makefile 
 
+- [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [nlydv/nova-toml](https://github.com/nlydv/nova-toml) - Nova extension providing Tree Sitter-based syntax highlighting for TOML files
 - [tree-sitter/tree-sitter-json](https://github.com/tree-sitter/tree-sitter-json) - JSON grammar for tree-sitter
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
@@ -1430,6 +1431,7 @@
 
 ## Shell 
 
+- [kabiroberai/swift-sdk-darwin](https://github.com/kabiroberai/swift-sdk-darwin) - Darwin Swift SDK for Linux (experimental)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -1472,6 +1474,8 @@
 
 ## Swift 
 
+- [kabiroberai/node-swift](https://github.com/kabiroberai/node-swift) - Create Node modules in Swift
+- [Frizlab/FSEventsWrapper](https://github.com/Frizlab/FSEventsWrapper) - Easily use FSEvents in Swift
 - [vapor/websocket-kit](https://github.com/vapor/websocket-kit) - WebSocket client library built on SwiftNIO
 - [MalkarovPark/IndustrialKit](https://github.com/MalkarovPark/IndustrialKit) - The open source software platform for creating applications that enable the design and control of automated means of production.
 - [apple/swift-http-types](https://github.com/apple/swift-http-types) - Version-independent HTTP currency types for Swift
@@ -1953,7 +1957,7 @@
 - [Kitura/BlueSocket](https://github.com/Kitura/BlueSocket) - Socket framework for Swift using the Swift Package Manager. Works on iOS, macOS, and Linux.
 - [rderik/SQLite3](https://github.com/rderik/SQLite3) - A Swifty example of a Wrapper on top of the SDK sqlite3 C library.
 - [michaelnisi/skull](https://github.com/michaelnisi/skull) - Swift SQLite
-- [BinaryBirds/spec](https://github.com/BinaryBirds/spec) - Unit testing Vapor 4 applications through declarative specifications.
+- [BinaryBirds/vapor-spec](https://github.com/BinaryBirds/vapor-spec) - Unit testing Vapor applications through declarative specifications.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [helje5/SwiftyWasmer](https://github.com/helje5/SwiftyWasmer) - A Swift API for the Wasmer WebAssembly Runtime
 - [tuist/tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
