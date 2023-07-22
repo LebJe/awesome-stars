@@ -964,6 +964,7 @@
 
 ## Others 
 
+- [GoostYTQC/f4_add_on](https://github.com/GoostYTQC/f4_add_on) - 
 - [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programing Language
 - [swift-riscv/swift-riscv64](https://github.com/swift-riscv/swift-riscv64) - Building swift for riscv64 platforms
 - [macshome/The-Wisdom-of-Quinn](https://github.com/macshome/The-Wisdom-of-Quinn) - Share and Enjoy®
