@@ -668,7 +668,6 @@
 - [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
 - [staysail/nova-clangd](https://github.com/staysail/nova-clangd) - ClangD Extension for Nova
 - [swiftwasm/setup-swiftwasm](https://github.com/swiftwasm/setup-swiftwasm) - An action to download a prebuilt SwiftWasm toolchain and add it to the PATH
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 - [yuki-yano/coc-nav](https://github.com/yuki-yano/coc-nav) - 
 - [ThatTonybo/BeamAdvisor](https://github.com/ThatTonybo/BeamAdvisor) - ETS2/ATS inspired information+navigation widget for BeamNG.drive
@@ -2169,6 +2168,7 @@
 - [pixelomer/discord-fs](https://github.com/pixelomer/discord-fs) - Discord as a filesystem
 - [guillaumealgis/Serpens.novaextension](https://github.com/guillaumealgis/Serpens.novaextension) - Python Language Server (PyLS) Extension for Nova editor
 - [rcjsuen/dockerfile-language-service](https://github.com/rcjsuen/dockerfile-language-service) - Dockerfile language service for providing an API to create feature-rich Dockerfile editors in JavaScript.
+- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [xiyaowong/coc-symbol-line](https://github.com/xiyaowong/coc-symbol-line) - Symbols outline for coc.nvim
 - [xiyaowong/coc-stylua](https://github.com/xiyaowong/coc-stylua) - StyLua extension for coc.nvim.
 - [xiyaowong/coc-lightbulb-](https://github.com/xiyaowong/coc-lightbulb-) - Code action 💡 for coc.nvim
