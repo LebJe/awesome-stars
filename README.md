@@ -166,6 +166,7 @@
 - [lexborisov/myhtml](https://github.com/lexborisov/myhtml) - Fast C/C++ HTML 5 Parser. Using threads.
 - [helje5/wren-swift](https://github.com/helje5/wren-swift) - The wren scripting language as a Swift package, w/ some Swift API wrappers
 - [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [rocky/remake](https://github.com/rocky/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more
 - [Wilfred/tree-sitter-elisp](https://github.com/Wilfred/tree-sitter-elisp) - tree-sitter grammar for emacs lisp
 - [uyha/tree-sitter-cmake](https://github.com/uyha/tree-sitter-cmake) - A Tree-sitter parser for CMake
@@ -699,7 +700,6 @@
 - [slackhq/tree-sitter-hack](https://github.com/slackhq/tree-sitter-hack) - Hack grammar for tree-sitter
 - [microsoft/vscode-anycode](https://github.com/microsoft/vscode-anycode) - 
 - [alex-pinkus/tree-sitter-swift](https://github.com/alex-pinkus/tree-sitter-swift) - A tree-sitter grammar for the Swift programming language.
-- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [QthCN/tree-sitter-swift](https://github.com/QthCN/tree-sitter-swift) - Swift grammar for tree-sitter
 - [miloyip/nativejson-benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
 - [robb-j/nova-xml](https://github.com/robb-j/nova-xml) - Adds XML linting, schema support and formatting to Nova
