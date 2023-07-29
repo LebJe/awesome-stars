@@ -963,8 +963,10 @@
 
 ## Others 
 
+- [WebAssembly/wasi-cli](https://github.com/WebAssembly/wasi-cli) - Command-Line Interface (CLI) World for WASI
+- [WebAssembly/wasi-sql](https://github.com/WebAssembly/wasi-sql) - 
 - [GoostYTQC/f4_add_on](https://github.com/GoostYTQC/f4_add_on) - 
-- [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programing Language
+- [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language
 - [swift-riscv/swift-riscv64](https://github.com/swift-riscv/swift-riscv64) - Building swift for riscv64 platforms
 - [macshome/The-Wisdom-of-Quinn](https://github.com/macshome/The-Wisdom-of-Quinn) - Share and Enjoy®
 - [Esri/arcgis-pro-sdk](https://github.com/Esri/arcgis-pro-sdk) - ArcGIS Pro SDK for Microsoft .NET is the new .NET SDK for the ArcGIS Pro Application.
@@ -1121,7 +1123,7 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [snapcore/snapcraft](https://github.com/snapcore/snapcraft) - Package, distribute, and update any app for Linux and IoT.
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [sublimelsp/LSP](https://github.com/sublimelsp/LSP) - Client implementation of the Language Server Protocol for Sublime Text
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py) - This is the updated Python wrapper for the Heroku API V3. https://devcenter.heroku.com/articles/platform-api-reference The Heroku REST API allows Heroku users to manage their accounts, applications, a
@@ -1221,6 +1223,8 @@
 
 ## Rust 
 
+- [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls` for the pros.
+- [syphar/zetta](https://github.com/syphar/zetta) - A modern replacement for ‘ls’.
 - [Obverser/monopoly-ai](https://github.com/Obverser/monopoly-ai) - An AI Project for Monopoly
 - [ahlinc/code-shape](https://github.com/ahlinc/code-shape) - Code-shape is a tool for extracting definitions from source code files
 - [lapce/wasi-experimental-http](https://github.com/lapce/wasi-experimental-http) - Experimental outbound HTTP support for WebAssembly and WASI
