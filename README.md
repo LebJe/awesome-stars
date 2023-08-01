@@ -1223,7 +1223,7 @@
 
 ## Rust 
 
-- [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls` for the pros.
+- [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [syphar/zetta](https://github.com/syphar/zetta) - A modern replacement for ‘ls’.
 - [Obverser/monopoly-ai](https://github.com/Obverser/monopoly-ai) - An AI Project for Monopoly
 - [ahlinc/code-shape](https://github.com/ahlinc/code-shape) - Code-shape is a tool for extracting definitions from source code files
