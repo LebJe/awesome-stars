@@ -659,6 +659,7 @@
 
 ## JavaScript 
 
+- [swiftwasm/swiftwasm.github.io](https://github.com/swiftwasm/swiftwasm.github.io) - Website for the SwiftWasm project
 - [zo-glass/swift-ptbr](https://github.com/zo-glass/swift-ptbr) - 
 - [DerekStride/tree-sitter-sql](https://github.com/DerekStride/tree-sitter-sql) - SQL grammar for tree-sitter
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
