@@ -1480,6 +1480,7 @@
 
 ## Swift 
 
+- [sersoft-gmbh/swift-inotify](https://github.com/sersoft-gmbh/swift-inotify) - A Swift wrapper around inotify on Linux
 - [danylokos/SwiftyTorrent](https://github.com/danylokos/SwiftyTorrent) - Basic torrent client for iOS
 - [brokenhandsio/fluent-postgis](https://github.com/brokenhandsio/fluent-postgis) - Swift PostGIS support for FluentPostgreSQL and Vapor
 - [kabiroberai/node-swift](https://github.com/kabiroberai/node-swift) - Create Node modules in Swift
