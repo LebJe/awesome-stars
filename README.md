@@ -2041,7 +2041,7 @@
 - [nerdsupremacist/syntax-highlight-publish-plugin](https://github.com/nerdsupremacist/syntax-highlight-publish-plugin) - Plugin to add syntax highlighting (for multiple languages) to your Publish Site, with the least amount of effort.
 - [insidegui/WWDC](https://github.com/insidegui/WWDC) - The unofficial WWDC app for macOS
 - [swiftcsv/SwiftCSV](https://github.com/swiftcsv/SwiftCSV) - CSV parser for Swift
-- [compnerd/SwiftWinRT](https://github.com/compnerd/SwiftWinRT) - WinRT Bridging for Swift
+- [compnerd/SwiftWinRT](https://github.com/compnerd/SwiftWinRT) - Swift Projections for WinRT
 - [CoreOffice/OLEKit](https://github.com/CoreOffice/OLEKit) - Swift support for Microsoft OLE2 (also known as Structured Storage or Compound File Binary Format)
 - [CoreOffice/CoreXLSX](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format parser written in pure Swift
 - [CoreOffice/CryptoOffice](https://github.com/CoreOffice/CryptoOffice) - Office Open XML (OOXML) formats (.xlsx, .docx, .pptx) decryption for Swift
