@@ -964,6 +964,7 @@
 
 ## Others 
 
+- [xibbon/LaTerminal](https://github.com/xibbon/LaTerminal) - 
 - [WebAssembly/wasi-cli](https://github.com/WebAssembly/wasi-cli) - Command-Line Interface (CLI) World for WASI
 - [WebAssembly/wasi-sql](https://github.com/WebAssembly/wasi-sql) - 
 - [GoostYTQC/f4_add_on](https://github.com/GoostYTQC/f4_add_on) - 
@@ -1100,7 +1101,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [cxnder/ktool](https://github.com/cxnder/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
+- [0cyn/ktool](https://github.com/0cyn/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 - [pwwang/toml-bench](https://github.com/pwwang/toml-bench) - Which toml package to use in python?
 - [sparckles/robyn](https://github.com/sparckles/robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -1114,7 +1115,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) - A pythonic generic language server
-- [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
+- [oilshell/oil](https://github.com/oilshell/oil) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite) - The infrastructure and project index comprising the Swift source compatibility suite.
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
@@ -1480,6 +1481,8 @@
 
 ## Swift 
 
+- [dankinsoid/VDDate](https://github.com/dankinsoid/VDDate) - Robust set of extensions for the Date struct
+- [Hongtae/SwiftVVD](https://github.com/Hongtae/SwiftVVD) - Swift 3D Game Engine for Windows, macOS, iOS, Linux
 - [sersoft-gmbh/swift-inotify](https://github.com/sersoft-gmbh/swift-inotify) - A Swift wrapper around inotify on Linux
 - [danylokos/SwiftyTorrent](https://github.com/danylokos/SwiftyTorrent) - Basic torrent client for iOS
 - [brokenhandsio/fluent-postgis](https://github.com/brokenhandsio/fluent-postgis) - Swift PostGIS support for FluentPostgreSQL and Vapor
