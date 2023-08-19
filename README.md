@@ -411,7 +411,7 @@
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep version 3.12: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary fi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW version 4.0: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, ar
 - [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) - Index database library for use with sourcekit-lsp
 - [cedricve/raspicam](https://github.com/cedricve/raspicam) - AVA RaspiCam: C++ API for using Raspberry camera with/without OpenCv
@@ -1581,7 +1581,7 @@
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [roanutil/CoreDataRepository](https://github.com/roanutil/CoreDataRepository) - An async library for using CoreData in the background
 - [vmanot/SwiftDB](https://github.com/vmanot/SwiftDB) - A modern database abstraction layer, batteries included.
-- [hylo-lang/hyloc](https://github.com/hylo-lang/hyloc) - The Hylo programming language
+- [hylo-lang/hylo](https://github.com/hylo-lang/hylo) - The Hylo programming language
 - [jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
 - [pointfreeco/pointfreeco](https://github.com/pointfreeco/pointfreeco) - 🎬 The source for www.pointfree.co, a video series on functional programming and the Swift programming language.
 - [tgrapperon/swift-dependencies-additions](https://github.com/tgrapperon/swift-dependencies-additions) - More dependencies for `swift-dependencies`
