@@ -1482,6 +1482,7 @@
 
 ## Swift 
 
+- [PureSwift/CoreModel](https://github.com/PureSwift/CoreModel) - Pure Swift ORM (Supports Linux)
 - [dankinsoid/VDDate](https://github.com/dankinsoid/VDDate) - Robust set of extensions for the Date struct
 - [Hongtae/SwiftVVD](https://github.com/Hongtae/SwiftVVD) - Swift 3D Game Engine for Windows, macOS, iOS, Linux
 - [sersoft-gmbh/swift-inotify](https://github.com/sersoft-gmbh/swift-inotify) - A Swift wrapper around inotify on Linux
