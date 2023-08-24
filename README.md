@@ -202,6 +202,7 @@
 - [open-iscsi/open-iscsi](https://github.com/open-iscsi/open-iscsi) - iSCSI tools for Linux
 - [sahlberg/libiscsi](https://github.com/sahlberg/libiscsi) - iscsi client library and utilities
 - [tree-sitter/tree-sitter-html](https://github.com/tree-sitter/tree-sitter-html) - HTML grammar for Tree-sitter
+- [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
 - [dinhvh/libetpan](https://github.com/dinhvh/libetpan) - Mail Framework for C Language
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
 - [apple/swift-cmark](https://github.com/apple/swift-cmark) - CommonMark parsing and rendering library and program in C
@@ -735,7 +736,6 @@
 - [tree-sitter/tree-sitter-c](https://github.com/tree-sitter/tree-sitter-c) - C grammar for tree-sitter
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
 - [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
-- [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [bsneed/StellarSwift](https://github.com/bsneed/StellarSwift) - Swift Addons for Panic's Nova app.
 - [SwiftFiddle/swiftfiddle-web](https://github.com/SwiftFiddle/swiftfiddle-web) - SwiftFiddle is an online playground for creating, sharing and embedding Swift fiddles (little Swift programs that run directly in your browser).
@@ -1482,6 +1482,8 @@
 
 ## Swift 
 
+- [AudioKit/Cookbook](https://github.com/AudioKit/Cookbook) - Canonical Examples for Using the AudioKit Framework
+- [AudioKit/AudioKitUI](https://github.com/AudioKit/AudioKitUI) - Controls and Visualization for AudioKit apps
 - [PureSwift/CoreModel](https://github.com/PureSwift/CoreModel) - Pure Swift ORM (Supports Linux)
 - [dankinsoid/VDDate](https://github.com/dankinsoid/VDDate) - Robust set of extensions for the Date struct
 - [Hongtae/SwiftVVD](https://github.com/Hongtae/SwiftVVD) - Swift 3D Game Engine for Windows, macOS, iOS, Linux
