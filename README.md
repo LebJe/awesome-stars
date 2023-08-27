@@ -449,6 +449,7 @@
 - [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp) - A python wrapper for tomlplusplus
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+- [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [nanodbc/nanodbc](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API | Requires C++14 since v2.12
 - [eztier/tds-client](https://github.com/eztier/tds-client) - Minimal C++ wrapper for FreeTDS
 - [ToruNiina/toml11](https://github.com/ToruNiina/toml11) - TOML for Modern C++
@@ -1182,7 +1183,6 @@
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [joh/when-changed](https://github.com/joh/when-changed) - Execute a command when a file is changed
-- [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [simonw/dbf-to-sqlite](https://github.com/simonw/dbf-to-sqlite) - CLI tool for converting DBF files (dBase, FoxPro etc) to SQLite
