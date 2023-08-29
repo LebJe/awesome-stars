@@ -530,7 +530,7 @@
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
 - [airbusgeo/godal](https://github.com/airbusgeo/godal) - golang wrapper for github.com/OSGEO/gdal
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -567,7 +567,7 @@
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
-- [BurntSushi/toml-test](https://github.com/BurntSushi/toml-test) - A language agnostic test suite for TOML parsers.
+- [toml-lang/toml-test](https://github.com/toml-lang/toml-test) - A language agnostic test suite for TOML parsers.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [BenoyRNair/godbc](https://github.com/BenoyRNair/godbc) - Go ODBC Interface
