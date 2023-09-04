@@ -1484,6 +1484,7 @@
 
 ## Swift 
 
+- [swifweb/webber](https://github.com/swifweb/webber) - 👨‍🍳 Web apps cook tool. It helps to debug and release your SwifWeb apps.
 - [carlynorama/SerialSessionUI](https://github.com/carlynorama/SerialSessionUI) - 
 - [carlynorama/SerialSession](https://github.com/carlynorama/SerialSession) - 
 - [carlynorama/SwiftSerialPort](https://github.com/carlynorama/SwiftSerialPort) - 
