@@ -79,7 +79,7 @@
 - [jdah/reloadhost](https://github.com/jdah/reloadhost) - POSIX-friendly live code reloading
 - [apple/swift-foundation-icu](https://github.com/apple/swift-foundation-icu) - 
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
-- [Obverser/Kinzoku](https://github.com/Obverser/Kinzoku) - Cross platform graphics in Swift using WGSL. An implementation of wgpu-native
+- [Obverser/kinzoku](https://github.com/Obverser/kinzoku) - Cross platform graphics in Swift using WGSL. An implementation of wgpu-native
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [pmaillot/X32-Behringer](https://github.com/pmaillot/X32-Behringer) - This GIT repo (C language) holds applications and utilities for the Behringer X32 and M32 mixing consoles. Additional details, documentation, implementation examples and apps can be found in my websit
