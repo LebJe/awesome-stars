@@ -724,7 +724,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [npm/ini](https://github.com/npm/ini) - An ini parser/serializer in JavaScript
-- [oblador/hush](https://github.com/oblador/hush) - Noiseless Browsing – Content Blocker for Safari
+- [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) - Advanced REST Client - Desktop application
@@ -984,6 +984,7 @@
 - [LuaLS/LLS-Addons](https://github.com/LuaLS/LLS-Addons) - Addons for use with Sumneko's Lua Language Server
 - [RichardBurnsRally/blender-track-exporter](https://github.com/RichardBurnsRally/blender-track-exporter) - Blender addon for exporting native RBR track formats
 - [RichardBurnsRally/RichardBurnsRally.github.io](https://github.com/RichardBurnsRally/RichardBurnsRally.github.io) - 
+- [DougGregor/swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
@@ -1597,7 +1598,6 @@
 - [tgrapperon/swift-dependencies-additions](https://github.com/tgrapperon/swift-dependencies-additions) - More dependencies for `swift-dependencies`
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [stefanspringer1/SwiftXML](https://github.com/stefanspringer1/SwiftXML) - A library written in Swift to process XML
-- [DougGregor/swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
 - [pointfreeco/composable-core-location](https://github.com/pointfreeco/composable-core-location) - A library that bridges the Composable Architecture and Core Location.
 - [giginet/Scipio](https://github.com/giginet/Scipio) - A new build tool to generate XCFramework
 - [orlandos-nl/DNSClient](https://github.com/orlandos-nl/DNSClient) - A DNS Resolver in Swift
