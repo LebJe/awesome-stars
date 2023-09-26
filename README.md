@@ -516,6 +516,7 @@
 
 ## Go 
 
+- [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
@@ -1266,7 +1267,7 @@
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [jrnxf/thokr](https://github.com/jrnxf/thokr) - ✨ sleek typing tui with visualized results and historical logging
-- [copy/v86](https://github.com/copy/v86) - An x86 PC emulator and x86-to-wasm JIT, running in the browser
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [hush-shell/hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
