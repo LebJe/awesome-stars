@@ -968,6 +968,7 @@
 
 ## Others 
 
+- [koliyo/hylo-lsp](https://github.com/koliyo/hylo-lsp) - LSP server and VS Code extesion for the hylo programming language
 - [xibbon/LaTerminal](https://github.com/xibbon/LaTerminal) - 
 - [WebAssembly/wasi-cli](https://github.com/WebAssembly/wasi-cli) - Command-Line Interface (CLI) World for WASI
 - [WebAssembly/wasi-sql](https://github.com/WebAssembly/wasi-sql) - 
@@ -1486,6 +1487,8 @@
 
 ## Swift 
 
+- [hylo-lang/Swifty-LLVM](https://github.com/hylo-lang/Swifty-LLVM) - Swifty interface for the LLVM compiler infrastructure.
+- [tayloraswift/swift-unidoc](https://github.com/tayloraswift/swift-unidoc) - scalable, multi-package documentation engine for the swift language
 - [ChimeHQ/Chime](https://github.com/ChimeHQ/Chime) - An editor for macOS
 - [swifweb/webber](https://github.com/swifweb/webber) - 👨‍🍳 Web apps cook tool. It helps to debug and release your SwifWeb apps.
 - [carlynorama/SerialSessionUI](https://github.com/carlynorama/SerialSessionUI) - 
