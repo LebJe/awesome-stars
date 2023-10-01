@@ -292,7 +292,7 @@
 - [csmith-project/csmith](https://github.com/csmith-project/csmith) - Csmith, a random generator of C programs
 - [SergiusTheBest/plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library
 - [panicinc/icarus](https://github.com/panicinc/icarus) - Swift, C, C++, and Objective-C Support for Nova
-- [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
+- [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [ctreffs/SwiftImGui](https://github.com/ctreffs/SwiftImGui) - Swift wrapper around Dear imgui for macOS, iOS, Linux and Windows
 - [DimaRU/qlift6](https://github.com/DimaRU/qlift6) - Swift API for Qt6
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
@@ -968,7 +968,6 @@
 
 ## Others 
 
-- [koliyo/hylo-lsp](https://github.com/koliyo/hylo-lsp) - LSP server and VS Code extesion for the hylo programming language
 - [xibbon/LaTerminal](https://github.com/xibbon/LaTerminal) - 
 - [WebAssembly/wasi-cli](https://github.com/WebAssembly/wasi-cli) - Command-Line Interface (CLI) World for WASI
 - [WebAssembly/wasi-sql](https://github.com/WebAssembly/wasi-sql) - 
@@ -1075,7 +1074,7 @@
 ## PHP 
 
 - [stefangabos/world_countries](https://github.com/stefangabos/world_countries) - Constantly updated lists of world countries and their associated alpha-2, alpha-3 and numeric country codes as defined by the ISO 3166 standard, available in CSV, JSON , PHP, SQL and XML formats, in m
-- [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
+- [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 
 ## Pascal 
 
@@ -1488,6 +1487,7 @@
 ## Swift 
 
 - [hylo-lang/Swifty-LLVM](https://github.com/hylo-lang/Swifty-LLVM) - Swifty interface for the LLVM compiler infrastructure.
+- [koliyo/hylo-lsp](https://github.com/koliyo/hylo-lsp) - LSP server and VS Code extesion for the hylo programming language
 - [tayloraswift/swift-unidoc](https://github.com/tayloraswift/swift-unidoc) - scalable, multi-package documentation engine for the swift language
 - [ChimeHQ/Chime](https://github.com/ChimeHQ/Chime) - An editor for macOS
 - [swifweb/webber](https://github.com/swifweb/webber) - 👨‍🍳 Web apps cook tool. It helps to debug and release your SwifWeb apps.
