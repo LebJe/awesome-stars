@@ -781,6 +781,7 @@
 
 ## Lua 
 
+- [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters for Neovim with Tree-sitter
 - [lewis6991/pckr.nvim](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of https://github.com/wbthomason/packer.nvim
 - [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2) - Rainbow delimiters for Neovim through Tree-sitter
 - [cimgui/cimgui](https://github.com/cimgui/cimgui) - c-api for imgui (https://github.com/ocornut/imgui)    Look at: https://github.com/cimgui for other widgets
@@ -1042,7 +1043,6 @@
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [mmstick/cargo-deb](https://github.com/mmstick/cargo-deb) - A cargo subcommand that generates Debian packages from information in Cargo.toml
 - [CreativeTools/3DBenchy](https://github.com/CreativeTools/3DBenchy) - #3DBenchy is a 3D model specifically designed for testing and benchmarking 3D printers. It is a small recognizable object that you can download for free, make and share.
-- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) - 
 - [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
@@ -1211,6 +1211,7 @@
 - [ruby/typeprof](https://github.com/ruby/typeprof) - An experimental type-level Ruby interpreter for testing and understanding Ruby code
 - [textmate/c.tmbundle](https://github.com/textmate/c.tmbundle) - TextMate support for C
 - [neovim/neovim-ruby](https://github.com/neovim/neovim-ruby) - Ruby support for Neovim
+- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [xcpretty/xcpretty](https://github.com/xcpretty/xcpretty) - Flexible and fast xcodebuild formatter
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
@@ -1882,7 +1883,7 @@
 - [engali94/ax-editor](https://github.com/engali94/ax-editor) - Ax is a code editor with syntax highlighting that runs in your terminal written completely in Swift.
 - [brightdigit/MistKit](https://github.com/brightdigit/MistKit) - Swift Package for Server-Side and Command-Line Access to CloudKit Web Services
 - [pointfreeco/swift-custom-dump](https://github.com/pointfreeco/swift-custom-dump) - A collection of tools for debugging, diffing, and testing your application's data structures.
-- [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
+- [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for UIKit and SwiftUI.
 - [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
 - [Apodini/ApodiniMigrator](https://github.com/Apodini/ApodiniMigrator) - Automated, machine-readable Migration Guides for Apodini Web Services.
 - [CLILogger/CLILogger](https://github.com/CLILogger/CLILogger) - Send the plain log to terminal with your preferred format and colorful style.
