@@ -526,7 +526,7 @@
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
@@ -892,7 +892,7 @@
 - [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim) - coc.nvim integration for telescope.nvim
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
-- [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance ✅🖤💙💛
+- [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance ✅💙💛🤍💚
 
 ## M 
 
@@ -1564,7 +1564,7 @@
 - [swifweb/web](https://github.com/swifweb/web) - 🧱 Write your website in pure Swift with power of webassembly. DOM, CSS and all the WebAPIs are available out of the box.
 - [cfilipov/TextTable](https://github.com/cfilipov/TextTable) - Swift package for easily rendering text tables. Inspired by the Python tabulate library.
 - [vapor/design](https://github.com/vapor/design) - Contains the reference designs and build pipeline to generate all design files for Vapor's sites
-- [SerenaKit/Samra](https://github.com/SerenaKit/Samra) - A Proper, full-fledged native Asset Catalog explorer & editor for macOS.
+- [NSAntoine/Samra](https://github.com/NSAntoine/Samra) - A Proper, full-fledged native Asset Catalog explorer & editor for macOS.
 - [dankinsoid/SwiftOpenAPI](https://github.com/dankinsoid/SwiftOpenAPI) - Swift library which can generate output compatible with OpenAPI 3.1.0
 - [gonzalonunez/docc-gpt](https://github.com/gonzalonunez/docc-gpt) - 🧹 Self-documenting Swift code with GPT and DocC
 - [johnno1962/DLKit](https://github.com/johnno1962/DLKit) - A rather subscript oriented interface to the dynamic linker.
