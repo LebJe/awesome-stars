@@ -1230,6 +1230,7 @@
 
 ## Rust 
 
+- [foxfriends/syncat](https://github.com/foxfriends/syncat) - Syntax aware cat
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [syphar/zetta](https://github.com/syphar/zetta) - A modern replacement for ‘ls’.
