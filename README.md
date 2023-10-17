@@ -1487,6 +1487,7 @@
 
 ## Swift 
 
+- [akbashev/swift-chat](https://github.com/akbashev/swift-chat) - 
 - [apple/swift-sdk-generator](https://github.com/apple/swift-sdk-generator) - Generate Swift SDKs for cross-compilation
 - [BinaryBirds/swift-html](https://github.com/BinaryBirds/swift-html) - An awesome Swift HTML DSL library using result builders.
 - [hylo-lang/Swifty-LLVM](https://github.com/hylo-lang/Swifty-LLVM) - Swifty interface for the LLVM compiler infrastructure.
