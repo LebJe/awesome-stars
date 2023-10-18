@@ -1487,6 +1487,7 @@
 
 ## Swift 
 
+- [kickstarter/ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 - [akbashev/swift-chat](https://github.com/akbashev/swift-chat) - 
 - [apple/swift-sdk-generator](https://github.com/apple/swift-sdk-generator) - Generate Swift SDKs for cross-compilation
 - [BinaryBirds/swift-html](https://github.com/BinaryBirds/swift-html) - An awesome Swift HTML DSL library using result builders.
