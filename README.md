@@ -464,6 +464,7 @@
 
 - [xpol/setup-lua](https://github.com/xpol/setup-lua) - GitHub action to setup Lua.
 - [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) - A template CMake project to get you started with C++ and tooling
+- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) - 
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 
@@ -1092,7 +1093,6 @@
 
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
-- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
 ## PureBasic 
@@ -1238,6 +1238,7 @@
 
 ## Rust 
 
+- [lapce/lapce-lldb](https://github.com/lapce/lapce-lldb) - 
 - [vhyrro/toml-edit.lua](https://github.com/vhyrro/toml-edit.lua) - Edit toml files while preserving whitespace and formatting from Lua.
 - [foxfriends/syncat](https://github.com/foxfriends/syncat) - Syntax aware cat
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
@@ -1551,7 +1552,7 @@
 - [freysie/watch-date-picker](https://github.com/freysie/watch-date-picker) - A customizable date picker for watchOS and SwiftUI.
 - [vinivendra/Gryphon](https://github.com/vinivendra/Gryphon) - The Swift to Kotlin translator.
 - [ChimeHQ/SwiftCoreSymbolication](https://github.com/ChimeHQ/SwiftCoreSymbolication) - Swift wrappers for CoreSymbolication
-- [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - A Swift library and command-line tool for drawing and converting SVG images.
+- [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Swift library and command line tool to convert SVGs into SFSymbol, PNG, PDF and Swift source code.
 - [FelixHerrmann/swift-package-list](https://github.com/FelixHerrmann/swift-package-list) - A command-line tool to get all used SPM-dependencies of an Xcode project or workspace.
 - [atrinh0/buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 👌🏼
 - [apple/swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
@@ -1839,7 +1840,7 @@
 - [twostraws/Brisk](https://github.com/twostraws/Brisk) - A proof of concept scripting library for Swift
 - [ChimeHQ/SwiftTreeSitter](https://github.com/ChimeHQ/SwiftTreeSitter) - Swift API for the tree-sitter incremental parsing system
 - [GEOSwift/GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geometry Engine.
-- [swiftwasm/WAKit](https://github.com/swiftwasm/WAKit) - WebAssembly Runtime written in Swift
+- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit) - WebAssembly Runtime written in Swift
 - [Apodini/webidl2swift](https://github.com/Apodini/webidl2swift) - 
 - [JamitLabs/Accio](https://github.com/JamitLabs/Accio) - A dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
 - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more.
