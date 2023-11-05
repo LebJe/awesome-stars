@@ -1215,6 +1215,7 @@
 
 ## Ruby 
 
+- [lapce/homebrew-lapce](https://github.com/lapce/homebrew-lapce) - 
 - [apple/homebrew-apple](https://github.com/apple/homebrew-apple) - 
 - [ruby/typeprof](https://github.com/ruby/typeprof) - An experimental type-level Ruby interpreter for testing and understanding Ruby code
 - [textmate/c.tmbundle](https://github.com/textmate/c.tmbundle) - TextMate support for C
@@ -1238,6 +1239,8 @@
 
 ## Rust 
 
+- [lapce/tree-sitter-grammars](https://github.com/lapce/tree-sitter-grammars) - 
+- [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [lapce/lapce-lldb](https://github.com/lapce/lapce-lldb) - 
 - [vhyrro/toml-edit.lua](https://github.com/vhyrro/toml-edit.lua) - Edit toml files while preserving whitespace and formatting from Lua.
 - [foxfriends/syncat](https://github.com/foxfriends/syncat) - Syntax aware cat
