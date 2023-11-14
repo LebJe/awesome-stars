@@ -1500,6 +1500,7 @@
 
 ## Swift 
 
+- [ChimeHQ/Welp](https://github.com/ChimeHQ/Welp) - Tooling for macOS help books
 - [richardtop/CalendarApp](https://github.com/richardtop/CalendarApp) - 📅 Reference implementation of a Calendar App with CalendarKit (template repository)
 - [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for Apple platforms in Swift
 - [Kyle-Ye/DiscourseKit](https://github.com/Kyle-Ye/DiscourseKit) - 
