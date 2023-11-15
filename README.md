@@ -1683,7 +1683,7 @@
 - [swiftstack/network](https://github.com/swiftstack/network) - Non-blocking Socket, Server, Client, DNS
 - [apple/swift-llvm-bindings](https://github.com/apple/swift-llvm-bindings) - Swift Bindings for LLVM Project APIs
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
-- [malcommac/SwiftLocation](https://github.com/malcommac/SwiftLocation) - 🛰 Async/Await CoreLocation wrapper
+- [malcommac/SwiftLocation](https://github.com/malcommac/SwiftLocation) - ⚓️ Async/Await CLLocationManager Wrapper for Apple Platforms
 - [karwa/uniqueid](https://github.com/karwa/uniqueid) - Random and time-ordered UUID generation in Swift
 - [pzerelles/swift-tds](https://github.com/pzerelles/swift-tds) - Non-blocking, event-driven Swift implementation of the TDS Protocol
 - [JaapWijnen/swift-xml-parser](https://github.com/JaapWijnen/swift-xml-parser) - 
