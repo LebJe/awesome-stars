@@ -74,6 +74,10 @@
 
 ## C 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
+- [c-ares/c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
 - [gregcotten/ZIPFoundationModern](https://github.com/gregcotten/ZIPFoundationModern) - Effortless ZIP Handling in Swift
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [klange/nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
@@ -1500,6 +1504,9 @@
 
 ## Swift 
 
+- [apple/swift-async-dns-resolver](https://github.com/apple/swift-async-dns-resolver) - A Swift library for asynchronous DNS requests, wrapping c-ares with Swift-friendly APIs and data structures.
+- [apple/swift-testing](https://github.com/apple/swift-testing) - 
+- [apple/swift-mmio](https://github.com/apple/swift-mmio) - Define and operate on type safe MMIO
 - [ChimeHQ/Welp](https://github.com/ChimeHQ/Welp) - Tooling for macOS help books
 - [richardtop/CalendarApp](https://github.com/richardtop/CalendarApp) - 📅 Reference implementation of a Calendar App with CalendarKit (template repository)
 - [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for Apple platforms in Swift
@@ -2045,7 +2052,6 @@
 - [amzn/smoke-framework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language.
 - [amzn/smoke-aws](https://github.com/amzn/smoke-aws) - AWS services integration for the Smoke Framework
 - [swift-server-community/APNSwift](https://github.com/swift-server-community/APNSwift) - 📱HTTP/2 Apple Push Notification Service built with swift - send push notifications to iOS, iPadOS, tvOS, macOS, watchOS, visionOS, and Safari!
-- [johnno1962/Dynamo](https://github.com/johnno1962/Dynamo) - High Performance (nearly)100% Swift Web server supporting dynamic content.
 - [karwa/swift-url](https://github.com/karwa/swift-url) - A new URL type for Swift
 - [rhx/SwiftGtk](https://github.com/rhx/SwiftGtk) - A Swift wrapper around gtk-3.x and gtk-4.x that is largely auto-generated from gobject-introspection
 - [chriseidhof/TerminalUI](https://github.com/chriseidhof/TerminalUI) - 
