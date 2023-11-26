@@ -1240,6 +1240,7 @@
 
 ## Rust 
 
+- [Borwe/wasm_nvim](https://github.com/Borwe/wasm_nvim) - Wasm platform for nvim.
 - [lapce/tree-sitter-grammars](https://github.com/lapce/tree-sitter-grammars) - 
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [lapce/lapce-lldb](https://github.com/lapce/lapce-lldb) - 
