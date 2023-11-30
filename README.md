@@ -400,7 +400,7 @@
 - [satoren/kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua
 - [JakobOvrum/LuaCpp](https://github.com/JakobOvrum/LuaCpp) - Bridge between Lua and C++ which completely abstracts the Lua stack.
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [pulzed/mINI](https://github.com/pulzed/mINI) - INI file reader and writer
+- [foxbitgames/mINI](https://github.com/foxbitgames/mINI) - INI file reader and writer
 - [WebAssembly/wasm-c-api](https://github.com/WebAssembly/wasm-c-api) - Wasm C API prototype
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
@@ -740,7 +740,7 @@
 - [npm/ini](https://github.com/npm/ini) - An ini parser/serializer in JavaScript
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) - Advanced REST Client - Desktop application
 - [ikatyang/tree-sitter-toml](https://github.com/ikatyang/tree-sitter-toml) - TOML grammar for tree-sitter
 - [tree-sitter/tree-sitter-regex](https://github.com/tree-sitter/tree-sitter-regex) - Tree-sitter parser for regular expressions
@@ -1695,7 +1695,7 @@
 - [SwiftFiddle/swiftregex](https://github.com/SwiftFiddle/swiftregex) - Swift Regex is an online tool to learn, build and test Swift Regex Regex and Regex Builder.
 - [aheze/Multiliner](https://github.com/aheze/Multiliner) - An Xcode source extension to expand lengthy lines.
 - [robreuss/VirtualGameController](https://github.com/robreuss/VirtualGameController) - Software-based game controllers for iOS, tvOS, OS X and watchOS in Swift 4.2.
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
 - [trozware/swiftui-mac-2022](https://github.com/trozware/swiftui-mac-2022) - Sample app to accompany article.
 - [pointfreeco/swift-tagged](https://github.com/pointfreeco/swift-tagged) - 🏷 A wrapper type for safer, expressive code.
 - [joehinkle11/SwiftGit3](https://github.com/joehinkle11/SwiftGit3) - SwiftGit2 working with SPM, M1 and supports git push and other features
