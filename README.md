@@ -1241,6 +1241,7 @@
 
 ## Rust 
 
+- [Gankra/abi-cafe](https://github.com/Gankra/abi-cafe) - Pair your compilers up at The ABI Café!
 - [Borwe/wasm_nvim](https://github.com/Borwe/wasm_nvim) - Wasm platform for nvim.
 - [lapce/tree-sitter-grammars](https://github.com/lapce/tree-sitter-grammars) - 
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
