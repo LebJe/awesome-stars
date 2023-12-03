@@ -1217,6 +1217,7 @@
 
 ## Ruby 
 
+- [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 - [lapce/homebrew-lapce](https://github.com/lapce/homebrew-lapce) - 
 - [apple/homebrew-apple](https://github.com/apple/homebrew-apple) - 
 - [ruby/typeprof](https://github.com/ruby/typeprof) - An experimental type-level Ruby interpreter for testing and understanding Ruby code
