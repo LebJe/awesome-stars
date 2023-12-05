@@ -292,6 +292,7 @@
 
 ## C++ 
 
+- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - Pixar's Universal Scene Description for Swift and the Open Source Metaverse.
 - [mariusbancila/stduuid](https://github.com/mariusbancila/stduuid) - A C++17 cross-platform implementation for UUIDs
 - [bombela/backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++
 - [csmith-project/csmith](https://github.com/csmith-project/csmith) - Csmith, a random generator of C programs
@@ -1505,6 +1506,7 @@
 
 ## Swift 
 
+- [migueldeicaza/TurboSwift](https://github.com/migueldeicaza/TurboSwift) - 
 - [apple/swift-async-dns-resolver](https://github.com/apple/swift-async-dns-resolver) - A Swift library for asynchronous DNS requests, wrapping c-ares with Swift-friendly APIs and data structures.
 - [apple/swift-testing](https://github.com/apple/swift-testing) - 
 - [apple/swift-mmio](https://github.com/apple/swift-mmio) - Define and operate on type safe MMIO
