@@ -292,6 +292,7 @@
 
 ## C++ 
 
+- [noah-nuebling/mac-gamepad-driver](https://github.com/noah-nuebling/mac-gamepad-driver) - Trying to get my wired Xbox One controller to work.
 - [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - Pixar's Universal Scene Description for Swift and the Open Source Metaverse.
 - [mariusbancila/stduuid](https://github.com/mariusbancila/stduuid) - A C++17 cross-platform implementation for UUIDs
 - [bombela/backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++
@@ -418,7 +419,7 @@
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.3: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI, Google-like search with AND/OR/NOT, fuzz
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.3: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
 - [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) - Index database library for use with sourcekit-lsp
 - [cedricve/raspicam](https://github.com/cedricve/raspicam) - AVA RaspiCam: C++ API for using Raspberry camera with/without OpenCv
@@ -467,6 +468,7 @@
 
 ## CMake 
 
+- [thebrowsercompany/windows-samples](https://github.com/thebrowsercompany/windows-samples) - Sample Apps for Swift on Windows
 - [xpol/setup-lua](https://github.com/xpol/setup-lua) - GitHub action to setup Lua.
 - [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) - A template CMake project to get you started with C++ and tooling
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
@@ -1375,7 +1377,7 @@
 - [zonyitoo/rust-ini](https://github.com/zonyitoo/rust-ini) - INI file parser in Rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [edg-l/treelight](https://github.com/edg-l/treelight) - A syntax highlighter for the web using tree-sitter.
 - [vi/timeago](https://github.com/vi/timeago) - In Rust, format Duration into a string like "1 hour ago" or "01hou".
@@ -1506,6 +1508,10 @@
 
 ## Swift 
 
+- [bestwnh/TinyCreditCard](https://github.com/bestwnh/TinyCreditCard) - A clear and animated credit card input workflow implement
+- [thebrowsercompany/swift-webdriver](https://github.com/thebrowsercompany/swift-webdriver) - A Swift library for communicating with WebDriver (Appium/WinAppDriver) endpoints
+- [compnerd/swift-firebase](https://github.com/compnerd/swift-firebase) - Swift Interface for Firebase
+- [thebrowsercompany/swift-winrt](https://github.com/thebrowsercompany/swift-winrt) - Swift Language Projection for WinRT
 - [migueldeicaza/TurboSwift](https://github.com/migueldeicaza/TurboSwift) - 
 - [apple/swift-async-dns-resolver](https://github.com/apple/swift-async-dns-resolver) - A Swift library for asynchronous DNS requests, wrapping c-ares with Swift-friendly APIs and data structures.
 - [apple/swift-testing](https://github.com/apple/swift-testing) - 
