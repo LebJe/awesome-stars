@@ -73,6 +73,7 @@
 
 ## C 
 
+- [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) - The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
@@ -292,6 +293,8 @@
 
 ## C++ 
 
+- [firebase/quickstart-cpp](https://github.com/firebase/quickstart-cpp) - Firebase Quickstart Samples for C++
+- [firebase/firebase-cpp-sdk](https://github.com/firebase/firebase-cpp-sdk) - Firebase C++ SDK
 - [noah-nuebling/mac-gamepad-driver](https://github.com/noah-nuebling/mac-gamepad-driver) - Trying to get my wired Xbox One controller to work.
 - [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - Pixar's Universal Scene Description for Swift and the Open Source Metaverse.
 - [mariusbancila/stduuid](https://github.com/mariusbancila/stduuid) - A C++17 cross-platform implementation for UUIDs
