@@ -1269,7 +1269,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [cooklang/cookcli](https://github.com/cooklang/cookcli) - Command line program which provides a suite of tools to create shopping lists and maintain recipes.
-- [utfeight/RASCII](https://github.com/utfeight/RASCII) - Advanced image to ASCII art tool & crate written in Rust 🦀🚀
+- [ocaml-case/RASCII](https://github.com/ocaml-case/RASCII) - Advanced image to ASCII art tool & crate written in Rust 🦀🚀
 - [lapce/lapce-volts](https://github.com/lapce/lapce-volts) - 
 - [syntacti/lapce-swift](https://github.com/syntacti/lapce-swift) - lapce-swift
 - [lapce/lapce-rust](https://github.com/lapce/lapce-rust) - 
@@ -1514,6 +1514,7 @@
 
 ## Swift 
 
+- [lovetodream/oracle-nio](https://github.com/lovetodream/oracle-nio) - Non-blocking, event-driven Swift client for Oracle DBs. Does not require OCI or ODPI.
 - [philipturner/molecular-renderer](https://github.com/philipturner/molecular-renderer) - Ray tracer for molecular nanotechnology
 - [stackotter/swift-macro-toolkit](https://github.com/stackotter/swift-macro-toolkit) - A powerful toolkit for creating concise and expressive Swift macros
 - [bestwnh/TinyCreditCard](https://github.com/bestwnh/TinyCreditCard) - A clear and animated credit card input workflow implement
