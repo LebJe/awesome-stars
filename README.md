@@ -1269,7 +1269,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [cooklang/cookcli](https://github.com/cooklang/cookcli) - Command line program which provides a suite of tools to create shopping lists and maintain recipes.
-- [ocaml-case/RASCII](https://github.com/ocaml-case/RASCII) - Advanced image to ASCII art tool & crate written in Rust 🦀🚀
+- [orhnk/RASCII](https://github.com/orhnk/RASCII) - Advanced image to ASCII art tool & crate written in Rust 🦀🚀
 - [lapce/lapce-volts](https://github.com/lapce/lapce-volts) - 
 - [syntacti/lapce-swift](https://github.com/syntacti/lapce-swift) - lapce-swift
 - [lapce/lapce-rust](https://github.com/lapce/lapce-rust) - 
