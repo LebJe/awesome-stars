@@ -73,6 +73,7 @@
 
 ## C 
 
+- [kos-pomfort/lua4swift](https://github.com/kos-pomfort/lua4swift) - High-level (convenient) Lua bindings for Swift
 - [lua-batteries/lua-batteries](https://github.com/lua-batteries/lua-batteries) - Batteries included Lua and LuaJIT installation
 - [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) - The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -294,6 +295,7 @@
 
 ## C++ 
 
+- [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 - [firebase/quickstart-cpp](https://github.com/firebase/quickstart-cpp) - Firebase Quickstart Samples for C++
 - [firebase/firebase-cpp-sdk](https://github.com/firebase/firebase-cpp-sdk) - Firebase C++ SDK
@@ -1045,7 +1047,6 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [umutphp/famous-bugs](https://github.com/umutphp/famous-bugs) - Famous bugs fixed, problems solved and failures experienced  in software history :bug: :bee: :ant: :beetle:
-- [amosgyamfi/open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations) - Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The li
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [fregante/setup-git-user](https://github.com/fregante/setup-git-user) - GitHub Action that sets the git user and email to enable commiting
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
@@ -1514,6 +1515,8 @@
 
 ## Swift 
 
+- [Swiftgram/TDLibKit](https://github.com/Swiftgram/TDLibKit) - Native Swift wrapper for Telegram's TDLib. Available on iOS, macOS, watchOS and tvOS.
+- [mock-foundation/tdlibkit](https://github.com/mock-foundation/tdlibkit) - Native Swift wrapper for Telegram's TDLib. Only for use by Moc.
 - [lovetodream/oracle-nio](https://github.com/lovetodream/oracle-nio) - Non-blocking, event-driven Swift client for Oracle DBs. Does not require OCI or ODPI.
 - [philipturner/molecular-renderer](https://github.com/philipturner/molecular-renderer) - Ray tracer for molecular nanotechnology
 - [stackotter/swift-macro-toolkit](https://github.com/stackotter/swift-macro-toolkit) - A powerful toolkit for creating concise and expressive Swift macros
@@ -1894,6 +1897,7 @@
 - [iliasaz/SwiftOracle](https://github.com/iliasaz/SwiftOracle) - OCILIB wrapper for Swift, linux compatible
 - [h1257977/SwiftOracle](https://github.com/h1257977/SwiftOracle) - OCILIB wrapper for Swift, linux compatible
 - [apple/swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing) - An early experimental general-purpose pattern matching engine for Swift.
+- [amosgyamfi/open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations) - Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The li
 - [revolter/EvaluateForXcode](https://github.com/revolter/EvaluateForXcode) - Xcode extension that evaluates selected mathematical expressions and replaces them with the result
 - [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) - HTTP/2 support for SwiftNIO
 - [karwa/swift-checkit](https://github.com/karwa/swift-checkit) - 
