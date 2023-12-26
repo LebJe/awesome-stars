@@ -1112,6 +1112,7 @@
 
 ## Python 
 
+- [utmapp/QEMUKit](https://github.com/utmapp/QEMUKit) - Swift interface to QEMU, QMP, and QEMU guest agent.
 - [edlund/amalgamate](https://github.com/edlund/amalgamate) - Amalgamate C source and header files.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [laixintao/pingtop](https://github.com/laixintao/pingtop) - 🏓Ping multiple servers and show results in a top-like terminal UI.
@@ -1515,6 +1516,7 @@
 
 ## Swift 
 
+- [MillerTechnologyPeru/CarPlayUI](https://github.com/MillerTechnologyPeru/CarPlayUI) - DSL / SwiftUI for CarPlay
 - [Swiftgram/TDLibKit](https://github.com/Swiftgram/TDLibKit) - Native Swift wrapper for Telegram's TDLib. Available on iOS, macOS, watchOS and tvOS.
 - [mock-foundation/tdlibkit](https://github.com/mock-foundation/tdlibkit) - Native Swift wrapper for Telegram's TDLib. Only for use by Moc.
 - [lovetodream/oracle-nio](https://github.com/lovetodream/oracle-nio) - Non-blocking, event-driven Swift client for Oracle DBs. Does not require OCI or ODPI.
