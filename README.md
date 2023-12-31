@@ -222,7 +222,6 @@
 - [Zunawe/md5-c](https://github.com/Zunawe/md5-c) - A simple, commented reference implementation of the MD5 hash algorithm
 - [gshahbazian/SwiftGumbo](https://github.com/gshahbazian/SwiftGumbo) - A Swift wrapper and CSS like query library for the gumbo-parser HTML library
 - [libffi/libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library.
-- [libgit2/pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [OlehKulykov/PLzmaSDK](https://github.com/OlehKulykov/PLzmaSDK) - PLzmaSDK is (Portable, Patched, Package, cross-P-latform) Lzma SDK.
 - [MidnightCommander/mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
@@ -320,7 +319,7 @@
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [ikalnytskyi/termcolor](https://github.com/ikalnytskyi/termcolor) - Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force.
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
-- [zhllxt/asio2](https://github.com/zhllxt/asio2) - Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_port.
+- [zhllxt/asio2](https://github.com/zhllxt/asio2) - Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_port,socks5.
 - [hdoc/hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++.
 - [HanaMcHanaface/RBRCountdown](https://github.com/HanaMcHanaface/RBRCountdown) - This is a plugin for Richard Burns Rally that adds a countdown before the stage starts.
 - [Neargye/nameof](https://github.com/Neargye/nameof) - Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum
@@ -1195,6 +1194,7 @@
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
+- [libgit2/pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [snare/voltron](https://github.com/snare/voltron) - A hacky debugger UI for hackers
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
