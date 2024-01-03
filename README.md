@@ -73,6 +73,7 @@
 
 ## C 
 
+- [mingw-w64/mingw-w64](https://github.com/mingw-w64/mingw-w64) - (Unofficial) Mirror of mingw-w64-code
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
 - [kos-pomfort/lua4swift](https://github.com/kos-pomfort/lua4swift) - High-level (convenient) Lua bindings for Swift
@@ -90,6 +91,7 @@
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [Obverser/kinzoku](https://github.com/Obverser/kinzoku) - Cross platform graphics in Swift using WGSL. An implementation of wgpu-native
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
+- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [pmaillot/X32-Behringer](https://github.com/pmaillot/X32-Behringer) - This GIT repo (C language) holds applications and utilities for the Behringer X32 and M32 mixing consoles. Additional details, documentation, implementation examples and apps can be found in my websit
 - [mika-n/NGPCarMenu](https://github.com/mika-n/NGPCarMenu) - Custom "Select Car in-game menu" for Richard Burns Rally (RBR v1.02 SSE) game. The plugin supports custom car preview images (the real RBR 3D rendered custom car images), car specs from NGP physics mo
@@ -297,6 +299,7 @@
 
 ## C++ 
 
+- [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating the ASWF landscape to swiftly architect the metaverse.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 - [firebase/quickstart-cpp](https://github.com/firebase/quickstart-cpp) - Firebase Quickstart Samples for C++
@@ -318,7 +321,6 @@
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [ikalnytskyi/termcolor](https://github.com/ikalnytskyi/termcolor) - Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force.
-- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [zhllxt/asio2](https://github.com/zhllxt/asio2) - Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_port,socks5.
 - [hdoc/hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++.
 - [HanaMcHanaface/RBRCountdown](https://github.com/HanaMcHanaface/RBRCountdown) - This is a plugin for Richard Burns Rally that adds a countdown before the stage starts.
@@ -486,6 +488,7 @@
 
 ## CSS 
 
+- [mingw-w64/mingw-w64.github.io](https://github.com/mingw-w64/mingw-w64.github.io) - mingw-w64.net web page contents (The new web page)
 - [dankinsoid/VaporToOpenAPI](https://github.com/dankinsoid/VaporToOpenAPI) - OpenAPI specification generator for Vapor based Swift projects.
 - [brokenhandsio/are-we-server-yet](https://github.com/brokenhandsio/are-we-server-yet) - Are we server yet? A simple reckoning of Swift’s readiness for Server-related things. Inspired by arewewebyet.org
 - [Birkbjo/OctoPrint-Themeify](https://github.com/Birkbjo/OctoPrint-Themeify) - Beautiful themes for OctoPrint
@@ -805,6 +808,7 @@
 
 ## Lua 
 
+- [manoelcampos/xml2lua](https://github.com/manoelcampos/xml2lua) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 🌖💱
 - [teal-language/cyan](https://github.com/teal-language/cyan) - The Teal build system and project manager
 - [teal-language/teal-types](https://github.com/teal-language/teal-types) - Teal type definitions of Lua libraries!
 - [ers35/luastatic](https://github.com/ers35/luastatic) - Build a standalone executable from a Lua program.
@@ -1118,6 +1122,7 @@
 
 ## Python 
 
+- [jjjake/internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
 - [utmapp/QEMUKit](https://github.com/utmapp/QEMUKit) - Swift interface to QEMU, QMP, and QEMU guest agent.
 - [edlund/amalgamate](https://github.com/edlund/amalgamate) - Amalgamate C source and header files.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -1259,6 +1264,8 @@
 
 ## Rust 
 
+- [clitic/kdam](https://github.com/clitic/kdam) - A console progress bar library for Rust. (inspired by tqdm & rich.progress)
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) - HTTP client/libcurl TUI front end in Rust, with request + key storage
 - [Gankra/abi-cafe](https://github.com/Gankra/abi-cafe) - Pair your compilers up at The ABI Café!
 - [Borwe/wasm_nvim](https://github.com/Borwe/wasm_nvim) - Wasm platform for nvim.
@@ -2284,7 +2291,7 @@
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [JohnnyMorganz/stylua-action](https://github.com/JohnnyMorganz/stylua-action) - GitHub action for StyLua
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands into code
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert curl commands into code
 - [Esri/arcgis-rest-js](https://github.com/Esri/arcgis-rest-js) - compact, modular JavaScript wrappers for the ArcGIS REST API
 - [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
