@@ -299,6 +299,7 @@
 
 ## C++ 
 
+- [jorgen/json_struct](https://github.com/jorgen/json_struct) - json_struct is a single header only C++ library for parsing JSON directly to C++ structs and vice versa
 - [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating the ASWF landscape to swiftly architect the metaverse.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
@@ -997,6 +998,7 @@
 
 ## Others 
 
+- [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) - Combustion engine simulation game that generates realistic audio.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [uhub/awesome-lua](https://github.com/uhub/awesome-lua) - A curated list of awesome Lua frameworks, libraries and software.
 - [ChimeHQ/chime-markdown](https://github.com/ChimeHQ/chime-markdown) - A Chime extension for Markdown
@@ -1530,6 +1532,7 @@
 
 ## Swift 
 
+- [compnerd/antimony](https://github.com/compnerd/antimony) - Experimental Build System for Swift
 - [MillerTechnologyPeru/CarPlayUI](https://github.com/MillerTechnologyPeru/CarPlayUI) - DSL / SwiftUI for CarPlay
 - [Swiftgram/TDLibKit](https://github.com/Swiftgram/TDLibKit) - Native Swift wrapper for Telegram's TDLib. Available on iOS, macOS, watchOS and tvOS.
 - [mock-foundation/tdlibkit](https://github.com/mock-foundation/tdlibkit) - Native Swift wrapper for Telegram's TDLib. Only for use by Moc.
