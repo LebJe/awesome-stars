@@ -1538,6 +1538,8 @@
 
 ## Swift 
 
+- [mochidev/HostRouter](https://github.com/mochidev/HostRouter) - A Vapor middleware for including domains in routing
+- [apple/swift-atomics](https://github.com/apple/swift-atomics) - Low-level atomic operations for Swift
 - [googleapis/google-api-swift-client](https://github.com/googleapis/google-api-swift-client) - A client generator for APIs described by Google's API Discovery Format.
 - [sliemeobn/ipp-nio](https://github.com/sliemeobn/ipp-nio) - Internet Printing Protocol (IPP) implementation for Swift based on swift-nio.
 - [compnerd/antimony](https://github.com/compnerd/antimony) - Experimental Build System for Swift
