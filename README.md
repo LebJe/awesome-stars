@@ -1538,6 +1538,7 @@
 
 ## Swift 
 
+- [lyricalsoul/Plug](https://github.com/lyricalsoul/Plug) - Plugin management library for Swift.
 - [mochidev/HostRouter](https://github.com/mochidev/HostRouter) - A Vapor middleware for including domains in routing
 - [apple/swift-atomics](https://github.com/apple/swift-atomics) - Low-level atomic operations for Swift
 - [googleapis/google-api-swift-client](https://github.com/googleapis/google-api-swift-client) - A client generator for APIs described by Google's API Discovery Format.
@@ -1547,7 +1548,7 @@
 - [Swiftgram/TDLibKit](https://github.com/Swiftgram/TDLibKit) - Native Swift wrapper for Telegram's TDLib. Available on iOS, macOS, watchOS and tvOS.
 - [mock-foundation/tdlibkit](https://github.com/mock-foundation/tdlibkit) - Native Swift wrapper for Telegram's TDLib. Only for use by Moc.
 - [lovetodream/oracle-nio](https://github.com/lovetodream/oracle-nio) - Non-blocking, event-driven Swift client for Oracle DBs. Does not require OCI or ODPI.
-- [philipturner/molecular-renderer](https://github.com/philipturner/molecular-renderer) - Ray tracer for molecular nanotechnology
+- [philipturner/molecular-renderer](https://github.com/philipturner/molecular-renderer) - CAD program for molecular nanotechnology
 - [stackotter/swift-macro-toolkit](https://github.com/stackotter/swift-macro-toolkit) - A powerful toolkit for creating concise and expressive Swift macros
 - [bestwnh/TinyCreditCard](https://github.com/bestwnh/TinyCreditCard) - A clear and animated credit card input workflow implement
 - [thebrowsercompany/swift-webdriver](https://github.com/thebrowsercompany/swift-webdriver) - A Swift library for communicating with WebDriver (Appium/WinAppDriver) endpoints
