@@ -1208,7 +1208,6 @@
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [snare/voltron](https://github.com/snare/voltron) - A hacky debugger UI for hackers
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by QPDF
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
@@ -1431,6 +1430,7 @@
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [tokio-rs/rdbc](https://github.com/tokio-rs/rdbc) - Rust DataBase Connectivity (RDBC) :: Common Rust API for database drivers
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [console-rs/console](https://github.com/console-rs/console) - A rust console and terminal abstraction
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
@@ -1538,6 +1538,7 @@
 
 ## Swift 
 
+- [CSolanaM/SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - ☠️ Elegant skeleton loading animation in lightweight SwiftUI
 - [lyricalsoul/Plug](https://github.com/lyricalsoul/Plug) - Plugin management library for Swift.
 - [mochidev/HostRouter](https://github.com/mochidev/HostRouter) - A Vapor middleware for including domains in routing
 - [apple/swift-atomics](https://github.com/apple/swift-atomics) - Low-level atomic operations for Swift
