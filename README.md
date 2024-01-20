@@ -1538,6 +1538,7 @@
 
 ## Swift 
 
+- [ChimeHQ/ThemePark](https://github.com/ChimeHQ/ThemePark) - A Swift library for working with syntax highlighting/IDE themes
 - [CSolanaM/SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - ☠️ Elegant skeleton loading animation in lightweight SwiftUI
 - [lyricalsoul/Plug](https://github.com/lyricalsoul/Plug) - Plugin management library for Swift.
 - [mochidev/HostRouter](https://github.com/mochidev/HostRouter) - A Vapor middleware for including domains in routing
