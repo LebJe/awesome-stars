@@ -235,7 +235,7 @@
 - [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 - [google/AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
-- [rpm-software-management/rpm](https://github.com/rpm-software-management/rpm) - 
+- [rpm-software-management/rpm](https://github.com/rpm-software-management/rpm) - The RPM package manager
 - [lemenkov/oraODBC](https://github.com/lemenkov/oraODBC) - Oracle ODBC driver for UnixODBC
 - [softace/sqliteodbc](https://github.com/softace/sqliteodbc) - SQLite ODBC driver
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
