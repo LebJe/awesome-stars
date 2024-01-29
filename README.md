@@ -64,6 +64,7 @@
 
 ## Assembly 
 
+- [Benricheson101/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](https://github.com/Benricheson101/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) - Contributor note: code must spam "a" all on one line, there must not be any duplicate languages
 - [TheAlgorithms/AArch64_Assembly](https://github.com/TheAlgorithms/AArch64_Assembly) - All Algorithms implemented in AArch64 Assembly
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 
@@ -89,6 +90,7 @@
 - [klange/nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
 - [jdah/reloadhost](https://github.com/jdah/reloadhost) - POSIX-friendly live code reloading
 - [apple/swift-foundation-icu](https://github.com/apple/swift-foundation-icu) - 
+- [migueldeicaza/SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit) - Embed Godot into Swift apps
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [Obverser/kinzoku](https://github.com/Obverser/kinzoku) - Cross platform graphics in Swift using WGSL. An implementation of wgpu-native
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
@@ -107,7 +109,6 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [neoclide/wasm-fuzzy](https://github.com/neoclide/wasm-fuzzy) - Fuzzy match at native speed
-- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [fabulouspanda/MacMiner](https://github.com/fabulouspanda/MacMiner) - The first native Mac GUI for Bitcoin, Litecoin and Alt Coin mining
 - [ctreffs/SwiftNFD](https://github.com/ctreffs/SwiftNFD) - Swift wrapper for Native File Dialog, a tiny, neat C library that portably invokes native file open and save dialogs.
 - [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
@@ -148,7 +149,7 @@
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
-- [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
+- [babbleberry/rpi4-osdev](https://github.com/babbleberry/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [brenns10/lsh](https://github.com/brenns10/lsh) - Simple shell implementation.  Tutorial here -&gt;
 - [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
@@ -637,6 +638,7 @@
 
 ## HTML 
 
+- [programming/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](https://github.com/programming/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) - The World's longest URL "shortener"
 - [w3c/webvtt](https://github.com/w3c/webvtt) - WebVTT Standard
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
 - [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - AST visualizer for Swift source code
@@ -969,6 +971,7 @@
 ## Objective-C 
 
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
+- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [mmattozzi/cocoa-rest-client](https://github.com/mmattozzi/cocoa-rest-client) - A free, native Apple macOS app for testing HTTP/REST endpoints
 - [BeamNG/remotecontrol](https://github.com/BeamNG/remotecontrol) - Remote Control App for BeamNG.drive
 - [robovm/apple-ios-samples](https://github.com/robovm/apple-ios-samples) - 
@@ -1000,6 +1003,7 @@
 
 ## Others 
 
+- [OXiDE-dev/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAA](https://github.com/OXiDE-dev/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAA) - AAAAAAAAAAAAAAAAAAAAAAAA ;)
 - [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) - Combustion engine simulation game that generates realistic audio.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [uhub/awesome-lua](https://github.com/uhub/awesome-lua) - A curated list of awesome Lua frameworks, libraries and software.
@@ -1538,6 +1542,8 @@
 
 ## Swift 
 
+- [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI) - [WIP] Open source implementation of Apple's SwiftUI.
+- [helbertgs/OpenSwiftUI](https://github.com/helbertgs/OpenSwiftUI) - Open-source framework based on Apple's SwiftUI.
 - [ChimeHQ/ThemePark](https://github.com/ChimeHQ/ThemePark) - A Swift library for working with syntax highlighting/IDE themes
 - [CSolanaM/SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - ☠️ Elegant skeleton loading animation in lightweight SwiftUI
 - [lyricalsoul/Plug](https://github.com/lyricalsoul/Plug) - Plugin management library for Swift.
@@ -1624,7 +1630,6 @@
 - [atrinh0/buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 👌🏼
 - [apple/swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
 - [migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - New Godot bindings for Swift
-- [migueldeicaza/SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit) - Embed Godot into Swift apps
 - [alexandrehsaad/swift-measures](https://github.com/alexandrehsaad/swift-measures) - Swift package containing measurement types.
 - [AdaEngine/AdaEngine](https://github.com/AdaEngine/AdaEngine) - AdaEngine - Multi-platform 2D and 3D game engine written on Swift
 - [SwiftedMind/Puddles](https://github.com/SwiftedMind/Puddles) - A native SwiftUI app architecture
@@ -2272,6 +2277,8 @@
 
 ## TypeScript 
 
+- [annexare/Countries](https://github.com/annexare/Countries) - Countries, Languages & Continents data (capital and currency, native name, calling codes).
+- [trevorblades/countries](https://github.com/trevorblades/countries) - 🌎 Public GraphQL API for information about countries
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG, Amazon and Epic Games Launcher for Linux, Windows and Mac.
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
