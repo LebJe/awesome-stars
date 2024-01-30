@@ -694,6 +694,7 @@
 
 ## JavaScript 
 
+- [npm/npm-expansions](https://github.com/npm/npm-expansions) - Send us a pull request by editing expansions.txt
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) - Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!
@@ -959,6 +960,7 @@
 
 ## Nim 
 
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-lang/langserver](https://github.com/nim-lang/langserver) - The Nim language server implementation (based on nimsuggest)
 - [PMunch/nimlsp](https://github.com/PMunch/nimlsp) - Language Server Protocol implementation for Nim
 - [jiro4989/build-deb-action](https://github.com/jiro4989/build-deb-action) - build-deb-action builds a simple debian package.
@@ -1542,6 +1544,7 @@
 
 ## Swift 
 
+- [liamnichols/xcstrings-tool](https://github.com/liamnichols/xcstrings-tool) - A plugin to generate Swift constants for your Strings Catalogs.
 - [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI) - [WIP] Open source implementation of Apple's SwiftUI.
 - [helbertgs/OpenSwiftUI](https://github.com/helbertgs/OpenSwiftUI) - Open-source framework based on Apple's SwiftUI.
 - [ChimeHQ/ThemePark](https://github.com/ChimeHQ/ThemePark) - A Swift library for working with syntax highlighting/IDE themes
