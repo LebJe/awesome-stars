@@ -107,7 +107,6 @@
 - [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
-- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [neoclide/wasm-fuzzy](https://github.com/neoclide/wasm-fuzzy) - Fuzzy match at native speed
 - [fabulouspanda/MacMiner](https://github.com/fabulouspanda/MacMiner) - The first native Mac GUI for Bitcoin, Litecoin and Alt Coin mining
 - [ctreffs/SwiftNFD](https://github.com/ctreffs/SwiftNFD) - Swift wrapper for Native File Dialog, a tiny, neat C library that portably invokes native file open and save dialogs.
@@ -335,6 +334,7 @@
 - [audiorouterdev/audio-router](https://github.com/audiorouterdev/audio-router) - Routes audio from programs to different audio devices.
 - [markondej/fm_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
 - [markondej/cpp-icmplib](https://github.com/markondej/cpp-icmplib) - A C++ header-only ICMP Ping library
+- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [nezticle/qtoutgauge](https://github.com/nezticle/qtoutgauge) - A Qt Module for consuming the OutGauge protocol with Qt/QML
