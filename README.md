@@ -2130,7 +2130,7 @@
 - [nodes-vapor/gatekeeper](https://github.com/nodes-vapor/gatekeeper) - Rate limiting middleware for Vapor 👮
 - [silt-lang/silt](https://github.com/silt-lang/silt) - An in-progress fast, dependently typed, functional programming language implemented in Swift.
 - [OpenCombine/OpenCombine](https://github.com/OpenCombine/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
-- [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
+- [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - Capture HTTP/HTTPS, and Websocket from iOS app without proxy.
 - [airbnb/epoxy-ios](https://github.com/airbnb/epoxy-ios) - Epoxy is a suite of declarative UI APIs for building UIKit applications in Swift
 - [plotfi/swiftdasm](https://github.com/plotfi/swiftdasm) - An arm64 disassembler written in Swift.
 - [maustinstar/liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI.
