@@ -2053,7 +2053,7 @@
 - [supabase-community/realtime-swift](https://github.com/supabase-community/realtime-swift) - A Swift client for Supabase Realtime server.
 - [supabase-community/gotrue-swift](https://github.com/supabase-community/gotrue-swift) - A Swift client library for GoTrue.
 - [supabase-community/supabase-swift](https://github.com/supabase-community/supabase-swift) - A Swift client for Supabase
-- [mchakravarty/CodeEditorView](https://github.com/mchakravarty/CodeEditorView) - SwiftUI code editor view for iOS and macOS
+- [mchakravarty/CodeEditorView](https://github.com/mchakravarty/CodeEditorView) - SwiftUI code editor view for iOS, visionOS, and macOS
 - [mchakravarty/CodeEditorDemo](https://github.com/mchakravarty/CodeEditorDemo) - Demo app for CodeEditorView
 - [DeveloperMaris/ToolReleases](https://github.com/DeveloperMaris/ToolReleases) - macOS application, which reads the public RSS feed from Apple and shows the latest Apple tool releases in a formatted list.
 - [apple/swift-tools-support-core](https://github.com/apple/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
