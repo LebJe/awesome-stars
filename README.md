@@ -127,7 +127,7 @@
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 - [MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations) - Configurations for Marlin Firmware
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
-- [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
+- [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized 2D / 3D Graphics Math (glm) for C
 - [ElementsProject/libwally-core](https://github.com/ElementsProject/libwally-core) - Useful primitives for wallets
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -394,6 +394,7 @@
 - [vslavik/winsparkle](https://github.com/vslavik/winsparkle) - App update framework for Windows, inspired by Sparkle for macOS
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [OPENDAP/libdap4](https://github.com/OPENDAP/libdap4) - A new version of libdap that contains both DAP2 and DAP4 support
 - [google/cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -649,7 +650,6 @@
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
 - [fmtlib/fmt.dev](https://github.com/fmtlib/fmt.dev) - The {fmt} library website
 - [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
-- [OPENDAP/libdap4](https://github.com/OPENDAP/libdap4) - A new version of libdap that contains both DAP2 and DAP4 support
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
@@ -720,7 +720,6 @@
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [jurplel/install-qt-action](https://github.com/jurplel/install-qt-action) - Install Qt on your Github Actions workflows with just one simple action
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [josa42/coc-sh](https://github.com/josa42/coc-sh) - SH language server extension using bash-language-server for coc.nvim.
@@ -2301,6 +2300,7 @@
 - [coc-extensions/coc-omnisharp](https://github.com/coc-extensions/coc-omnisharp) - OmniSharp integration for coc.nvim
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [jurplel/install-qt-action](https://github.com/jurplel/install-qt-action) - Install Qt on your Github Actions workflows with just one simple action
 - [tediousjs/tedious](https://github.com/tediousjs/tedious) - Node TDS module for connecting to SQL Server databases.
 - [neovim/node-client](https://github.com/neovim/node-client) - Nvim Node.js client and plugin host
 - [swift-actions/setup-swift](https://github.com/swift-actions/setup-swift) - GitHub Action that setup a Swift environment
