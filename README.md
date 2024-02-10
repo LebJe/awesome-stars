@@ -94,7 +94,6 @@
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [Obverser/kinzoku](https://github.com/Obverser/kinzoku) - Cross platform graphics in Swift using WGSL. An implementation of wgpu-native
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
-- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [pmaillot/X32-Behringer](https://github.com/pmaillot/X32-Behringer) - This GIT repo (C language) holds applications and utilities for the Behringer X32 and M32 mixing consoles. Additional details, documentation, implementation examples and apps can be found in my websit
 - [mika-n/NGPCarMenu](https://github.com/mika-n/NGPCarMenu) - Custom "Select Car in-game menu" for Richard Burns Rally (RBR v1.02 SSE) game. The plugin supports custom car preview images (the real RBR 3D rendered custom car images), car specs from NGP physics mo
@@ -324,6 +323,7 @@
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [ikalnytskyi/termcolor](https://github.com/ikalnytskyi/termcolor) - Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force.
+- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [zhllxt/asio2](https://github.com/zhllxt/asio2) - Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_port,socks5.
 - [hdoc/hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++.
 - [HanaMcHanaface/RBRCountdown](https://github.com/HanaMcHanaface/RBRCountdown) - This is a plugin for Richard Burns Rally that adds a countdown before the stage starts.
@@ -926,7 +926,7 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [crispgm/dotfiles](https://github.com/crispgm/dotfiles) - dotfiles to provision a new macOS with cosy dev setups
-- [RRethy/nvim-base16](https://github.com/RRethy/nvim-base16) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
+- [RRethy/base16-nvim](https://github.com/RRethy/base16-nvim) - Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.
 - [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim) - coc.nvim integration for telescope.nvim
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
@@ -1499,6 +1499,7 @@
 
 - [kabiroberai/swift-sdk-darwin](https://github.com/kabiroberai/swift-sdk-darwin) - Darwin Swift SDK for Linux (experimental)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
+- [DimaRU/PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo) - Automated Swift Package version and build numbering via Git. Swift Package Manager plugin.
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
@@ -1639,7 +1640,6 @@
 - [AdaEngine/AdaEngine](https://github.com/AdaEngine/AdaEngine) - AdaEngine - Multi-platform 2D and 3D game engine written on Swift
 - [SwiftedMind/Puddles](https://github.com/SwiftedMind/Puddles) - A native SwiftUI app architecture
 - [kciter/GlitchLabel](https://github.com/kciter/GlitchLabel) - G..lit...c...hing UILa..bel fo..r iO...S :tv:
-- [DimaRU/PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo) - Automated Swift Package version and build numbering via Git. Swift Package Manager plugin.
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [GraphQLSwift/GraphQLTransportWS](https://github.com/GraphQLSwift/GraphQLTransportWS) - Swift implementation of the graphql-transport-ws WebSocket subprotocol.
 - [GraphQLSwift/GraphQLWS](https://github.com/GraphQLSwift/GraphQLWS) - Swift implementation of the graphql-ws WebSocket subprotocol.
