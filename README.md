@@ -837,7 +837,7 @@
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [codecat/beamngts](https://github.com/codecat/beamngts) - Typescript declarations for the BeamNG Lua environment.
 - [adam10603/BeamNG-Advanced-Steering](https://github.com/adam10603/BeamNG-Advanced-Steering) - A mod that overhauls BeamNG.drive's steering input system for gamepad and keyboard.
-- [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) - A Lua implementation at attempting to bring local network multiplayer to BeamNG.drive
+- [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) - Bringing multiplayer to BeamNG.drive
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
@@ -1499,7 +1499,7 @@
 
 - [kabiroberai/swift-sdk-darwin](https://github.com/kabiroberai/swift-sdk-darwin) - Darwin Swift SDK for Linux (experimental)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [DimaRU/PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo) - Automated Swift Package version and build numbering via Git. Swift Package Manager plugin.
+- [DimaRU/PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo) - Automated Swift Package version and build numbering via Git. A Swift Package Manager build plugin.
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
