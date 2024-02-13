@@ -86,7 +86,7 @@
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
 - [c-ares/c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
 - [gregcotten/ZIPFoundationModern](https://github.com/gregcotten/ZIPFoundationModern) - Effortless ZIP Handling in Swift
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [klange/nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
 - [jdah/reloadhost](https://github.com/jdah/reloadhost) - POSIX-friendly live code reloading
 - [apple/swift-foundation-icu](https://github.com/apple/swift-foundation-icu) - 
@@ -299,6 +299,7 @@
 
 ## C++ 
 
+- [Cascable/swift-on-windows-poc](https://github.com/Cascable/swift-on-windows-poc) - A proof-of-concept project for Swift on Windows with bindings to C#/the CLR.
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [jorgen/json_struct](https://github.com/jorgen/json_struct) - json_struct is a single header only C++ library for parsing JSON directly to C++ structs and vice versa
 - [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating the ASWF landscape to swiftly architect the metaverse.
@@ -340,7 +341,7 @@
 - [nezticle/qtoutgauge](https://github.com/nezticle/qtoutgauge) - A Qt Module for consuming the OutGauge protocol with Qt/QML
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
-- [maharmstone/tdscpp](https://github.com/maharmstone/tdscpp) - C++ bindings for the TDS protocol
+- [maharmstone/tdscpp](https://github.com/maharmstone/tdscpp) - C++ library to interface with Microsoft SQL Server
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [andreisperid/E-TKT](https://github.com/andreisperid/E-TKT) - open source embossed label maker
@@ -418,7 +419,7 @@
 - [satoren/kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua
 - [JakobOvrum/LuaCpp](https://github.com/JakobOvrum/LuaCpp) - Bridge between Lua and C++ which completely abstracts the Lua stack.
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [metayeti/mINI](https://github.com/metayeti/mINI) - INI file reader and writer
+- [metayeti/mINI](https://github.com/metayeti/mINI) - 📜 INI file reader and writer
 - [WebAssembly/wasm-c-api](https://github.com/WebAssembly/wasm-c-api) - Wasm C API prototype
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
