@@ -717,7 +717,6 @@
 - [ThatTonybo/BeamAdvisor](https://github.com/ThatTonybo/BeamAdvisor) - ETS2/ATS inspired information+navigation widget for BeamNG.drive
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [seanmiddleditch/gha-setup-vsdevenv](https://github.com/seanmiddleditch/gha-setup-vsdevenv) - GitHub Action to setup the VS dev environment for the job
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
@@ -2299,6 +2298,7 @@
 - [coc-extensions/coc-powershell](https://github.com/coc-extensions/coc-powershell) - PowerShellEditorService integration for coc.vim
 - [dotnet/vscode-csharp](https://github.com/dotnet/vscode-csharp) - Official C# support for Visual Studio Code
 - [coc-extensions/coc-omnisharp](https://github.com/coc-extensions/coc-omnisharp) - OmniSharp integration for coc.nvim
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [jurplel/install-qt-action](https://github.com/jurplel/install-qt-action) - Install Qt on your Github Actions workflows with just one simple action
