@@ -436,7 +436,7 @@
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.5: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 5.0: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy se
 - [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) - Index database library for use with sourcekit-lsp
 - [cedricve/raspicam](https://github.com/cedricve/raspicam) - AVA RaspiCam: C++ API for using Raspberry camera with/without OpenCv
@@ -485,7 +485,6 @@
 
 ## CMake 
 
-- [thebrowsercompany/windows-samples](https://github.com/thebrowsercompany/windows-samples) - Sample Apps for Swift on Windows
 - [xpol/setup-lua](https://github.com/xpol/setup-lua) - GitHub action to setup Lua.
 - [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) - A template CMake project to get you started with C++ and tooling
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
@@ -1414,7 +1413,7 @@
 - [edg-l/treelight](https://github.com/edg-l/treelight) - A syntax highlighter for the web using tree-sitter.
 - [vi/timeago](https://github.com/vi/timeago) - In Rust, format Duration into a string like "1 hour ago" or "01hou".
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
-- [kak-lsp/kak-lsp](https://github.com/kak-lsp/kak-lsp) - Kakoune Language Server Protocol Client
+- [kakoune-lsp/kakoune-lsp](https://github.com/kakoune-lsp/kakoune-lsp) - Kakoune Language Server Protocol Client
 - [svartalf/rust-battop](https://github.com/svartalf/rust-battop) - Interactive batteries viewer
 - [svartalf/rust-battery](https://github.com/svartalf/rust-battery) - Rust crate providing cross-platform information about the notebook batteries.
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
@@ -1568,6 +1567,7 @@
 - [thebrowsercompany/swift-webdriver](https://github.com/thebrowsercompany/swift-webdriver) - A Swift library for communicating with WebDriver (Appium/WinAppDriver) endpoints
 - [compnerd/swift-firebase](https://github.com/compnerd/swift-firebase) - Swift Interface for Firebase
 - [thebrowsercompany/swift-winrt](https://github.com/thebrowsercompany/swift-winrt) - Swift Language Projection for WinRT
+- [thebrowsercompany/windows-samples](https://github.com/thebrowsercompany/windows-samples) - Sample Apps for Swift on Windows
 - [migueldeicaza/TurboSwift](https://github.com/migueldeicaza/TurboSwift) - 
 - [apple/swift-async-dns-resolver](https://github.com/apple/swift-async-dns-resolver) - A Swift library for asynchronous DNS requests, wrapping c-ares with Swift-friendly APIs and data structures.
 - [apple/swift-testing](https://github.com/apple/swift-testing) - 
