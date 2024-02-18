@@ -1706,7 +1706,7 @@
 - [AudioKit/Waveform](https://github.com/AudioKit/Waveform) - GPU accelerated waveform view
 - [orchetect/MIDIKit](https://github.com/orchetect/MIDIKit) - 🎹 Modern multi-platform Swift CoreMIDI wrapper with MIDI 2.0 support.
 - [orchetect/SwiftRadix](https://github.com/orchetect/SwiftRadix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
-- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - iOS/macOS/tvOS/visionOS video player
+- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
 - [soulverteam/SoulverStringParsing](https://github.com/soulverteam/SoulverStringParsing) - Learn about how SoulverCore can give Swift "better than regex" data parsing features (for many common tasks)
 - [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating natural language math expressions
 - [PureSwift/WLAN](https://github.com/PureSwift/WLAN) - Wireless LAN (WiFi) API for Swift (Supports Linux)
