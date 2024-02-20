@@ -419,7 +419,7 @@
 - [satoren/kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua
 - [JakobOvrum/LuaCpp](https://github.com/JakobOvrum/LuaCpp) - Bridge between Lua and C++ which completely abstracts the Lua stack.
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [metayeti/mINI](https://github.com/metayeti/mINI) - 📜 INI file reader and writer
+- [metayeti/mINI](https://github.com/metayeti/mINI) - ⚙ INI file reader and writer
 - [WebAssembly/wasm-c-api](https://github.com/WebAssembly/wasm-c-api) - Wasm C API prototype
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
@@ -1069,7 +1069,7 @@
 - [umutphp/famous-bugs](https://github.com/umutphp/famous-bugs) - Famous bugs fixed, problems solved and failures experienced  in software history :bug: :bee: :ant: :beetle:
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [fregante/setup-git-user](https://github.com/fregante/setup-git-user) - GitHub Action that sets the git user and email to enable commiting
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [pwsacademy/swift-setup](https://github.com/pwsacademy/swift-setup) - Student-friendly setup instructions for platforms, editors, and IDEs that support Swift.
 - [one-dark/iterm-one-dark-theme](https://github.com/one-dark/iterm-one-dark-theme) - One Dark theme for iTerm2.
