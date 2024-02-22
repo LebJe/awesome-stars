@@ -92,7 +92,7 @@
 - [apple/swift-foundation-icu](https://github.com/apple/swift-foundation-icu) - 
 - [migueldeicaza/SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit) - Embed Godot into Swift apps
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
-- [Obverser/kinzoku](https://github.com/Obverser/kinzoku) - Cross platform graphics in Swift using WGSL. An implementation of wgpu-native
+- [obvgab/kinzoku](https://github.com/obvgab/kinzoku) - Cross platform graphics in Swift using WGSL. An implementation of wgpu-native
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [pmaillot/X32-Behringer](https://github.com/pmaillot/X32-Behringer) - This GIT repo (C language) holds applications and utilities for the Behringer X32 and M32 mixing consoles. Additional details, documentation, implementation examples and apps can be found in my websit
@@ -419,7 +419,7 @@
 - [satoren/kaguya](https://github.com/satoren/kaguya) - C++ binding to Lua
 - [JakobOvrum/LuaCpp](https://github.com/JakobOvrum/LuaCpp) - Bridge between Lua and C++ which completely abstracts the Lua stack.
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [metayeti/mINI](https://github.com/metayeti/mINI) - ⚙ INI file reader and writer
+- [metayeti/mINI](https://github.com/metayeti/mINI) - INI file reader and writer
 - [WebAssembly/wasm-c-api](https://github.com/WebAssembly/wasm-c-api) - Wasm C API prototype
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
@@ -1286,7 +1286,7 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [syphar/zetta](https://github.com/syphar/zetta) - A modern replacement for ‘ls’.
-- [Obverser/monopoly-ai](https://github.com/Obverser/monopoly-ai) - A multi-headed double deep-Q learning game of Monopoly in dfdx, Bevy, Naia, and Rust
+- [obvgab/monopoly-ai](https://github.com/obvgab/monopoly-ai) - A multi-headed double deep-Q learning game of Monopoly in dfdx, Bevy, Naia, and Rust
 - [ahlinc/code-shape](https://github.com/ahlinc/code-shape) - Code-shape is a tool for extracting definitions from source code files
 - [lapce/wasi-experimental-http](https://github.com/lapce/wasi-experimental-http) - Experimental outbound HTTP support for WebAssembly and WASI
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
@@ -2248,7 +2248,7 @@
 - [finestructure/Arena](https://github.com/finestructure/Arena) - A command line tool to create Swift Playground projects with SPM package dependencies
 - [SwiftGit2/SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift bindings to libgit2
 - [vapor-community/HTMLKit](https://github.com/vapor-community/HTMLKit) - Create and render HTML templates with HTMLKit
-- [davedelong/time](https://github.com/davedelong/time) - Building a better date/time library for Swift
+- [davedelong/time](https://github.com/davedelong/time) - Robust and type-safe date and time calculations for Swift
 - [sharplet/Regex](https://github.com/sharplet/Regex) - A delightful and expressive regular expression type for Swift.
 - [vapor/docs](https://github.com/vapor/docs) - 📖 Documentation markdown for all Vapor packages.
 - [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
