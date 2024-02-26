@@ -1273,6 +1273,7 @@
 
 ## Rust 
 
+- [modmark-org/modmark](https://github.com/modmark-org/modmark) - A modular markup language
 - [clitic/kdam](https://github.com/clitic/kdam) - A console progress bar library for Rust. (inspired by tqdm & rich.progress)
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) - HTTP client/libcurl TUI front end in Rust, with request + key storage
@@ -2448,6 +2449,7 @@
 
 ## WebAssembly 
 
+- [WebAssembly/wasi-threads](https://github.com/WebAssembly/wasi-threads) - 
 - [torch2424/wasmboy](https://github.com/torch2424/wasmboy) - Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript. 🚀Demos built with Preact and Svelte. ⚛️
 - [WebAssembly/spec](https://github.com/WebAssembly/spec) - WebAssembly specification, reference interpreter, and test suite.
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
