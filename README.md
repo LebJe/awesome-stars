@@ -546,6 +546,7 @@
 
 ## Go 
 
+- [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
 - [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh
