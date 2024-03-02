@@ -261,7 +261,7 @@
 - [KhaosT/ACVM](https://github.com/KhaosT/ACVM) - 
 - [ubenmackin/ACVM](https://github.com/ubenmackin/ACVM) - GUI frontend for qemu for Apple Silicon based Macs
 - [jpsim/Yams](https://github.com/jpsim/Yams) - A Sweet and Swifty YAML parser.
-- [WiringPi/WiringPi](https://github.com/WiringPi/WiringPi) - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi (Unofficial Mirror for WiringPi bindings)
+- [WiringPi/WiringPi](https://github.com/WiringPi/WiringPi) - The arguably fastest GPIO Library for the Raspberry Pi
 - [commonmark/cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C
 - [johnxnguyen/Down](https://github.com/johnxnguyen/Down) - Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.
 
@@ -1274,6 +1274,7 @@
 
 ## Rust 
 
+- [tweag/topiary](https://github.com/tweag/topiary) - 
 - [modmark-org/modmark](https://github.com/modmark-org/modmark) - A modular markup language
 - [clitic/kdam](https://github.com/clitic/kdam) - A console progress bar library for Rust. (inspired by tqdm & rich.progress)
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -1547,6 +1548,7 @@
 
 ## Swift 
 
+- [Zollerboy1/SwiftCommand](https://github.com/Zollerboy1/SwiftCommand) - A wrapper around Foundation.Process, inspired by Rust's std::process::Command.
 - [apple/pkl-swift](https://github.com/apple/pkl-swift) - Pkl bindings for the Swift programming language
 - [liamnichols/xcstrings-tool](https://github.com/liamnichols/xcstrings-tool) - A plugin to generate Swift constants for your Strings Catalogs.
 - [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI) - [WIP] Open source implementation of Apple's SwiftUI.
@@ -1787,7 +1789,7 @@
 - [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based content management system powered by Vapor 4.
 - [dabrahams/SwiftMarpa](https://github.com/dabrahams/SwiftMarpa) - Swift wrapper for the libMarpa parsing library
 - [darrarski/swiftui-app-icon-creator](https://github.com/darrarski/swiftui-app-icon-creator) - Create iOS and macOS application icon in Xcode with SwiftUI
-- [dagronf/QRCode](https://github.com/dagronf/QRCode) - A simple drop-in macOS/iOS/tvOS/watchOS QR Code generator view for Swift, Objective-C and SwiftUI.
+- [dagronf/QRCode](https://github.com/dagronf/QRCode) - A quick and beautiful macOS/iOS/tvOS/watchOS QR Code generator/detector library for SwiftUI, Swift and Objective-C.
 - [fwcd/swift-qrcode-generator](https://github.com/fwcd/swift-qrcode-generator) - QR code generator written in pure Swift
 - [buh/CompactSlider](https://github.com/buh/CompactSlider) - CompactSlider is a SwiftUI control for macOS, iOS and watchOS.
 - [abertelrud/swiftpm-buildtool-plugin-examples](https://github.com/abertelrud/swiftpm-buildtool-plugin-examples) - Some examples of SwiftPM build tool plugins to go along with SE-0303 + SE-0325
