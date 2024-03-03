@@ -282,7 +282,7 @@
 - [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
 - [CircumSpector/DS4Windows](https://github.com/CircumSpector/DS4Windows) - A reimagination of DS4Windows.
 - [veler/PaZword](https://github.com/veler/PaZword) - A password manager made in UWP technology
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) - A tool to view and extract the contents of an Windows Installer (.msi) file.
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 - [migueldeicaza/XtermSharp](https://github.com/migueldeicaza/XtermSharp) - XTerm emulator as a .NET library
@@ -1147,7 +1147,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
 - [0cyn/ktool](https://github.com/0cyn/ktool) - fully cross-platform toolkit (and library!) for MachO+Obj-C editing/analysis. Includes a cli kit, a curses GUI, ObjC header dumping, and much more.
 - [pwwang/toml-bench](https://github.com/pwwang/toml-bench) - Which toml package to use in python?
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
