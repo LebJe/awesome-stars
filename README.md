@@ -1133,6 +1133,7 @@
 
 ## Python 
 
+- [SolaWing/xcode-build-server](https://github.com/SolaWing/xcode-build-server) - a build server protocol implementation for integrate xcode with sourcekit-lsp
 - [jjjake/internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
 - [utmapp/QEMUKit](https://github.com/utmapp/QEMUKit) - Swift interface to QEMU, QMP, and QEMU guest agent.
 - [edlund/amalgamate](https://github.com/edlund/amalgamate) - Amalgamate C source and header files.
@@ -1548,6 +1549,7 @@
 
 ## Swift 
 
+- [thebrowsercompany/swift-winui](https://github.com/thebrowsercompany/swift-winui) - Swift language bindings for WinUI3
 - [Zollerboy1/SwiftCommand](https://github.com/Zollerboy1/SwiftCommand) - A wrapper around Foundation.Process, inspired by Rust's std::process::Command.
 - [apple/pkl-swift](https://github.com/apple/pkl-swift) - Pkl bindings for the Swift programming language
 - [liamnichols/xcstrings-tool](https://github.com/liamnichols/xcstrings-tool) - A plugin to generate Swift constants for your Strings Catalogs.
