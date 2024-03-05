@@ -209,7 +209,7 @@
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), BPF, Ethereum VM, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore 
 - [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
-- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
 - [openlink/iODBC](https://github.com/openlink/iODBC) - An open-source ODBC driver manager and SDK that facilitates the development of database-independent applications on linux, freebsd, unix and MacOS X platforms.
 - [open-iscsi/open-iscsi](https://github.com/open-iscsi/open-iscsi) - iSCSI tools for Linux
 - [sahlberg/libiscsi](https://github.com/sahlberg/libiscsi) - iscsi client library and utilities
@@ -358,8 +358,6 @@
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [SAP/odbc-cpp-wrapper](https://github.com/SAP/odbc-cpp-wrapper) - An object-oriented C++-wrapper of the ODBC API
 - [BeamMP/BeamMP-Server](https://github.com/BeamMP/BeamMP-Server) - Server for the multiplayer mod BeamMP for BeamNG.drive
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
-- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
 - [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [Inori/GPCS4](https://github.com/Inori/GPCS4) - A work-in-progress PlayStation 4 emulator.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -485,6 +483,7 @@
 
 ## CMake 
 
+- [thebrowsercompany/swift-build](https://github.com/thebrowsercompany/swift-build) - Swift toolchain builds by The Browser Company
 - [xpol/setup-lua](https://github.com/xpol/setup-lua) - GitHub action to setup Lua.
 - [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) - A template CMake project to get you started with C++ and tooling
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
@@ -815,6 +814,7 @@
 
 ## Lua 
 
+- [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test iOS & macOS applications.
 - [manoelcampos/xml2lua](https://github.com/manoelcampos/xml2lua) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 🌖💱
 - [teal-language/cyan](https://github.com/teal-language/cyan) - The Teal build system and project manager
 - [teal-language/teal-types](https://github.com/teal-language/teal-types) - Teal type definitions of Lua libraries!
@@ -1549,6 +1549,11 @@
 
 ## Swift 
 
+- [tuist/XcodeProj](https://github.com/tuist/XcodeProj) - 📝 Read, update and write your Xcode projects
+- [ChimeHQ/LanguageClient](https://github.com/ChimeHQ/LanguageClient) - Language Server Protocol (LSP) client for Swift
+- [thebrowsercompany/swift-firebase](https://github.com/thebrowsercompany/swift-firebase) - Swift Interface for Firebase
+- [thebrowsercompany/swift-windowsfoundation](https://github.com/thebrowsercompany/swift-windowsfoundation) - Swift language bindings for WinRT APIs in the the Windows.Foundation namespace
+- [thebrowsercompany/swift-uwp](https://github.com/thebrowsercompany/swift-uwp) - Swift Language Bindings for UWP APIs
 - [thebrowsercompany/swift-winui](https://github.com/thebrowsercompany/swift-winui) - Swift language bindings for WinUI3
 - [Zollerboy1/SwiftCommand](https://github.com/Zollerboy1/SwiftCommand) - A wrapper around Foundation.Process, inspired by Rust's std::process::Command.
 - [apple/pkl-swift](https://github.com/apple/pkl-swift) - Pkl bindings for the Swift programming language
