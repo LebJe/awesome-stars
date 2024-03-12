@@ -321,6 +321,7 @@
 - [SpartanJ/efsw](https://github.com/SpartanJ/efsw) - efsw is a C++ cross-platform file system watcher and notifier.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
+- [JCWasmx86/mesonlsp](https://github.com/JCWasmx86/mesonlsp) - An unofficial, unendorsed language server for meson written in C++
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [ikalnytskyi/termcolor](https://github.com/ikalnytskyi/termcolor) - Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force.
@@ -1659,7 +1660,6 @@
 - [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
 - [nnabeyang/swift-msgpack](https://github.com/nnabeyang/swift-msgpack) - swift-msgpack is a library of MessagePack encoder & decoder for Swift based on Codable.
 - [johnpatrickmorgan/FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) - FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
-- [JCWasmx86/Swift-MesonLSP](https://github.com/JCWasmx86/Swift-MesonLSP) - An unofficial, unendorsed language server for meson written in Swift.
 - [trozware/To-Day](https://github.com/trozware/To-Day) - Simple daily todo checklist for Mac.
 - [swifweb/web](https://github.com/swifweb/web) - 🧱 Write your website in pure Swift with power of webassembly. DOM, CSS and all the WebAPIs are available out of the box.
 - [cfilipov/TextTable](https://github.com/cfilipov/TextTable) - Swift package for easily rendering text tables. Inspired by the Python tabulate library.
