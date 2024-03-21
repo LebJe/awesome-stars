@@ -40,6 +40,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
+- [Perl](#perl)
 - [PowerShell](#powershell)
 - [PureBasic](#purebasic)
 - [Python](#python)
@@ -1122,6 +1123,10 @@
 
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
 
+## Perl 
+
+- [tree-sitter/fuzz-action](https://github.com/tree-sitter/fuzz-action) - Input fuzzing action for tree-sitter parsers
+
 ## PowerShell 
 
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
@@ -1550,6 +1555,7 @@
 
 ## Swift 
 
+- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [arasan01/GRDB.swift](https://github.com/arasan01/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
 - [AparokshaUI/adwaita-swift](https://github.com/AparokshaUI/adwaita-swift) - A framework for creating user interfaces for GNOME with an API similar to SwiftUI
 - [apple/swift-playdate-examples](https://github.com/apple/swift-playdate-examples) - A technical demonstration of Embedded Swift running on Playdate by Panic
@@ -1944,7 +1950,7 @@
 - [apple/swift-docc](https://github.com/apple/swift-docc) - Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [orlandos-nl/MongoKitten](https://github.com/orlandos-nl/MongoKitten) - Native MongoDB driver for Swift, written in Swift
-- [aaronjedwards/swift-tds](https://github.com/aaronjedwards/swift-tds) - Non-blocking, event-driven Swift implementation of the TDS Protocol
+- [aaronjedwards/tds-nio](https://github.com/aaronjedwards/tds-nio) - Non-blocking, event-driven Swift implementation of the TDS Protocol
 - [oozoofrog/SwiftDemangle](https://github.com/oozoofrog/SwiftDemangle) - SwiftDemangling for Swift, clone from apple/swift/lib/Demangling
 - [Ponyboy47/ErrNo](https://github.com/Ponyboy47/ErrNo) - Swift enum wrapper for C errno values
 - [vapor-community/stripe-kit](https://github.com/vapor-community/stripe-kit) - A Swift on Server SDK for the Stripe API
