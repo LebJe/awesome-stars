@@ -815,7 +815,7 @@
 
 ## Lua 
 
-- [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test iOS & macOS applications.
+- [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)
 - [manoelcampos/xml2lua](https://github.com/manoelcampos/xml2lua) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 🌖💱
 - [teal-language/cyan](https://github.com/teal-language/cyan) - The Teal build system and project manager
 - [teal-language/teal-types](https://github.com/teal-language/teal-types) - Teal type definitions of Lua libraries!
