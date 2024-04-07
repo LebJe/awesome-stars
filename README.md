@@ -85,7 +85,7 @@
 - [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) - The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11 devices, on iOS 15.0 and higher.
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 6.0 and higher.
 - [c-ares/c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
 - [gregcotten/ZIPFoundationModern](https://github.com/gregcotten/ZIPFoundationModern) - Effortless ZIP Handling in Swift
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
