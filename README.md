@@ -85,7 +85,7 @@
 - [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) - The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 6.0 and higher.
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
 - [c-ares/c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
 - [gregcotten/ZIPFoundationModern](https://github.com/gregcotten/ZIPFoundationModern) - Effortless ZIP Handling in Swift
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
@@ -772,6 +772,7 @@
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [tree-sitter/tree-sitter-css](https://github.com/tree-sitter/tree-sitter-css) - CSS grammar for Tree-sitter
 - [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
+- [tree-sitter/tree-sitter-json](https://github.com/tree-sitter/tree-sitter-json) - JSON grammar for tree-sitter
 - [tree-sitter/tree-sitter-rust](https://github.com/tree-sitter/tree-sitter-rust) - Rust grammar for tree-sitter
 - [tree-sitter/tree-sitter-c](https://github.com/tree-sitter/tree-sitter-c) - C grammar for tree-sitter
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
@@ -943,7 +944,6 @@
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [nlydv/nova-toml](https://github.com/nlydv/nova-toml) - Nova extension providing Tree Sitter-based syntax highlighting for TOML files
-- [tree-sitter/tree-sitter-json](https://github.com/tree-sitter/tree-sitter-json) - JSON grammar for tree-sitter
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [robertherdzik/RHPlaceholder](https://github.com/robertherdzik/RHPlaceholder) - Show pleasant loading view for your users 😍
 
@@ -1556,6 +1556,8 @@
 
 ## Swift 
 
+- [apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples) - A collection of example projects using Embedded Swift
+- [finnvoor/PlaydateKit](https://github.com/finnvoor/PlaydateKit) - Create games for Playdate using Swift.
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [arasan01/GRDB.swift](https://github.com/arasan01/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
 - [AparokshaUI/adwaita-swift](https://github.com/AparokshaUI/adwaita-swift) - A framework for creating user interfaces for GNOME with an API similar to SwiftUI
