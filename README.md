@@ -233,7 +233,6 @@
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [swift-server/swift-backtrace](https://github.com/swift-server/swift-backtrace) - 💥 Backtraces for Swift on Linux and Windows
 - [libharu/libharu](https://github.com/libharu/libharu) - libharu - free PDF library
-- [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 - [google/AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
 - [rpm-software-management/rpm](https://github.com/rpm-software-management/rpm) - The RPM package manager
@@ -1128,6 +1127,7 @@
 ## Perl 
 
 - [tree-sitter/fuzz-action](https://github.com/tree-sitter/fuzz-action) - Input fuzzing action for tree-sitter parsers
+- [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 
 ## PowerShell 
 
