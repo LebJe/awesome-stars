@@ -76,6 +76,7 @@
 
 ## C 
 
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [apple/tree-sitter-pkl](https://github.com/apple/tree-sitter-pkl) - Tree-sitter parser for Pkl
 - [pomfort/lua4swift](https://github.com/pomfort/lua4swift) - High-level (convenient) Lua bindings for Swift
 - [mingw-w64/mingw-w64](https://github.com/mingw-w64/mingw-w64) - (Unofficial) Mirror of mingw-w64-code
@@ -189,7 +190,6 @@
 - [oblitum/caps2esc](https://github.com/oblitum/caps2esc) - Transforming the most useless key ever in the most useful one
 - [oblitum/Interception](https://github.com/oblitum/Interception) - The Interception API aims to build a portable programming interface that allows one to intercept and control a range of input devices.
 - [wasm-lsp/tree-sitter-wasm](https://github.com/wasm-lsp/tree-sitter-wasm) - WebAssembly grammars for tree-sitter
-- [camdencheek/tree-sitter-dockerfile](https://github.com/camdencheek/tree-sitter-dockerfile) - A tree-sitter grammar for Dockerfile
 - [rmsalinas/raspicam](https://github.com/rmsalinas/raspicam) - Official raspicam from AVA Research Group. Controlling the raspberry pi camera in C++. Moved from Sourceforge to here
 - [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [saghul/pyuv](https://github.com/saghul/pyuv) - Python interface for libuv
@@ -755,6 +755,7 @@
 - [dessant/repo-lockdown](https://github.com/dessant/repo-lockdown) - GitHub Action that immediately closes and locks issues and pull requests
 - [tree-sitter/tree-sitter-c-sharp](https://github.com/tree-sitter/tree-sitter-c-sharp) - C# Grammar for tree-sitter
 - [tree-sitter/tree-sitter-scala](https://github.com/tree-sitter/tree-sitter-scala) - Scala grammar for tree-sitter
+- [camdencheek/tree-sitter-dockerfile](https://github.com/camdencheek/tree-sitter-dockerfile) - A tree-sitter grammar for Dockerfile
 - [cancerberoSgx/univac](https://github.com/cancerberoSgx/univac) - Generate AST of lots of common programming languages using antlr4. JavaScript API and CLI tool.
 - [Esri/esri-leaflet](https://github.com/Esri/esri-leaflet) - A lightweight set of tools for working with ArcGIS services in Leaflet. :rocket:
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -817,6 +818,7 @@
 
 ## Lua 
 
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)
 - [manoelcampos/xml2lua](https://github.com/manoelcampos/xml2lua) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 🌖💱
 - [teal-language/cyan](https://github.com/teal-language/cyan) - The Teal build system and project manager
@@ -1141,6 +1143,7 @@
 
 ## Python 
 
+- [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3) - Pure python3 implementation for working with iDevices (iPhone, etc...).
 - [SolaWing/xcode-build-server](https://github.com/SolaWing/xcode-build-server) - a build server protocol implementation for integrate xcode with sourcekit-lsp
 - [jjjake/internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
 - [utmapp/QEMUKit](https://github.com/utmapp/QEMUKit) - Swift interface to QEMU, QMP, and QEMU guest agent.
