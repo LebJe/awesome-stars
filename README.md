@@ -1560,6 +1560,7 @@
 
 ## Swift 
 
+- [stackotter/galah](https://github.com/stackotter/galah) - A scripting language with the goal of being lightweight and embeddable in Swift applications.
 - [mattcox/Pack](https://github.com/mattcox/Pack) - A Swift package to serialize and deserialize various data types into an external representation.
 - [apple/swift-for-wasm-examples](https://github.com/apple/swift-for-wasm-examples) - 
 - [apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples) - A collection of example projects using Embedded Swift
