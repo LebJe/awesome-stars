@@ -697,6 +697,7 @@
 
 ## JavaScript 
 
+- [stackotter/galah](https://github.com/stackotter/galah) - A scripting language with the goal of being lightweight and embeddable in Swift applications.
 - [apple/pkl-lang.org](https://github.com/apple/pkl-lang.org) - The pkl-lang.org website
 - [npm/npm-expansions](https://github.com/npm/npm-expansions) - Send us a pull request by editing expansions.txt
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -1560,7 +1561,7 @@
 
 ## Swift 
 
-- [stackotter/galah](https://github.com/stackotter/galah) - A scripting language with the goal of being lightweight and embeddable in Swift applications.
+- [davbeck/swift-glob](https://github.com/davbeck/swift-glob) - A native Swift implementation of glob match patterns.
 - [mattcox/Pack](https://github.com/mattcox/Pack) - A Swift package to serialize and deserialize various data types into an external representation.
 - [apple/swift-for-wasm-examples](https://github.com/apple/swift-for-wasm-examples) - 
 - [apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples) - A collection of example projects using Embedded Swift
