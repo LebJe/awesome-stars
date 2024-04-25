@@ -435,7 +435,7 @@
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like search, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed fil
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pa
 - [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) - Index database library for use with sourcekit-lsp
 - [cedricve/raspicam](https://github.com/cedricve/raspicam) - AVA RaspiCam: C++ API for using Raspberry camera with/without OpenCv
