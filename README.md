@@ -704,7 +704,6 @@
 - [swiftwasm/swiftwasm.github.io](https://github.com/swiftwasm/swiftwasm.github.io) - Website for the SwiftWasm project
 - [zo-glass/swift-ptbr](https://github.com/zo-glass/swift-ptbr) - 
 - [DerekStride/tree-sitter-sql](https://github.com/DerekStride/tree-sitter-sql) - SQL grammar for tree-sitter
-- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [iocave/customize-ui](https://github.com/iocave/customize-ui) - UI Customization plugin for vscode
 - [staysail/nova-cdragon](https://github.com/staysail/nova-cdragon) - C and C++ support for Nova
@@ -950,6 +949,7 @@
 
 ## Markdown 
 
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
@@ -2041,7 +2041,7 @@
 - [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library
 - [kean/Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
-- [kirualex/SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine
+- [alexiscreuzot/SwiftyGif](https://github.com/alexiscreuzot/SwiftyGif) - High performance GIF engine
 - [Quick/Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C
 - [Quick/Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
 - [MaxDesiatov/Typology](https://github.com/MaxDesiatov/Typology) - Swift type checking and semantic analysis for developer tools
