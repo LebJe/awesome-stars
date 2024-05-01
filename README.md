@@ -1559,6 +1559,9 @@
 
 ## Swift 
 
+- [kiliankoe/GeoJSON](https://github.com/kiliankoe/GeoJSON) - 🌍 Swift types for working with GeoJSON data
+- [designedbyclowns/GeoURI](https://github.com/designedbyclowns/GeoURI) - A Swift implementation of the geo URI scheme.
+- [aaronpearce/Harmony](https://github.com/aaronpearce/Harmony) - Harmony provides CloudKit sync for GRDB and only GRDB.
 - [tayloraswift/swift-dom](https://github.com/tayloraswift/swift-dom) - taylor’s (not so) famous HTML DSL 👠
 - [kabiroberai/Wacro](https://github.com/kabiroberai/Wacro) - Build Swift Macros with WebAssembly
 - [exyte/SVGView](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI
