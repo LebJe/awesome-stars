@@ -816,6 +816,7 @@
 
 ## Lua 
 
+- [freddiehaddad/feline.nvim](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline, statuscolumn, and winbar for Neovim
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)
 - [manoelcampos/xml2lua](https://github.com/manoelcampos/xml2lua) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 🌖💱
@@ -1559,6 +1560,7 @@
 
 ## Swift 
 
+- [kkonteh97/SwiftOBD2](https://github.com/kkonteh97/SwiftOBD2) - The versatile OBD2 toolkit for Swift developers.  Diagnose, explore, and build custom vehicle apps with ease. Includes an emulator for streamlined prototyping.
 - [kiliankoe/GeoJSON](https://github.com/kiliankoe/GeoJSON) - 🌍 Swift types for working with GeoJSON data
 - [designedbyclowns/GeoURI](https://github.com/designedbyclowns/GeoURI) - A Swift implementation of the geo URI scheme.
 - [aaronpearce/Harmony](https://github.com/aaronpearce/Harmony) - Harmony provides CloudKit sync for GRDB and only GRDB.
