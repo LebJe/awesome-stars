@@ -2121,7 +2121,7 @@
 - [BinaryBirds/vapor-spec](https://github.com/BinaryBirds/vapor-spec) - Unit testing Vapor applications through declarative specifications.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [helje5/SwiftyWasmer](https://github.com/helje5/SwiftyWasmer) - A Swift API for the Wasmer WebAssembly Runtime
-- [tuist/tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
+- [tuist/tuist](https://github.com/tuist/tuist) - A Swifty toolchain to build better Apple apps, faster
 - [DeclarativeHub/ReactiveKit](https://github.com/DeclarativeHub/ReactiveKit) - A Swift Reactive Programming Kit
 - [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
 - [danger/swift](https://github.com/danger/swift) - ⚠️ Stop saying "you forgot to …" in code review
