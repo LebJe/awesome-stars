@@ -76,6 +76,7 @@
 
 ## C 
 
+- [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [apple/tree-sitter-pkl](https://github.com/apple/tree-sitter-pkl) - Tree-sitter parser for Pkl
 - [pomfort/lua4swift](https://github.com/pomfort/lua4swift) - High-level (convenient) Lua bindings for Swift
@@ -129,6 +130,7 @@
 - [redis/hiredis](https://github.com/redis/hiredis) - Minimalistic C client for Redis &gt;= 1.2
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 - [MarlinFirmware/Configurations](https://github.com/MarlinFirmware/Configurations) - Configurations for Marlin Firmware
+- [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized 2D / 3D Graphics Math (glm) for C
 - [ElementsProject/libwally-core](https://github.com/ElementsProject/libwally-core) - Useful primitives for wallets
@@ -717,7 +719,6 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [seanmiddleditch/gha-setup-vsdevenv](https://github.com/seanmiddleditch/gha-setup-vsdevenv) - GitHub Action to setup the VS dev environment for the job
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
-- [tree-sitter/tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby) - Ruby grammar for tree-sitter
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
@@ -1560,6 +1561,7 @@
 
 ## Swift 
 
+- [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS, macOS & visionOS in Swift. Native SwiftUI & UIKit views.
 - [kkonteh97/SwiftOBD2](https://github.com/kkonteh97/SwiftOBD2) - The versatile OBD2 toolkit for Swift developers.  Diagnose, explore, and build custom vehicle apps with ease. Includes an emulator for streamlined prototyping.
 - [kiliankoe/GeoJSON](https://github.com/kiliankoe/GeoJSON) - 🌍 Swift types for working with GeoJSON data
 - [designedbyclowns/GeoURI](https://github.com/designedbyclowns/GeoURI) - A Swift implementation of the geo URI scheme.
