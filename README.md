@@ -1562,6 +1562,7 @@
 
 ## Swift 
 
+- [HdrHistogram/hdrhistogram-swift](https://github.com/HdrHistogram/hdrhistogram-swift) - Swift port of HdrHistogram
 - [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS, macOS & visionOS in Swift. Native SwiftUI & UIKit views.
 - [kkonteh97/SwiftOBD2](https://github.com/kkonteh97/SwiftOBD2) - The versatile OBD2 toolkit for Swift developers.  Diagnose, explore, and build custom vehicle apps with ease. Includes an emulator for streamlined prototyping.
 - [kiliankoe/GeoJSON](https://github.com/kiliankoe/GeoJSON) - 🌍 Swift types for working with GeoJSON data
