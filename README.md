@@ -211,7 +211,7 @@
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
-- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), BPF, Ethereum VM, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore 
+- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webass
 - [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
 - [openlink/iODBC](https://github.com/openlink/iODBC) - An open-source ODBC driver manager and SDK that facilitates the development of database-independent applications on linux, freebsd, unix and MacOS X platforms.
@@ -1562,6 +1562,7 @@
 
 ## Swift 
 
+- [arasan01/swift-windows-application](https://github.com/arasan01/swift-windows-application) - Sample Apps for Swift on Windows
 - [HdrHistogram/hdrhistogram-swift](https://github.com/HdrHistogram/hdrhistogram-swift) - Swift port of HdrHistogram
 - [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS, macOS & visionOS in Swift. Native SwiftUI & UIKit views.
 - [kkonteh97/SwiftOBD2](https://github.com/kkonteh97/SwiftOBD2) - The versatile OBD2 toolkit for Swift developers.  Diagnose, explore, and build custom vehicle apps with ease. Includes an emulator for streamlined prototyping.
