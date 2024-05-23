@@ -1159,7 +1159,7 @@
 - [ErlerPhilipp/dr2_logger](https://github.com/ErlerPhilipp/dr2_logger) - A logging and analysis tool for Dirt Rally 2.0
 - [WebAssembly/component-model](https://github.com/WebAssembly/component-model) - Repository for design and specification of the Component Model
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [0cyn/ktool](https://github.com/0cyn/ktool) - pip install k2l | Mach-O + Obj-C analysis TUI / CLI kit and library. Zero compiled deps, runs anywhere with a python interpreter.
 - [pwwang/toml-bench](https://github.com/pwwang/toml-bench) - Which toml package to use in python?
@@ -1583,7 +1583,7 @@
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [arasan01/GRDB.swift](https://github.com/arasan01/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
 - [AparokshaUI/adwaita-swift](https://github.com/AparokshaUI/adwaita-swift) - A framework for creating user interfaces for GNOME with an API similar to SwiftUI
-- [apple/swift-playdate-examples](https://github.com/apple/swift-playdate-examples) - A technical demonstration of Embedded Swift running on Playdate by Panic
+- [apple/swift-playdate-examples](https://github.com/apple/swift-playdate-examples) - An Embedded Swift game running on Playdate by Panic
 - [will-lumley/FaviconFinder](https://github.com/will-lumley/FaviconFinder) - A small swift library for iOS & macOS to detect favicons used by a website.
 - [tuist/XcodeProj](https://github.com/tuist/XcodeProj) - 📝 Read, update and write your Xcode projects
 - [ChimeHQ/LanguageClient](https://github.com/ChimeHQ/LanguageClient) - Language Server Protocol (LSP) client for Swift
