@@ -1927,7 +1927,7 @@
 - [Longhanks/swiftmine](https://github.com/Longhanks/swiftmine) - Example using Qlift to consume Qt APIs from Swift
 - [Saelyria/Artemis](https://github.com/Saelyria/Artemis) - Write GraphQL queries like SwiftUI views - no strings, no dictionaries.
 - [friedrichweise/wechsel](https://github.com/friedrichweise/wechsel) - use your keyboard to manage bluetooth connections on macOS
-- [sindresorhus/LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds
+- [sindresorhus/LaunchAtLogin-Legacy](https://github.com/sindresorhus/LaunchAtLogin-Legacy) - Add “Launch at Login” functionality to your macOS app in seconds
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [compnerd/swift-win32](https://github.com/compnerd/swift-win32) - A Windows application framework for Swift
 - [philipturner/swift-colab](https://github.com/philipturner/swift-colab) - Swift kernel for Google Colaboratory
@@ -2337,7 +2337,7 @@
 - [pixelomer/discord-fs](https://github.com/pixelomer/discord-fs) - Discord as a filesystem
 - [guillaumealgis/Serpens.novaextension](https://github.com/guillaumealgis/Serpens.novaextension) - Python Language Server (PyLS) Extension for Nova editor
 - [rcjsuen/dockerfile-language-service](https://github.com/rcjsuen/dockerfile-language-service) - Dockerfile language service for providing an API to create feature-rich Dockerfile editors in JavaScript.
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [xiyaowong/coc-symbol-line](https://github.com/xiyaowong/coc-symbol-line) - Symbols outline for coc.nvim
 - [xiyaowong/coc-stylua](https://github.com/xiyaowong/coc-stylua) - StyLua extension for coc.nvim.
 - [xiyaowong/coc-lightbulb-](https://github.com/xiyaowong/coc-lightbulb-) - Code action 💡 for coc.nvim
