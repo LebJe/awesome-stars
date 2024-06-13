@@ -529,7 +529,7 @@
 
 - [rvolosatovs/docker-protobuf](https://github.com/rvolosatovs/docker-protobuf) - An all-inclusive protoc Docker image
 - [Apodini/ApodiniTemplate](https://github.com/Apodini/ApodiniTemplate) - An Apodini web service template
-- [apple/swift-docker](https://github.com/apple/swift-docker) - Docker Official Image packaging for Swift
+- [swiftlang/swift-docker](https://github.com/swiftlang/swift-docker) - Docker Official Image packaging for Swift
 - [futurejones/swift-arm64-docker](https://github.com/futurejones/swift-arm64-docker) - Dockerfiles for Swift-Arm releases
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -1148,6 +1148,7 @@
 
 ## Python 
 
+- [swiftwasm/swiftwasm-build](https://github.com/swiftwasm/swiftwasm-build) - Patches, build scripts, and CI configuration for the SwiftWasm toolchain
 - [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3) - Pure python3 implementation for working with iDevices (iPhone, etc...).
 - [SolaWing/xcode-build-server](https://github.com/SolaWing/xcode-build-server) - a build server protocol implementation for integrate xcode with sourcekit-lsp
 - [jjjake/internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
