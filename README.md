@@ -440,7 +440,7 @@
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
-- [apple/indexstore-db](https://github.com/apple/indexstore-db) - Index database library for use with sourcekit-lsp
+- [swiftlang/indexstore-db](https://github.com/swiftlang/indexstore-db) - Index database library for use with sourcekit-lsp
 - [cedricve/raspicam](https://github.com/cedricve/raspicam) - AVA RaspiCam: C++ API for using Raspberry camera with/without OpenCv
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
@@ -1632,7 +1632,7 @@
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge
 - [kickstarter/ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 - [akbashev/swift-chat](https://github.com/akbashev/swift-chat) - 
-- [apple/swift-sdk-generator](https://github.com/apple/swift-sdk-generator) - Generate Swift SDKs for cross-compilation
+- [swiftlang/swift-sdk-generator](https://github.com/swiftlang/swift-sdk-generator) - Generate Swift SDKs for cross-compilation
 - [BinaryBirds/swift-html](https://github.com/BinaryBirds/swift-html) - An awesome Swift HTML DSL library using result builders.
 - [hylo-lang/Swifty-LLVM](https://github.com/hylo-lang/Swifty-LLVM) - Swifty interface for the LLVM compiler infrastructure.
 - [koliyo/hylo-lsp](https://github.com/koliyo/hylo-lsp) - LSP server and VS Code extesion for the hylo programming language
@@ -2177,7 +2177,7 @@
 - [alexsteinerde/docker-client-swift](https://github.com/alexsteinerde/docker-client-swift) - This is a Docker Client written in Swift. It's using the NIO Framework to communicate with the Docker Engine via sockets.
 - [cezheng/Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift with XPath & CSS support
 - [kodlian/SwiftRegexDSL](https://github.com/kodlian/SwiftRegexDSL) - A Declarative Structured Language for regular expressions in Swift.
-- [apple/swift-syntax](https://github.com/apple/swift-syntax) - A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
+- [swiftlang/swift-syntax](https://github.com/swiftlang/swift-syntax) - A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
 - [ml-archive/gatekeeper](https://github.com/ml-archive/gatekeeper) - Rate limiting middleware for Vapor 👮
 - [silt-lang/silt](https://github.com/silt-lang/silt) - An in-progress fast, dependently typed, functional programming language implemented in Swift.
 - [OpenCombine/OpenCombine](https://github.com/OpenCombine/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
@@ -2210,7 +2210,7 @@
 - [swiftwasm/wamr-swift](https://github.com/swiftwasm/wamr-swift) - Swift WebAssembly runtime powered by WAMR
 - [miroslavkovac/Lingo](https://github.com/miroslavkovac/Lingo) - Powerful Swift string localization library with support for pluralization and string interpolation.
 - [mhdhejazi/Dynamic](https://github.com/mhdhejazi/Dynamic) - Call hidden/private API in style! The Swift way.
-- [apple/swift-format](https://github.com/apple/swift-format) - Formatting technology for Swift source code
+- [swiftlang/swift-format](https://github.com/swiftlang/swift-format) - Formatting technology for Swift source code
 - [viktorstrate/swift-tree-sitter](https://github.com/viktorstrate/swift-tree-sitter) - Swift bindings for the tree-sitter parsing library
 - [KS1019/app-icon-resize-machine](https://github.com/KS1019/app-icon-resize-machine) - A command-line tool to generate .appiconset file from one .png file.
 - [plotfi/cxx-interop-test](https://github.com/plotfi/cxx-interop-test) - Small test app for C++ Interop with Swift.
@@ -2303,7 +2303,7 @@
 - [davedelong/time](https://github.com/davedelong/time) - Robust and type-safe date and time calculations for Swift
 - [sharplet/Regex](https://github.com/sharplet/Regex) - A delightful and expressive regular expression type for Swift.
 - [vapor/docs](https://github.com/vapor/docs) - 📖 Documentation markdown for all Vapor packages.
-- [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
+- [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
 - [yeokm1/SwiftSerial](https://github.com/yeokm1/SwiftSerial) - A Swift Linux and Mac library for reading and writing to serial ports.
 - [uraimo/SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) - A Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
 - [eneko/GitHub](https://github.com/eneko/GitHub) - Swift Package client for the GitHub GraphQL API V4
@@ -2319,7 +2319,7 @@
 - [DeclarativeHub/Bond](https://github.com/DeclarativeHub/Bond) - A Swift binding framework
 - [nerdishbynature/octokit.swift](https://github.com/nerdishbynature/octokit.swift) - A Swift API Client for GitHub and GitHub Enterprise
 - [raspu/Highlightr](https://github.com/raspu/Highlightr) - iOS & OSX Syntax Highlighter.
-- [apple/swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language
+- [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift) - Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 - [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
 - [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
