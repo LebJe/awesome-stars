@@ -32,6 +32,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mathematica](#mathematica)
 - [Mercury](#mercury)
 - [MoonScript](#moonscript)
 - [Nim](#nim)
@@ -961,6 +962,10 @@
 - [apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+
+## Mathematica 
+
+- [nasa/NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
 
 ## Mercury 
 
