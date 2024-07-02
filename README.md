@@ -627,7 +627,7 @@
 - [cavaliergopher/cpio](https://github.com/cavaliergopher/cpio) - Go package providing CPIO Readers and Writers.
 - [google/rpmpack](https://github.com/google/rpmpack) - rpmpack (tar2rpm) - package rpms in pure golang or cli
 - [blakesmith/ar](https://github.com/blakesmith/ar) - Golang ar archive file library
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
@@ -1572,6 +1572,7 @@
 
 ## Swift 
 
+- [swift-server/RediStack](https://github.com/swift-server/RediStack) - Non-blocking, event-driven Swift client for Redis.
 - [MojtabaHs/iPhoneNumberField](https://github.com/MojtabaHs/iPhoneNumberField) - Elegant SwiftUI phone number textField.
 - [arasan01/swift-windows-application](https://github.com/arasan01/swift-windows-application) - Sample Apps for Swift on Windows
 - [HdrHistogram/hdrhistogram-swift](https://github.com/HdrHistogram/hdrhistogram-swift) - Swift port of HdrHistogram
@@ -2225,7 +2226,7 @@
 - [steamclock/bluejay](https://github.com/steamclock/bluejay) - A simple Swift framework for building reliable Bluetooth LE apps.
 - [PureSwift/BluetoothLinux](https://github.com/PureSwift/BluetoothLinux) - Pure Swift Linux Bluetooth Stack
 - [PureSwift/GATT](https://github.com/PureSwift/GATT) - Bluetooth Generic Attribute Profile (GATT) for Swift (Supports Linux)
-- [apple/swift-driver](https://github.com/apple/swift-driver) - Swift compiler driver reimplementation in Swift
+- [swiftlang/swift-driver](https://github.com/swiftlang/swift-driver) - Swift compiler driver reimplementation in Swift
 - [RobertoMachorro/Moped](https://github.com/RobertoMachorro/Moped) - A general purpose text editor, small and light.
 - [carson-katri/swift-request](https://github.com/carson-katri/swift-request) - Declarative HTTP networking, designed for SwiftUI
 - [1024jp/GzipSwift](https://github.com/1024jp/GzipSwift) - Swift package that enables gzip/gunzip Data using zlib
