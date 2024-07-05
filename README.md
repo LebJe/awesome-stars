@@ -1572,6 +1572,9 @@
 
 ## Swift 
 
+- [skiptools/skip-ui](https://github.com/skiptools/skip-ui) - SwiftUI for Android
+- [skiptools/skipapp-showcase](https://github.com/skiptools/skipapp-showcase) - Sample Skip app demonstrating SkipUI components for iOS and Android
+- [skiptools/skip](https://github.com/skiptools/skip) - Skip transpiler for creating SwiftUI apps for iOS and Android
 - [StreamUI/StreamUI](https://github.com/StreamUI/StreamUI) - 🎥 〜StreamUI: Make videos with SwiftUI (and even stream them to Youtube, Twitch, etc)
 - [swift-server/RediStack](https://github.com/swift-server/RediStack) - Non-blocking, event-driven Swift client for Redis.
 - [MojtabaHs/iPhoneNumberField](https://github.com/MojtabaHs/iPhoneNumberField) - Elegant SwiftUI phone number textField.
