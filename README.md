@@ -1572,6 +1572,7 @@
 
 ## Swift 
 
+- [kattouf/ProgressLine](https://github.com/kattouf/ProgressLine) - ⏳Track commands progress in a compact one-line format
 - [skiptools/skip-ui](https://github.com/skiptools/skip-ui) - SwiftUI for Android
 - [skiptools/skipapp-showcase](https://github.com/skiptools/skipapp-showcase) - Sample Skip app demonstrating SkipUI components for iOS and Android
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip transpiler for creating SwiftUI apps for iOS and Android
