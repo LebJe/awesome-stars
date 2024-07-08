@@ -1572,6 +1572,8 @@
 
 ## Swift 
 
+- [daspoon/tree-sitter-kit](https://github.com/daspoon/tree-sitter-kit) - Tree-sitter integration for Swift.
+- [heroesofcode/CLI-Table-Swift](https://github.com/heroesofcode/CLI-Table-Swift) - Build Table for command line tools for macOS written in Swift
 - [kattouf/ProgressLine](https://github.com/kattouf/ProgressLine) - ⏳Track commands progress in a compact one-line format
 - [skiptools/skip-ui](https://github.com/skiptools/skip-ui) - SwiftUI for Android
 - [skiptools/skipapp-showcase](https://github.com/skiptools/skipapp-showcase) - Sample Skip app demonstrating SkipUI components for iOS and Android
