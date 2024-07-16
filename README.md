@@ -435,7 +435,7 @@
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [Koihik/LuaFormatter](https://github.com/Koihik/LuaFormatter) - Code formatter for Lua
-- [apple/swift-llbuild](https://github.com/apple/swift-llbuild) - A low-level build system, used by Xcode and the Swift Package Manager
+- [swiftlang/swift-llbuild](https://github.com/swiftlang/swift-llbuild) - A low-level build system, used by Xcode and the Swift Package Manager
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
@@ -1573,6 +1573,7 @@
 
 ## Swift 
 
+- [SwiftcordApp/SwiftDiscordProtos](https://github.com/SwiftcordApp/SwiftDiscordProtos) - Discord Protobufs, compiled for Swift as a package
 - [joogps/Glur](https://github.com/joogps/Glur) - Progressive blurs in SwiftUI.
 - [Sherlouk/Codedeck](https://github.com/Sherlouk/Codedeck) - WIP: A Swift library for interfacing with the Elgato Stream Deck
 - [daspoon/tree-sitter-kit](https://github.com/daspoon/tree-sitter-kit) - Tree-sitter integration for Swift.
