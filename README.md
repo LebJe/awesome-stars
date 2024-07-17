@@ -79,7 +79,7 @@
 ## C 
 
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [apple/tree-sitter-pkl](https://github.com/apple/tree-sitter-pkl) - Tree-sitter parser for Pkl
 - [pomfort/lua4swift](https://github.com/pomfort/lua4swift) - High-level (convenient) Lua bindings for Swift
 - [mingw-w64/mingw-w64](https://github.com/mingw-w64/mingw-w64) - (Unofficial) Mirror of mingw-w64-code
@@ -158,6 +158,7 @@
 - [babbleberry/rpi4-osdev](https://github.com/babbleberry/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [brenns10/lsh](https://github.com/brenns10/lsh) - Simple shell implementation.  Tutorial here -&gt;
+- [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
 - [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
 - [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to ngi
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
@@ -859,7 +860,7 @@
 - [andersevenrud/nvim_context_vt](https://github.com/andersevenrud/nvim_context_vt) - Virtual text context for neovim treesitter
 - [psliwka/termcolors.nvim](https://github.com/psliwka/termcolors.nvim) - generate colors for your terminal from any Neovim colorscheme 🌈
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
-- [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
+- [saecki/crates.nvim](https://github.com/saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
 - [VonHeikemen/searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner?
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
 - [jonstoler/lua-toml](https://github.com/jonstoler/lua-toml) - toml decoder/encoder for Lua
@@ -1970,7 +1971,6 @@
 - [kean/Get](https://github.com/kean/Get) - Web API client built using async/await
 - [ivanvorobei/SPConfetti](https://github.com/ivanvorobei/SPConfetti) - Show the confetti only when the user is having fun, and if not having fun, don't show it.
 - [automerge/automerge-swift-archived](https://github.com/automerge/automerge-swift-archived) - Wrapper around Swift types that can be modified concurrently by different users, and merged again automatically (a CRDT).
-- [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
@@ -2149,7 +2149,7 @@
 - [BinaryBirds/vapor-spec](https://github.com/BinaryBirds/vapor-spec) - Unit testing Vapor applications through declarative specifications.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [helje5/SwiftyWasmer](https://github.com/helje5/SwiftyWasmer) - A Swift API for the Wasmer WebAssembly Runtime
-- [tuist/tuist](https://github.com/tuist/tuist) - A Swifty toolchain to build better Apple apps, faster
+- [tuist/tuist](https://github.com/tuist/tuist) - Tuist's CLI
 - [DeclarativeHub/ReactiveKit](https://github.com/DeclarativeHub/ReactiveKit) - A Swift Reactive Programming Kit
 - [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
 - [danger/swift](https://github.com/danger/swift) - ⚠️ Stop saying "you forgot to …" in code review
