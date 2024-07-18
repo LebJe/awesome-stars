@@ -343,6 +343,7 @@
 - [markondej/fm_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
 - [markondej/cpp-icmplib](https://github.com/markondej/cpp-icmplib) - A C++ header-only ICMP Ping library
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
+- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [nezticle/qtoutgauge](https://github.com/nezticle/qtoutgauge) - A Qt Module for consuming the OutGauge protocol with Qt/QML
@@ -1046,7 +1047,6 @@
 - [RichardBurnsRally/blender-track-exporter](https://github.com/RichardBurnsRally/blender-track-exporter) - Blender addon for exporting native RBR track formats
 - [RichardBurnsRally/RichardBurnsRally.github.io](https://github.com/RichardBurnsRally/RichardBurnsRally.github.io) - 
 - [DougGregor/swift-macro-examples](https://github.com/DougGregor/swift-macro-examples) - Example macros for the Swift macros effort
-- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1574,6 +1574,7 @@
 
 ## Swift 
 
+- [coenttb/swift-html-to-pdf](https://github.com/coenttb/swift-html-to-pdf) - HtmlToPdf provides an easy-to-use interface for printing HTML to PDF on iOS and macOS.
 - [SwiftcordApp/SwiftDiscordProtos](https://github.com/SwiftcordApp/SwiftDiscordProtos) - Discord Protobufs, compiled for Swift as a package
 - [joogps/Glur](https://github.com/joogps/Glur) - Progressive blurs in SwiftUI.
 - [Sherlouk/Codedeck](https://github.com/Sherlouk/Codedeck) - WIP: A Swift library for interfacing with the Elgato Stream Deck
@@ -2007,7 +2008,7 @@
 - [iliasaz/cocilib](https://github.com/iliasaz/cocilib) - Swift bridge to OCILIB
 - [iliasaz/SwiftOracle](https://github.com/iliasaz/SwiftOracle) - OCILIB wrapper for Swift, linux compatible
 - [h1257977/SwiftOracle](https://github.com/h1257977/SwiftOracle) - OCILIB wrapper for Swift, linux compatible
-- [apple/swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing) - An early experimental general-purpose pattern matching engine for Swift.
+- [swiftlang/swift-experimental-string-processing](https://github.com/swiftlang/swift-experimental-string-processing) - An early experimental general-purpose pattern matching engine for Swift.
 - [amosgyamfi/open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations) - You don't need an animation library to add a simple effect to your SwiftUI app. Create it yourself with SwiftUI. This repo inspires you to add helpful and expressive SwiftUI animations like loading/pr
 - [revolter/EvaluateForXcode](https://github.com/revolter/EvaluateForXcode) - Xcode extension that evaluates selected mathematical expressions and replaces them with the result
 - [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) - HTTP/2 support for SwiftNIO
