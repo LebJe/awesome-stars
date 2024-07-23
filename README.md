@@ -1023,6 +1023,7 @@
 
 ## Others 
 
+- [utmapp/vm-downloads](https://github.com/utmapp/vm-downloads) - Free UTM virtual machines
 - [lapce/atom-one](https://github.com/lapce/atom-one) - Atom One Theme
 - [OXiDE-dev/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAA](https://github.com/OXiDE-dev/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAA) - AAAAAAAAAAAAAAAAAAAAAAAA ;)
 - [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) - Combustion engine simulation game that generates realistic audio.
@@ -1574,6 +1575,7 @@
 
 ## Swift 
 
+- [TradeWithIt/WebSocket](https://github.com/TradeWithIt/WebSocket) - Swift WebSocket client. Works on any platform Linux, Windows, iOS, Android, WASI and more
 - [coenttb/swift-html-to-pdf](https://github.com/coenttb/swift-html-to-pdf) - A Swift package providing an easy-to-use interface for concurrently printing HTML to PDF on iOS and macOS.
 - [SwiftcordApp/SwiftDiscordProtos](https://github.com/SwiftcordApp/SwiftDiscordProtos) - Discord Protobufs, compiled for Swift as a package
 - [joogps/Glur](https://github.com/joogps/Glur) - Progressive blurs in SwiftUI.
