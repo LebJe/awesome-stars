@@ -961,7 +961,7 @@
 ## Markdown 
 
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
-- [apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
+- [swiftlang/swift-book](https://github.com/swiftlang/swift-book) - The Swift Programming Language book
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
@@ -1023,6 +1023,7 @@
 
 ## Others 
 
+- [google/android-emulator-m1-preview](https://github.com/google/android-emulator-m1-preview) - 
 - [utmapp/vm-downloads](https://github.com/utmapp/vm-downloads) - Free UTM virtual machines
 - [lapce/atom-one](https://github.com/lapce/atom-one) - Atom One Theme
 - [OXiDE-dev/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAA](https://github.com/OXiDE-dev/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAA) - AAAAAAAAAAAAAAAAAAAAAAAA ;)
