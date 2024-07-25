@@ -723,6 +723,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [seanmiddleditch/gha-setup-vsdevenv](https://github.com/seanmiddleditch/gha-setup-vsdevenv) - GitHub Action to setup the VS dev environment for the job
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua) - GitHub action for Lua/LuaJIT
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
@@ -1310,7 +1311,7 @@
 - [lapce/lapce-lldb](https://github.com/lapce/lapce-lldb) - 
 - [vhyrro/toml-edit.lua](https://github.com/vhyrro/toml-edit.lua) - Edit toml files while preserving whitespace and formatting from Lua.
 - [foxfriends/syncat](https://github.com/foxfriends/syncat) - Syntax aware cat
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [syphar/zetta](https://github.com/syphar/zetta) - A modern replacement for ‘ls’.
 - [obvgab/monopoly-ai](https://github.com/obvgab/monopoly-ai) - A multi-headed double deep-Q learning game of Monopoly in dfdx, Bevy, Naia, and Rust
@@ -1349,7 +1350,6 @@
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [jrnxf/thokr](https://github.com/jrnxf/thokr) - ✨ sleek typing tui with visualized results and historical logging
-- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [hush-shell/hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -1576,10 +1576,12 @@
 
 ## Swift 
 
+- [vapor/template](https://github.com/vapor/template) - Used by Vapor Toolbox’s new project command
+- [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
 - [TradeWithIt/WebSocket](https://github.com/TradeWithIt/WebSocket) - Swift WebSocket client. Works on any platform Linux, Windows, iOS, Android, WASI and more
 - [coenttb/swift-html-to-pdf](https://github.com/coenttb/swift-html-to-pdf) - A Swift package providing an easy-to-use interface for concurrently printing HTML to PDF on iOS and macOS.
 - [SwiftcordApp/SwiftDiscordProtos](https://github.com/SwiftcordApp/SwiftDiscordProtos) - Discord Protobufs, compiled for Swift as a package
-- [joogps/Glur](https://github.com/joogps/Glur) - Progressive blurs in SwiftUI.
+- [joogps/Glur](https://github.com/joogps/Glur) - A library for progressive blurs in SwiftUI.
 - [Sherlouk/Codedeck](https://github.com/Sherlouk/Codedeck) - WIP: A Swift library for interfacing with the Elgato Stream Deck
 - [daspoon/tree-sitter-kit](https://github.com/daspoon/tree-sitter-kit) - Tree-sitter integration for Swift.
 - [heroesofcode/CLI-Table-Swift](https://github.com/heroesofcode/CLI-Table-Swift) - Build Table for command line tools for macOS written in Swift
