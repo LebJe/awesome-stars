@@ -1023,6 +1023,7 @@
 
 ## Others 
 
+- [swiftlang/swift-community-hosted-continuous-integration](https://github.com/swiftlang/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
 - [google/android-emulator-m1-preview](https://github.com/google/android-emulator-m1-preview) - 
 - [utmapp/vm-downloads](https://github.com/utmapp/vm-downloads) - Free UTM virtual machines
 - [lapce/atom-one](https://github.com/lapce/atom-one) - Atom One Theme
@@ -1309,7 +1310,7 @@
 - [Borwe/wasm_nvim](https://github.com/Borwe/wasm_nvim) - Wasm platform for nvim.
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [lapce/lapce-lldb](https://github.com/lapce/lapce-lldb) - 
-- [vhyrro/toml-edit.lua](https://github.com/vhyrro/toml-edit.lua) - Edit toml files while preserving whitespace and formatting from Lua.
+- [nvim-neorocks/toml-edit.lua](https://github.com/nvim-neorocks/toml-edit.lua) - Edit toml files while preserving whitespace and formatting from Lua.
 - [foxfriends/syncat](https://github.com/foxfriends/syncat) - Syntax aware cat
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
