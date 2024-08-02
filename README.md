@@ -842,7 +842,7 @@
 - [giann/croissant](https://github.com/giann/croissant) - 🥐 A Lua REPL and debugger
 - [bluebird75/luaunit](https://github.com/bluebird75/luaunit) - LuaUnit is a popular unit-testing framework for Lua, with an interface typical of xUnit libraries (Python unittest, Junit, NUnit, ...). It supports several output formats (Text, TAP, JUnit, ...) to be
 - [roobert/search-replace.nvim](https://github.com/roobert/search-replace.nvim) - :monocle_face: A Neovim search and replace plugin that builds on the native search and replace experience.
-- [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .c)
+- [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .h)
 - [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Color picker and highlighter plugin for Neovim.
 - [lvimuser/lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) - 
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -1577,6 +1577,11 @@
 
 ## Swift 
 
+- [pointfreeco/swift-perception](https://github.com/pointfreeco/swift-perception) - Observable tools, backported.
+- [omochi/CodegenKit](https://github.com/omochi/CodegenKit) - Swift code generation framework
+- [sidepelican/SQLKitTyping](https://github.com/sidepelican/SQLKitTyping) - Add slightly type safe interface for SQLKit.
+- [sidepelican/WasmCallableKit](https://github.com/sidepelican/WasmCallableKit) - 
+- [omochi/swift-react](https://github.com/omochi/swift-react) - Scratch React implementation on Swift for Wasm
 - [vapor/template](https://github.com/vapor/template) - Used by Vapor Toolbox’s new project command
 - [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
 - [TradeWithIt/WebSocket](https://github.com/TradeWithIt/WebSocket) - Swift WebSocket client. Works on any platform Linux, Windows, iOS, Android, WASI and more
@@ -1648,7 +1653,7 @@
 - [thebrowsercompany/windows-samples](https://github.com/thebrowsercompany/windows-samples) - Sample Apps for Swift on Windows
 - [migueldeicaza/TurboSwift](https://github.com/migueldeicaza/TurboSwift) - 
 - [apple/swift-async-dns-resolver](https://github.com/apple/swift-async-dns-resolver) - A Swift library for asynchronous DNS requests, wrapping c-ares with Swift-friendly APIs and data structures.
-- [apple/swift-testing](https://github.com/apple/swift-testing) - A modern, expressive testing package for Swift
+- [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) - A modern, expressive testing package for Swift
 - [apple/swift-mmio](https://github.com/apple/swift-mmio) - Define and operate on type safe MMIO
 - [ChimeHQ/Welp](https://github.com/ChimeHQ/Welp) - Tooling for macOS help books
 - [richardtop/CalendarApp](https://github.com/richardtop/CalendarApp) - 📅 Reference implementation of a Calendar App with CalendarKit (template repository)
@@ -1758,7 +1763,7 @@
 - [Esri/arcgis-maps-sdk-swift-toolkit](https://github.com/Esri/arcgis-maps-sdk-swift-toolkit) - Mapping components that will simplify your Swift app development with the ArcGIS Maps SDK for Swift.
 - [sourcelocation/AirTroller](https://github.com/sourcelocation/AirTroller) - AirDrop spammer / flooder to troll friends
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
-- [pointfreeco/swiftui-navigation](https://github.com/pointfreeco/swiftui-navigation) - Bringing simple and powerful navigation tools to all Swift platforms, inspired by SwiftUI.
+- [pointfreeco/swift-navigation](https://github.com/pointfreeco/swift-navigation) - Bringing simple and powerful navigation tools to all Swift platforms, inspired by SwiftUI.
 - [Esri/arcgis-maps-sdk-swift](https://github.com/Esri/arcgis-maps-sdk-swift) - Swift Package Manager support for ArcGIS Maps SDK for Swift
 - [Esri/arcgis-maps-sdk-swift-samples](https://github.com/Esri/arcgis-maps-sdk-swift-samples) - SwiftUI samples demonstrating various capabilities of ArcGIS Maps SDK for Swift
 - [henrybetts/swift-webgpu](https://github.com/henrybetts/swift-webgpu) - Swift bindings for WebGPU
@@ -2076,7 +2081,7 @@
 - [vapor-community/markdown](https://github.com/vapor-community/markdown) - Swift cmark wrapper for SwiftPM
 - [DeclarativeHub/MockingbirdUIKit](https://github.com/DeclarativeHub/MockingbirdUIKit) - UIKit renderer for Mockingbird DSL
 - [tannerdsilva/SwiftSlash](https://github.com/tannerdsilva/SwiftSlash) - Concurrent shell scripting framework with deep support for async/await.
-- [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support
+- [swiftlang/swift-corelibs-xctest](https://github.com/swiftlang/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support
 - [luoxiu/Chalk](https://github.com/luoxiu/Chalk) - ✏️Expressive styling on terminal string. (chalk for swift)
 - [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library
 - [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
@@ -2358,6 +2363,7 @@
 
 ## TypeScript 
 
+- [omochi/swift-string-counter-web](https://github.com/omochi/swift-string-counter-web) - Counting characters of string in Swift is difficult!
 - [annexare/Countries](https://github.com/annexare/Countries) - Countries, Languages & Continents data (capital and currency, native name, calling codes).
 - [trevorblades/countries](https://github.com/trevorblades/countries) - 🌎 Public GraphQL API for information about countries
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
