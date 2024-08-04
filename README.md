@@ -1308,6 +1308,7 @@
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) - HTTP client/libcurl TUI front end in Rust, with request + key storage
 - [Gankra/abi-cafe](https://github.com/Gankra/abi-cafe) - Pair your compilers up at The ABI Cafe!
 - [Borwe/wasm_nvim](https://github.com/Borwe/wasm_nvim) - Wasm platform for nvim.
+- [lapce/tree-sitter-grammars](https://github.com/lapce/tree-sitter-grammars) - 
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [lapce/lapce-lldb](https://github.com/lapce/lapce-lldb) - 
 - [nvim-neorocks/toml-edit.lua](https://github.com/nvim-neorocks/toml-edit.lua) - Edit toml files while preserving whitespace and formatting from Lua.
@@ -1518,7 +1519,6 @@
 
 ## Scheme 
 
-- [lapce/tree-sitter-grammars](https://github.com/lapce/tree-sitter-grammars) - 
 - [objecthub/swift-lispkit](https://github.com/objecthub/swift-lispkit) - Interpreter framework for Lisp-based extension and scripting languages on macOS and iOS. LispKit is based on the R7RS standard for Scheme. Its compiler generates bytecode for a virtual machine. LispKi
 - [staysail/nova-c](https://github.com/staysail/nova-c) - C support for Nova using Tree-Sitter
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
