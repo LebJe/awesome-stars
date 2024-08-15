@@ -824,6 +824,7 @@
 
 ## Lua 
 
+- [svermeulen/teal-language-server](https://github.com/svermeulen/teal-language-server) - A language server for Teal, a typed dialect of Lua
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer for Neovim
 - [freddiehaddad/feline.nvim](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline, statuscolumn, and winbar for Neovim
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
@@ -1577,6 +1578,11 @@
 
 ## Swift 
 
+- [mbernson/SwiftGit2](https://github.com/mbernson/SwiftGit2) - Swift bindings to libgit2
+- [twostraws/Ignite](https://github.com/twostraws/Ignite) - A static site generator for Swift developers.
+- [vapor-community/PassKit](https://github.com/vapor-community/PassKit) - 🎟️ 📦 A package for creating passes and orders for Apple Wallet with Vapor.
+- [brokenhandsio/vapor-oauth](https://github.com/brokenhandsio/vapor-oauth) - OAuth2 Provider Library for Vapor
+- [thebrowsercompany/swift-composable-architecture](https://github.com/thebrowsercompany/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [pointfreeco/swift-perception](https://github.com/pointfreeco/swift-perception) - Observable tools, backported.
 - [omochi/CodegenKit](https://github.com/omochi/CodegenKit) - Swift code generation framework
 - [sidepelican/SQLKitTyping](https://github.com/sidepelican/SQLKitTyping) - Add slightly type safe interface for SQLKit.
