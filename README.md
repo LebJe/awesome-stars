@@ -1650,7 +1650,7 @@
 - [Swiftgram/TDLibKit](https://github.com/Swiftgram/TDLibKit) - Native Swift wrapper for Telegram's TDLib. Available on iOS, macOS, watchOS, tvOS and visionOS.
 - [mock-foundation/tdlibkit](https://github.com/mock-foundation/tdlibkit) - Native Swift wrapper for Telegram's TDLib. Only for use by Moc.
 - [lovetodream/oracle-nio](https://github.com/lovetodream/oracle-nio) - Non-blocking, event-driven Swift client for Oracle DBs. Does not require OCI or ODPI.
-- [philipturner/molecular-renderer](https://github.com/philipturner/molecular-renderer) - CAD program for molecular nanotechnology
+- [philipturner/molecular-renderer](https://github.com/philipturner/molecular-renderer) - Renderer for molecular nanotechnology
 - [stackotter/swift-macro-toolkit](https://github.com/stackotter/swift-macro-toolkit) - A powerful toolkit for creating concise and expressive Swift macros
 - [bestwnh/TinyCreditCard](https://github.com/bestwnh/TinyCreditCard) - A clear and animated credit card input workflow implement
 - [thebrowsercompany/swift-webdriver](https://github.com/thebrowsercompany/swift-webdriver) - A Swift library for communicating with WebDriver (Appium/WinAppDriver) endpoints
@@ -1794,7 +1794,7 @@
 - [AudioKit/Waveform](https://github.com/AudioKit/Waveform) - GPU accelerated waveform view
 - [orchetect/MIDIKit](https://github.com/orchetect/MIDIKit) - 🎹 Modern multi-platform Swift CoreMIDI wrapper with MIDI 2.0 support.
 - [orchetect/SwiftRadix](https://github.com/orchetect/SwiftRadix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
-- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
+- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, SwiftUI, support subtitles.
 - [soulverteam/SoulverStringParsing](https://github.com/soulverteam/SoulverStringParsing) - Learn about how SoulverCore can give Swift "better than regex" data parsing features (for many common tasks)
 - [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating natural language math expressions
 - [PureSwift/WLAN](https://github.com/PureSwift/WLAN) - Wireless LAN (WiFi) API for Swift (Supports Linux)
