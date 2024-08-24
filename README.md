@@ -440,7 +440,7 @@
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.4: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.5: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [swiftlang/indexstore-db](https://github.com/swiftlang/indexstore-db) - Index database library for use with sourcekit-lsp
 - [cedricve/raspicam](https://github.com/cedricve/raspicam) - AVA RaspiCam: C++ API for using Raspberry camera with/without OpenCv
@@ -1579,6 +1579,7 @@
 
 ## Swift 
 
+- [swift-server/swift-etcd-client-gsoc](https://github.com/swift-server/swift-etcd-client-gsoc) - 
 - [mbernson/SwiftGit2](https://github.com/mbernson/SwiftGit2) - Swift bindings to libgit2
 - [twostraws/Ignite](https://github.com/twostraws/Ignite) - A static site generator for Swift developers.
 - [vapor-community/PassKit](https://github.com/vapor-community/PassKit) - 🎟️ 📦 A package for creating passes and orders for Apple Wallet with Vapor.
