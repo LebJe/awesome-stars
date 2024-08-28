@@ -306,7 +306,6 @@
 ## C++ 
 
 - [Cascable/swift-on-windows-poc](https://github.com/Cascable/swift-on-windows-poc) - A proof-of-concept project for Swift on Windows with bindings to C#/the CLR.
-- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [jorgen/json_struct](https://github.com/jorgen/json_struct) - json_struct is a single header only C++ library for parsing JSON directly to C++ structs and vice versa
 - [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating the ASWF landscape to swiftly architect the metaverse.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
@@ -551,6 +550,7 @@
 ## Go 
 
 - [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
+- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh
@@ -1579,6 +1579,8 @@
 
 ## Swift 
 
+- [d-exclaimation/pioneer](https://github.com/d-exclaimation/pioneer) - GraphQL for Swift.
+- [orlandos-nl/SSEKit](https://github.com/orlandos-nl/SSEKit) - Support for Server-Sent Events on AsyncSequences
 - [swift-server/swift-etcd-client-gsoc](https://github.com/swift-server/swift-etcd-client-gsoc) - 
 - [mbernson/SwiftGit2](https://github.com/mbernson/SwiftGit2) - Swift bindings to libgit2
 - [twostraws/Ignite](https://github.com/twostraws/Ignite) - A static site generator for Swift developers.
