@@ -78,6 +78,7 @@
 
 ## C 
 
+- [swiftlang/swift-toolchain-sqlite](https://github.com/swiftlang/swift-toolchain-sqlite) - Copy of Sqlite for use by clients within the Swift toolchain.  This is not a general-purpose wrapper for Sqlite.
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [apple/tree-sitter-pkl](https://github.com/apple/tree-sitter-pkl) - Tree-sitter parser for Pkl
