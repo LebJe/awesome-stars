@@ -161,7 +161,7 @@
 - [brenns10/lsh](https://github.com/brenns10/lsh) - Simple shell implementation.  Tutorial here -&gt;
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
 - [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
-- [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to ngi
+- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
 - [SwiftyLua/CLua](https://github.com/SwiftyLua/CLua) - Swift package for Lua
@@ -343,6 +343,7 @@
 - [markondej/fm_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
 - [markondej/cpp-icmplib](https://github.com/markondej/cpp-icmplib) - A C++ header-only ICMP Ping library
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
+- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [nezticle/qtoutgauge](https://github.com/nezticle/qtoutgauge) - A Qt Module for consuming the OutGauge protocol with Qt/QML
@@ -715,7 +716,6 @@
 - [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
 - [staysail/nova-clangd](https://github.com/staysail/nova-clangd) - ClangD Extension for Nova
 - [swiftwasm/setup-swiftwasm](https://github.com/swiftwasm/setup-swiftwasm) - An action to download a prebuilt SwiftWasm toolchain and add it to the PATH
-- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 - [yuki-yano/coc-nav](https://github.com/yuki-yano/coc-nav) - 
 - [ThatTonybo/BeamAdvisor](https://github.com/ThatTonybo/BeamAdvisor) - ETS2/ATS inspired information+navigation widget for BeamNG.drive
@@ -1001,6 +1001,7 @@
 - [packagesdev/packages](https://github.com/packagesdev/packages) - Integrated Packaging Environment for OS X
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [kevingessner/FunctionFlip](https://github.com/kevingessner/FunctionFlip) - Learn more (and get binaries) at http://kevingessner.com/software/functionflip/
+- [SailyTeam/Saily](https://github.com/SailyTeam/Saily) - Modern. Fast. Beautiful.
 - [gitx/gitx](https://github.com/gitx/gitx) - The best fork of the best lightweight, visual git client for macOS.
 - [alberti42/Volume-Control](https://github.com/alberti42/Volume-Control) - Successor of iTunes Volume Control
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
@@ -1580,6 +1581,7 @@
 
 ## Swift 
 
+- [fulldecent/FDWaveformView](https://github.com/fulldecent/FDWaveformView) - Reads an audio file and displays the waveform
 - [d-exclaimation/pioneer](https://github.com/d-exclaimation/pioneer) - GraphQL for Swift.
 - [orlandos-nl/SSEKit](https://github.com/orlandos-nl/SSEKit) - Support for Server-Sent Events on AsyncSequences
 - [swift-server/swift-etcd-client-gsoc](https://github.com/swift-server/swift-etcd-client-gsoc) - 
@@ -1718,7 +1720,7 @@
 - [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - Swift Game Engine supporting Windows, Linux, macOS, HTML5, and more 🚂
 - [STREGAsGate/GateEngineDemos](https://github.com/STREGAsGate/GateEngineDemos) - Example projects for GateEngine, a cross platform game engine for Swift developers.
 - [gonsolo/gonzales](https://github.com/gonsolo/gonzales) - Rendering Disney's Moana in Swift
-- [c-villain/SwipeActions](https://github.com/c-villain/SwipeActions) - Swipe actions, swipe menu based on SwiftUI
+- [c-villain/SwipeActions](https://github.com/c-villain/SwipeActions) - Swipe actions for any view, swipe menu based on SwiftUI, full swiping and RTL languages supporting, iOS 13+
 - [tdeleon/Relax](https://github.com/tdeleon/Relax) - Declaratively build and send client requests for REST APIs in Swift.
 - [openalloc/SwiftTabler](https://github.com/openalloc/SwiftTabler) - A multi-platform SwiftUI component for tabular data
 - [openalloc/SwiftNumberPad](https://github.com/openalloc/SwiftNumberPad) - A multi-platform SwiftUI component for basic number input
@@ -2048,7 +2050,6 @@
 - [sclukey/libui-swift](https://github.com/sclukey/libui-swift) - Swifty libui
 - [therecipe/swift](https://github.com/therecipe/swift) - Qt binding for Swift | Showcase example for https://github.com/therecipe/qt
 - [natmark/ewis](https://github.com/natmark/ewis) - terminal-based text editor written in swift
-- [SailyTeam/Saily](https://github.com/SailyTeam/Saily) - Modern. Fast. Beautiful.
 - [Ponyboy47/Pathman](https://github.com/Ponyboy47/Pathman) - Swift type-safe path, file, and directory library using POSIX C APIs
 - [mxcl/Path.swift](https://github.com/mxcl/Path.swift) - Delightful, robust, cross-platform and chainable file-pathing functions.
 - [alblue/SILInspector](https://github.com/alblue/SILInspector) - An application for experimenting with Swift's Intermediate Language
