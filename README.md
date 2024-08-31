@@ -306,6 +306,7 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Cascable/swift-on-windows-poc](https://github.com/Cascable/swift-on-windows-poc) - A proof-of-concept project for Swift on Windows with bindings to C#/the CLR.
 - [jorgen/json_struct](https://github.com/jorgen/json_struct) - json_struct is a single header only C++ library for parsing JSON directly to C++ structs and vice versa
 - [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating the ASWF landscape to swiftly architect the metaverse.
@@ -1303,6 +1304,7 @@
 
 ## Rust 
 
+- [JonasKruckenberg/k23](https://github.com/JonasKruckenberg/k23) - Experimental WASM Microkernel Operating System
 - [Michael-F-Bryan/wit-lsp](https://github.com/Michael-F-Bryan/wit-lsp) - A Language Server implementation for the WIT interface definition language
 - [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp) - Language server for NASM/GAS/GO Assembly
 - [tweag/topiary](https://github.com/tweag/topiary) - 
@@ -1581,6 +1583,10 @@
 
 ## Swift 
 
+- [kkebo/DevToys.swiftpm](https://github.com/kkebo/DevToys.swiftpm) - DevToys for iPad (WIP)
+- [kkebo/zyphy](https://github.com/kkebo/zyphy) - Zyphy is (or will be) a fast web browser engine written in Swift.
+- [kkebo/swift_os](https://github.com/kkebo/swift_os) - An operating system written in Swift.
+- [kkebo/ConsolePad.swiftpm](https://github.com/kkebo/ConsolePad.swiftpm) - Console Pad is an iPadOS/iOS app. You can run JavaScript code through JavaScriptCore on the console.
 - [fulldecent/FDWaveformView](https://github.com/fulldecent/FDWaveformView) - Reads an audio file and displays the waveform
 - [d-exclaimation/pioneer](https://github.com/d-exclaimation/pioneer) - GraphQL for Swift.
 - [orlandos-nl/SSEKit](https://github.com/orlandos-nl/SSEKit) - Support for Server-Sent Events on AsyncSequences
@@ -1732,7 +1738,7 @@
 - [atrinh0/buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 👌🏼
 - [apple/swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
 - [migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - New Godot bindings for Swift
-- [alexandrehsaad/swift-measures](https://github.com/alexandrehsaad/swift-measures) - Swift package containing measurement types.
+- [BikeCalc/swift-measures](https://github.com/BikeCalc/swift-measures) - Swift package containing measurement types.
 - [AdaEngine/AdaEngine](https://github.com/AdaEngine/AdaEngine) - Multi-platform 2D and 3D game engine written on Swift
 - [SwiftedMind/Puddles](https://github.com/SwiftedMind/Puddles) - A native SwiftUI app architecture
 - [kciter/GlitchLabel](https://github.com/kciter/GlitchLabel) - G..lit...c...hing UILa..bel fo..r iO...S :tv:
