@@ -826,6 +826,7 @@
 
 ## Lua 
 
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [svermeulen/tea-leaves](https://github.com/svermeulen/tea-leaves) - A language server for the Teal language
 - [svermeulen/teal-language-server](https://github.com/svermeulen/teal-language-server) - A language server for Teal, a typed dialect of Lua
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer for Neovim
