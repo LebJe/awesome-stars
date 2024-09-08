@@ -828,6 +828,7 @@
 
 ## Lua 
 
+- [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 - [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - Decorations for vimdoc/help files in Neovim
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [svermeulen/tea-leaves](https://github.com/svermeulen/tea-leaves) - A language server for the Teal language
@@ -1732,7 +1733,7 @@
 - [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - Swift Game Engine supporting Windows, Linux, macOS, HTML5, and more 🚂
 - [STREGAsGate/GateEngineDemos](https://github.com/STREGAsGate/GateEngineDemos) - Example projects for GateEngine, a cross platform game engine for Swift developers.
 - [gonsolo/gonzales](https://github.com/gonsolo/gonzales) - Rendering Disney's Moana in Swift
-- [c-villain/SwipeActions](https://github.com/c-villain/SwipeActions) - Swipe actions for any view, swipe menu based on SwiftUI, full swiping and RTL languages supporting, iOS 13+
+- [c-villain/SwipeActions](https://github.com/c-villain/SwipeActions) - Swipe actions for any view, swipe menu based on SwiftUI, full swiping and RTL languages supporting, iOS 13+, add your own views to swipes
 - [tdeleon/Relax](https://github.com/tdeleon/Relax) - Declaratively build and send client requests for REST APIs in Swift.
 - [openalloc/SwiftTabler](https://github.com/openalloc/SwiftTabler) - A multi-platform SwiftUI component for tabular data
 - [openalloc/SwiftNumberPad](https://github.com/openalloc/SwiftNumberPad) - A multi-platform SwiftUI component for basic number input
