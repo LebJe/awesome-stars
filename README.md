@@ -2292,7 +2292,6 @@
 - [compnerd/DXSample](https://github.com/compnerd/DXSample) - Sample Program for DirectX 12 + Swift
 - [JohnSundell/ShellOut](https://github.com/JohnSundell/ShellOut) - Easily run shell commands from a Swift script or command line tool
 - [lukaskubanek/LoremSwiftum](https://github.com/lukaskubanek/LoremSwiftum) - A lightweight lorem ipsum generator for Swift
-- [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
 - [swift-extras/swift-extras-base64](https://github.com/swift-extras/swift-extras-base64) - Base64 encode and decode without the use of Foundation in pure Swift.
 - [swift-extras/swift-extras-json](https://github.com/swift-extras/swift-extras-json) - JSON encoding and decoding without the use of Foundation in pure Swift.
 - [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The master list of repositories for the Swift Package Index.
