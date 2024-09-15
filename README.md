@@ -273,6 +273,7 @@
 
 ## C# # 
 
+- [616b2f/dotnet-bsp](https://github.com/616b2f/dotnet-bsp) - Implementation of the BSP (Build Server Protocol) for dotnet C#
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
 - [nicogis/ArcGISPro_AddIn_StreetView](https://github.com/nicogis/ArcGISPro_AddIn_StreetView) - ArcGIS Pro AddIn - StreetView
 - [Esri/arcgis-pro-sdk-community-samples](https://github.com/Esri/arcgis-pro-sdk-community-samples) - ArcGIS Pro SDK for Microsoft .NET Framework Community Samples
@@ -828,6 +829,7 @@
 
 ## Lua 
 
+- [616b2f/bsp.nvim](https://github.com/616b2f/bsp.nvim) - Build Server Protocol  (BSP) client for Neovim
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 - [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - Decorations for vimdoc/help files in Neovim
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
@@ -1586,6 +1588,7 @@
 
 ## Swift 
 
+- [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [vapor/blog](https://github.com/vapor/blog) - The Vapor Blog
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [vapor/api-docs](https://github.com/vapor/api-docs) - Scripts and assets for Vapor's API documentation site at https://api.vapor.codes
