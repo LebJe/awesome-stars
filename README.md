@@ -1588,6 +1588,9 @@
 
 ## Swift 
 
+- [Uncommon/Xit](https://github.com/Uncommon/Xit) - Mac OS X Git GUI
+- [vapor/website](https://github.com/vapor/website) - Vapor's website running on Swift
+- [vapor/queues](https://github.com/vapor/queues) - A queue system for Vapor.
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [vapor/blog](https://github.com/vapor/blog) - The Vapor Blog
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
