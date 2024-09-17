@@ -1588,6 +1588,7 @@
 
 ## Swift 
 
+- [hylo-lang/hylodoc](https://github.com/hylo-lang/hylodoc) - Code documentation generator for Hylo
 - [Uncommon/Xit](https://github.com/Uncommon/Xit) - Mac OS X Git GUI
 - [vapor/website](https://github.com/vapor/website) - Vapor's website running on Swift
 - [vapor/queues](https://github.com/vapor/queues) - A queue system for Vapor.
