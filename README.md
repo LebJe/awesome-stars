@@ -32,7 +32,6 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [Mathematica](#mathematica)
 - [Mercury](#mercury)
 - [MoonScript](#moonscript)
 - [Nim](#nim)
@@ -976,10 +975,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
-## Mathematica 
-
-- [nasa/NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
-
 ## Mercury 
 
 - [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
@@ -1038,6 +1033,7 @@
 - [swiftlang/swift-community-hosted-continuous-integration](https://github.com/swiftlang/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
 - [google/android-emulator-m1-preview](https://github.com/google/android-emulator-m1-preview) - 
 - [utmapp/vm-downloads](https://github.com/utmapp/vm-downloads) - Free UTM virtual machines
+- [nasa/NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
 - [lapce/atom-one](https://github.com/lapce/atom-one) - Atom One Theme
 - [OXiDE-dev/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAA](https://github.com/OXiDE-dev/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAA) - AAAAAAAAAAAAAAAAAAAAAAAA ;)
 - [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) - Combustion engine simulation game that generates realistic audio.
