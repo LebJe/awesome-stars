@@ -96,7 +96,7 @@
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [klange/nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
 - [jdah/reloadhost](https://github.com/jdah/reloadhost) - POSIX-friendly live code reloading
-- [apple/swift-foundation-icu](https://github.com/apple/swift-foundation-icu) - 
+- [swiftlang/swift-foundation-icu](https://github.com/swiftlang/swift-foundation-icu) - 
 - [migueldeicaza/SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit) - Embed Godot into Swift apps
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [obvgab/kinzoku](https://github.com/obvgab/kinzoku) - Cross platform graphics in Swift using WGSL. An implementation of wgpu-native
@@ -158,7 +158,7 @@
 - [babbleberry/rpi4-osdev](https://github.com/babbleberry/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [brenns10/lsh](https://github.com/brenns10/lsh) - Simple shell implementation.  Tutorial here -&gt;
-- [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
+- [swiftlang/swift-corelibs-foundation](https://github.com/swiftlang/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
 - [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
@@ -1746,7 +1746,7 @@
 - [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Swift library and command line tool to convert SVGs into SFSymbol, PNG, PDF and Swift source code.
 - [FelixHerrmann/swift-package-list](https://github.com/FelixHerrmann/swift-package-list) - A command-line tool to get all used SPM-dependencies of an Xcode project or workspace.
 - [atrinh0/buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 👌🏼
-- [apple/swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
+- [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation) - The Foundation project
 - [migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - New Godot bindings for Swift
 - [BikeCalc/swift-measures](https://github.com/BikeCalc/swift-measures) - Swift package containing measurement types.
 - [AdaEngine/AdaEngine](https://github.com/AdaEngine/AdaEngine) - Multi-platform 2D and 3D game engine written on Swift
