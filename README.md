@@ -1584,6 +1584,7 @@
 
 ## Swift 
 
+- [kishikawakatsumi/SMBClient](https://github.com/kishikawakatsumi/SMBClient) - Swift SMB client library and iOS/macOS file browser applications.
 - [hylo-lang/hylodoc](https://github.com/hylo-lang/hylodoc) - Code documentation generator for Hylo
 - [Uncommon/Xit](https://github.com/Uncommon/Xit) - Mac OS X Git GUI
 - [vapor/website](https://github.com/vapor/website) - Vapor's website running on Swift
