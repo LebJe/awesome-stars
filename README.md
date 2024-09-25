@@ -188,7 +188,7 @@
 - [helje5/wren-swift](https://github.com/helje5/wren-swift) - The wren scripting language as a Swift package, w/ some Swift API wrappers
 - [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
-- [rocky/remake](https://github.com/rocky/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more
+- [Trepan-Debuggers/remake](https://github.com/Trepan-Debuggers/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more
 - [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
 - [oblitum/caps2esc](https://github.com/oblitum/caps2esc) - Transforming the most useless key ever in the most useful one
 - [oblitum/Interception](https://github.com/oblitum/Interception) - The Interception API aims to build a portable programming interface that allows one to intercept and control a range of input devices.
@@ -520,6 +520,7 @@
 
 ## Dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
