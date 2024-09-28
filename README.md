@@ -76,6 +76,7 @@
 
 ## C 
 
+- [swiftlang/swift-java](https://github.com/swiftlang/swift-java) - 
 - [swiftlang/swift-toolchain-sqlite](https://github.com/swiftlang/swift-toolchain-sqlite) - Copy of Sqlite for use by clients within the Swift toolchain.  This is not a general-purpose wrapper for Sqlite.
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
@@ -1581,6 +1582,7 @@
 
 ## Swift 
 
+- [RussBaz/swift-uv](https://github.com/RussBaz/swift-uv) - 
 - [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
 - [kishikawakatsumi/SMBClient](https://github.com/kishikawakatsumi/SMBClient) - Swift SMB client library and iOS/macOS file browser applications.
 - [hylo-lang/hylodoc](https://github.com/hylo-lang/hylodoc) - Code documentation generator for Hylo
