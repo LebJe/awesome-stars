@@ -1309,7 +1309,7 @@
 - [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp) - Language server for NASM/GAS/GO Assembly
 - [tweag/topiary](https://github.com/tweag/topiary) - 
 - [modmark-org/modmark](https://github.com/modmark-org/modmark) - A modular markup language
-- [clitic/kdam](https://github.com/clitic/kdam) - A console progress bar library for Rust. (inspired by tqdm & rich.progress)
+- [clitic/Escape-From-Tarkov-ESP-Aimbot](https://github.com/clitic/Escape-From-Tarkov-ESP-Aimbot) - Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) - HTTP client/libcurl TUI front end in Rust, with request + key storage
 - [Gankra/abi-cafe](https://github.com/Gankra/abi-cafe) - Pair your compilers up at The ABI Cafe!
@@ -1491,7 +1491,7 @@
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [rcore-os/cpio](https://github.com/rcore-os/cpio) - Freestanding CPIO file reader in Rust.
-- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -2559,6 +2559,7 @@
 
 ## WebAssembly 
 
+- [WebAssembly/threads](https://github.com/WebAssembly/threads) - Threads and Atomics in WebAssembly
 - [WebAssembly/wasi-threads](https://github.com/WebAssembly/wasi-threads) - 
 - [torch2424/wasmboy](https://github.com/torch2424/wasmboy) - Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript. 🚀Demos built with Preact and Svelte. ⚛️
 - [WebAssembly/spec](https://github.com/WebAssembly/spec) - WebAssembly specification, reference interpreter, and test suite.
