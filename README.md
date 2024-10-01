@@ -552,6 +552,7 @@
 
 ## Go 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
@@ -1309,7 +1310,7 @@
 - [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp) - Language server for NASM/GAS/GO Assembly
 - [tweag/topiary](https://github.com/tweag/topiary) - 
 - [modmark-org/modmark](https://github.com/modmark-org/modmark) - A modular markup language
-- [clitic/Escape-From-Tarkov-ESP-Aimbot](https://github.com/clitic/Escape-From-Tarkov-ESP-Aimbot) - Developed for Escape From Tarkov and written in C++ and C#. It aims to improve the game experience with features such as Aimbot, ESP, Spoof.
+- [clitic/kdam](https://github.com/clitic/kdam) - A console progress bar library for Rust. (inspired by tqdm & rich.progress)
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) - HTTP client/libcurl TUI front end in Rust, with request + key storage
 - [Gankra/abi-cafe](https://github.com/Gankra/abi-cafe) - Pair your compilers up at The ABI Cafe!
@@ -1583,6 +1584,7 @@
 
 ## Swift 
 
+- [swift-on-server/articles](https://github.com/swift-on-server/articles) - 
 - [RussBaz/swift-uv](https://github.com/RussBaz/swift-uv) - 
 - [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
 - [kishikawakatsumi/SMBClient](https://github.com/kishikawakatsumi/SMBClient) - Swift SMB client library and iOS/macOS file browser applications.
