@@ -276,7 +276,6 @@
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
 - [nicogis/ArcGISPro_AddIn_StreetView](https://github.com/nicogis/ArcGISPro_AddIn_StreetView) - ArcGIS Pro AddIn - StreetView
 - [Esri/arcgis-pro-sdk-community-samples](https://github.com/Esri/arcgis-pro-sdk-community-samples) - ArcGIS Pro SDK for Microsoft .NET Framework Community Samples
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [mika-n/User.RBRCustomReader](https://github.com/mika-n/User.RBRCustomReader) - Custom RBR data reader plugin for SimHub
 - [zissakos/RBRCIT](https://github.com/zissakos/RBRCIT) - RBR Car Installation Tool
 - [PowerShell/PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices) - A common platform for PowerShell development support in any editor or application!
