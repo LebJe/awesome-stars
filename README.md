@@ -239,7 +239,6 @@
 - [libharu/libharu](https://github.com/libharu/libharu) - libharu - free PDF library
 - [google/AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
-- [rpm-software-management/rpm](https://github.com/rpm-software-management/rpm) - The RPM package manager
 - [lemenkov/oraODBC](https://github.com/lemenkov/oraODBC) - Oracle ODBC driver for UnixODBC
 - [softace/sqliteodbc](https://github.com/softace/sqliteodbc) - SQLite ODBC driver
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -399,7 +398,7 @@
 - [neo3587/regedit](https://github.com/neo3587/regedit) - Windows register editor for C++
 - [vslavik/winsparkle](https://github.com/vslavik/winsparkle) - App update framework for Windows, inspired by Sparkle for macOS
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [OPENDAP/libdap4](https://github.com/OPENDAP/libdap4) - A new version of libdap that contains both DAP2 and DAP4 support
 - [google/cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
@@ -469,6 +468,7 @@
 - [cebix/macemu](https://github.com/cebix/macemu) - Basilisk II and SheepShaver Macintosh emulators
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [qpdf/qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
+- [rpm-software-management/rpm](https://github.com/rpm-software-management/rpm) - The RPM package manager
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [jtv/libpqxx](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL.
 - [OSGeo/gdal](https://github.com/OSGeo/gdal) - GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.
@@ -1028,6 +1028,7 @@
 
 ## Others 
 
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [swiftlang/github-workflows](https://github.com/swiftlang/github-workflows) - 
 - [swiftlang/swift-community-hosted-continuous-integration](https://github.com/swiftlang/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
 - [google/android-emulator-m1-preview](https://github.com/google/android-emulator-m1-preview) - 
@@ -1583,6 +1584,7 @@
 
 ## Swift 
 
+- [sliemeobn/elementary](https://github.com/sliemeobn/elementary) - A modern and efficient HTML rendering library - inspired by SwiftUI, built for the web.
 - [swift-on-server/articles](https://github.com/swift-on-server/articles) - 
 - [RussBaz/swift-uv](https://github.com/RussBaz/swift-uv) - 
 - [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
