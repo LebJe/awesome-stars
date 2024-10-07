@@ -835,7 +835,7 @@
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [svermeulen/tea-leaves](https://github.com/svermeulen/tea-leaves) - A language server for the Teal language
 - [svermeulen/teal-language-server](https://github.com/svermeulen/teal-language-server) - A language server for Teal, a typed dialect of Lua
-- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer for Neovim
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex & inline html) previewer for Neovim
 - [freddiehaddad/feline.nvim](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline, statuscolumn, and winbar for Neovim
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)
@@ -1749,7 +1749,7 @@
 - [vinivendra/Gryphon](https://github.com/vinivendra/Gryphon) - The Swift to Kotlin translator.
 - [ChimeHQ/SwiftCoreSymbolication](https://github.com/ChimeHQ/SwiftCoreSymbolication) - Swift wrappers for CoreSymbolication
 - [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Swift library and command line tool to convert SVGs into SFSymbol, PNG, PDF and Swift source code.
-- [FelixHerrmann/swift-package-list](https://github.com/FelixHerrmann/swift-package-list) - A command-line tool to get all used SPM-dependencies of an Xcode project or workspace.
+- [FelixHerrmann/swift-package-list](https://github.com/FelixHerrmann/swift-package-list) - A command-line tool to get all used Swift Package dependencies.
 - [atrinh0/buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 👌🏼
 - [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation) - The Foundation project
 - [migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - New Godot bindings for Swift
@@ -2395,6 +2395,7 @@
 
 ## TypeScript 
 
+- [yaegassy/coc-csharp-ls](https://github.com/yaegassy/coc-csharp-ls) - csharp-language-server (csharp-ls) extension for coc.nvim
 - [omochi/swift-string-counter-web](https://github.com/omochi/swift-string-counter-web) - Counting characters of string in Swift is difficult!
 - [annexare/Countries](https://github.com/annexare/Countries) - Countries, Languages & Continents data (capital and currency, native name, calling codes).
 - [trevorblades/countries](https://github.com/trevorblades/countries) - 🌎 Public GraphQL API for information about countries
