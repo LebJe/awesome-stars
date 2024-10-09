@@ -81,6 +81,7 @@
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [apple/tree-sitter-pkl](https://github.com/apple/tree-sitter-pkl) - Tree-sitter parser for Pkl
+- [apple/swift-for-wasm-examples](https://github.com/apple/swift-for-wasm-examples) - 
 - [pomfort/lua4swift](https://github.com/pomfort/lua4swift) - High-level (convenient) Lua bindings for Swift
 - [mingw-w64/mingw-w64](https://github.com/mingw-w64/mingw-w64) - (Unofficial) Mirror of mingw-w64-code
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
@@ -1647,7 +1648,6 @@
 - [davbeck/swift-glob](https://github.com/davbeck/swift-glob) - A native Swift implementation of glob match patterns.
 - [stackotter/galah](https://github.com/stackotter/galah) - A scripting language with the goal of being lightweight and embeddable in Swift applications.
 - [mattcox/Pack](https://github.com/mattcox/Pack) - A Swift package to serialize and deserialize various data types into an external representation.
-- [apple/swift-for-wasm-examples](https://github.com/apple/swift-for-wasm-examples) - 
 - [apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples) - A collection of example projects using Embedded Swift
 - [finnvoor/PlaydateKit](https://github.com/finnvoor/PlaydateKit) - Create games for Playdate using Swift.
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
