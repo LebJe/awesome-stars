@@ -76,12 +76,11 @@
 
 ## C 
 
-- [swiftlang/swift-java](https://github.com/swiftlang/swift-java) - 
+- [RussBaz/swift-uv](https://github.com/RussBaz/swift-uv) - 
 - [swiftlang/swift-toolchain-sqlite](https://github.com/swiftlang/swift-toolchain-sqlite) - Copy of Sqlite for use by clients within the Swift toolchain.  This is not a general-purpose wrapper for Sqlite.
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [apple/tree-sitter-pkl](https://github.com/apple/tree-sitter-pkl) - Tree-sitter parser for Pkl
-- [apple/swift-for-wasm-examples](https://github.com/apple/swift-for-wasm-examples) - 
 - [pomfort/lua4swift](https://github.com/pomfort/lua4swift) - High-level (convenient) Lua bindings for Swift
 - [mingw-w64/mingw-w64](https://github.com/mingw-w64/mingw-w64) - (Unofficial) Mirror of mingw-w64-code
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
@@ -1029,6 +1028,7 @@
 
 ## Others 
 
+- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [swiftlang/github-workflows](https://github.com/swiftlang/github-workflows) - 
 - [swiftlang/swift-community-hosted-continuous-integration](https://github.com/swiftlang/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
@@ -1306,6 +1306,8 @@
 
 ## Rust 
 
+- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [JonasKruckenberg/k23](https://github.com/JonasKruckenberg/k23) - Experimental WASM Microkernel Operating System
 - [Michael-F-Bryan/wit-lsp](https://github.com/Michael-F-Bryan/wit-lsp) - A Language Server implementation for the WIT interface definition language
 - [bergercookie/asm-lsp](https://github.com/bergercookie/asm-lsp) - Language server for NASM/GAS/GO Assembly
@@ -1587,7 +1589,7 @@
 
 - [sliemeobn/elementary](https://github.com/sliemeobn/elementary) - A modern and efficient HTML rendering library - inspired by SwiftUI, built for the web.
 - [swift-on-server/articles](https://github.com/swift-on-server/articles) - 
-- [RussBaz/swift-uv](https://github.com/RussBaz/swift-uv) - 
+- [swiftlang/swift-java](https://github.com/swiftlang/swift-java) - 
 - [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
 - [kishikawakatsumi/SMBClient](https://github.com/kishikawakatsumi/SMBClient) - Swift SMB client library and iOS/macOS file browser applications.
 - [hylo-lang/hylodoc](https://github.com/hylo-lang/hylodoc) - Code documentation generator for Hylo
@@ -1648,6 +1650,7 @@
 - [davbeck/swift-glob](https://github.com/davbeck/swift-glob) - A native Swift implementation of glob match patterns.
 - [stackotter/galah](https://github.com/stackotter/galah) - A scripting language with the goal of being lightweight and embeddable in Swift applications.
 - [mattcox/Pack](https://github.com/mattcox/Pack) - A Swift package to serialize and deserialize various data types into an external representation.
+- [apple/swift-for-wasm-examples](https://github.com/apple/swift-for-wasm-examples) - 
 - [apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples) - A collection of example projects using Embedded Swift
 - [finnvoor/PlaydateKit](https://github.com/finnvoor/PlaydateKit) - Create games for Playdate using Swift.
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
