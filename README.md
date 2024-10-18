@@ -220,6 +220,7 @@
 - [open-iscsi/open-iscsi](https://github.com/open-iscsi/open-iscsi) - iSCSI tools for Linux
 - [sahlberg/libiscsi](https://github.com/sahlberg/libiscsi) - iscsi client library and utilities
 - [tree-sitter/tree-sitter-html](https://github.com/tree-sitter/tree-sitter-html) - HTML grammar for Tree-sitter
+- [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
 - [dinhvh/libetpan](https://github.com/dinhvh/libetpan) - Mail Framework for C Language
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
@@ -298,7 +299,7 @@
 - [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET = ❤
 - [microsoft/python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [LibAtem/LibAtem](https://github.com/LibAtem/LibAtem) - Blackmagic Atem client for .Net Core
 
 ## C++ 
@@ -647,6 +648,7 @@
 
 ## HTML 
 
+- [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types
 - [programming/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](https://github.com/programming/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) - The World's longest URL "shortener"
 - [w3c/webvtt](https://github.com/w3c/webvtt) - WebVTT Standard
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
@@ -703,6 +705,8 @@
 
 ## JavaScript 
 
+- [jackdclark/five](https://github.com/jackdclark/five) - Gives you five
+- [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥
 - [apple/pkl-lang.org](https://github.com/apple/pkl-lang.org) - The pkl-lang.org website
 - [npm/npm-expansions](https://github.com/npm/npm-expansions) - Send us a pull request by editing expansions.txt
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -784,7 +788,6 @@
 - [tree-sitter/tree-sitter-rust](https://github.com/tree-sitter/tree-sitter-rust) - Rust grammar for tree-sitter
 - [tree-sitter/tree-sitter-c](https://github.com/tree-sitter/tree-sitter-c) - C grammar for tree-sitter
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
-- [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [bsneed/StellarSwift](https://github.com/bsneed/StellarSwift) - Swift Addons for Panic's Nova app.
 - [SwiftFiddle/swiftfiddle-web](https://github.com/SwiftFiddle/swiftfiddle-web) - SwiftFiddle is an online playground for creating, sharing and embedding Swift fiddles (little Swift programs that run directly in your browser).
@@ -1028,9 +1031,9 @@
 
 ## Others 
 
+- [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
-- [swiftlang/github-workflows](https://github.com/swiftlang/github-workflows) - 
 - [swiftlang/swift-community-hosted-continuous-integration](https://github.com/swiftlang/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
 - [google/android-emulator-m1-preview](https://github.com/google/android-emulator-m1-preview) - 
 - [utmapp/vm-downloads](https://github.com/utmapp/vm-downloads) - Free UTM virtual machines
@@ -1149,6 +1152,7 @@
 
 ## Perl 
 
+- [bagder/emails](https://github.com/bagder/emails) - emails I received
 - [tree-sitter/fuzz-action](https://github.com/tree-sitter/fuzz-action) - Input fuzzing action for tree-sitter parsers
 - [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 
@@ -1164,6 +1168,12 @@
 
 ## Python 
 
+- [vivaansinghvi07/dreamberd-interpreter](https://github.com/vivaansinghvi07/dreamberd-interpreter) - Interpreter for the perfect programming language
+- [AceLewis/my_first_calculator.py](https://github.com/AceLewis/my_first_calculator.py) - my_first_calculator.py
+- [munificent/vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language
+- [codedance/Retaliation](https://github.com/codedance/Retaliation) - A Jenkins "Extreme Feedback" Contraption - fire foam rockets at build breaking perpetrators.
+- [asweigart/my_first_tic_tac_toe](https://github.com/asweigart/my_first_tic_tac_toe) - My first Tic Tac Toe program. I welcome any code reviews and pull requests!
+- [swiftlang/github-workflows](https://github.com/swiftlang/github-workflows) - 
 - [swiftwasm/swiftwasm-build](https://github.com/swiftwasm/swiftwasm-build) - Patches, build scripts, and CI configuration for the SwiftWasm toolchain
 - [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3) - Pure python3 implementation for working with iDevices (iPhone, etc...).
 - [thebrowsercompany/swift-build](https://github.com/thebrowsercompany/swift-build) - Swift toolchain builds by The Browser Company
@@ -1655,7 +1665,7 @@
 - [finnvoor/PlaydateKit](https://github.com/finnvoor/PlaydateKit) - Create games for Playdate using Swift.
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [arasan01/GRDB.swift](https://github.com/arasan01/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
-- [AparokshaUI/adwaita-swift](https://github.com/AparokshaUI/adwaita-swift) - A framework for creating user interfaces for GNOME with an API similar to SwiftUI
+- [AparokshaUI/adwaita-swift](https://github.com/AparokshaUI/adwaita-swift) - This project has moved to https://git.aparoksha.dev/aparoksha/adwaita-swift - A framework for creating user interfaces for GNOME with an API similar to SwiftUI
 - [apple/swift-playdate-examples](https://github.com/apple/swift-playdate-examples) - An Embedded Swift game running on Playdate by Panic
 - [will-lumley/FaviconFinder](https://github.com/will-lumley/FaviconFinder) - A small swift library for iOS & macOS to detect favicons used by a website.
 - [tuist/XcodeProj](https://github.com/tuist/XcodeProj) - 📝 Read, update and write your Xcode projects
