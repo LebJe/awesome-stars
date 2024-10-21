@@ -985,6 +985,7 @@
 
 ## Nim 
 
+- [adeemm/WinAPI-Fun](https://github.com/adeemm/WinAPI-Fun) - A collection of (relatively) harmless prank examples using the Windows API
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [nim-lang/langserver](https://github.com/nim-lang/langserver) - The Nim language server implementation (based on nimsuggest)
 - [PMunch/nimlsp](https://github.com/PMunch/nimlsp) - Language Server Protocol implementation for Nim
@@ -2077,7 +2078,7 @@
 - [spevans/swift-project1](https://github.com/spevans/swift-project1) - A minimal bare metal kernel in Swift
 - [twostraws/whats-new-in-swift-5-5](https://github.com/twostraws/whats-new-in-swift-5-5) - 
 - [elai950/AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI
-- [square/Valet](https://github.com/square/Valet) - Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
+- [square/Valet](https://github.com/square/Valet) - Valet lets you securely store data in the iOS, tvOS, watchOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
 - [andriydruk/swift-weather-app](https://github.com/andriydruk/swift-weather-app) - Cross-platform Swift application for iOS/Mac/Android/Windows
 - [sclukey/libui-swift-examples](https://github.com/sclukey/libui-swift-examples) - Examples programs for libui-swift
 - [eugene-gilmore/libui-swift](https://github.com/eugene-gilmore/libui-swift) - Swifty libui
