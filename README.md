@@ -79,7 +79,7 @@
 - [RussBaz/swift-uv](https://github.com/RussBaz/swift-uv) - 
 - [swiftlang/swift-toolchain-sqlite](https://github.com/swiftlang/swift-toolchain-sqlite) - Copy of SQLite for use by clients within the Swift toolchain.  This is not a general-purpose wrapper for SQLite.
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 - [apple/tree-sitter-pkl](https://github.com/apple/tree-sitter-pkl) - Tree-sitter parser for Pkl
 - [pomfort/lua4swift](https://github.com/pomfort/lua4swift) - High-level (convenient) Lua bindings for Swift
 - [mingw-w64/mingw-w64](https://github.com/mingw-w64/mingw-w64) - (Unofficial) Mirror of mingw-w64-code
@@ -308,7 +308,7 @@
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Cascable/swift-on-windows-poc](https://github.com/Cascable/swift-on-windows-poc) - A proof-of-concept project for Swift on Windows with bindings to C#/the CLR.
 - [jorgen/json_struct](https://github.com/jorgen/json_struct) - json_struct is a single header only C++ library for parsing JSON directly to C++ structs and vice versa
-- [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating the ASWF landscape to swiftly architect the metaverse.
+- [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating many ASWF projects to swiftly architect the metaverse.
 - [tdlib/td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 - [firebase/quickstart-cpp](https://github.com/firebase/quickstart-cpp) - Firebase Quickstart Samples for C++
@@ -1218,7 +1218,7 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [sublimelsp/LSP](https://github.com/sublimelsp/LSP) - Client implementation of the Language Server Protocol for Sublime Text
-- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+- [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py) - This is the updated Python wrapper for the Heroku API V3. https://devcenter.heroku.com/articles/platform-api-reference The Heroku REST API allows Heroku users to manage their accounts, applications, a
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr) - Make Ranger running in a floating window to communicate with Neovim via RPC
@@ -1459,7 +1459,7 @@
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [zonyitoo/rust-ini](https://github.com/zonyitoo/rust-ini) - INI file parser in Rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
+- [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [edg-l/treelight](https://github.com/edg-l/treelight) - A syntax highlighter for the web using tree-sitter.
@@ -1515,7 +1515,7 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
 - [vadimcn/codelldb](https://github.com/vadimcn/codelldb) - A native debugger extension for VSCode based on LLDB
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -1598,6 +1598,7 @@
 
 ## Swift 
 
+- [DougGregor/celsius-converter](https://github.com/DougGregor/celsius-converter) - Swift/Java interoperability example mixing Java & Swift code for a tiny Swing UI application
 - [sliemeobn/elementary](https://github.com/sliemeobn/elementary) - A modern and efficient HTML rendering library - inspired by SwiftUI, built for the web.
 - [swift-on-server/articles](https://github.com/swift-on-server/articles) - 
 - [swiftlang/swift-java](https://github.com/swiftlang/swift-java) - 
@@ -1733,7 +1734,7 @@
 - [vapor/websocket-kit](https://github.com/vapor/websocket-kit) - WebSocket client library built on SwiftNIO
 - [MalkarovPark/IndustrialKit](https://github.com/MalkarovPark/IndustrialKit) - The open source software platform for creating applications that enable the design and control of automated means of production.
 - [apple/swift-http-types](https://github.com/apple/swift-http-types) - Version-independent HTTP currency types for Swift
-- [evelyneee/accord](https://github.com/evelyneee/accord) - a discord client for modern macs
+- [tealbathingsuit/accord](https://github.com/tealbathingsuit/accord) - a discord client for modern macs
 - [orlandos-nl/Citadel](https://github.com/orlandos-nl/Citadel) - SSH Client & Server in Swift
 - [tristanlabelle/swift-dotnetmetadata](https://github.com/tristanlabelle/swift-dotnetmetadata) - A Swift library for reading .NET metadata files, including WinMD files.
 - [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) - Instrumentation library for Swift server applications
