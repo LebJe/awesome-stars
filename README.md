@@ -54,6 +54,7 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Starlark](#starlark)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -1216,7 +1217,7 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [canonical/snapcraft](https://github.com/canonical/snapcraft) - Package, distribute, and update any app for Linux and IoT.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 - [sublimelsp/LSP](https://github.com/sublimelsp/LSP) - Client implementation of the Language Server Protocol for Sublime Text
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py) - This is the updated Python wrapper for the Heroku API V3. https://devcenter.heroku.com/articles/platform-api-reference The Heroku REST API allows Heroku users to manage their accounts, applications, a
@@ -1595,6 +1596,10 @@
 ## Starlark 
 
 - [googleapis/googleapis](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
+
+## Svelte 
+
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids
 
 ## Swift 
 
@@ -2333,7 +2338,7 @@
 - [vi4m/vax](https://github.com/vi4m/vax) - Make persistent virtual machines on Docker
 - [jpsim/SourceKitten](https://github.com/jpsim/SourceKitten) - An adorable little framework and command line tool for interacting with SourceKit.
 - [SvenTiigi/ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮
-- [PureSwift/Bluetooth](https://github.com/PureSwift/Bluetooth) - Pure Swift Bluetooth library
+- [PureSwift/Bluetooth](https://github.com/PureSwift/Bluetooth) - Swift Bluetooth library
 - [tmandry/Swindler](https://github.com/tmandry/Swindler) - macOS window management library for Swift
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [GraphQLSwift/GraphQL](https://github.com/GraphQLSwift/GraphQL) - The Swift GraphQL implementation for macOS and Linux
