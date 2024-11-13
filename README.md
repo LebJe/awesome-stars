@@ -221,7 +221,6 @@
 - [open-iscsi/open-iscsi](https://github.com/open-iscsi/open-iscsi) - iSCSI tools for Linux
 - [sahlberg/libiscsi](https://github.com/sahlberg/libiscsi) - iscsi client library and utilities
 - [tree-sitter/tree-sitter-html](https://github.com/tree-sitter/tree-sitter-html) - HTML grammar for Tree-sitter
-- [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
 - [dinhvh/libetpan](https://github.com/dinhvh/libetpan) - Mail Framework for C Language
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
@@ -789,6 +788,7 @@
 - [tree-sitter/tree-sitter-rust](https://github.com/tree-sitter/tree-sitter-rust) - Rust grammar for tree-sitter
 - [tree-sitter/tree-sitter-c](https://github.com/tree-sitter/tree-sitter-c) - C grammar for tree-sitter
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
+- [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [bsneed/StellarSwift](https://github.com/bsneed/StellarSwift) - Swift Addons for Panic's Nova app.
 - [SwiftFiddle/swiftfiddle-web](https://github.com/SwiftFiddle/swiftfiddle-web) - SwiftFiddle is an online playground for creating, sharing and embedding Swift fiddles (little Swift programs that run directly in your browser).
@@ -1550,6 +1550,7 @@
 
 ## Shell 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [kabiroberai/swift-sdk-darwin](https://github.com/kabiroberai/swift-sdk-darwin) - Darwin Swift SDK for Linux (experimental)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [DimaRU/PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo) - Automated Swift Package version and build numbering via Git. A Swift Package Manager build plugin.
@@ -1603,7 +1604,8 @@
 
 ## Swift 
 
-- [PADL/AndroidLogging](https://github.com/PADL/AndroidLogging) - 
+- [apple/swift-nio-imap](https://github.com/apple/swift-nio-imap) - A Swift project that provides an implementation of the IMAP4rev1 protocol, built upon SwiftNIO.
+- [PADL/AndroidLogging](https://github.com/PADL/AndroidLogging) - Swift logging backend for Android
 - [apple/swift-container-plugin](https://github.com/apple/swift-container-plugin) - Swift Package Manager plugin for building container images
 - [DougGregor/celsius-converter](https://github.com/DougGregor/celsius-converter) - Swift/Java interoperability example mixing Java & Swift code for a tiny Swing UI application
 - [sliemeobn/elementary](https://github.com/sliemeobn/elementary) - A modern and efficient HTML rendering library - inspired by SwiftUI, built for the web.
