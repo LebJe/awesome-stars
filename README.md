@@ -726,7 +726,6 @@
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 - [yuki-yano/coc-nav](https://github.com/yuki-yano/coc-nav) - 
 - [ThatTonybo/BeamAdvisor](https://github.com/ThatTonybo/BeamAdvisor) - ETS2/ATS inspired information+navigation widget for BeamNG.drive
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [seanmiddleditch/gha-setup-vsdevenv](https://github.com/seanmiddleditch/gha-setup-vsdevenv) - GitHub Action to setup the VS dev environment for the job
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
@@ -1445,7 +1444,7 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [Kampfkarren/full-moon](https://github.com/Kampfkarren/full-moon) - A lossless Lua 5.1 parser
-- [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
+- [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [rust-native-ui/libui-rs](https://github.com/rust-native-ui/libui-rs) - Rust bindings to the minimalist, native, cross-platform UI toolkit `libui`
 - [rhysd/kiro-editor](https://github.com/rhysd/kiro-editor) - A terminal UTF-8 text editor written in Rust 📝🦀
@@ -1604,6 +1603,7 @@
 
 ## Swift 
 
+- [ajevans99/swift-json-schema](https://github.com/ajevans99/swift-json-schema) - Generate JSON Schema documents from Swift
 - [apple/swift-nio-imap](https://github.com/apple/swift-nio-imap) - A Swift project that provides an implementation of the IMAP4rev1 protocol, built upon SwiftNIO.
 - [PADL/AndroidLogging](https://github.com/PADL/AndroidLogging) - Swift logging backend for Android
 - [apple/swift-container-plugin](https://github.com/apple/swift-container-plugin) - Swift Package Manager plugin for building container images
@@ -2166,7 +2166,7 @@
 - [plarson/WKCodable](https://github.com/plarson/WKCodable) - Well-Known Binary & Text Encoding/Decoding for Swift
 - [square/Blueprint](https://github.com/square/Blueprint) - Declarative UI construction for iOS, written in Swift
 - [phimage/Erik](https://github.com/phimage/Erik) - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript.
-- [tayloraswift/jpeg](https://github.com/tayloraswift/jpeg) - decode, inspect, edit, and encode jpeg images in pure swift
+- [tayloraswift/swift-jpeg](https://github.com/tayloraswift/swift-jpeg) - decode, inspect, edit, and encode jpeg images in pure swift
 - [tayloraswift/swift-png](https://github.com/tayloraswift/swift-png) - decode, inspect, edit, and encode png images in pure swift
 - [Raureif/WikipediaKit](https://github.com/Raureif/WikipediaKit) - Wikipedia API Client Framework for Swift on macOS, iOS, watchOS, and tvOS
 - [siteline/swiftui-introspect](https://github.com/siteline/swiftui-introspect) - Introspect underlying UIKit/AppKit components from SwiftUI
@@ -2305,7 +2305,7 @@
 - [TizianoCoroneo/Deeplink](https://github.com/TizianoCoroneo/Deeplink) - A library to parse deeplinks and their arguments using String interpolation.
 - [steamclock/bluejay](https://github.com/steamclock/bluejay) - A simple Swift framework for building reliable Bluetooth LE apps.
 - [PureSwift/BluetoothLinux](https://github.com/PureSwift/BluetoothLinux) - Pure Swift Linux Bluetooth Stack
-- [PureSwift/GATT](https://github.com/PureSwift/GATT) - Bluetooth Generic Attribute Profile (GATT) for Swift (Supports Linux)
+- [PureSwift/GATT](https://github.com/PureSwift/GATT) - Bluetooth Generic Attribute Profile (GATT) for Swift
 - [swiftlang/swift-driver](https://github.com/swiftlang/swift-driver) - Swift compiler driver reimplementation in Swift
 - [RobertoMachorro/Moped](https://github.com/RobertoMachorro/Moped) - A general purpose text editor, small and light.
 - [carson-katri/swift-request](https://github.com/carson-katri/swift-request) - Declarative HTTP networking, designed for SwiftUI
@@ -2434,6 +2434,7 @@
 - [xiyaowong/coc-stylua](https://github.com/xiyaowong/coc-stylua) - StyLua extension for coc.nvim.
 - [xiyaowong/coc-lightbulb-](https://github.com/xiyaowong/coc-lightbulb-) - Code action 💡 for coc.nvim
 - [TypeScriptToLua/lua-types](https://github.com/TypeScriptToLua/lua-types) - TypeScript definitions for Lua standard library.
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [coc-extensions/coc-powershell](https://github.com/coc-extensions/coc-powershell) - PowerShellEditorService integration for coc.vim
 - [dotnet/vscode-csharp](https://github.com/dotnet/vscode-csharp) - Official C# support for Visual Studio Code
 - [coc-extensions/coc-omnisharp](https://github.com/coc-extensions/coc-omnisharp) - OmniSharp integration for coc.nvim
