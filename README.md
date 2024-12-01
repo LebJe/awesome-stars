@@ -78,6 +78,7 @@
 
 ## C 
 
+- [euclidianAce/ltreesitter](https://github.com/euclidianAce/ltreesitter) - Standalone tree sitter bindings for the Lua language
 - [RussBaz/swift-uv](https://github.com/RussBaz/swift-uv) - 
 - [swiftlang/swift-toolchain-sqlite](https://github.com/swiftlang/swift-toolchain-sqlite) - Copy of SQLite for use by clients within the Swift toolchain.  This is not a general-purpose wrapper for SQLite.
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
@@ -705,6 +706,8 @@
 
 ## JavaScript 
 
+- [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
+- [euclidianAce/tree-sitter-teal](https://github.com/euclidianAce/tree-sitter-teal) - A tree sitter grammar for Teal, a typed dialect of Lua
 - [jackdclark/five](https://github.com/jackdclark/five) - Gives you five
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥
 - [apple/pkl-lang.org](https://github.com/apple/pkl-lang.org) - The pkl-lang.org website
@@ -1032,6 +1035,7 @@
 
 ## Others 
 
+- [teal-language/awesome-teal](https://github.com/teal-language/awesome-teal) - A curated list of Teal-related projects!
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
