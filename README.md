@@ -45,6 +45,7 @@
 - [PureBasic](#purebasic)
 - [Python](#python)
 - [Reason](#reason)
+- [RenderScript](#renderscript)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -84,6 +85,7 @@
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 - [apple/tree-sitter-pkl](https://github.com/apple/tree-sitter-pkl) - Tree-sitter parser for Pkl
+- [finnvoor/PlaydateKit](https://github.com/finnvoor/PlaydateKit) - Create games for Playdate using Swift.
 - [pomfort/lua4swift](https://github.com/pomfort/lua4swift) - High-level (convenient) Lua bindings for Swift
 - [mingw-w64/mingw-w64](https://github.com/mingw-w64/mingw-w64) - (Unofficial) Mirror of mingw-w64-code
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
@@ -944,7 +946,7 @@
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 - [nvimdev/galaxyline.nvim](https://github.com/nvimdev/galaxyline.nvim) - neovim statusline plugin written in lua
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual git plugin for Neovim
-- [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
+- [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - Provides Nerd Font icons (glyphs) for use by neovim plugins
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
@@ -1289,6 +1291,10 @@
 
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 
+## RenderScript 
+
+- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1247🚀) dependencies🚀
+
 ## Rich Text Format 
 
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
@@ -1320,7 +1326,6 @@
 
 ## Rust 
 
-- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [JonasKruckenberg/k23](https://github.com/JonasKruckenberg/k23) - Experimental WASM Microkernel Operating System
 - [Michael-F-Bryan/wit-lsp](https://github.com/Michael-F-Bryan/wit-lsp) - A Language Server implementation for the WIT interface definition language
@@ -1410,7 +1415,7 @@
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [japaric/xargo](https://github.com/japaric/xargo) - The sysroot manager that lets you build and customize `std`
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
@@ -1457,7 +1462,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [zonyitoo/rust-ini](https://github.com/zonyitoo/rust-ini) - INI file parser in Rust
@@ -1606,6 +1611,7 @@
 
 ## Swift 
 
+- [pointfreeco/swift-sharing](https://github.com/pointfreeco/swift-sharing) - Instantly share state among your app's features and external persistence layers, including user defaults, the file system, and more.
 - [ajevans99/swift-json-schema](https://github.com/ajevans99/swift-json-schema) - Generate JSON Schema documents from Swift
 - [apple/swift-nio-imap](https://github.com/apple/swift-nio-imap) - A Swift project that provides an implementation of the IMAP4rev1 protocol, built upon SwiftNIO.
 - [PADL/AndroidLogging](https://github.com/PADL/AndroidLogging) - Swift logging backend for Android
@@ -1676,7 +1682,6 @@
 - [mattcox/Pack](https://github.com/mattcox/Pack) - A Swift package to serialize and deserialize various data types into an external representation.
 - [apple/swift-for-wasm-examples](https://github.com/apple/swift-for-wasm-examples) - 
 - [apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples) - A collection of example projects using Embedded Swift
-- [finnvoor/PlaydateKit](https://github.com/finnvoor/PlaydateKit) - Create games for Playdate using Swift.
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [arasan01/GRDB.swift](https://github.com/arasan01/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
 - [AparokshaUI/adwaita-swift](https://github.com/AparokshaUI/adwaita-swift) - This project has moved to https://git.aparoksha.dev/aparoksha/adwaita-swift - A framework for creating user interfaces for GNOME with an API similar to SwiftUI
@@ -2061,7 +2066,7 @@
 - [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit) - WebAssembly Runtime written in Swift
 - [Apodini/webidl2swift](https://github.com/Apodini/webidl2swift) - 
 - [JamitLabs/Accio](https://github.com/JamitLabs/Accio) - A dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
-- [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more.
+- [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with SwiftData persistence, networking, dependency injection, unit testing, and more.
 - [Moya/Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) - Metrics API for Swift
 - [Kitura/Kitura](https://github.com/Kitura/Kitura) - A Swift web framework and HTTP server.
