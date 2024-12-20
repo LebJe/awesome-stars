@@ -555,6 +555,7 @@
 
 ## Go 
 
+- [htfy96/logalign](https://github.com/htfy96/logalign) - Command-line tool to annotate log lines with links to their definitons and argument expression.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
@@ -585,7 +586,7 @@
 - [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [itchyny/maze](https://github.com/itchyny/maze) - A maze command written in Go
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [vilmibm/gh-screensaver](https://github.com/vilmibm/gh-screensaver) - full terminal animations
@@ -1611,6 +1612,7 @@
 
 ## Swift 
 
+- [iCharlesHu/swift-experimental-subprocess](https://github.com/iCharlesHu/swift-experimental-subprocess) - A prototype to the new Swift Subprocess
 - [pointfreeco/swift-sharing](https://github.com/pointfreeco/swift-sharing) - Instantly share state among your app's features and external persistence layers, including user defaults, the file system, and more.
 - [ajevans99/swift-json-schema](https://github.com/ajevans99/swift-json-schema) - Generate JSON Schema documents from Swift
 - [apple/swift-nio-imap](https://github.com/apple/swift-nio-imap) - A Swift project that provides an implementation of the IMAP4rev1 protocol, built upon SwiftNIO.
