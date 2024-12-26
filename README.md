@@ -1346,7 +1346,6 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [syphar/zetta](https://github.com/syphar/zetta) - A modern replacement for ‘ls’.
-- [obvgab/monopoly-ai](https://github.com/obvgab/monopoly-ai) - A multi-headed double deep-Q learning game of Monopoly in dfdx, Bevy, Naia, and Rust
 - [ahlinc/code-shape](https://github.com/ahlinc/code-shape) - Code-shape is a tool for extracting definitions from source code files
 - [lapce/wasi-experimental-http](https://github.com/lapce/wasi-experimental-http) - Experimental outbound HTTP support for WebAssembly and WASI
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
@@ -1612,6 +1611,7 @@
 
 ## Swift 
 
+- [costachung/neumorphic](https://github.com/costachung/neumorphic) - 🚀Neumorphic is a SwiftUI utility to build Neumorphism Soft UI (supports both *outer shadow and *inner shadow)
 - [iCharlesHu/swift-experimental-subprocess](https://github.com/iCharlesHu/swift-experimental-subprocess) - A prototype to the new Swift Subprocess
 - [pointfreeco/swift-sharing](https://github.com/pointfreeco/swift-sharing) - Instantly share state among your app's features and external persistence layers, including user defaults, the file system, and more.
 - [ajevans99/swift-json-schema](https://github.com/ajevans99/swift-json-schema) - Generate JSON Schema documents from Swift
