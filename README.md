@@ -725,7 +725,7 @@
 - [iocave/customize-ui](https://github.com/iocave/customize-ui) - UI Customization plugin for vscode
 - [staysail/nova-cdragon](https://github.com/staysail/nova-cdragon) - C and C++ support for Nova
 - [neoclide/coc-repl](https://github.com/neoclide/coc-repl) - Read-Eval-Print-Loop (REPL) for coc.nvim
-- [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
+- [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Full featured library for Ethereum interaction with the JSON RPC API in swift. Native ABI parsing and smart contract interactions.
 - [staysail/nova-clangd](https://github.com/staysail/nova-clangd) - ClangD Extension for Nova
 - [swiftwasm/setup-swiftwasm](https://github.com/swiftwasm/setup-swiftwasm) - An action to download a prebuilt SwiftWasm toolchain and add it to the PATH
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
@@ -1523,7 +1523,7 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [vadimcn/codelldb](https://github.com/vadimcn/codelldb) - A native debugger extension for VSCode based on LLDB
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -1611,6 +1611,7 @@
 
 ## Swift 
 
+- [aheze/Setting](https://github.com/aheze/Setting) - Compose beautiful preference panels.
 - [costachung/neumorphic](https://github.com/costachung/neumorphic) - 🚀Neumorphic is a SwiftUI utility to build Neumorphism Soft UI (supports both *outer shadow and *inner shadow)
 - [iCharlesHu/swift-experimental-subprocess](https://github.com/iCharlesHu/swift-experimental-subprocess) - A prototype to the new Swift Subprocess
 - [pointfreeco/swift-sharing](https://github.com/pointfreeco/swift-sharing) - Instantly share state among your app's features and external persistence layers, including user defaults, the file system, and more.
