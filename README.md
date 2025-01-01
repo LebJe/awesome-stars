@@ -1056,7 +1056,6 @@
 - [WebAssembly/wasi-sql](https://github.com/WebAssembly/wasi-sql) - 
 - [GoostYTQC/f4_add_on](https://github.com/GoostYTQC/f4_add_on) - 
 - [theletterf/english-lang](https://github.com/theletterf/english-lang) - The English Programming Language
-- [swift-riscv/swift-riscv64](https://github.com/swift-riscv/swift-riscv64) - Building swift for riscv64 platforms
 - [macshome/The-Wisdom-of-Quinn](https://github.com/macshome/The-Wisdom-of-Quinn) - Share and Enjoy®
 - [Esri/arcgis-pro-sdk](https://github.com/Esri/arcgis-pro-sdk) - ArcGIS Pro SDK for Microsoft .NET is the new .NET SDK for the ArcGIS Pro Application.
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
