@@ -101,7 +101,6 @@
 - [enderice2/rpc-bridge](https://github.com/enderice2/rpc-bridge) - Enable Rich Presence between your Wine applications and the native Discord client on Linux and macOS.
 - [khanhduytran0/SparseBox](https://github.com/khanhduytran0/SparseBox) - On-device toolbox?
 - [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) - Apple cctools port for Linux and *BSD
-- [JeffreyCA/Apollo-ImprovedCustomApi](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) - iOS tweak for Apollo Reddit app - use your own API keys, unlocked Ultra features, and other enhancements
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [ibireme/yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 - [swiftlang/swift-android-examples](https://github.com/swiftlang/swift-android-examples) - 
@@ -906,6 +905,7 @@
 - [jaydenjcpy/YouMod](https://github.com/jaydenjcpy/YouMod) - 
 - [Tonwalter888/YouMod](https://github.com/Tonwalter888/YouMod) - Try to make similar features like YTLite as much as possible.
 - [34306/PerfectNetworkSpeedInfo-Remaster](https://github.com/34306/PerfectNetworkSpeedInfo-Remaster) - remaster of PerfectNetworkSpeedInfo tweak
+- [JeffreyCA/Apollo-ImprovedCustomApi](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) - iOS tweak for Apollo Reddit app - use your own API keys, unlocked Ultra features, and other enhancements
 - [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
 
 ## Lua 
