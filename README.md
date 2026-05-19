@@ -142,7 +142,7 @@
 - [admkopec/BetaOS](https://github.com/admkopec/BetaOS) - An operating system written in Swift
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
-- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
+- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
 - [pllua/pllua](https://github.com/pllua/pllua) - Re-implementation of pllua, embedded Lua for postgresql
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
@@ -1722,8 +1722,10 @@
 
 ## Swift 
 
+- [wendylabsinc/ffmpeg-swift](https://github.com/wendylabsinc/ffmpeg-swift) - Swift 6.2+ bindings for FFmpeg with cross-platform artifact bundle support
+- [wendylabsinc/dbus](https://github.com/wendylabsinc/dbus) - 
 - [kateinoigakukun/swift-tar](https://github.com/kateinoigakukun/swift-tar) - A pure Swift library for reading and writing TAR archives
-- [rooootdev/lara](https://github.com/rooootdev/lara) - WIP darksword kexploit implement
+- [rooootdev/lara](https://github.com/rooootdev/lara) - iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19.
 - [skiptools/skipstone](https://github.com/skiptools/skipstone) - The skip tool that powers the skip CLI and the skipstone SwiftPM plugin
 - [ryanfrancesconi/spfk-metadata](https://github.com/ryanfrancesconi/spfk-metadata) - Swift based audio metadata I/O library wrapping TagLib via spfk-taglib and Core Audio to provide unified tag reading/writing, marker parsing, and broadcast wave (BEXT) support across common audio form
 - [GraphQLSwift/graphql-vapor](https://github.com/GraphQLSwift/graphql-vapor) - Easily expose GraphQL APIs in Vapor
