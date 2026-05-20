@@ -709,7 +709,7 @@
 
 ## HTML 
 
-- [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications!
+- [StikStoreOSS/altdirect](https://github.com/StikStoreOSS/altdirect) - An easy way to  redirect AltSource links to your favorite applications!
 - [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types
 - [programming/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](https://github.com/programming/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) - The World's longest URL "shortener"
 - [w3c/webvtt](https://github.com/w3c/webvtt) - WebVTT Standard
