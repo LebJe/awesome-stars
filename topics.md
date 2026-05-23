@@ -3186,7 +3186,7 @@
 - [kateinoigakukun/swift-tar](https://github.com/kateinoigakukun/swift-tar) - A pure Swift library for reading and writing TAR archives
 - [jaydenjcpy/YouMod](https://github.com/jaydenjcpy/YouMod) - 
 - [Tonwalter888/YouMod](https://github.com/Tonwalter888/YouMod) - Try to make similar features like YTLite as much as possible.
-- [StikStoreOSS/altdirect](https://github.com/StikStoreOSS/altdirect) - An easy way to  redirect AltSource links to your favorite applications!
+- [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications!
 - [skiptools/skipstone](https://github.com/skiptools/skipstone) - The skip tool that powers the skip CLI and the skipstone SwiftPM plugin
 - [ra1ncord/RainTweak](https://github.com/ra1ncord/RainTweak) - 
 - [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
@@ -3222,7 +3222,7 @@
 - [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 - [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) - Use FreeBSD in github actions
 - [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) - Apple cctools port for Linux and *BSD
-- [JeffreyCA/Apollo-ImprovedCustomApi](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) - iOS tweak for Apollo Reddit app - use your own API keys, unlocked Ultra features, and other enhancements
+- [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn) - iOS tweak for Apollo Reddit app - use your own API keys, unlocked Ultra features, and other enhancements
 - [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps) - Open Source Mac Apps
 - [Lakr233/ActivateMac](https://github.com/Lakr233/ActivateMac) - Show MS Windows style activation dialog on my screen.
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
@@ -5042,7 +5042,7 @@
 - [nohype-ai/LSPService](https://github.com/nohype-ai/LSPService) - Use Local LSP Servers via WebSockets
 - [omaralbeik/Drops](https://github.com/omaralbeik/Drops) - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
 - [ChimeHQ/chime-swift](https://github.com/ChimeHQ/chime-swift) - A Chime extension for Swift
-- [ordo-one/package-benchmark](https://github.com/ordo-one/package-benchmark) - Swift benchmark runner with many performance metrics and great CI support
+- [ordo-one/benchmark](https://github.com/ordo-one/benchmark) - Swift benchmark runner with many performance metrics and great CI support
 - [sersoft-gmbh/device-input](https://github.com/sersoft-gmbh/device-input) - Processes inputs read from /dev/input device streams
 - [iq3addLi/swift-vapor-layered-realworld-example-app](https://github.com/iq3addLi/swift-vapor-layered-realworld-example-app) - Exemplary real world application built with Swift + Vapor. 🐦💧
 - [shaps80/MarkdownText](https://github.com/shaps80/MarkdownText) - A native SwiftUI view for rendering Markdown text in an iOS or macOS app
