@@ -709,7 +709,7 @@
 
 ## HTML 
 
-- [StikStoreOSS/altdirect](https://github.com/StikStoreOSS/altdirect) - An easy way to  redirect AltSource links to your favorite applications!
+- [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications!
 - [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types
 - [programming/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](https://github.com/programming/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) - The World's longest URL "shortener"
 - [w3c/webvtt](https://github.com/w3c/webvtt) - WebVTT Standard
@@ -905,7 +905,7 @@
 - [jaydenjcpy/YouMod](https://github.com/jaydenjcpy/YouMod) - 
 - [Tonwalter888/YouMod](https://github.com/Tonwalter888/YouMod) - Try to make similar features like YTLite as much as possible.
 - [34306/PerfectNetworkSpeedInfo-Remaster](https://github.com/34306/PerfectNetworkSpeedInfo-Remaster) - remaster of PerfectNetworkSpeedInfo tweak
-- [JeffreyCA/Apollo-ImprovedCustomApi](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) - iOS tweak for Apollo Reddit app - use your own API keys, unlocked Ultra features, and other enhancements
+- [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn) - iOS tweak for Apollo Reddit app - use your own API keys, unlocked Ultra features, and other enhancements
 - [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
 
 ## Lua 
@@ -2081,7 +2081,7 @@
 - [omaralbeik/Drops](https://github.com/omaralbeik/Drops) - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
 - [ChimeHQ/chime-rust](https://github.com/ChimeHQ/chime-rust) - A Chime extension for Rust
 - [ChimeHQ/chime-swift](https://github.com/ChimeHQ/chime-swift) - A Chime extension for Swift
-- [ordo-one/package-benchmark](https://github.com/ordo-one/package-benchmark) - Swift benchmark runner with many performance metrics and great CI support
+- [ordo-one/benchmark](https://github.com/ordo-one/benchmark) - Swift benchmark runner with many performance metrics and great CI support
 - [sersoft-gmbh/device-input](https://github.com/sersoft-gmbh/device-input) - Processes inputs read from /dev/input device streams
 - [paulw11/stopwatch](https://github.com/paulw11/stopwatch) - Code for How not to create a stopwatch in Swift
 - [iq3addLi/swift-vapor-layered-realworld-example-app](https://github.com/iq3addLi/swift-vapor-layered-realworld-example-app) - Exemplary real world application built with Swift + Vapor. 🐦💧
