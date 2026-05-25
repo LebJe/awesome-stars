@@ -3179,6 +3179,7 @@
 
 ## others 
 
+- [plyght/pocb](https://github.com/plyght/pocb) - plyght's own C++ browser for macOS
 - [wendylabsinc/ffmpeg-swift](https://github.com/wendylabsinc/ffmpeg-swift) - Swift 6.2+ bindings for FFmpeg with cross-platform artifact bundle support
 - [wendylabsinc/dbus](https://github.com/wendylabsinc/dbus) - 
 - [MountainofPenguin/Altstore-Repository](https://github.com/MountainofPenguin/Altstore-Repository) - YouMod auto-updating repository
