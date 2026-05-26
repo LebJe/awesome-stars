@@ -761,6 +761,7 @@
 - [eclipse-lsp4j/lsp4j](https://github.com/eclipse-lsp4j/lsp4j) - A Java implementation of the language server protocol intended to be consumed by tools and language servers implemented in Java.
 - [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+- [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) - 
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [palantir/conjure](https://github.com/palantir/conjure) - Strongly typed HTTP/JSON APIs for browsers and microservices
 - [rebasedata/java-client](https://github.com/rebasedata/java-client) - Java-Client for the RebaseData API to read and convert databases
@@ -1589,7 +1590,6 @@
 - [rust-analyzer/lsp-server](https://github.com/rust-analyzer/lsp-server) - 
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
-- [brunoborges/toml-schema](https://github.com/brunoborges/toml-schema) - 
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [wfxr/csview](https://github.com/wfxr/csview) - 📠 Pretty and fast csv viewer for cli with cjk/emoji support.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -1723,6 +1723,7 @@
 
 ## Swift 
 
+- [jaydenjcpy/EeveeSpotifyReincarnated](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated) - EeveeSpotify support for latest Spotify versions.
 - [wendylabsinc/ffmpeg-swift](https://github.com/wendylabsinc/ffmpeg-swift) - Swift 6.2+ bindings for FFmpeg with cross-platform artifact bundle support
 - [wendylabsinc/dbus](https://github.com/wendylabsinc/dbus) - 
 - [kateinoigakukun/swift-tar](https://github.com/kateinoigakukun/swift-tar) - A pure Swift library for reading and writing TAR archives
