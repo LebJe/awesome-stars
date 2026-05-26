@@ -152,6 +152,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [maven](#maven)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
@@ -2842,6 +2843,10 @@
 
 - [bluebird75/luaunit](https://github.com/bluebird75/luaunit) - LuaUnit is a popular unit-testing framework for Lua, with an interface typical of xUnit libraries (Python unittest, Junit, NUnit, ...). It supports several output formats (Text, TAP, JUnit, ...) to be
 
+## mcp 
+
+- [nim-lang/langserver](https://github.com/nim-lang/langserver) - The Nim language server implementation (based on nimsuggest)
+
 ## microservices 
 
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
@@ -3179,6 +3184,7 @@
 
 ## others 
 
+- [jaydenjcpy/EeveeSpotifyReincarnated](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated) - EeveeSpotify support for latest Spotify versions.
 - [plyght/pocb](https://github.com/plyght/pocb) - plyght's own C++ browser for macOS
 - [wendylabsinc/ffmpeg-swift](https://github.com/wendylabsinc/ffmpeg-swift) - Swift 6.2+ bindings for FFmpeg with cross-platform artifact bundle support
 - [wendylabsinc/dbus](https://github.com/wendylabsinc/dbus) - 
