@@ -539,7 +539,7 @@
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [brenns10/lsh](https://github.com/brenns10/lsh) - Simple shell implementation.  Tutorial here -&gt;
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
-- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [inputsh/awesome-c](https://github.com/inputsh/awesome-c) - Continuing the development of awesome-c list on GitHub
 - [EvgeniyPeshkov/syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
 - [lexborisov/myhtml](https://github.com/lexborisov/myhtml) - Fast C/C++ HTML 5 Parser. Using threads.
@@ -1194,6 +1194,7 @@
 
 ## elixir 
 
+- [lumen-oss/luanox](https://github.com/lumen-oss/luanox) - Modern hosting for Lua libraries. Fast, reliable, secure.
 - [ChimeHQ/chime-elixir](https://github.com/ChimeHQ/chime-elixir) - A Chime extension for Elixir
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
@@ -2455,6 +2456,7 @@
 
 ## lua 
 
+- [lumen-oss/luanox](https://github.com/lumen-oss/luanox) - Modern hosting for Lua libraries. Fast, reliable, secure.
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [teal-language/awesome-teal](https://github.com/teal-language/awesome-teal) - A curated list of Teal-related projects!
 - [euclidianAce/ltreesitter](https://github.com/euclidianAce/ltreesitter) - Standalone tree sitter bindings for the Lua language
@@ -3175,7 +3177,7 @@
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust.
-- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 
 ## osint 
@@ -3251,7 +3253,6 @@
 - [OlegHQ/toml2lua](https://github.com/OlegHQ/toml2lua) - 🧾🐢 TOML ⇄ Lua · A minimal, reliable TOML encoder/decoder for Lua
 - [whoeevee/EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn) - A tweak to enhance Spotify experience
 - [AngelAuraMC/Amethyst-iOS](https://github.com/AngelAuraMC/Amethyst-iOS) - A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher. This repository contains source code for iOS/iPadOS platform.
-- [SpinnySpiwal/Spincord-Kit](https://github.com/SpinnySpiwal/Spincord-Kit) - SPINCORDKIT OPEN SOURCE BEFORE GTA 6!
 - [jkcoxson/LightningRouter](https://github.com/jkcoxson/LightningRouter) - Use your iPhone's internet connection from a Mac
 - [kingslay/FFmpegKit](https://github.com/kingslay/FFmpegKit) - FFmpegKit is a collection of tools to use FFmpeg  mpv library in iOS, macOS, tvOS, visionOS applications.
 - [alexeichhorn/SpotifyKit](https://github.com/alexeichhorn/SpotifyKit) - 
@@ -4196,6 +4197,7 @@
 
 ## package-manager 
 
+- [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
 - [plyght/wax](https://github.com/plyght/wax) - wax is a fast Homebrew-compatible package manager, built in Rust.
 - [alexykn/sps2](https://github.com/alexykn/sps2) - atomic package manager for macos
 - [lumen-oss/rocks.nvim](https://github.com/lumen-oss/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
@@ -5433,7 +5435,6 @@
 - [fatbobman/ObservableDefaults](https://github.com/fatbobman/ObservableDefaults) - A comprehensive solution integrating SwiftUI + Observation + UserDefaults + iCloud Key-Value Store
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
-- [SpinnySpiwal/Spincord](https://github.com/SpinnySpiwal/Spincord) - The soon to be released Discord client, and the first Swift Discord Client to ever get Voice Chat. Coming soon™️ to an internet near you. Code is temporarily closed-source until I tidy it up, and prep
 - [Checkm8ra1n/yt-dlp-gui](https://github.com/Checkm8ra1n/yt-dlp-gui) - A GUI for yt-dlp for macOS
 - [iRayanKhan/TanaraSign](https://github.com/iRayanKhan/TanaraSign) - Fully local on-device ipa signer for iOS, iPadOS, tvOS, macOS, watchOS, and visionOS in 100% SwiftUI.
 - [PureSwift/AndroidSwiftUI](https://github.com/PureSwift/AndroidSwiftUI) - SwiftUI for Android
