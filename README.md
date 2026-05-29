@@ -203,7 +203,7 @@
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
-- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [teal-language/teal-language-server](https://github.com/teal-language/teal-language-server) - A language server for Teal, a typed dialect of Lua
 - [weyhan/lua4swift](https://github.com/weyhan/lua4swift) - High-level (convenient) Lua bindings for Swift
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -552,6 +552,7 @@
 - [Birkbjo/OctoPrint-Themeify](https://github.com/Birkbjo/OctoPrint-Themeify) - Beautiful themes for OctoPrint
 - [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub
 - [aalvarado/JiraDarkTheme](https://github.com/aalvarado/JiraDarkTheme) - 🌙 😎 Jira Dark Theme Usercss / Stylus
+- [habovh/nova-one-dark-pro](https://github.com/habovh/nova-one-dark-pro) - Atom One Dark theme for Nova
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
@@ -586,6 +587,7 @@
 
 ## Elixir 
 
+- [lumen-oss/luanox](https://github.com/lumen-oss/luanox) - Modern hosting for Lua libraries. Fast, reliable, secure.
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
@@ -1126,7 +1128,6 @@
 - [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps) - Open Source Mac Apps
 - [dayanch96/FastLock](https://github.com/dayanch96/FastLock) - Lock your screen using gestures on SpringBoard
 - [lc-dl/apps](https://github.com/lc-dl/apps) - A repository of over 40 apps and games, made for LC-DL.
-- [SpinnySpiwal/Spincord](https://github.com/SpinnySpiwal/Spincord) - The soon to be released Discord client, and the first Swift Discord Client to ever get Voice Chat. Coming soon™️ to an internet near you. Code is temporarily closed-source until I tidy it up, and prep
 - [dayanch96/OrwellVK](https://github.com/dayanch96/OrwellVK) - A subtle shift from the familiar
 - [AhmedBafkir/DLiPA](https://github.com/AhmedBafkir/DLiPA) - An iOS app inspired by the ipatool project. It allows users to download, install, and share App Store applications using their Apple ID, with support for downloading older versions — no jailbreak requ
 - [iRayanKhan/TanaraSign](https://github.com/iRayanKhan/TanaraSign) - Fully local on-device ipa signer for iOS, iPadOS, tvOS, macOS, watchOS, and visionOS in 100% SwiftUI.
@@ -1420,6 +1421,7 @@
 
 ## Rust 
 
+- [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
 - [plyght/wax](https://github.com/plyght/wax) - wax is a fast Homebrew-compatible package manager, built in Rust.
 - [claration/Impactor](https://github.com/claration/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
@@ -1641,7 +1643,6 @@
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [swiftlang/swift-org-website](https://github.com/swiftlang/swift-org-website) - Swift.org website
 - [BenjaminHoegh/OneDark.novaextension](https://github.com/BenjaminHoegh/OneDark.novaextension) - Atom One Dark theme for Nova
-- [habovh/nova-one-dark-pro](https://github.com/habovh/nova-one-dark-pro) - Atom One Dark theme for Nova
 - [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 
 ## SWIG 
@@ -1770,7 +1771,6 @@
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [whoeevee/EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn) - A tweak to enhance Spotify experience
-- [SpinnySpiwal/Spincord-Kit](https://github.com/SpinnySpiwal/Spincord-Kit) - SPINCORDKIT OPEN SOURCE BEFORE GTA 6!
 - [chicio/ID3TagEditor](https://github.com/chicio/ID3TagEditor) - :musical_note::guitar:A Swift library to read and write ID3 Tag of any mp3 file. Supported ID3 tag version: 2.2, 2.3 and 2.4. Supported platform: iOS, macOS, tvOS, watchOS, Linux Ubuntu. :musical_note
 - [alexeichhorn/SpotifyKit](https://github.com/alexeichhorn/SpotifyKit) - 
 - [alexeichhorn/YouTubeKit](https://github.com/alexeichhorn/YouTubeKit) - YouTube video and audio extractor for iOS, watchOS, visionOS, tvOS and macOS
