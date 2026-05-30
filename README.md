@@ -34,8 +34,10 @@
 - [LLVM](#llvm)
 - [Logos](#logos)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mojo](#mojo)
 - [MoonScript](#moonscript)
 - [Nim](#nim)
 - [OCaml](#ocaml)
@@ -1043,6 +1045,10 @@
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance ✅💙💛🤍💚
 
+## MDX 
+
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
+
 ## Makefile 
 
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
@@ -1058,6 +1064,10 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+
+## Mojo 
+
+- [gonsolo/Gonzales](https://github.com/gonsolo/Gonzales) - Rendering Disney's Moana in Swift
 
 ## MoonScript 
 
@@ -1229,7 +1239,6 @@
 - [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) - MessagePack implementation for C and C++ / msgpack.org[C/C++]
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
-- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew/bundle (merged into Homebrew/brew)
 - [pre-commit/action](https://github.com/pre-commit/action) - a GitHub action to run `pre-commit`
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
@@ -1970,7 +1979,6 @@
 - [yaslab/ULID.swift](https://github.com/yaslab/ULID.swift) - Universally Unique Lexicographically Sortable Identifier (ULID) in Swift.
 - [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - Swift Game Engine supporting Windows, Linux, macOS, HTML5, and more 🚂
 - [STREGAsGate/GateEngineDemos](https://github.com/STREGAsGate/GateEngineDemos) - Example projects for GateEngine, a cross platform game engine for Swift developers.
-- [gonsolo/Gonzales](https://github.com/gonsolo/Gonzales) - Rendering Disney's Moana in Swift
 - [c-villain/SwipeActions](https://github.com/c-villain/SwipeActions) - Swipe actions for any view, swipe menu based on SwiftUI, full swiping and RTL languages supporting, iOS 13+, add your own views to swipes
 - [tdeleon/Relax](https://github.com/tdeleon/Relax) - Declaratively build and send client requests for REST APIs in Swift.
 - [openalloc/SwiftTabler](https://github.com/openalloc/SwiftTabler) - A multi-platform SwiftUI component for tabular data
