@@ -2467,7 +2467,7 @@
 - [tongson/LadyLua](https://github.com/tongson/LadyLua) - Single executable(static), batteries included, Lua 5.1 interpreter.
 - [manoelcampos/xml2lua](https://github.com/manoelcampos/xml2lua) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 🌖💱
 - [ers35/luastatic](https://github.com/ers35/luastatic) - Build a standalone executable from a Lua program.
-- [lua-batteries/lua-batteries](https://github.com/lua-batteries/lua-batteries) - Batteries included Lua and LuaJIT installation
+- [clitic/lua-batteries](https://github.com/clitic/lua-batteries) - Batteries included Lua and LuaJIT installation
 - [lumen-oss/rocks.nvim](https://github.com/lumen-oss/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [lewis6991/pckr.nvim](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of https://github.com/wbthomason/packer.nvim
