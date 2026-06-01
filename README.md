@@ -123,7 +123,7 @@
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
 - [kos-pomfort/lua4swift](https://github.com/kos-pomfort/lua4swift) - High-level (convenient) Lua bindings for Swift
-- [lua-batteries/lua-batteries](https://github.com/lua-batteries/lua-batteries) - Batteries included Lua and LuaJIT installation
+- [clitic/lua-batteries](https://github.com/clitic/lua-batteries) - Batteries included Lua and LuaJIT installation
 - [swiftlang/swift-corelibs-libdispatch](https://github.com/swiftlang/swift-corelibs-libdispatch) - The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
