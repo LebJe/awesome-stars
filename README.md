@@ -2000,7 +2000,7 @@
 - [GraphQLSwift/GraphQLWS](https://github.com/GraphQLSwift/GraphQLWS) - Swift implementation of the graphql-ws WebSocket subprotocol.
 - [request-dl/request-dl-nio](https://github.com/request-dl/request-dl-nio) - Simplifies network requests using SwiftNIO with powerful types like DataTask, DownloadTask, and UploadTask.
 - [vapor/penny-bot](https://github.com/vapor/penny-bot) - The code that runs Penny 🤖
-- [driven-app/porsche-connect](https://github.com/driven-app/porsche-connect) - An unofficial Porsche Connect API library written in Swift
+- [dglancy/porsche-connect](https://github.com/dglancy/porsche-connect) - An unofficial Porsche Connect API library written in Swift
 - [swiftlang/swiftly](https://github.com/swiftlang/swiftly) - A Swift toolchain installer and manager, written in Swift.
 - [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
 - [nnabeyang/swift-msgpack](https://github.com/nnabeyang/swift-msgpack) - swift-msgpack: MessagePack encoder & decoder for Swift (Codable-based) - msgpack.io[Swift]
