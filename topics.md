@@ -1347,7 +1347,7 @@
 ## game-engine 
 
 - [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating many ASWF projects to swiftly architect the metaverse.
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - Pixar's universal scene description for swift and the open source metaverse.
+- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [Hongtae/SwiftVVD](https://github.com/Hongtae/SwiftVVD) - Swift 3D Game Engine for Windows, macOS, iOS, Linux
 - [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - Swift Game Engine supporting Windows, Linux, macOS, HTML5, and more 🚂
 - [AdaEngine/AdaEngine](https://github.com/AdaEngine/AdaEngine) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
@@ -2360,7 +2360,7 @@
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - Pixar's universal scene description for swift and the open source metaverse.
+- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [Hongtae/SwiftVVD](https://github.com/Hongtae/SwiftVVD) - Swift 3D Game Engine for Windows, macOS, iOS, Linux
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
@@ -2630,7 +2630,7 @@
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [Swiftgram/TDLibKit](https://github.com/Swiftgram/TDLibKit) - Native Swift wrapper for Telegram's TDLib. Available on iOS, macOS, watchOS, tvOS and visionOS.
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - Pixar's universal scene description for swift and the open source metaverse.
+- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [ChimeHQ/Welp](https://github.com/ChimeHQ/Welp) - Tooling for macOS help books
 - [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for Apple platforms in Swift
 - [ChimeHQ/Chime](https://github.com/ChimeHQ/Chime) - An editor for macOS
@@ -2803,7 +2803,7 @@
 
 ## markdown 
 
-- [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers
+- [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and Big Headers™
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
@@ -3129,7 +3129,7 @@
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [helbertgs/OpenSwiftUI](https://github.com/helbertgs/OpenSwiftUI) - Open-source framework based on Apple's SwiftUI.
 - [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating many ASWF projects to swiftly architect the metaverse.
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - Pixar's universal scene description for swift and the open source metaverse.
+- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [admkopec/BetaOS](https://github.com/admkopec/BetaOS) - An operating system written in Swift
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
@@ -4943,7 +4943,7 @@
 - [Swiftgram/TDLibKit](https://github.com/Swiftgram/TDLibKit) - Native Swift wrapper for Telegram's TDLib. Available on iOS, macOS, watchOS, tvOS and visionOS.
 - [bestwnh/TinyCreditCard](https://github.com/bestwnh/TinyCreditCard) - A clear and animated credit card input workflow implement
 - [compnerd/swift-firebase](https://github.com/compnerd/swift-firebase) - Swift Interface for Firebase
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - Pixar's universal scene description for swift and the open source metaverse.
+- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) - A modern, expressive testing package for Swift
 - [apple/swift-mmio](https://github.com/apple/swift-mmio) - Define and operate on type safe MMIO
 - [ChimeHQ/Welp](https://github.com/ChimeHQ/Welp) - Tooling for macOS help books
@@ -5864,7 +5864,7 @@
 ## virtual-reality 
 
 - [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating many ASWF projects to swiftly architect the metaverse.
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - Pixar's universal scene description for swift and the open source metaverse.
+- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
 
 ## visual-studio-code 
 
@@ -5920,7 +5920,7 @@
 ## web3 
 
 - [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating many ASWF projects to swiftly architect the metaverse.
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - Pixar's universal scene description for swift and the open source metaverse.
+- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Full featured library for Ethereum interaction with the JSON RPC API in swift. Native ABI parsing and smart contract interactions.
 
 ## webapp 
