@@ -62,7 +62,6 @@
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [Text](#text)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -739,6 +738,7 @@
 - [SwiftPackageIndex/SPI-Playgrounds-Releases](https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases) - 
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
+- [vapor/docs](https://github.com/vapor/docs) - 📖 Documentation markdown for all Vapor packages.
 
 ## Haml 
 
@@ -2047,7 +2047,7 @@
 - [jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
 - [pointfreeco/pointfreeco](https://github.com/pointfreeco/pointfreeco) - 🎬 The source for www.pointfree.co, a hub for advanced Swift programming.
 - [tgrapperon/swift-dependencies-additions](https://github.com/tgrapperon/swift-dependencies-additions) - More dependencies for `swift-dependencies`
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [stefanspringer1/SwiftXML](https://github.com/stefanspringer1/SwiftXML) - A library written in Swift to process XML
 - [pointfreeco/composable-core-location](https://github.com/pointfreeco/composable-core-location) - A library that bridges the Composable Architecture and Core Location.
 - [giginet/Scipio](https://github.com/giginet/Scipio) - A new build tool to generate XCFramework
@@ -2604,7 +2604,6 @@
 - [vapor-community/HTMLKit](https://github.com/vapor-community/HTMLKit) - Create and render HTML templates with HTMLKit
 - [davedelong/time](https://github.com/davedelong/time) - Robust and type-safe date and time calculations for Swift
 - [sharplet/Regex](https://github.com/sharplet/Regex) - A delightful and expressive regular expression type for Swift.
-- [vapor/docs](https://github.com/vapor/docs) - 📖 Documentation markdown for all Vapor packages.
 - [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
 - [yeokm1/SwiftSerial](https://github.com/yeokm1/SwiftSerial) - A Swift Linux and Mac library for reading and writing to serial ports.
 - [uraimo/SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) - A Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
@@ -2634,10 +2633,6 @@
 - [codewinsdotcom/PostgresClientKit](https://github.com/codewinsdotcom/PostgresClientKit) - A PostgreSQL client library for Swift. Does not require libpq.
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
-
-## Text 
-
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## Tree-sitter Query 
 
