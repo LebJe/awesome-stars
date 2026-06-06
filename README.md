@@ -62,6 +62,7 @@
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [Text](#text)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -478,6 +479,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+- [swiftlang/swift-installer-scripts](https://github.com/swiftlang/swift-installer-scripts) - 
 - [zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) - Recreating a fully functional version of iOS 4 in SwiftUI.
 - [xpol/lua-rapidjson](https://github.com/xpol/lua-rapidjson) - A JSON module for Lua based on the very fast RapidJSON library.
 - [Rookfighter/inifile-cpp](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++.
@@ -539,7 +541,6 @@
 
 - [xpol/setup-lua](https://github.com/xpol/setup-lua) - GitHub action to setup Lua.
 - [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) - A template CMake project to get you started with C++ and tooling
-- [swiftlang/swift-installer-scripts](https://github.com/swiftlang/swift-installer-scripts) - 
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 
 ## CSS 
@@ -1133,6 +1134,7 @@
 - [spotiflacapp/SpotiFLAC-Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension) - Extension Registry for SpotiFLAC-Mobile. Browse, submit, and download community-built extensions.
 - [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - Official Winehq macOS Packages
 - [joilenup/SwiftyCord](https://github.com/joilenup/SwiftyCord) - A fully native Discord client for macOS built 100% in Swift!
+- [joilenup/Swiftcord](https://github.com/joilenup/Swiftcord) - Soon... Cord+
 - [surrel14/dnsmethod.github.io](https://github.com/surrel14/dnsmethod.github.io) - 
 - [dayanch96/Glow](https://github.com/dayanch96/Glow) - A simple, clean, and powerful tweak for Facebook
 - [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps) - Open Source Mac Apps
@@ -1751,7 +1753,6 @@
 - [migueldeicaza/MimeFoundation](https://github.com/migueldeicaza/MimeFoundation) - Port of MimeKit to Swift
 - [migueldeicaza/MailFoundation](https://github.com/migueldeicaza/MailFoundation) - Port of MailKit to Swift
 - [feather-framework/feather-database](https://github.com/feather-framework/feather-database) - Abstract database component, providing a shared API surface for database drivers written in Swift.
-- [joilenup/Swiftcord](https://github.com/joilenup/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [EduAlexxis/ByeTunes](https://github.com/EduAlexxis/ByeTunes) - The first app of its kind: seamless, on-device music and ringtone injection for iOS. Bypass iTunes and manage your native library directly. Auto-fetch metadata, organize playlists, and keep your files
 - [kkostov/QwiftUI](https://github.com/kkostov/QwiftUI) - Experiment to create a Swift UI library based on Qt6
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
@@ -2633,6 +2634,10 @@
 - [codewinsdotcom/PostgresClientKit](https://github.com/codewinsdotcom/PostgresClientKit) - A PostgreSQL client library for Swift. Does not require libpq.
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## Tree-sitter Query 
 
