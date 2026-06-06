@@ -148,6 +148,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [maven](#maven)
@@ -2796,6 +2797,10 @@
 - [raspu/Highlightr](https://github.com/raspu/Highlightr) - iOS & OSX Syntax Highlighter.
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 
+## malware 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
 ## markdown 
 
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and Big Headers™
@@ -3210,7 +3215,7 @@
 - [migueldeicaza/MimeFoundation](https://github.com/migueldeicaza/MimeFoundation) - Port of MimeKit to Swift
 - [migueldeicaza/MailFoundation](https://github.com/migueldeicaza/MailFoundation) - Port of MailKit to Swift
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
-- [joilenup/Swiftcord](https://github.com/joilenup/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
+- [joilenup/Swiftcord](https://github.com/joilenup/Swiftcord) - Soon... Cord+
 - [EduAlexxis/ByeTunes](https://github.com/EduAlexxis/ByeTunes) - The first app of its kind: seamless, on-device music and ringtone injection for iOS. Bypass iTunes and manage your native library directly. Auto-fetch metadata, organize playlists, and keep your files
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin & uBlock Origin Lite
 - [surrel14/dnsmethod.github.io](https://github.com/surrel14/dnsmethod.github.io) - 
@@ -4296,6 +4301,7 @@
 
 ## privacy 
 
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [meetrevision/playbook](https://github.com/meetrevision/playbook) - A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
