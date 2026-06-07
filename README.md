@@ -739,7 +739,6 @@
 - [SwiftPackageIndex/SPI-Playgrounds-Releases](https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases) - 
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
-- [vapor/docs](https://github.com/vapor/docs) - 📖 Documentation markdown for all Vapor packages.
 
 ## Haml 
 
@@ -2605,6 +2604,7 @@
 - [vapor-community/HTMLKit](https://github.com/vapor-community/HTMLKit) - Create and render HTML templates with HTMLKit
 - [davedelong/time](https://github.com/davedelong/time) - Robust and type-safe date and time calculations for Swift
 - [sharplet/Regex](https://github.com/sharplet/Regex) - A delightful and expressive regular expression type for Swift.
+- [vapor/docs](https://github.com/vapor/docs) - 📖 Documentation markdown for all Vapor packages.
 - [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
 - [yeokm1/SwiftSerial](https://github.com/yeokm1/SwiftSerial) - A Swift Linux and Mac library for reading and writing to serial ports.
 - [uraimo/SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) - A Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
