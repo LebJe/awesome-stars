@@ -2137,7 +2137,7 @@
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [hashemi/lc3-swift](https://github.com/hashemi/lc3-swift) - LC-3 virtual machine written in Swift
 - [tevelee/Eval](https://github.com/tevelee/Eval) - Eval is a lightweight interpreter framework written in  Swift, evaluating expressions at runtime
-- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based content management system powered by Vapor 4.
+- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based Content Management System.
 - [dabrahams/SwiftMarpa](https://github.com/dabrahams/SwiftMarpa) - Swift wrapper for the libMarpa parsing library
 - [darrarski/swiftui-app-icon-creator](https://github.com/darrarski/swiftui-app-icon-creator) - Create iOS and macOS application icon in Xcode with SwiftUI
 - [dagronf/QRCode](https://github.com/dagronf/QRCode) - A quick and beautiful macOS/iOS/tvOS/watchOS QR Code generator/detector library for SwiftUI, Swift and Objective-C.
