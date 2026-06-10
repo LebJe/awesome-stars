@@ -3188,6 +3188,7 @@
 
 ## others 
 
+- [mattt/swift-toml](https://github.com/mattt/swift-toml) - A spec-compliant Swift package for TOML, powered by toml++
 - [jaydenjcpy/EeveeSpotifyReincarnated](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated) - EeveeSpotify support for latest Spotify versions.
 - [plyght/pocb](https://github.com/plyght/pocb) - plyght's own C++ browser for macOS
 - [wendylabsinc/ffmpeg-swift](https://github.com/wendylabsinc/ffmpeg-swift) - Swift 6.2+ bindings for FFmpeg with cross-platform artifact bundle support
@@ -3446,7 +3447,7 @@
 - [edlund/amalgamate](https://github.com/edlund/amalgamate) - Amalgamate C source and header files.
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
-- [gonsolo/Gonzales](https://github.com/gonsolo/Gonzales) - Rendering Disney's Moana in Swift
+- [gonsolo/Gonzales](https://github.com/gonsolo/Gonzales) - Rendering Disney's Moana in Mojo
 - [jdah/reloadhost](https://github.com/jdah/reloadhost) - POSIX-friendly live code reloading
 - [vinivendra/Gryphon](https://github.com/vinivendra/Gryphon) - The Swift to Kotlin translator.
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
