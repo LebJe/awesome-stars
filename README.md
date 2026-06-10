@@ -1067,7 +1067,7 @@
 
 ## Mojo 
 
-- [gonsolo/Gonzales](https://github.com/gonsolo/Gonzales) - Rendering Disney's Moana in Swift
+- [gonsolo/Gonzales](https://github.com/gonsolo/Gonzales) - Rendering Disney's Moana in Mojo
 
 ## MoonScript 
 
@@ -1734,6 +1734,7 @@
 
 ## Swift 
 
+- [mattt/swift-toml](https://github.com/mattt/swift-toml) - A spec-compliant Swift package for TOML, powered by toml++
 - [jaydenjcpy/EeveeSpotifyReincarnated](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated) - EeveeSpotify support for latest Spotify versions.
 - [wendylabsinc/ffmpeg-swift](https://github.com/wendylabsinc/ffmpeg-swift) - Swift 6.2+ bindings for FFmpeg with cross-platform artifact bundle support
 - [wendylabsinc/dbus](https://github.com/wendylabsinc/dbus) - 
