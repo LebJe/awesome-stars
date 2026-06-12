@@ -737,7 +737,6 @@
 - [imthath-m/swimbols](https://github.com/imthath-m/swimbols) - A repo to share your thoughts, new feature ideas and issues about Swimbols.
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [davedelong/calendar_fallacies](https://github.com/davedelong/calendar_fallacies) - yourcalendricalfallacyis.com
-- [SwiftPackageIndex/SPI-Playgrounds-Releases](https://github.com/SwiftPackageIndex/SPI-Playgrounds-Releases) - 
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 
