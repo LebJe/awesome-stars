@@ -3205,7 +3205,7 @@
 - [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
 - [Anywhere-Music-Player/SwiftTagLib.cpp](https://github.com/Anywhere-Music-Player/SwiftTagLib.cpp) - Swift library for reading and writing audio file metadata, powered by TagLib (via C++ interop).
 - [taglib/taglib](https://github.com/taglib/taglib) - TagLib Audio Meta-Data Library
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [spotiflacapp/SpotiFLAC-Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension) - Extension Registry for SpotiFLAC-Mobile. Browse, submit, and download community-built extensions.
 - [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) - 
 - [vkuttyp/SQLClient-Swift](https://github.com/vkuttyp/SQLClient-Swift) - Modern Swift client for Microsoft SQL Server (macOS, iOS, Linux). A lightweight async/await wrapper around FreeTDS for robust, cross-platform database connectivity.
