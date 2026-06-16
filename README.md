@@ -1184,6 +1184,7 @@
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [KRALYN/PositronV3](https://github.com/KRALYN/PositronV3) - A upside-down, fast, portable, and compact 3D printer
 - [winget-run/wingetdotrun](https://github.com/winget-run/wingetdotrun) - 📦 Finding winget packages made easy 🔍
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [Jdsleppy/django-orm-cheatsheet](https://github.com/Jdsleppy/django-orm-cheatsheet) - A cheatsheet for the Django ORM
 - [swiftwasm/swiftwasm-book](https://github.com/swiftwasm/swiftwasm-book) - The SwiftWasm book to get you started
 - [apple/swift-issues](https://github.com/apple/swift-issues) - DO NOT MODIFY ISSUES
@@ -2135,7 +2136,6 @@
 - [ABridoux/lux](https://github.com/ABridoux/lux) - A Swift library with a dedicated command-line tool to highlight plain code (e.g. for terminal output), HTML files code blocks or attributed strings (e.g. for macOS or iOS apps)
 - [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
 - [SwiftcordApp/DiscordKit](https://github.com/SwiftcordApp/DiscordKit) - The Discord API implementation behind Swiftcord, implemented completely from scratch in Swift
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [hashemi/lc3-swift](https://github.com/hashemi/lc3-swift) - LC-3 virtual machine written in Swift
 - [tevelee/Eval](https://github.com/tevelee/Eval) - Eval is a lightweight interpreter framework written in  Swift, evaluating expressions at runtime
 - [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based Content Management System.
@@ -2649,7 +2649,7 @@
 ## TypeScript 
 
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
