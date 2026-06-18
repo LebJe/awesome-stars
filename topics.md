@@ -293,6 +293,7 @@
 
 ## algorithms 
 
+- [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 - [TheAlgorithms/Swift](https://github.com/TheAlgorithms/Swift) - All Algorithms implemented in Swift
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
@@ -574,6 +575,7 @@
 
 ## c-plus-plus 
 
+- [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [jorgen/json_struct](https://github.com/jorgen/json_struct) - json_struct is a single header only C++ library for parsing JSON directly to C++ structs and vice versa
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
@@ -846,6 +848,7 @@
 
 ## cpp 
 
+- [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
@@ -2312,6 +2315,7 @@
 
 ## library 
 
+- [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
 - [M1tsumi/SwiftDisc](https://github.com/M1tsumi/SwiftDisc) - SwiftDisc is a lightweight, native Swift library designed for building powerful Discord bots on iOS and macOS
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
