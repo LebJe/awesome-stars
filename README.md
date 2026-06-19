@@ -1736,6 +1736,7 @@
 
 ## Swift 
 
+- [StephenDev0/StikPair](https://github.com/StephenDev0/StikPair) - A simple SwiftUI iOS app that creates a pairing file on-device.
 - [mattt/swift-toml](https://github.com/mattt/swift-toml) - A spec-compliant Swift package for TOML, powered by toml++
 - [jaydenjcpy/EeveeSpotifyReincarnated](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated) - Enhancing your Spotify experience on iOS
 - [wendylabsinc/ffmpeg-swift](https://github.com/wendylabsinc/ffmpeg-swift) - Swift 6.2+ bindings for FFmpeg with cross-platform artifact bundle support
@@ -2433,7 +2434,6 @@
 - [Kitura/BlueSocket](https://github.com/Kitura/BlueSocket) - Socket framework for Swift using the Swift Package Manager. Works on iOS, macOS, and Linux.
 - [rderik/SQLite3](https://github.com/rderik/SQLite3) - A Swifty example of a Wrapper on top of the SDK sqlite3 C library.
 - [michaelnisi/skull](https://github.com/michaelnisi/skull) - Swift SQLite
-- [BinaryBirds/vapor-spec](https://github.com/BinaryBirds/vapor-spec) - Unit testing Vapor applications through declarative specifications.
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [helje5/SwiftyWasmer](https://github.com/helje5/SwiftyWasmer) - A Swift API for the Wasmer WebAssembly Runtime
 - [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
@@ -2756,7 +2756,7 @@
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [clangd/coc-clangd](https://github.com/clangd/coc-clangd) - clangd extension for coc.nvim
-- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Open Design
+- [gridaco/grida](https://github.com/gridaco/grida) - Grida — Open Canvas
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [rcjsuen/dockerfile-language-server](https://github.com/rcjsuen/dockerfile-language-server) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [robb-j/nova-yaml](https://github.com/robb-j/nova-yaml) - A Nova extension to provide YAML validation based on JSON schemas
