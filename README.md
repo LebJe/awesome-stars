@@ -1857,7 +1857,7 @@
 - [pointfreeco/swift-perception](https://github.com/pointfreeco/swift-perception) - Observable tools, backported.
 - [omochi/CodegenKit](https://github.com/omochi/CodegenKit) - Swift code generation framework
 - [sidepelican/SQLKitTyping](https://github.com/sidepelican/SQLKitTyping) - Add slightly type safe interface for SQLKit.
-- [sidepelican/WasmCallableKit](https://github.com/sidepelican/WasmCallableKit) - 
+- [sidepelican/WasmCallableKit](https://github.com/sidepelican/WasmCallableKit) - Deprecated. Use BridgeJS instead.
 - [omochi/swift-react](https://github.com/omochi/swift-react) - Scratch React implementation on Swift for Wasm
 - [vapor/template](https://github.com/vapor/template) - The default Vapor project template, used by the Vapor Toolbox’s new project command.
 - [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
