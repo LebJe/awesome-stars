@@ -3336,7 +3336,7 @@
 - [pointfreeco/swift-perception](https://github.com/pointfreeco/swift-perception) - Observable tools, backported.
 - [omochi/CodegenKit](https://github.com/omochi/CodegenKit) - Swift code generation framework
 - [sidepelican/SQLKitTyping](https://github.com/sidepelican/SQLKitTyping) - Add slightly type safe interface for SQLKit.
-- [sidepelican/WasmCallableKit](https://github.com/sidepelican/WasmCallableKit) - 
+- [sidepelican/WasmCallableKit](https://github.com/sidepelican/WasmCallableKit) - Deprecated. Use BridgeJS instead.
 - [omochi/swift-react](https://github.com/omochi/swift-react) - Scratch React implementation on Swift for Wasm
 - [omochi/swift-string-counter-web](https://github.com/omochi/swift-string-counter-web) - Counting characters of string in Swift is difficult!
 - [swiftlang/swift-community-hosted-continuous-integration](https://github.com/swiftlang/swift-community-hosted-continuous-integration) - Swift Community-Hosted Continuous Integration
