@@ -372,6 +372,7 @@
 - [panicinc/icarus](https://github.com/panicinc/icarus) - Swift, C, C++, and Objective-C Support for Nova
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [ctreffs/SwiftImGui](https://github.com/ctreffs/SwiftImGui) - Swift wrapper around Dear imgui for macOS, iOS, Linux and Windows
+- [AdaEngine/AdaEngine](https://github.com/AdaEngine/AdaEngine) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
 - [DimaRU/qlift6](https://github.com/DimaRU/qlift6) - Swift API for Qt6
 - [SpartanJ/efsw](https://github.com/SpartanJ/efsw) - efsw is a C++ cross-platform file system watcher and notifier.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -1652,6 +1653,7 @@
 
 ## SCSS 
 
+- [vapor/design](https://github.com/vapor/design) - Contains the reference designs and build pipeline to generate all design files for Vapor's sites
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [swiftlang/swift-org-website](https://github.com/swiftlang/swift-org-website) - Swift.org website
 - [BenjaminHoegh/OneDark.novaextension](https://github.com/BenjaminHoegh/OneDark.novaextension) - Atom One Dark theme for Nova
@@ -1996,7 +1998,6 @@
 - [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation) - The Foundation project
 - [migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - New Godot bindings for Swift
 - [BikeCalc/swift-measures](https://github.com/BikeCalc/swift-measures) - Swift package containing measurement types.
-- [AdaEngine/AdaEngine](https://github.com/AdaEngine/AdaEngine) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
 - [SwiftedMind/Puddles](https://github.com/SwiftedMind/Puddles) - A native SwiftUI app architecture
 - [kciter/GlitchLabel](https://github.com/kciter/GlitchLabel) - G..lit...c...hing UILa..bel fo..r iO...S :tv:
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
@@ -2012,7 +2013,6 @@
 - [trozware/To-Day](https://github.com/trozware/To-Day) - Simple daily todo checklist for Mac.
 - [swifweb/web](https://github.com/swifweb/web) - 🧱 Write your website in pure Swift with power of webassembly. DOM, CSS and all the WebAPIs are available out of the box.
 - [cfilipov/TextTable](https://github.com/cfilipov/TextTable) - Swift package for easily rendering text tables. Inspired by the Python tabulate library.
-- [vapor/design](https://github.com/vapor/design) - Contains the reference designs and build pipeline to generate all design files for Vapor's sites
 - [NSAntoine/Samra](https://github.com/NSAntoine/Samra) - Proper, full-fledged native Asset Catalog explorer & editor for macOS.
 - [dankinsoid/SwiftOpenAPI](https://github.com/dankinsoid/SwiftOpenAPI) - Swift library which can generate output compatible with OpenAPI 3.1.0
 - [gonzalonunez/docc-gpt](https://github.com/gonzalonunez/docc-gpt) - 🧹 Self-documenting Swift code with GPT and DocC
