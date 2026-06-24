@@ -335,7 +335,7 @@
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET = ❤
 - [microsoft/python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
-- [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
+- [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [LibAtem/LibAtem](https://github.com/LibAtem/LibAtem) - Blackmagic Atem client for .Net Core
 
@@ -364,7 +364,7 @@
 - [firebase/quickstart-cpp](https://github.com/firebase/quickstart-cpp) - Firebase Quickstart Samples for C++
 - [firebase/firebase-cpp-sdk](https://github.com/firebase/firebase-cpp-sdk) - Firebase C++ SDK
 - [noah-nuebling/mac-gamepad-driver](https://github.com/noah-nuebling/mac-gamepad-driver) - Trying to get my wired Xbox One controller to work.
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
+- [wabiverse/swift-usd](https://github.com/wabiverse/swift-usd) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [mariusbancila/stduuid](https://github.com/mariusbancila/stduuid) - A C++17 cross-platform implementation for UUIDs
 - [bombela/backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++
 - [csmith-project/csmith](https://github.com/csmith-project/csmith) - Csmith, a random generator of C programs
@@ -1130,6 +1130,7 @@
 
 ## Others 
 
+- [catppuccin/vendetta](https://github.com/catppuccin/vendetta) - 🌕 Soothing pastel theme for Vendetta, Enmity, Bunny & Revenge!
 - [MountainofPenguin/Altstore-Repository](https://github.com/MountainofPenguin/Altstore-Repository) - YouMod auto-updating repository
 - [Override92/AiSList](https://github.com/Override92/AiSList) - Filter list for Ai Slop channels on YouTube
 - [spotiflacapp/SpotiFLAC-Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension) - Extension Registry for SpotiFLAC-Mobile. Browse, submit, and download community-built extensions.
