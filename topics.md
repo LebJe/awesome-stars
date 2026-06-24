@@ -935,7 +935,7 @@
 - [veler/PaZword](https://github.com/veler/PaZword) - A password manager made in UWP technology
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
-- [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
+- [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## css 
@@ -1172,7 +1172,7 @@
 - [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET = ❤
-- [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
+- [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## education 
@@ -1351,7 +1351,7 @@
 ## game-engine 
 
 - [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating many ASWF projects to swiftly architect the metaverse.
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
+- [wabiverse/swift-usd](https://github.com/wabiverse/swift-usd) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [Hongtae/SwiftVVD](https://github.com/Hongtae/SwiftVVD) - Swift 3D Game Engine for Windows, macOS, iOS, Linux
 - [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - Swift Game Engine supporting Windows, Linux, macOS, HTML5, and more 🚂
 - [AdaEngine/AdaEngine](https://github.com/AdaEngine/AdaEngine) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
@@ -1677,6 +1677,7 @@
 
 ## hacktoberfest 
 
+- [catppuccin/vendetta](https://github.com/catppuccin/vendetta) - 🌕 Soothing pastel theme for Vendetta, Enmity, Bunny & Revenge!
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [rational-kunal/BlinkUI](https://github.com/rational-kunal/BlinkUI) - Terminal UI framework inspired from SwiftUI
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
@@ -2365,7 +2366,7 @@
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
+- [wabiverse/swift-usd](https://github.com/wabiverse/swift-usd) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [Hongtae/SwiftVVD](https://github.com/Hongtae/SwiftVVD) - Swift 3D Game Engine for Windows, macOS, iOS, Linux
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
@@ -2635,7 +2636,7 @@
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [Swiftgram/TDLibKit](https://github.com/Swiftgram/TDLibKit) - Native Swift wrapper for Telegram's TDLib. Available on iOS, macOS, watchOS, tvOS and visionOS.
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
+- [wabiverse/swift-usd](https://github.com/wabiverse/swift-usd) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [ChimeHQ/Welp](https://github.com/ChimeHQ/Welp) - Tooling for macOS help books
 - [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for Apple platforms in Swift
 - [ChimeHQ/Chime](https://github.com/ChimeHQ/Chime) - An editor for macOS
@@ -3134,7 +3135,7 @@
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [helbertgs/OpenSwiftUI](https://github.com/helbertgs/OpenSwiftUI) - Open-source framework based on Apple's SwiftUI.
 - [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating many ASWF projects to swiftly architect the metaverse.
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
+- [wabiverse/swift-usd](https://github.com/wabiverse/swift-usd) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [admkopec/BetaOS](https://github.com/admkopec/BetaOS) - An operating system written in Swift
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
@@ -4954,7 +4955,7 @@
 - [Swiftgram/TDLibKit](https://github.com/Swiftgram/TDLibKit) - Native Swift wrapper for Telegram's TDLib. Available on iOS, macOS, watchOS, tvOS and visionOS.
 - [bestwnh/TinyCreditCard](https://github.com/bestwnh/TinyCreditCard) - A clear and animated credit card input workflow implement
 - [compnerd/swift-firebase](https://github.com/compnerd/swift-firebase) - Swift Interface for Firebase
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
+- [wabiverse/swift-usd](https://github.com/wabiverse/swift-usd) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) - A modern, expressive testing package for Swift
 - [apple/swift-mmio](https://github.com/apple/swift-mmio) - Define and operate on type safe MMIO
 - [ChimeHQ/Welp](https://github.com/ChimeHQ/Welp) - Tooling for macOS help books
@@ -5637,7 +5638,7 @@
 - [c-bata/go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [wfxr/code-minimap](https://github.com/wfxr/code-minimap) - 🛰  A high performance code minimap render.
 - [migueldeicaza/TermKit](https://github.com/migueldeicaza/TermKit) - Terminal Kit - Console UI toolkit for Swift applications
-- [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
+- [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [p-ranav/tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
@@ -5700,7 +5701,7 @@
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [fumiyas/qrc](https://github.com/fumiyas/qrc) - QR code generator for text terminals (ANSI color, Unicode, Sixel)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
+- [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
 ## twitter 
@@ -5875,7 +5876,7 @@
 ## virtual-reality 
 
 - [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating many ASWF projects to swiftly architect the metaverse.
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
+- [wabiverse/swift-usd](https://github.com/wabiverse/swift-usd) - A Swift-native, cross-platform framework for building OpenUSD applications.
 
 ## visual-studio-code 
 
@@ -5931,7 +5932,7 @@
 ## web3 
 
 - [wabiverse/MetaverseKit](https://github.com/wabiverse/MetaverseKit) - Monolithic dependency encapsulating many ASWF projects to swiftly architect the metaverse.
-- [wabiverse/SwiftUSD](https://github.com/wabiverse/SwiftUSD) - A Swift-native, cross-platform framework for building OpenUSD applications.
+- [wabiverse/swift-usd](https://github.com/wabiverse/swift-usd) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Full featured library for Ethereum interaction with the JSON RPC API in swift. Native ABI parsing and smart contract interactions.
 
 ## webapp 
