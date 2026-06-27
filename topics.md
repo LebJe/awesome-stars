@@ -308,6 +308,7 @@
 
 ## android 
 
+- [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
@@ -1928,6 +1929,7 @@
 
 ## ios 
 
+- [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [rooootdev/lara](https://github.com/rooootdev/lara) - iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19.
 - [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl.
 - [Lolendor/LBox](https://github.com/Lolendor/LBox) - A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources, download IPAs, and install/launch apps directly on your device.
@@ -2007,7 +2009,7 @@
 - [orlandos-nl/DNSClient](https://github.com/orlandos-nl/DNSClient) - A DNS Resolver in Swift
 - [orchetect/swift-midi](https://github.com/orchetect/swift-midi) - 🎹 Modular multi-platform MIDI toolkit written in pure Swift supporting MIDI 1.0 and MIDI 2.0.
 - [orchetect/swift-radix](https://github.com/orchetect/swift-radix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
-- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, SwiftUI, support subtitles.
+- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support HLG、HDR10、 HDR10+、Dolby Vision、Dolby Atmos、Text/Image subtitle.
 - [canopas/UIPilot](https://github.com/canopas/UIPilot) - The missing typesafe SwiftUI navigation library
 - [orchetect/swift-osc](https://github.com/orchetect/swift-osc) - Open Sound Control (OSC) toolkit written in Swift.
 - [FluidGroup/JAYSON](https://github.com/FluidGroup/JAYSON) - 🧱 A JSON decoding/encoding library that handles optimistically or strictly.
@@ -2347,6 +2349,7 @@
 
 ## linux 
 
+- [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [enderice2/rpc-bridge](https://github.com/enderice2/rpc-bridge) - Enable Rich Presence between your Wine applications and the native Discord client on Linux and macOS.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
@@ -2592,6 +2595,7 @@
 
 ## macos 
 
+- [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - Official Winehq macOS Packages
 - [MythicApp/Mythic](https://github.com/MythicApp/Mythic) - An open-source macOS game launcher with the ability to play Windows games through a custom implementation of Apple's Game Porting Toolkit, with support for multiple storefronts.
@@ -2665,7 +2669,7 @@
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [orchetect/swift-midi](https://github.com/orchetect/swift-midi) - 🎹 Modular multi-platform MIDI toolkit written in pure Swift supporting MIDI 1.0 and MIDI 2.0.
 - [orchetect/swift-radix](https://github.com/orchetect/swift-radix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
-- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, SwiftUI, support subtitles.
+- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support HLG、HDR10、 HDR10+、Dolby Vision、Dolby Atmos、Text/Image subtitle.
 - [PureSwift/WLAN](https://github.com/PureSwift/WLAN) - Wireless LAN (WiFi) API for Swift (Supports Linux)
 - [canopas/UIPilot](https://github.com/canopas/UIPilot) - The missing typesafe SwiftUI navigation library
 - [orchetect/swift-osc](https://github.com/orchetect/swift-osc) - Open Sound Control (OSC) toolkit written in Swift.
@@ -3196,6 +3200,7 @@
 
 ## others 
 
+- [stackotter/swift-miniaudio](https://github.com/stackotter/swift-miniaudio) - A thin MiniAudio wrapper
 - [StephenDev0/StikPair](https://github.com/StephenDev0/StikPair) - A simple SwiftUI iOS app that creates a pairing file on-device.
 - [strykey/orbshacker](https://github.com/strykey/orbshacker) - A professional tool that automatically creates fake game processes for Discord Orb quests without requiring actual game installations. Because who has time to install 500GB games just for some orbs?
 - [mattt/swift-toml](https://github.com/mattt/swift-toml) - A spec-compliant Swift package for TOML, powered by toml++
@@ -3627,6 +3632,7 @@
 - [Sjors/libwally-swift](https://github.com/Sjors/libwally-swift) - Swift wrapper for LibWally, a collection of useful primitives for cryptocurrency wallets
 - [ElementsProject/libwally-core](https://github.com/ElementsProject/libwally-core) - Useful primitives for wallets
 - [pwwang/toml-bench](https://github.com/pwwang/toml-bench) - Which toml package to use in python?
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [pointfreeco/vapor-routing](https://github.com/pointfreeco/vapor-routing) - A bidirectional Vapor router with more type safety and less fuss.
 - [microsoft/Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) - This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.
 - [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
@@ -4592,7 +4598,6 @@
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [tikv/grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [jrnxf/thokr](https://github.com/jrnxf/thokr) - ✨ sleek typing tui with visualized results and historical logging
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
@@ -5044,7 +5049,7 @@
 - [jagreenwood/open-weather-kit](https://github.com/jagreenwood/open-weather-kit) - An open implementation of Apple's WeatherKit for Swift.
 - [orchetect/swift-midi](https://github.com/orchetect/swift-midi) - 🎹 Modular multi-platform MIDI toolkit written in pure Swift supporting MIDI 1.0 and MIDI 2.0.
 - [orchetect/swift-radix](https://github.com/orchetect/swift-radix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
-- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, SwiftUI, support subtitles.
+- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support HLG、HDR10、 HDR10+、Dolby Vision、Dolby Atmos、Text/Image subtitle.
 - [soulverteam/StringParsing](https://github.com/soulverteam/StringParsing) - Give Swift "better than regex" data parsing features (for many common tasks)
 - [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating natural language math expressions
 - [PureSwift/WLAN](https://github.com/PureSwift/WLAN) - Wireless LAN (WiFi) API for Swift (Supports Linux)
@@ -5489,7 +5494,7 @@
 - [Esri/arcgis-maps-sdk-swift-samples](https://github.com/Esri/arcgis-maps-sdk-swift-samples) - SwiftUI samples demonstrating various capabilities of ArcGIS Maps SDK for Swift
 - [vmanot/SwiftDB](https://github.com/vmanot/SwiftDB) - A modern database abstraction layer + runtime, batteries included [WIP].
 - [jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
-- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, SwiftUI, support subtitles.
+- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support HLG、HDR10、 HDR10+、Dolby Vision、Dolby Atmos、Text/Image subtitle.
 - [canopas/UIPilot](https://github.com/canopas/UIPilot) - The missing typesafe SwiftUI navigation library
 - [groue/GRDBQuery](https://github.com/groue/GRDBQuery) - The SwiftUI companion for GRDB
 - [omaralbeik/Drops](https://github.com/omaralbeik/Drops) - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
@@ -5952,6 +5957,7 @@
 
 ## windows 
 
+- [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [compnerd/VirtualTerminal](https://github.com/compnerd/VirtualTerminal) - A Performance-Focused Terminal Rendering Framework
@@ -5981,7 +5987,6 @@
 - [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - NOTE: development in stuntrally3 repo. 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally 2.x sources and data.
 - [Freaky/Compactor](https://github.com/Freaky/Compactor) - A user interface for Windows 10 filesystem compression
 - [compnerd/gha-setup-swift](https://github.com/compnerd/gha-setup-swift) - Setup Swift (on Windows) on GitHub Actions Builders
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
