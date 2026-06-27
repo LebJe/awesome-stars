@@ -100,6 +100,8 @@
 
 ## C 
 
+- [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
+- [stackotter/swift-miniaudio](https://github.com/stackotter/swift-miniaudio) - A thin MiniAudio wrapper
 - [enderice2/rpc-bridge](https://github.com/enderice2/rpc-bridge) - Enable Rich Presence between your Wine applications and the native Discord client on Linux and macOS.
 - [khanhduytran0/SparseBox](https://github.com/khanhduytran0/SparseBox) - On-device toolbox?
 - [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) - Apple cctools port for Linux and *BSD
@@ -2066,7 +2068,7 @@
 - [AudioKit/Waveform](https://github.com/AudioKit/Waveform) - GPU accelerated waveform view
 - [orchetect/swift-midi](https://github.com/orchetect/swift-midi) - 🎹 Modular multi-platform MIDI toolkit written in pure Swift supporting MIDI 1.0 and MIDI 2.0.
 - [orchetect/swift-radix](https://github.com/orchetect/swift-radix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
-- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, SwiftUI, support subtitles.
+- [kingslay/KSPlayer](https://github.com/kingslay/KSPlayer) - A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support HLG、HDR10、 HDR10+、Dolby Vision、Dolby Atmos、Text/Image subtitle.
 - [soulverteam/StringParsing](https://github.com/soulverteam/StringParsing) - Give Swift "better than regex" data parsing features (for many common tasks)
 - [soulverteam/SoulverCore](https://github.com/soulverteam/SoulverCore) - A powerful Swift framework for evaluating natural language math expressions
 - [PureSwift/WLAN](https://github.com/PureSwift/WLAN) - Wireless LAN (WiFi) API for Swift (Supports Linux)
