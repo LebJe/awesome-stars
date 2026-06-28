@@ -277,7 +277,7 @@
 - [libharu/libharu](https://github.com/libharu/libharu) - libharu - free PDF library
 - [google/AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
 - [file/file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer
-- [lemenkov/oraODBC](https://github.com/lemenkov/oraODBC) - Oracle ODBC driver for UnixODBC
+- [lemenkov/oraODBC](https://github.com/lemenkov/oraODBC) - ARCHIVED. Oracle ODBC driver for UnixODBC
 - [softace/sqliteodbc](https://github.com/softace/sqliteodbc) - SQLite ODBC driver
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [lurcher/unixODBC](https://github.com/lurcher/unixODBC) - The unixODBC Project goals are to develop and promote unixODBC to be the definitive standard for ODBC on non MS Windows platforms.
