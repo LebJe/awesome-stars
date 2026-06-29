@@ -1935,6 +1935,7 @@
 - [Lolendor/LBox](https://github.com/Lolendor/LBox) - A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources, download IPAs, and install/launch apps directly on your device.
 - [claration/Impactor](https://github.com/claration/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust.
 - [dayanch96/Glow](https://github.com/dayanch96/Glow) - A simple, clean, and powerful tweak for Facebook
+- [jailbreakdotparty/PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) - A jailed app store app downgrader, based off of MuffinStoreJailed. Supports iOS 16.4+ and does not use any exploits.
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [KevinVitale/SwiftSDL](https://github.com/KevinVitale/SwiftSDL) - SDL3 in Swift
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader
@@ -3200,6 +3201,7 @@
 
 ## others 
 
+- [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) - An an app that installs Sidestore on iOS 27, fully on-device
 - [stackotter/swift-miniaudio](https://github.com/stackotter/swift-miniaudio) - A thin MiniAudio wrapper
 - [StephenDev0/StikPair](https://github.com/StephenDev0/StikPair) - A simple SwiftUI iOS app that creates a pairing file on-device.
 - [strykey/orbshacker](https://github.com/strykey/orbshacker) - A professional tool that automatically creates fake game processes for Discord Orb quests without requiring actual game installations. Because who has time to install 500GB games just for some orbs?
@@ -3238,7 +3240,6 @@
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-- [jailbreakdotparty/PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) - A jailed app store app downgrader, based off of MuffinStoreJailed. Supports iOS 16.4+ and does not use any exploits.
 - [MarkEdit-app/MarkEdit-theme-one-dark](https://github.com/MarkEdit-app/MarkEdit-theme-one-dark) - One Dark theme for MarkEdit.
 - [llsc12/Paicord](https://github.com/llsc12/Paicord) - A native Discord client.
 - [6over3/PerlKit](https://github.com/6over3/PerlKit) - An embeddable Perl 5 interpreter for Swift
