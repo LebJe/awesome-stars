@@ -1929,6 +1929,7 @@
 
 ## ios 
 
+- [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) - An an app that installs Sidestore on iOS 27, fully on-device
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [rooootdev/lara](https://github.com/rooootdev/lara) - iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19.
 - [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl.
@@ -3201,7 +3202,6 @@
 
 ## others 
 
-- [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) - An an app that installs Sidestore on iOS 27, fully on-device
 - [stackotter/swift-miniaudio](https://github.com/stackotter/swift-miniaudio) - A thin MiniAudio wrapper
 - [StephenDev0/StikPair](https://github.com/StephenDev0/StikPair) - A simple SwiftUI iOS app that creates a pairing file on-device.
 - [strykey/orbshacker](https://github.com/strykey/orbshacker) - A professional tool that automatically creates fake game processes for Discord Orb quests without requiring actual game installations. Because who has time to install 500GB games just for some orbs?
