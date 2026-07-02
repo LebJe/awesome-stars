@@ -100,7 +100,6 @@
 
 ## C 
 
-- [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) - An an app that installs Sidestore on iOS 27, fully on-device
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [stackotter/swift-miniaudio](https://github.com/stackotter/swift-miniaudio) - A thin MiniAudio wrapper
 - [enderice2/rpc-bridge](https://github.com/enderice2/rpc-bridge) - Enable Rich Presence between your Wine applications and the native Discord client on Linux and macOS.
@@ -1056,6 +1055,7 @@
 
 ## Makefile 
 
+- [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) - An an app that installs Sidestore on iOS 27, fully on-device
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [nlydv/nova-toml](https://github.com/nlydv/nova-toml) - Nova extension providing Tree Sitter-based syntax highlighting for TOML files
@@ -1868,7 +1868,7 @@
 - [vapor/template](https://github.com/vapor/template) - The default Vapor project template, used by the Vapor Toolbox’s new project command.
 - [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
 - [TradeWithIt/WebSocket](https://github.com/TradeWithIt/WebSocket) - Swift WebSocket client. Works on any platform Linux, Windows, iOS, Android, WASI and more
-- [coenttb/swift-html-to-pdf](https://github.com/coenttb/swift-html-to-pdf) - The Swift package for printing HTML to PDF.
+- [swift-foundations/swift-pdf](https://github.com/swift-foundations/swift-pdf) - HTML-to-PDF document generation for Swift.
 - [SwiftcordApp/SwiftDiscordProtos](https://github.com/SwiftcordApp/SwiftDiscordProtos) - Discord Protobufs, compiled for Swift as a package
 - [joogps/Glur](https://github.com/joogps/Glur) - A library for progressive blurs in SwiftUI.
 - [Sherlouk/Codedeck](https://github.com/Sherlouk/Codedeck) - WIP: A Swift library for interfacing with the Elgato Stream Deck
