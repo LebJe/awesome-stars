@@ -139,6 +139,7 @@
 - [language](#language)
 - [languages](#languages)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -1852,7 +1853,7 @@
 ## html 
 
 - [elementary-swift/elementary](https://github.com/elementary-swift/elementary) - A modern and efficient HTML rendering library - inspired by SwiftUI, built for the web.
-- [coenttb/swift-html-to-pdf](https://github.com/coenttb/swift-html-to-pdf) - The Swift package for printing HTML to PDF.
+- [swift-foundations/swift-pdf](https://github.com/swift-foundations/swift-pdf) - HTML-to-PDF document generation for Swift.
 - [rarestype/swift-dom](https://github.com/rarestype/swift-dom) - taylor’s (not so) famous HTML DSL 👠
 - [BinaryBirds/swift-html](https://github.com/BinaryBirds/swift-html) - This source code is now part of the Swift Web Standards library.
 - [swifweb/web](https://github.com/swifweb/web) - 🧱 Write your website in pure Swift with power of webassembly. DOM, CSS and all the WebAPIs are available out of the box.
@@ -1970,7 +1971,6 @@
 - [kkebo/ConsolePad.swiftpm](https://github.com/kkebo/ConsolePad.swiftpm) - Console Pad is an iPadOS/iOS app. You can run JavaScript code through JavaScriptCore on the console.
 - [fulldecent/FDWaveformView](https://github.com/fulldecent/FDWaveformView) - Reads an audio file and displays the waveform
 - [TradeWithIt/WebSocket](https://github.com/TradeWithIt/WebSocket) - Swift WebSocket client. Works on any platform Linux, Windows, iOS, Android, WASI and more
-- [coenttb/swift-html-to-pdf](https://github.com/coenttb/swift-html-to-pdf) - The Swift package for printing HTML to PDF.
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
 - [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS, macOS & visionOS in Swift. Native SwiftUI & UIKit views.
 - [kkonteh97/SwiftOBD2](https://github.com/kkonteh97/SwiftOBD2) - 🚗 Swift OBD2: Real-time vehicle diagnostics made simple. Read live data, clear trouble codes, and build custom automotive apps. Bluetooth/WiFi ready with built-in testing emulator.
@@ -2315,6 +2315,12 @@
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [mosra/m.css](https://github.com/mosra/m.css) - A no-nonsense, no-JavaScript CSS framework, site and documentation theme for content-oriented websites
 
+## learn-to-code 
+
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+- [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
+
 ## learning 
 
 - [TheAlgorithms/AArch64_Assembly](https://github.com/TheAlgorithms/AArch64_Assembly) - All Algorithms implemented in AArch64 Assembly
@@ -2629,7 +2635,6 @@
 - [Uncommon/Xit](https://github.com/Uncommon/Xit) - Mac OS X Git GUI
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [TradeWithIt/WebSocket](https://github.com/TradeWithIt/WebSocket) - Swift WebSocket client. Works on any platform Linux, Windows, iOS, Android, WASI and more
-- [coenttb/swift-html-to-pdf](https://github.com/coenttb/swift-html-to-pdf) - The Swift package for printing HTML to PDF.
 - [kattouf/ProgressLine](https://github.com/kattouf/ProgressLine) - ⏳Track commands progress in a compact one-line format
 - [StreamUI/StreamUI.swift](https://github.com/StreamUI/StreamUI.swift) - 🎥 〜StreamUI: Make videos with SwiftUI (and even stream them to Youtube, Twitch, etc)
 - [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS, macOS & visionOS in Swift. Native SwiftUI & UIKit views.
@@ -4931,7 +4936,6 @@
 - [brokenhandsio/vapor-oauth](https://github.com/brokenhandsio/vapor-oauth) - OAuth2 Provider Library for Vapor
 - [vapor/template](https://github.com/vapor/template) - The default Vapor project template, used by the Vapor Toolbox’s new project command.
 - [TradeWithIt/WebSocket](https://github.com/TradeWithIt/WebSocket) - Swift WebSocket client. Works on any platform Linux, Windows, iOS, Android, WASI and more
-- [coenttb/swift-html-to-pdf](https://github.com/coenttb/swift-html-to-pdf) - The Swift package for printing HTML to PDF.
 - [Sherlouk/Codedeck](https://github.com/Sherlouk/Codedeck) - WIP: A Swift library for interfacing with the Elgato Stream Deck
 - [kattouf/ProgressLine](https://github.com/kattouf/ProgressLine) - ⏳Track commands progress in a compact one-line format
 - [skiptools/skip](https://github.com/skiptools/skip) - Skip enables the creation of native SwiftUI apps for iOS and Android
