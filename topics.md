@@ -3207,6 +3207,7 @@
 
 ## others 
 
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [stackotter/swift-miniaudio](https://github.com/stackotter/swift-miniaudio) - A thin MiniAudio wrapper
 - [StephenDev0/StikPair](https://github.com/StephenDev0/StikPair) - A simple SwiftUI iOS app that creates a pairing file on-device.
 - [strykey/orbshacker](https://github.com/strykey/orbshacker) - A professional tool that automatically creates fake game processes for Discord Orb quests without requiring actual game installations. Because who has time to install 500GB games just for some orbs?
