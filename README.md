@@ -1767,7 +1767,7 @@
 - [kkostov/QwiftUI](https://github.com/kkostov/QwiftUI) - Experiment to create a Swift UI library based on Qt6
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-- [jailbreakdotparty/PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) - A jailed app store app downgrader, based off of MuffinStoreJailed. Supports iOS 16.4+ and does not use any exploits.
+- [jailbreakdotparty/PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) - Exploit-less app store downgrader based off of MuffinStore Jailed. Supports iOS 16.4 and later.
 - [DDBKit/DDBKit](https://github.com/DDBKit/DDBKit) - A declarative Discord bot framework
 - [DiscordBM/DiscordBM](https://github.com/DiscordBM/DiscordBM) - A Multiplatform Swift Discord Library, Primarily For Making Bots
 - [compnerd/VirtualTerminal](https://github.com/compnerd/VirtualTerminal) - A Performance-Focused Terminal Rendering Framework
