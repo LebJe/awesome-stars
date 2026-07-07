@@ -1853,7 +1853,7 @@
 ## html 
 
 - [elementary-swift/elementary](https://github.com/elementary-swift/elementary) - A modern and efficient HTML rendering library - inspired by SwiftUI, built for the web.
-- [swift-foundations/swift-pdf](https://github.com/swift-foundations/swift-pdf) - HTML-to-PDF document generation for Swift.
+- [swift-foundations/swift-pdf](https://github.com/swift-foundations/swift-pdf) - PDF for Swift
 - [rarestype/swift-dom](https://github.com/rarestype/swift-dom) - taylor’s (not so) famous HTML DSL 👠
 - [BinaryBirds/swift-html](https://github.com/BinaryBirds/swift-html) - This source code is now part of the Swift Web Standards library.
 - [swifweb/web](https://github.com/swifweb/web) - 🧱 Write your website in pure Swift with power of webassembly. DOM, CSS and all the WebAPIs are available out of the box.
