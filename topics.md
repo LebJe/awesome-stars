@@ -1100,7 +1100,7 @@
 - [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) - A Custom Client for iPhone, iPad, and Mac
-- [unbound-app/loader-ios](https://github.com/unbound-app/loader-ios) - 🍎 Theos tweak to handle filesystem changes, addon management and bundle loading for Unbound on iOS.
+- [unbound-app/loader-ios](https://github.com/unbound-app/loader-ios) - 🍎 Theos tweak that bridges Unbound into Discord's native layer to power addon management on iOS.
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
 - [tealbathingsuit/accord](https://github.com/tealbathingsuit/accord) - a discord client for modern macs
@@ -1853,7 +1853,7 @@
 ## html 
 
 - [elementary-swift/elementary](https://github.com/elementary-swift/elementary) - A modern and efficient HTML rendering library - inspired by SwiftUI, built for the web.
-- [swift-foundations/swift-pdf](https://github.com/swift-foundations/swift-pdf) - PDF for Swift
+- [swift-foundations/swift-pdf](https://github.com/swift-foundations/swift-pdf) - HTML-to-PDF document generation for Swift.
 - [rarestype/swift-dom](https://github.com/rarestype/swift-dom) - taylor’s (not so) famous HTML DSL 👠
 - [BinaryBirds/swift-html](https://github.com/BinaryBirds/swift-html) - This source code is now part of the Swift Web Standards library.
 - [swifweb/web](https://github.com/swifweb/web) - 🧱 Write your website in pure Swift with power of webassembly. DOM, CSS and all the WebAPIs are available out of the box.
@@ -1947,7 +1947,7 @@
 - [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux
 - [chicio/ID3TagEditor](https://github.com/chicio/ID3TagEditor) - :musical_note::guitar:A Swift library to read and write ID3 Tag of any mp3 file. Supported ID3 tag version: 2.2, 2.3 and 2.4. Supported platform: iOS, macOS, tvOS, watchOS, Linux Ubuntu. :musical_note
 - [alexeichhorn/YouTubeKit](https://github.com/alexeichhorn/YouTubeKit) - YouTube video and audio extractor for iOS, watchOS, visionOS, tvOS and macOS
-- [unbound-app/loader-ios](https://github.com/unbound-app/loader-ios) - 🍎 Theos tweak to handle filesystem changes, addon management and bundle loading for Unbound on iOS.
+- [unbound-app/loader-ios](https://github.com/unbound-app/loader-ios) - 🍎 Theos tweak that bridges Unbound into Discord's native layer to power addon management on iOS.
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [dayanch96/OrwellVK](https://github.com/dayanch96/OrwellVK) - A subtle shift from the familiar
 - [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16+
