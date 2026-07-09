@@ -3505,7 +3505,6 @@
 - [johnpatrickmorgan/TCACoordinators](https://github.com/johnpatrickmorgan/TCACoordinators) - Powerful navigation in the Composable Architecture via the coordinator pattern
 - [ThePotatoKing55/SwiftGLFW](https://github.com/ThePotatoKing55/SwiftGLFW) - A Swift library that makes GLFW a bit more manageable.
 - [pointfreeco/swift-overture](https://github.com/pointfreeco/swift-overture) - 🎼 A library for function composition.
-- [obvgab/kinzoku](https://github.com/obvgab/kinzoku) - Cross platform graphics in Swift using WGSL. An implementation of wgpu-native
 - [w3c/webvtt](https://github.com/w3c/webvtt) - WebVTT Standard
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [freddi-kit/ArtifactBundleGen](https://github.com/freddi-kit/ArtifactBundleGen) - 
