@@ -730,6 +730,7 @@
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
 - [fmtlib/fmt.dev](https://github.com/fmtlib/fmt.dev) - The {fmt} library website
 - [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
+- [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - The roadmap for learning the C++ programming language for beginners and experienced devs.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
 - [slebok/zoo](https://github.com/slebok/zoo) - Grammar Zoo
@@ -1211,7 +1212,6 @@
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [swiftwasm/awesome-swiftwasm](https://github.com/swiftwasm/awesome-swiftwasm) - A community-driven curated list of SwiftWasm projects and content
-- [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - The roadmap for learning the C++ programming language for beginners and experienced devs.
 - [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
