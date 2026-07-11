@@ -1945,6 +1945,7 @@
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) - A Custom Client for iPhone, iPad, and Mac
 - [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux
+- [fatbobman/ObservableDefaults](https://github.com/fatbobman/ObservableDefaults) - A comprehensive solution integrating SwiftUI + Observation + UserDefaults + iCloud Key-Value Store
 - [chicio/ID3TagEditor](https://github.com/chicio/ID3TagEditor) - :musical_note::guitar:A Swift library to read and write ID3 Tag of any mp3 file. Supported ID3 tag version: 2.2, 2.3 and 2.4. Supported platform: iOS, macOS, tvOS, watchOS, Linux Ubuntu. :musical_note
 - [alexeichhorn/YouTubeKit](https://github.com/alexeichhorn/YouTubeKit) - YouTube video and audio extractor for iOS, watchOS, visionOS, tvOS and macOS
 - [unbound-app/loader-ios](https://github.com/unbound-app/loader-ios) - 🍎 Theos tweak that bridges Unbound into Discord's native layer to power addon management on iOS.
@@ -2619,6 +2620,7 @@
 - [ShaftUI/Shaft](https://github.com/ShaftUI/Shaft) - A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics
 - [alexykn/sps2](https://github.com/alexykn/sps2) - atomic package manager for macos
 - [section83/MacYTDL](https://github.com/section83/MacYTDL) - A macOS GUI front-end for the YT-DLP video downloader
+- [fatbobman/ObservableDefaults](https://github.com/fatbobman/ObservableDefaults) - A comprehensive solution integrating SwiftUI + Observation + UserDefaults + iCloud Key-Value Store
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [chicio/ID3TagEditor](https://github.com/chicio/ID3TagEditor) - :musical_note::guitar:A Swift library to read and write ID3 Tag of any mp3 file. Supported ID3 tag version: 2.2, 2.3 and 2.4. Supported platform: iOS, macOS, tvOS, watchOS, Linux Ubuntu. :musical_note
@@ -5459,7 +5461,6 @@
 - [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui) - Build SwiftUI-style apps that run in the browser
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [FlineDev/ErrorKit](https://github.com/FlineDev/ErrorKit) - Simplified error handling with built-in user-friendly messages for common errors. Fully localized. Community-driven.
-- [fatbobman/ObservableDefaults](https://github.com/fatbobman/ObservableDefaults) - A comprehensive solution integrating SwiftUI + Observation + UserDefaults + iCloud Key-Value Store
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [Checkm8ra1n/yt-dlp-gui](https://github.com/Checkm8ra1n/yt-dlp-gui) - A GUI for yt-dlp for macOS
