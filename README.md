@@ -1140,8 +1140,8 @@
 - [Override92/AiSList](https://github.com/Override92/AiSList) - Filter list for Ai Slop channels on YouTube
 - [spotiflacapp/SpotiFLAC-Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension) - Extension Registry for SpotiFLAC-Mobile. Browse, submit, and download community-built extensions.
 - [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - Official Winehq macOS Packages
-- [joilenup/SwiftyCord](https://github.com/joilenup/SwiftyCord) - A fully native Discord client for macOS built 100% in Swift!
-- [joilenup/Swiftcord](https://github.com/joilenup/Swiftcord) - Soon... Cord+
+- [neemaxon/SwiftyCord](https://github.com/neemaxon/SwiftyCord) - A fully native Discord client for macOS built 100% in Swift!
+- [neemaxon/Swiftcord](https://github.com/neemaxon/Swiftcord) - Soon... Cord+
 - [surrel14/dnsmethod.github.io](https://github.com/surrel14/dnsmethod.github.io) - 
 - [dayanch96/Glow](https://github.com/dayanch96/Glow) - A simple, clean, and powerful tweak for Facebook
 - [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps) - Open Source Mac Apps
