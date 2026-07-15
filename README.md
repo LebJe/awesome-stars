@@ -613,7 +613,6 @@
 
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [2ykwang/mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - TUI macOS cleaner that scans caches/logs, shows sizes/paths, lets you select what to delete before Trash.
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [asdfzxcvbn/UniversalRepoFmt](https://github.com/asdfzxcvbn/UniversalRepoFmt) - maintain a single json file -&gt; automatically convert to every major source type!
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
@@ -2664,6 +2663,7 @@
 - [C0C0B01/Kettu](https://github.com/C0C0B01/Kettu) - A Discord mobile app client modification continuing Bunny's mission  NOTICE: this is a mirror of the codeberg repository, please make all PRs and Issues there
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [alexeichhorn/YouTubeKit-Server](https://github.com/alexeichhorn/YouTubeKit-Server) - Server to give remote instructions for iOS library `YouTubeKit`
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [dmilin1/hydra](https://github.com/dmilin1/hydra) - A Reddit reader app based on Apollo that doesn't need an API key to function
 - [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux
 - [marioparaschiv/unbound](https://github.com/marioparaschiv/unbound) - 📱 Cross-platform mobile Discord client modification focused on control, stability, and customisation.
