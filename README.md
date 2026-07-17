@@ -903,7 +903,7 @@
 - [msink/kotlin-libui](https://github.com/msink/kotlin-libui) - Kotlin/Native interop to libui: a portable GUI library
 - [fwcd/kotlin-debug-adapter](https://github.com/fwcd/kotlin-debug-adapter) - Kotlin/JVM debugging for any editor/IDE using the Debug Adapter Protocol
 - [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, diagnostics and more for any editor/IDE using the Language Server Protocol
-- [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.
+- [lysine-dev/okio](https://github.com/lysine-dev/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - Rust plugin for the IntelliJ Platform
 
@@ -1995,7 +1995,7 @@
 - [freysie/watch-date-picker](https://github.com/freysie/watch-date-picker) - A customizable date picker for watchOS and SwiftUI.
 - [vinivendra/Gryphon](https://github.com/vinivendra/Gryphon) - The Swift to Kotlin translator.
 - [ChimeHQ/SwiftCoreSymbolication](https://github.com/ChimeHQ/SwiftCoreSymbolication) - Swift wrappers for CoreSymbolication
-- [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Swift library and command line tool to convert SVGs into SFSymbol, PNG, PDF and Swift source code.
+- [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Native SVG parser and renderer for SwiftUI, UIKit and AppKit, with tools for PNG, PDF, SF Symbols and Swift source.
 - [FelixHerrmann/swift-package-list](https://github.com/FelixHerrmann/swift-package-list) - A command-line tool to get all used Swift Package dependencies.
 - [atrinh0/buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 👌🏼
 - [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation) - The Foundation project
