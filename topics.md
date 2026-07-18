@@ -1102,7 +1102,7 @@
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) - A Custom Client for iPhone, iPad, and Mac
 - [unbound-app/loader-ios](https://github.com/unbound-app/loader-ios) - 🍎 Theos tweak that bridges Unbound into Discord's native layer to power addon management on iOS.
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
-- [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
+- [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native (WebKit) macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
 - [tealbathingsuit/accord](https://github.com/tealbathingsuit/accord) - a discord client for modern macs
 - [pixelomer/discord-fs](https://github.com/pixelomer/discord-fs) - Discord as a filesystem
 - [SwiftcordApp/DiscordKit](https://github.com/SwiftcordApp/DiscordKit) - The Discord API implementation behind Swiftcord, implemented completely from scratch in Swift
@@ -2578,7 +2578,7 @@
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [plyght/wax](https://github.com/plyght/wax) - wax is a fast Homebrew-compatible package manager, built in Rust.
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) - A Custom Client for iPhone, iPad, and Mac
-- [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
+- [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native (WebKit) macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [Uncommon/Xit](https://github.com/Uncommon/Xit) - Mac OS X Git GUI
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
@@ -2631,7 +2631,7 @@
 - [natbro/kaon](https://github.com/natbro/kaon) - Tools, and instructions for more easily installing and launching Windows games via Wine or CrossOver  directly in the macOS Steam client
 - [3Shain/dxmt](https://github.com/3Shain/dxmt) - Metal-based implementation of D3D11 and D3D10 for macOS / Wine
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
-- [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
+- [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native (WebKit) macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
 - [Zaloog/blueutil-tui](https://github.com/Zaloog/blueutil-tui) - tui for Mac to interact with bluetooth devices via blueutil
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -3754,7 +3754,7 @@
 - [VonHeikemen/searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner?
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
 - [jonstoler/lua-toml](https://github.com/jonstoler/lua-toml) - toml decoder/encoder for Lua
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
 - [BenjaminHoegh/OneDark.novaextension](https://github.com/BenjaminHoegh/OneDark.novaextension) - Atom One Dark theme for Nova
 - [habovh/nova-one-dark-pro](https://github.com/habovh/nova-one-dark-pro) - Atom One Dark theme for Nova
 - [vedantapps/MultiScreenApp](https://github.com/vedantapps/MultiScreenApp) - An app that uses Multipeer Connectivity to play a video across 6 different iOS screens with an additional phone acting as a Main/Control phone.
@@ -4918,7 +4918,7 @@
 - [kewlbear/YoutubeDL](https://github.com/kewlbear/YoutubeDL) - An iOS app using youtube-dl Python module with PythonKit Swift package
 - [rational-kunal/BlinkUI](https://github.com/rational-kunal/BlinkUI) - Terminal UI framework inspired from SwiftUI
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-- [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
+- [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native (WebKit) macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
 - [raymondjavaxx/ColorToolbox](https://github.com/raymondjavaxx/ColorToolbox) - Swift color utilities
 - [swiftlang/swift-build](https://github.com/swiftlang/swift-build) - A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager
 - [aheze/Setting](https://github.com/aheze/Setting) - Compose beautiful preference panels.
@@ -5469,7 +5469,7 @@
 - [iRayanKhan/TanaraSign](https://github.com/iRayanKhan/TanaraSign) - Fully local on-device ipa signer for iOS, iPadOS, tvOS, macOS, watchOS, and visionOS in 100% SwiftUI.
 - [PureSwift/AndroidSwiftUI](https://github.com/PureSwift/AndroidSwiftUI) - SwiftUI for Android
 - [rational-kunal/BlinkUI](https://github.com/rational-kunal/BlinkUI) - Terminal UI framework inspired from SwiftUI
-- [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
+- [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native (WebKit) macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
 - [raymondjavaxx/ColorToolbox](https://github.com/raymondjavaxx/ColorToolbox) - Swift color utilities
 - [aheze/Setting](https://github.com/aheze/Setting) - Compose beautiful preference panels.
 - [costachung/neumorphic](https://github.com/costachung/neumorphic) - 🚀Neumorphic is a SwiftUI utility to build Neumorphism Soft UI (supports both *outer shadow and *inner shadow)
