@@ -345,6 +345,7 @@
 - [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
 - [plyght/pocb](https://github.com/plyght/pocb) - plyght's own C++ browser for macOS
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
+- [ra1ncord/RainTweak](https://github.com/ra1ncord/RainTweak) - 
 - [Anywhere-Music-Player/SwiftTagLib.cpp](https://github.com/Anywhere-Music-Player/SwiftTagLib.cpp) - Swift library for reading and writing audio file metadata, powered by TagLib (via C++ interop).
 - [taglib/taglib](https://github.com/taglib/taglib) - TagLib Audio Meta-Data Library
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
@@ -593,7 +594,7 @@
 ## Elixir 
 
 - [lumen-oss/luanox](https://github.com/lumen-oss/luanox) - Modern hosting for Lua libraries. Fast, reliable, secure.
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
 ## Emacs Lisp 
@@ -1093,7 +1094,6 @@
 
 ## Objective-C 
 
-- [ra1ncord/RainTweak](https://github.com/ra1ncord/RainTweak) - 
 - [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) - 
 - [34306/testflight-lower-install](https://github.com/34306/testflight-lower-install) - allow install testflight app require higher iOS for decryption
 - [Lakr233/ActivateMac](https://github.com/Lakr233/ActivateMac) - Show MS Windows style activation dialog on my screen.
@@ -1817,7 +1817,7 @@
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [SideStore/StosVPN](https://github.com/SideStore/StosVPN) - A VPN that works with SideStore and StikJIT. that supports being offline and much stabler then WireGuard
 - [swiftlang/swift-subprocess](https://github.com/swiftlang/swift-subprocess) - Subprocess is a cross-platform package for spawning processes in Swift.
-- [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
+- [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native (WebKit) macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
 - [aus-der-Technik/FileMonitor](https://github.com/aus-der-Technik/FileMonitor) - Watch for file changes in a directory with a unified API on Linux and macOS.
 - [raymondjavaxx/ColorToolbox](https://github.com/raymondjavaxx/ColorToolbox) - Swift color utilities
 - [drewmccormack/Forked](https://github.com/drewmccormack/Forked) - It's like Git for your Swift data types.
