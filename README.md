@@ -100,7 +100,6 @@
 
 ## C 
 
-- [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) - An an app that installs Sidestore on iOS 27, fully on-device
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [stackotter/swift-miniaudio](https://github.com/stackotter/swift-miniaudio) - A thin MiniAudio wrapper
 - [enderice2/rpc-bridge](https://github.com/enderice2/rpc-bridge) - Enable Rich Presence between your Wine applications and the native Discord client on Linux and macOS.
