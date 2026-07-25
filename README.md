@@ -131,7 +131,7 @@
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
 - [c-ares/c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [klange/nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
 - [jdah/reloadhost](https://github.com/jdah/reloadhost) - POSIX-friendly live code reloading
 - [swiftlang/swift-foundation-icu](https://github.com/swiftlang/swift-foundation-icu) - 
@@ -1093,7 +1093,6 @@
 
 ## Objective-C 
 
-- [faroukbmiled/RyukGram](https://github.com/faroukbmiled/RyukGram) - RyukGram, The Instagram tweak for iOS power users.
 - [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) - 
 - [34306/testflight-lower-install](https://github.com/34306/testflight-lower-install) - allow install testflight app require higher iOS for decryption
 - [Lakr233/ActivateMac](https://github.com/Lakr233/ActivateMac) - Show MS Windows style activation dialog on my screen.
@@ -1134,6 +1133,7 @@
 
 ## Others 
 
+- [faroukbmiled/RyukGram](https://github.com/faroukbmiled/RyukGram) - RyukGram, The Instagram tweak for iOS power users.
 - [catppuccin/vendetta](https://github.com/catppuccin/vendetta) - 🌕 Soothing pastel theme for Vendetta, Enmity, Bunny & Revenge!
 - [MountainofPenguin/Altstore-Repository](https://github.com/MountainofPenguin/Altstore-Repository) - YouMod auto-updating repository
 - [Override92/AiSList](https://github.com/Override92/AiSList) - Filter list for Ai Slop channels on YouTube
