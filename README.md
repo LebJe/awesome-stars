@@ -853,7 +853,6 @@
 - [klaaspieter/coc-sourcekit](https://github.com/klaaspieter/coc-sourcekit) - Swift language server extension using sourcekit-lsp for coc.nvim.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [npm/ini](https://github.com/npm/ini) - An ini parser/serializer in JavaScript
-- [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) - Advanced REST Client - Desktop application
@@ -2385,6 +2384,7 @@
 - [MihaelIsaev/SwifCron](https://github.com/MihaelIsaev/SwifCron) - ⏱Simple pure swift cron expression parser
 - [jariz/Akku](https://github.com/jariz/Akku) - Experimental bluetooth headset battery monitoring application for MacOS
 - [theblixguy/Invalidating](https://github.com/theblixguy/Invalidating) - Backports the new @Invalidating property wrapper to older platforms
+- [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [plarson/WKCodable](https://github.com/plarson/WKCodable) - Well-Known Binary & Text Encoding/Decoding for Swift
 - [square/Blueprint](https://github.com/square/Blueprint) - Declarative UI construction for iOS, written in Swift
 - [phimage/Erik](https://github.com/phimage/Erik) - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript.
