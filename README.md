@@ -915,7 +915,7 @@
 ## Logos 
 
 - [jaydenjcpy/YouMod](https://github.com/jaydenjcpy/YouMod) - 
-- [Tonwalter888/YouMod](https://github.com/Tonwalter888/YouMod) - Try to make similar features like YTLite as much as possible.
+- [Tonwalter888/YouMod](https://github.com/Tonwalter888/YouMod) - A YouTube tweak that try to make similar features from YTLite as much as possible.
 - [34306/PerfectNetworkSpeedInfo-Remaster](https://github.com/34306/PerfectNetworkSpeedInfo-Remaster) - remaster of PerfectNetworkSpeedInfo tweak
 - [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn) - iOS tweak for Apollo Reddit app - use your own API keys, unlocked Ultra features, and other enhancements
 - [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
