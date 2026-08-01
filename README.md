@@ -1438,7 +1438,7 @@
 
 - [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
 - [plyght/wax](https://github.com/plyght/wax) - wax is a fast Homebrew-compatible package manager, built in Rust.
-- [claration/Impactor](https://github.com/claration/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust.
+- [claration/Impactor](https://github.com/claration/Impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and Big Headers™
