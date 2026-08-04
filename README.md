@@ -717,7 +717,7 @@
 
 ## HTML 
 
-- [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications!
+- [StikDebug/altdirect](https://github.com/StikDebug/altdirect) - AltDirect™: An easy way to redirect AltSource urls to your favorite applications!
 - [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types
 - [programming/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](https://github.com/programming/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) - The World's longest URL "shortener"
 - [w3c/webvtt](https://github.com/w3c/webvtt) - WebVTT Standard
@@ -1740,9 +1740,9 @@
 
 ## Swift 
 
-- [StephenDev0/StikPair](https://github.com/StephenDev0/StikPair) - A simple SwiftUI iOS app that creates a pairing file on-device.
+- [StikDebug/StikPair](https://github.com/StikDebug/StikPair) - A simple SwiftUI iOS app that creates a pairing file on-device.
 - [mattt/swift-toml](https://github.com/mattt/swift-toml) - A spec-compliant Swift package for TOML, powered by toml++
-- [jaydenjcpy/EeveeSpotifyReincarnated](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated) - Enhancing your Spotify experience on iOS
+- [SideloadLabs/EeveeSpotifyReincarnated](https://github.com/SideloadLabs/EeveeSpotifyReincarnated) - Enhancing your Spotify experience on iOS
 - [wendylabsinc/ffmpeg-swift](https://github.com/wendylabsinc/ffmpeg-swift) - Swift 6.2+ bindings for FFmpeg with cross-platform artifact bundle support
 - [wendylabsinc/dbus](https://github.com/wendylabsinc/dbus) - 
 - [kateinoigakukun/swift-tar](https://github.com/kateinoigakukun/swift-tar) - A pure Swift library for reading and writing TAR archives
