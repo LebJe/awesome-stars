@@ -3223,10 +3223,10 @@
 - [faroukbmiled/RyukGram](https://github.com/faroukbmiled/RyukGram) - RyukGram, The Instagram tweak for iOS power users.
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [stackotter/swift-miniaudio](https://github.com/stackotter/swift-miniaudio) - A thin MiniAudio wrapper
-- [StephenDev0/StikPair](https://github.com/StephenDev0/StikPair) - A simple SwiftUI iOS app that creates a pairing file on-device.
+- [StikDebug/StikPair](https://github.com/StikDebug/StikPair) - A simple SwiftUI iOS app that creates a pairing file on-device.
 - [strykey/orbshacker](https://github.com/strykey/orbshacker) - A professional tool that automatically creates fake game processes for Discord Orb quests without requiring actual game installations. Because who has time to install 500GB games just for some orbs?
 - [mattt/swift-toml](https://github.com/mattt/swift-toml) - A spec-compliant Swift package for TOML, powered by toml++
-- [jaydenjcpy/EeveeSpotifyReincarnated](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated) - Enhancing your Spotify experience on iOS
+- [SideloadLabs/EeveeSpotifyReincarnated](https://github.com/SideloadLabs/EeveeSpotifyReincarnated) - Enhancing your Spotify experience on iOS
 - [plyght/pocb](https://github.com/plyght/pocb) - plyght's own C++ browser for macOS
 - [wendylabsinc/ffmpeg-swift](https://github.com/wendylabsinc/ffmpeg-swift) - Swift 6.2+ bindings for FFmpeg with cross-platform artifact bundle support
 - [wendylabsinc/dbus](https://github.com/wendylabsinc/dbus) - 
@@ -3235,7 +3235,7 @@
 - [kateinoigakukun/swift-tar](https://github.com/kateinoigakukun/swift-tar) - A pure Swift library for reading and writing TAR archives
 - [jaydenjcpy/YouMod](https://github.com/jaydenjcpy/YouMod) - 
 - [Tonwalter888/YouMod](https://github.com/Tonwalter888/YouMod) - A YouTube tweak that try to make similar features from YTLite as much as possible.
-- [StikStore/altdirect](https://github.com/StikStore/altdirect) - An easy way to  redirect AltSource links to your favorite applications!
+- [StikDebug/altdirect](https://github.com/StikDebug/altdirect) - AltDirect™: An easy way to redirect AltSource urls to your favorite applications!
 - [skiptools/skipstone](https://github.com/skiptools/skipstone) - The skip tool that powers the skip CLI and the skipstone SwiftPM plugin
 - [ra1ncord/RainTweak](https://github.com/ra1ncord/RainTweak) - 
 - [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
