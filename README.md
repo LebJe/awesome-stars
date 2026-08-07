@@ -49,6 +49,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [Reason](#reason)
 - [RenderScript](#renderscript)
 - [Rich Text Format](#rich-text-format)
@@ -349,7 +350,6 @@
 - [Anywhere-Music-Player/SwiftTagLib.cpp](https://github.com/Anywhere-Music-Player/SwiftTagLib.cpp) - Swift library for reading and writing audio file metadata, powered by TagLib (via C++ interop).
 - [taglib/taglib](https://github.com/taglib/taglib) - TagLib Audio Meta-Data Library
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
-- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
 - [r57zone/DSAdvance](https://github.com/r57zone/DSAdvance) - Advanced Xbox controller emulation for DualSense, DualShock 4, Pro Controller, Joy-Cons / Продвинутая эмуляция Xbox геймпада для DualSense, DualShock 4, Pro контроллера, Джойконов
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [stossy11/macExecute](https://github.com/stossy11/macExecute) - W.I.P run macOS CLI apps on sandboxed iOS
@@ -1093,6 +1093,7 @@
 
 ## Objective-C 
 
+- [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to 
 - [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) - 
 - [34306/testflight-lower-install](https://github.com/34306/testflight-lower-install) - allow install testflight app require higher iOS for decryption
 - [Lakr233/ActivateMac](https://github.com/Lakr233/ActivateMac) - Show MS Windows style activation dialog on my screen.
@@ -1399,6 +1400,10 @@
 - [Valloric/MatchTagAlways](https://github.com/Valloric/MatchTagAlways) - A Vim plugin that always highlights the enclosing html/xml tags
 - [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap) - A Sublime-like minimap for VIM, based on the Drawille console-based drawing library
 - [pycontribs/ansi2html](https://github.com/pycontribs/ansi2html) - Convert text with ansi color codes to HTML
+
+## QML 
+
+- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
 
 ## Reason 
 
