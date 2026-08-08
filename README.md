@@ -734,6 +734,7 @@
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
 - [slebok/zoo](https://github.com/slebok/zoo) - Grammar Zoo
+- [chaos-eng/chaos-eng.github.io](https://github.com/chaos-eng/chaos-eng.github.io) - Principles of Chaos Engineering
 - [yaml/yaml-spec](https://github.com/yaml/yaml-spec) - YAML Specification
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [toml-lang/toml.io](https://github.com/toml-lang/toml.io) - Source Code for toml.io
@@ -1227,7 +1228,6 @@
 - [NTaylorMullen/LSPVirtualDocuments](https://github.com/NTaylorMullen/LSPVirtualDocuments) - LSP spec expansions to support virtual documents.
 - [frankyonnetti/gravity-sublime-theme](https://github.com/frankyonnetti/gravity-sublime-theme) - A Sublime Text theme that feels right at home on macOS
 - [tahnik/nocode-compiler](https://github.com/tahnik/nocode-compiler) - A compiler for nocode
-- [chaos-eng/chaos-eng.github.io](https://github.com/chaos-eng/chaos-eng.github.io) - Principles of Chaos Engineering
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [mmstick/cargo-deb](https://github.com/mmstick/cargo-deb) - A cargo subcommand that generates Debian packages from information in Cargo.toml
 - [CreativeTools/3DBenchy](https://github.com/CreativeTools/3DBenchy) - #3DBenchy is a 3D model specifically designed for testing and benchmarking 3D printers. It is a small recognizable object that you can download for free, make and share.
@@ -1447,7 +1447,6 @@
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and Big Headers™
-- [alexykn/sps2](https://github.com/alexykn/sps2) - atomic package manager for macos
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [jkcoxson/idevice_mirror](https://github.com/jkcoxson/idevice_mirror) - Mirror your phone screen to the computer
 - [jkcoxson/LightningRouter](https://github.com/jkcoxson/LightningRouter) - Use your iPhone's internet connection from a Mac
