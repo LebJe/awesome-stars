@@ -2483,6 +2483,7 @@
 ## lua 
 
 - [lumen-oss/luanox](https://github.com/lumen-oss/luanox) - Modern hosting for Lua libraries. Fast, reliable, secure.
+- [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [teal-language/awesome-teal](https://github.com/teal-language/awesome-teal) - A curated list of Teal-related projects!
 - [euclidianAce/ltreesitter](https://github.com/euclidianAce/ltreesitter) - Standalone tree sitter bindings for the Lua language
