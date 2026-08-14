@@ -63,6 +63,7 @@
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [Text](#text)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -779,7 +780,6 @@
 ## JavaScript 
 
 - [faroukbmiled/RyukGram](https://github.com/faroukbmiled/RyukGram) - RyukGram, The Instagram tweak for iOS power users.
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -1658,6 +1658,7 @@
 
 ## SCSS 
 
+- [waymondrang/docsafterdark](https://github.com/waymondrang/docsafterdark) - Beyond dark mode for Google Docs
 - [vapor/design](https://github.com/vapor/design) - Contains the reference designs and build pipeline to generate all design files for Vapor's sites
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [swiftlang/swift-org-website](https://github.com/swiftlang/swift-org-website) - Swift.org website
@@ -1743,6 +1744,7 @@
 
 ## Swift 
 
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [StikDebug/StikPair](https://github.com/StikDebug/StikPair) - A simple SwiftUI iOS app that creates a pairing file on-device.
 - [mattt/swift-toml](https://github.com/mattt/swift-toml) - A spec-compliant Swift package for TOML, powered by toml++
 - [SideloadLabs/EeveeSpotifyReincarnated](https://github.com/SideloadLabs/EeveeSpotifyReincarnated) - Enhancing your Spotify experience on iOS
@@ -2642,6 +2644,10 @@
 - [codewinsdotcom/PostgresClientKit](https://github.com/codewinsdotcom/PostgresClientKit) - A PostgreSQL client library for Swift. Does not require libpq.
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## Tree-sitter Query 
 
