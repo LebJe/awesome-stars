@@ -783,7 +783,7 @@
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
-- [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) - Use FreeBSD in github actions
+- [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) - Test your code in a real FreeBSD virtual machine on GitHub Actions -- QEMU-powered, with SSH and two-way folder sync
 - [Balackburn/Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 - [brycebostwick/FixTheGulf](https://github.com/brycebostwick/FixTheGulf) - A Chrome extension that restores the Gulf of Mexico's name
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
