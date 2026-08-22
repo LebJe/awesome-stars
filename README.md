@@ -2027,7 +2027,7 @@
 - [dankinsoid/VaporToOpenAPI](https://github.com/dankinsoid/VaporToOpenAPI) - OpenAPI specification generator for Vapor based Swift projects.
 - [johnno1962/DLKit](https://github.com/johnno1962/DLKit) - A rather subscript oriented interface to the dynamic linker.
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
-- [ChimeHQ/OAuthenticator](https://github.com/ChimeHQ/OAuthenticator) - OAuth 2.1 request authentication
+- [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication
 - [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - An xcodebuild formatter
 - [mczachurski/Swiftgger](https://github.com/mczachurski/Swiftgger) - OpenAPI support for server side Swift projects.
 - [CodeEditApp/CodeEditLanguages](https://github.com/CodeEditApp/CodeEditLanguages) - A Collection of Tree-Sitter Parsers for Syntax Highlighting
