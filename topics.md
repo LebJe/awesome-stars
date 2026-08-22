@@ -2011,7 +2011,7 @@
 - [SwiftedMind/Puddles](https://github.com/SwiftedMind/Puddles) - A native SwiftUI app architecture
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
-- [ChimeHQ/OAuthenticator](https://github.com/ChimeHQ/OAuthenticator) - OAuth 2.1 request authentication
+- [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication
 - [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - An xcodebuild formatter
 - [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
 - [sourcelocation/AirTroller](https://github.com/sourcelocation/AirTroller) - AirDrop spammer / flooder to troll friends
@@ -2681,7 +2681,7 @@
 - [dglancy/porsche-connect](https://github.com/dglancy/porsche-connect) - An unofficial Porsche Connect API library written in Swift
 - [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
-- [ChimeHQ/OAuthenticator](https://github.com/ChimeHQ/OAuthenticator) - OAuth 2.1 request authentication
+- [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [ikalnytskyi/termcolor](https://github.com/ikalnytskyi/termcolor) - Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force.
 - [Esri/arcgis-maps-sdk-swift-samples](https://github.com/Esri/arcgis-maps-sdk-swift-samples) - SwiftUI samples demonstrating various capabilities of ArcGIS Maps SDK for Swift
@@ -5049,7 +5049,7 @@
 - [dankinsoid/SwiftOpenAPI](https://github.com/dankinsoid/SwiftOpenAPI) - Swift library which can generate output compatible with OpenAPI 3.1.0
 - [dankinsoid/VaporToOpenAPI](https://github.com/dankinsoid/VaporToOpenAPI) - OpenAPI specification generator for Vapor based Swift projects.
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
-- [ChimeHQ/OAuthenticator](https://github.com/ChimeHQ/OAuthenticator) - OAuth 2.1 request authentication
+- [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication
 - [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - An xcodebuild formatter
 - [mczachurski/Swiftgger](https://github.com/mczachurski/Swiftgger) - OpenAPI support for server side Swift projects.
 - [kara-lang/Kara](https://github.com/kara-lang/Kara) - An experimental functional programming language with dependent types, inspired by Swift and Idris.
