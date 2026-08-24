@@ -153,6 +153,7 @@
 - [macos](#macos)
 - [malware](#malware)
 - [markdown](#markdown)
+- [mastodon](#mastodon)
 - [material-design](#material-design)
 - [maven](#maven)
 - [mcp](#mcp)
@@ -417,7 +418,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
@@ -445,7 +446,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
@@ -911,7 +912,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm) - ❤️ SQLite ORM light header only library for modern C++
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-- [nanodbc/nanodbc](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API | Requires C++14 since v2.12
+- [nanodbc/nanodbc](https://github.com/nanodbc/nanodbc) - A C++ wrapper for the C ODBC API
 - [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) - Header-only TOML config file parser and serializer for C++17.
 - [p-ranav/indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++
 - [jackguo380/vim-lsp-cxx-highlight](https://github.com/jackguo380/vim-lsp-cxx-highlight) - Vim plugin for C/C++/ObjC semantic highlighting using cquery, ccls, or clangd
@@ -1944,7 +1945,7 @@
 - [Lolendor/LBox](https://github.com/Lolendor/LBox) - A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources, download IPAs, and install/launch apps directly on your device.
 - [claration/Impactor](https://github.com/claration/Impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [dayanch96/Glow](https://github.com/dayanch96/Glow) - A simple, clean, and powerful tweak for Facebook
-- [jailbreakdotparty/PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) - Exploit-less app store downgrader based off of MuffinStore Jailed. Supports iOS 16.4 and later.
+- [jailbreakdotparty/PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) - (EoL/Non-functional) iOS app downgrader based off of MuffinStore Jailed. Supports iOS 16.4 and later.
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [KevinVitale/SwiftSDL](https://github.com/KevinVitale/SwiftSDL) - SDL3 in Swift
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader
@@ -2011,7 +2012,7 @@
 - [SwiftedMind/Puddles](https://github.com/SwiftedMind/Puddles) - A native SwiftUI app architecture
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
-- [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication
+- [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication.
 - [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - An xcodebuild formatter
 - [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
 - [sourcelocation/AirTroller](https://github.com/sourcelocation/AirTroller) - AirDrop spammer / flooder to troll friends
@@ -2681,7 +2682,7 @@
 - [dglancy/porsche-connect](https://github.com/dglancy/porsche-connect) - An unofficial Porsche Connect API library written in Swift
 - [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
-- [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication
+- [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication.
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [ikalnytskyi/termcolor](https://github.com/ikalnytskyi/termcolor) - Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force.
 - [Esri/arcgis-maps-sdk-swift-samples](https://github.com/Esri/arcgis-maps-sdk-swift-samples) - SwiftUI samples demonstrating various capabilities of ArcGIS Maps SDK for Swift
@@ -2872,6 +2873,10 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
 
+## mastodon 
+
+- [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication.
+
 ## material-design 
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2941,7 +2946,6 @@
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
-- [nanodbc/nanodbc](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API | Requires C++14 since v2.12
 
 ## natural-language-processing 
 
@@ -3222,7 +3226,7 @@
 ## others 
 
 - [d1y/cyanide-ios](https://github.com/d1y/cyanide-ios) - iOS tweak runner built on top of the DarkSword kernel r/w exploit
-- [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to 
+- [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final
 - [faroukbmiled/RyukGram](https://github.com/faroukbmiled/RyukGram) - RyukGram, The Instagram tweak for iOS power users.
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [stackotter/swift-miniaudio](https://github.com/stackotter/swift-miniaudio) - A thin MiniAudio wrapper
@@ -4323,7 +4327,7 @@
 - [jtv/libpqxx](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL.
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
-- [nanodbc/nanodbc](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API | Requires C++14 since v2.12
+- [nanodbc/nanodbc](https://github.com/nanodbc/nanodbc) - A C++ wrapper for the C ODBC API
 - [gridaco/grida](https://github.com/gridaco/grida) - Grida — Open Canvas
 - [codewinsdotcom/PostgresClientKit](https://github.com/codewinsdotcom/PostgresClientKit) - A PostgreSQL client library for Swift. Does not require libpq.
 
@@ -5049,7 +5053,7 @@
 - [dankinsoid/SwiftOpenAPI](https://github.com/dankinsoid/SwiftOpenAPI) - Swift library which can generate output compatible with OpenAPI 3.1.0
 - [dankinsoid/VaporToOpenAPI](https://github.com/dankinsoid/VaporToOpenAPI) - OpenAPI specification generator for Vapor based Swift projects.
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
-- [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication
+- [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication.
 - [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - An xcodebuild formatter
 - [mczachurski/Swiftgger](https://github.com/mczachurski/Swiftgger) - OpenAPI support for server side Swift projects.
 - [kara-lang/Kara](https://github.com/kara-lang/Kara) - An experimental functional programming language with dependent types, inspired by Swift and Idris.
@@ -5134,7 +5138,7 @@
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - AST visualizer for Swift source code
-- [ChimeHQ/TextFormation](https://github.com/ChimeHQ/TextFormation) - Rules system for live typing completions
+- [johnrbent/TextFormation](https://github.com/johnrbent/TextFormation) - Rules system for live typing completions
 - [bloomberg/xcdiff](https://github.com/bloomberg/xcdiff) - A tool which helps you diff xcodeproj files.
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 - [ZeeQL/ZeeQL3](https://github.com/ZeeQL/ZeeQL3) - The ZeeQL (EOF/CoreData/AR like) Database Toolkit for Swift
