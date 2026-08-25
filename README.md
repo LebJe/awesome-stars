@@ -532,7 +532,7 @@
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
-- [nanodbc/nanodbc](https://github.com/nanodbc/nanodbc) - A C++ wrapper for the C ODBC API
+- [nanodbc/nanodbc](https://github.com/nanodbc/nanodbc) - C++ ODBC wrapper
 - [eztier/tds-client](https://github.com/eztier/tds-client) - Minimal C++ wrapper for FreeTDS
 - [ToruNiina/toml11](https://github.com/ToruNiina/toml11) - TOML for Modern C++
 - [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) - Header-only TOML config file parser and serializer for C++17.
