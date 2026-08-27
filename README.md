@@ -1871,7 +1871,7 @@
 - [vapor/template](https://github.com/vapor/template) - The default Vapor project template, used by the Vapor Toolbox’s new project command.
 - [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
 - [TradeWithIt/WebSocket](https://github.com/TradeWithIt/WebSocket) - Swift WebSocket client. Works on any platform Linux, Windows, iOS, Android, WASI and more
-- [swift-foundations/swift-pdf](https://github.com/swift-foundations/swift-pdf) - HTML-to-PDF document generation for Swift.
+- [swift-compositions/swift-pdf](https://github.com/swift-compositions/swift-pdf) - HTML-to-PDF document generation for Swift.
 - [SwiftcordApp/SwiftDiscordProtos](https://github.com/SwiftcordApp/SwiftDiscordProtos) - Discord Protobufs, compiled for Swift as a package
 - [joogps/Glur](https://github.com/joogps/Glur) - A library for progressive blurs in SwiftUI.
 - [Sherlouk/Codedeck](https://github.com/Sherlouk/Codedeck) - WIP: A Swift library for interfacing with the Elgato Stream Deck
@@ -1918,7 +1918,7 @@
 - [liamnichols/xcstrings-tool](https://github.com/liamnichols/xcstrings-tool) - A plugin to generate Swift constants for your Strings Catalogs.
 - [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI) - Open source implementation of Apple's SwiftUI.
 - [helbertgs/OpenSwiftUI](https://github.com/helbertgs/OpenSwiftUI) - Open-source framework based on Apple's SwiftUI.
-- [ChimeHQ/ThemePark](https://github.com/ChimeHQ/ThemePark) - A Swift library for working with syntax highlighting/IDE themes
+- [slsrepo/ThemePark](https://github.com/slsrepo/ThemePark) - A Swift library for working with syntax highlighting/IDE themes
 - [CSolanaM/SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - ☠️ Elegant skeleton loading animation in lightweight SwiftUI
 - [lyricalsoul/Plug](https://github.com/lyricalsoul/Plug) - Plugin management library for Swift.
 - [mochidev/HostRouter](https://github.com/mochidev/HostRouter) - A Vapor middleware for including domains in routing
@@ -2200,7 +2200,7 @@
 - [stackotter/swift-mixin](https://github.com/stackotter/swift-mixin) - An intuitive library for hooking functions in Swift.
 - [zydeco/capstone-swift](https://github.com/zydeco/capstone-swift) - Swift bindings for Capstone Engine
 - [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
-- [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - A Swift library for efficient, flexible content-based text styling
+- [slsrepo/Neon](https://github.com/slsrepo/Neon) - A Swift library for efficient, flexible content-based text styling
 - [square/StringTemplate](https://github.com/square/StringTemplate) - Quickly and easily apply a template to a target string.
 - [dduan/TOMLDeserializer](https://github.com/dduan/TOMLDeserializer) - Replaced by https://github.com/dduan/TOMLDecoder
 - [KS1019/SwiftyShell](https://github.com/KS1019/SwiftyShell) - Example implementation of shell in Swift
