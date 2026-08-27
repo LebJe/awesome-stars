@@ -1862,7 +1862,7 @@
 ## html 
 
 - [elementary-swift/elementary](https://github.com/elementary-swift/elementary) - A modern and efficient HTML rendering library - inspired by SwiftUI, built for the web.
-- [swift-foundations/swift-pdf](https://github.com/swift-foundations/swift-pdf) - HTML-to-PDF document generation for Swift.
+- [swift-compositions/swift-pdf](https://github.com/swift-compositions/swift-pdf) - HTML-to-PDF document generation for Swift.
 - [rarestype/swift-dom](https://github.com/rarestype/swift-dom) - taylor’s (not so) famous HTML DSL 👠
 - [BinaryBirds/swift-html](https://github.com/BinaryBirds/swift-html) - This source code is now part of the Swift Web Standards library.
 - [swifweb/web](https://github.com/swifweb/web) - 🧱 Write your website in pure Swift with power of webassembly. DOM, CSS and all the WebAPIs are available out of the box.
@@ -2047,7 +2047,7 @@
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃 Create hand-drawn, sketchy, comic shape in Swift
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
-- [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - A Swift library for efficient, flexible content-based text styling
+- [slsrepo/Neon](https://github.com/slsrepo/Neon) - A Swift library for efficient, flexible content-based text styling
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
 - [robreuss/ElementalController](https://github.com/robreuss/ElementalController) - A lightweight network controller framework in Swift for iOS and Linux, with Raspberry Pi support
@@ -2726,7 +2726,7 @@
 - [Flowductive/easy-firebase](https://github.com/Flowductive/easy-firebase) - 🔥 A Swifty solution for all things Firebase. Quickly implement Firestore and Authentication on iOS + macOS using Swift protocols and methods.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
-- [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - A Swift library for efficient, flexible content-based text styling
+- [slsrepo/Neon](https://github.com/slsrepo/Neon) - A Swift library for efficient, flexible content-based text styling
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
 - [bojan/xcode-one-dark](https://github.com/bojan/xcode-one-dark) - Atom One Dark theme for Xcode
@@ -4982,7 +4982,7 @@
 - [SolaWing/xcode-build-server](https://github.com/SolaWing/xcode-build-server) - a build server protocol implementation for integrate xcode with sourcekit-lsp
 - [liamnichols/xcstrings-tool](https://github.com/liamnichols/xcstrings-tool) - A plugin to generate Swift constants for your Strings Catalogs.
 - [helbertgs/OpenSwiftUI](https://github.com/helbertgs/OpenSwiftUI) - Open-source framework based on Apple's SwiftUI.
-- [ChimeHQ/ThemePark](https://github.com/ChimeHQ/ThemePark) - A Swift library for working with syntax highlighting/IDE themes
+- [slsrepo/ThemePark](https://github.com/slsrepo/ThemePark) - A Swift library for working with syntax highlighting/IDE themes
 - [CSolanaM/SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - ☠️ Elegant skeleton loading animation in lightweight SwiftUI
 - [mochidev/HostRouter](https://github.com/mochidev/HostRouter) - A Vapor middleware for including domains in routing
 - [sliemeobn/ipp-nio](https://github.com/sliemeobn/ipp-nio) - Internet Printing Protocol (IPP) implementation for Swift based on swift-nio.
@@ -5165,7 +5165,7 @@
 - [zydeco/capstone-swift](https://github.com/zydeco/capstone-swift) - Swift bindings for Capstone Engine
 - [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge) - swift-bridge facilitates Rust and Swift interop.
 - [swift-actions/setup-swift](https://github.com/swift-actions/setup-swift) - GitHub Action that setup a Swift environment
-- [ChimeHQ/Neon](https://github.com/ChimeHQ/Neon) - A Swift library for efficient, flexible content-based text styling
+- [slsrepo/Neon](https://github.com/slsrepo/Neon) - A Swift library for efficient, flexible content-based text styling
 - [square/StringTemplate](https://github.com/square/StringTemplate) - Quickly and easily apply a template to a target string.
 - [rvolosatovs/docker-protobuf](https://github.com/rvolosatovs/docker-protobuf) - An all-inclusive protoc Docker image
 - [KS1019/SwiftyShell](https://github.com/KS1019/SwiftyShell) - Example implementation of shell in Swift
