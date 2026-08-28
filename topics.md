@@ -1939,6 +1939,7 @@
 
 ## ios 
 
+- [itzzace/ytkace](https://github.com/itzzace/ytkace) - YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background playback, player controls, and interface customization.
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [rooootdev/lara](https://github.com/rooootdev/lara) - iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19.
 - [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl.
@@ -6133,6 +6134,7 @@
 
 ## youtube 
 
+- [itzzace/ytkace](https://github.com/itzzace/ytkace) - YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background playback, player controls, and interface customization.
 - [b5i/YouTubeKit](https://github.com/b5i/YouTubeKit) - A way to interact with YouTube's internal API in Swift (without any API key!)
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [alexeichhorn/YouTubeKit](https://github.com/alexeichhorn/YouTubeKit) - YouTube video and audio extractor for iOS, watchOS, visionOS, tvOS and macOS
