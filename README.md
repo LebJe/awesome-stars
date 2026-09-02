@@ -730,7 +730,6 @@
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
 - [fmtlib/fmt.dev](https://github.com/fmtlib/fmt.dev) - The {fmt} library website
 - [grpc/grpc.io](https://github.com/grpc/grpc.io) - Repository for the gRPC website and documentation
-- [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - The roadmap for learning the C++ programming language for beginners and experienced devs.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
 - [slebok/zoo](https://github.com/slebok/zoo) - Grammar Zoo
@@ -1328,6 +1327,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) - A pythonic generic language server
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
+- [salmer/CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - The roadmap for learning the C++ programming language for beginners and experienced devs.
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [swiftlang/swift-source-compat-suite](https://github.com/swiftlang/swift-source-compat-suite) - The infrastructure and project index comprising the Swift source compatibility suite.
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
