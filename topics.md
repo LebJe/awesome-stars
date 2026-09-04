@@ -246,6 +246,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [userscript](#userscript)
 - [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -1401,6 +1402,7 @@
 
 ## gaming 
 
+- [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
 - [meetrevision/playbook](https://github.com/meetrevision/playbook) - A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility
 - [natbro/kaon](https://github.com/natbro/kaon) - Tools, and instructions for more easily installing and launching Windows games via Wine or CrossOver  directly in the macOS Steam client
 - [3Shain/dxmt](https://github.com/3Shain/dxmt) - Metal-based implementation of D3D11 and D3D10 for macOS / Wine
@@ -1942,6 +1944,7 @@
 ## ios 
 
 - [itzzace/ytkace](https://github.com/itzzace/ytkace) - YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background playback, player controls, and interface customization.
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [rooootdev/lara](https://github.com/rooootdev/lara) - iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19.
 - [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl.
@@ -2402,7 +2405,7 @@
 - [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - Swift Game Engine supporting Windows, Linux, macOS, HTML5, and more 🚂
 - [tdeleon/Relax](https://github.com/tdeleon/Relax) - Declaratively build and send client requests for REST APIs in Swift.
 - [AdaEngine/AdaEngine](https://github.com/AdaEngine/AdaEngine) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
-- [request-dl/request-dl-nio](https://github.com/request-dl/request-dl-nio) - Simplifies network requests using SwiftNIO with powerful types like DataTask, DownloadTask, and UploadTask.
+- [request-dl/request-dl-nio](https://github.com/request-dl/request-dl-nio) - Simplifies network requests using SwiftNIO or URLSession with powerful types like DataTask, DownloadTask, and UploadTask.
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
 - [ikalnytskyi/termcolor](https://github.com/ikalnytskyi/termcolor) - Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force.
 - [orchetect/swift-radix](https://github.com/orchetect/swift-radix) - Easily convert integers to binary/hex/octal strings and back again with clean functional syntax.
@@ -2620,6 +2623,8 @@
 
 ## macos 
 
+- [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - Official Winehq macOS Packages
@@ -3232,7 +3237,6 @@
 - [d1y/cyanide-ios](https://github.com/d1y/cyanide-ios) - iOS tweak runner built on top of the DarkSword kernel r/w exploit
 - [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final
 - [faroukbmiled/RyukGram](https://github.com/faroukbmiled/RyukGram) - RyukGram, The Instagram tweak for iOS power users.
-- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [stackotter/swift-miniaudio](https://github.com/stackotter/swift-miniaudio) - A thin MiniAudio wrapper
 - [StikDebug/StikPair](https://github.com/StikDebug/StikPair) - A simple SwiftUI iOS app that creates a pairing file on-device.
 - [strykey/orbshacker](https://github.com/strykey/orbshacker) - A professional tool that automatically creates fake game processes for Discord Orb quests without requiring actual game installations. Because who has time to install 500GB games just for some orbs?
@@ -4347,6 +4351,7 @@
 
 ## privacy 
 
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [meetrevision/playbook](https://github.com/meetrevision/playbook) - A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -4901,6 +4906,8 @@
 
 ## swift 
 
+- [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [ryanfrancesconi/spfk-metadata](https://github.com/ryanfrancesconi/spfk-metadata) - Swift based audio metadata I/O library wrapping TagLib via spfk-taglib and Core Audio to provide unified tag reading/writing, marker parsing, and broadcast wave (BEXT) support across common audio form
 - [GraphQLSwift/graphql-vapor](https://github.com/GraphQLSwift/graphql-vapor) - Easily expose GraphQL APIs in Vapor
 - [Lolendor/LBox](https://github.com/Lolendor/LBox) - A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources, download IPAs, and install/launch apps directly on your device.
@@ -5044,7 +5051,7 @@
 - [kciter/GlitchLabel](https://github.com/kciter/GlitchLabel) - G..lit...c...hing UILa..bel fo..r iO...S :tv:
 - [DimaRU/PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo) - Automated Swift Package version and build numbering via Git. A Swift Package Manager build plugin.
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
-- [request-dl/request-dl-nio](https://github.com/request-dl/request-dl-nio) - Simplifies network requests using SwiftNIO with powerful types like DataTask, DownloadTask, and UploadTask.
+- [request-dl/request-dl-nio](https://github.com/request-dl/request-dl-nio) - Simplifies network requests using SwiftNIO or URLSession with powerful types like DataTask, DownloadTask, and UploadTask.
 - [vapor/penny-bot](https://github.com/vapor/penny-bot) - The code that runs Penny 🤖
 - [dglancy/porsche-connect](https://github.com/dglancy/porsche-connect) - An unofficial Porsche Connect API library written in Swift
 - [swiftlang/swiftly](https://github.com/swiftlang/swiftly) - A Swift toolchain installer and manager, written in Swift.
@@ -5479,6 +5486,8 @@
 
 ## swiftui 
 
+- [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [MythicApp/Mythic](https://github.com/MythicApp/Mythic) - An open-source macOS game launcher with the ability to play Windows games through a custom implementation of Apple's Game Porting Toolkit, with support for multiple storefronts.
 - [plyght/brie](https://github.com/plyght/brie) - brie is a webkit browser with tree-style tabs
 - [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui) - Build SwiftUI-style apps that run in the browser
@@ -5812,6 +5821,10 @@
 - [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 - [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 - [nordtheme/vim](https://github.com/nordtheme/vim) - An arctic, north-bluish clean and elegant Vim theme.
+
+## userscript 
+
+- [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 
 ## video 
 
