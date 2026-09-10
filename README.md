@@ -374,7 +374,6 @@
 - [panicinc/icarus](https://github.com/panicinc/icarus) - Swift, C, C++, and Objective-C Support for Nova
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [ctreffs/SwiftImGui](https://github.com/ctreffs/SwiftImGui) - Swift wrapper around Dear imgui for macOS, iOS, Linux and Windows
-- [AdaEngine/AdaEngine](https://github.com/AdaEngine/AdaEngine) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
 - [DimaRU/qlift6](https://github.com/DimaRU/qlift6) - Swift API for Qt6
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [SpartanJ/efsw](https://github.com/SpartanJ/efsw) - efsw is a C++ cross-platform file system watcher and notifier.
@@ -1745,6 +1744,7 @@
 
 ## Swift 
 
+- [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [StikDebug/StikPair](https://github.com/StikDebug/StikPair) - A simple SwiftUI iOS app that creates a pairing file on-device.
@@ -2007,6 +2007,7 @@
 - [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation) - The Foundation project
 - [migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - New Godot bindings for Swift
 - [BikeCalc/swift-measures](https://github.com/BikeCalc/swift-measures) - A Swift package for defining, converting, and composing units of measure.
+- [AdaEngine/AdaEngine](https://github.com/AdaEngine/AdaEngine) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
 - [SwiftedMind/Puddles](https://github.com/SwiftedMind/Puddles) - A native SwiftUI app architecture
 - [kciter/GlitchLabel](https://github.com/kciter/GlitchLabel) - G..lit...c...hing UILa..bel fo..r iO...S :tv:
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
