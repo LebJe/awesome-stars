@@ -186,6 +186,7 @@
 - [lunarmodules/luafilesystem](https://github.com/lunarmodules/luafilesystem) - LuaFileSystem is a Lua library developed to complement the set of functions related to file systems offered by the standard Lua distribution.
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
 - [jdah/minecraft-again](https://github.com/jdah/minecraft-again) - yeah I made it again
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [mitchellh/tree-sitter-proto](https://github.com/mitchellh/tree-sitter-proto) - A tree-sitter grammar for protocol buffer files (proto3).
 - [nih-at/libzip](https://github.com/nih-at/libzip) - A C library for reading, creating, and modifying zip archives.
 - [Automotive-Swift/Swift-SocketCAN](https://github.com/Automotive-Swift/Swift-SocketCAN) - Access the Linux SocketCAN API via Swift
@@ -742,7 +743,6 @@
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [davedelong/calendar_fallacies](https://github.com/davedelong/calendar_fallacies) - yourcalendricalfallacyis.com
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 
 ## Haml 
 
@@ -1086,7 +1086,6 @@
 
 ## OCaml 
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 
 ## Objective-C 
@@ -1781,7 +1780,7 @@
 - [KevinVitale/SwiftSDL](https://github.com/KevinVitale/SwiftSDL) - SDL3 in Swift
 - [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui) - Build SwiftUI-style apps that run in the browser
 - [LiveContainer/SideStore](https://github.com/LiveContainer/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer. This repo contains codes that allow SideStore to function when bundled with LiveContainer. See LiveContainerSupport branch.
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+- [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [reers/ReerJSON](https://github.com/reers/ReerJSON) - A faster version of JSONDecoder and JSONEncoder powered by yyjson
 - [FlineDev/ErrorKit](https://github.com/FlineDev/ErrorKit) - Simplified error handling with built-in user-friendly messages for common errors. Fully localized. Community-driven.
 - [ibrahimcetin/SwiftGitX](https://github.com/ibrahimcetin/SwiftGitX) - A modern Swift wrapper for libgit2 that brings Git operations to Swift apps.
@@ -1832,7 +1831,7 @@
 - [costachung/neumorphic](https://github.com/costachung/neumorphic) - 🚀Neumorphic is a SwiftUI utility to build Neumorphism Soft UI (supports both *outer shadow and *inner shadow)
 - [iCharlesHu/Subprocess](https://github.com/iCharlesHu/Subprocess) - A cross-platform package for spawning processes in Swift.  It's like Foundation.Process, but written for Swift and build on top of structural concurrency.
 - [pointfreeco/swift-sharing](https://github.com/pointfreeco/swift-sharing) - A universal solution to persistence and data sharing in surprisingly little code.
-- [ajevans99/swift-json-schema](https://github.com/ajevans99/swift-json-schema) - Generate JSON Schema documents from Swift
+- [ajevans99/swift-json-schema](https://github.com/ajevans99/swift-json-schema) - Generate, parse, and validate JSON Schema in Swift
 - [apple/swift-nio-imap](https://github.com/apple/swift-nio-imap) - A Swift project that provides an implementation of the IMAP4rev1 protocol, built upon SwiftNIO.
 - [PADL/AndroidLogging](https://github.com/PADL/AndroidLogging) - Swift logging backend for Android
 - [apple/swift-container-plugin](https://github.com/apple/swift-container-plugin) - Build and publish container images using Swift Package Manager
@@ -2777,6 +2776,7 @@
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [apexskier/nova-typescript](https://github.com/apexskier/nova-typescript) - Typescript support for Nova
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) - Upload files to a GitHub release
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [weirongxu/coc-explorer](https://github.com/weirongxu/coc-explorer) - 📁 Explorer for coc.nvim
 - [fannheyward/coc-marketplace](https://github.com/fannheyward/coc-marketplace) - coc.nvim extensions marketplace
 - [josa42/coc-go](https://github.com/josa42/coc-go) - Go language server extension using gopls for coc.nvim.
