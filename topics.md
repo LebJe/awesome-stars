@@ -1246,7 +1246,6 @@
 ## emoji 
 
 - [annexare/Countries](https://github.com/annexare/Countries) - Countries, Languages & Continents data (capital and currency, native name, calling codes).
-- [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 ## emulator 
@@ -1508,7 +1507,6 @@
 
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
-- [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
@@ -1565,7 +1563,6 @@
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [htfy96/logalign](https://github.com/htfy96/logalign) - Command-line tool to annotate log lines with links to their definitons and argument expression.
-- [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
@@ -3464,6 +3461,7 @@
 - [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters for Neovim with Tree-sitter
 - [hylo-lang/Swifty-LLVM](https://github.com/hylo-lang/Swifty-LLVM) - Swifty interface for the LLVM compiler infrastructure.
 - [koliyo/hylo-lsp](https://github.com/koliyo/hylo-lsp) - LSP server and VS Code extesion for the hylo programming language
+- [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) - Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!
 - [carlynorama/SerialSessionUI](https://github.com/carlynorama/SerialSessionUI) - 
 - [carlynorama/SerialSession](https://github.com/carlynorama/SerialSession) - 
@@ -5287,6 +5285,7 @@
 - [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
 - [klaaspieter/coc-sourcekit](https://github.com/klaaspieter/coc-sourcekit) - Swift language server extension using sourcekit-lsp for coc.nvim.
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [Quick/Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C
 - [Quick/Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
 - [MaxDesiatov/Typology](https://github.com/MaxDesiatov/Typology) - Swift type checking and semantic analysis for developer tools
@@ -5570,6 +5569,7 @@
 - [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for UIKit and SwiftUI.
 - [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [rundfunk47/stinsen](https://github.com/rundfunk47/stinsen) - Coordinators in SwiftUI. Simple, powerful and elegant.
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [siteline/swiftui-introspect](https://github.com/siteline/swiftui-introspect) - Introspect underlying UIKit/AppKit components from SwiftUI
