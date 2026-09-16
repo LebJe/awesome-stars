@@ -1743,6 +1743,7 @@
 
 ## Swift 
 
+- [swift-server/swift-http-server](https://github.com/swift-server/swift-http-server) - 
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
@@ -2193,7 +2194,7 @@
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃 Create hand-drawn, sketchy, comic shape in Swift
 - [shareup/wasm-interpreter-apple](https://github.com/shareup/wasm-interpreter-apple) - 
-- [mattmassicotte/DebugAdapterProtocol](https://github.com/mattmassicotte/DebugAdapterProtocol) - Swift library for working with Debug Adapter Protocol (DAP)
+- [johnrbent/DebugAdapterProtocol](https://github.com/johnrbent/DebugAdapterProtocol) - Swift library for working with Debug Adapter Protocol (DAP)
 - [stackotter/swift-css-parser](https://github.com/stackotter/swift-css-parser) - A lightweight CSS parser for parsing and creating CSS stylesheets
 - [madmachineio/MadDrivers](https://github.com/madmachineio/MadDrivers) - MadMachine drivers for sensors and other devices based on SwiftIO
 - [madmachineio/SwiftIO](https://github.com/madmachineio/SwiftIO) - A Swift framework for microcontrollers abstraction layer.
