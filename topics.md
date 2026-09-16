@@ -3232,6 +3232,7 @@
 
 ## others 
 
+- [swift-server/swift-http-server](https://github.com/swift-server/swift-http-server) - 
 - [d1y/cyanide-ios](https://github.com/d1y/cyanide-ios) - iOS tweak runner built on top of the DarkSword kernel r/w exploit
 - [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final
 - [faroukbmiled/RyukGram](https://github.com/faroukbmiled/RyukGram) - RyukGram, The Instagram tweak for iOS power users.
@@ -5167,7 +5168,7 @@
 - [Flowductive/easy-firebase](https://github.com/Flowductive/easy-firebase) - 🔥 A Swifty solution for all things Firebase. Quickly implement Firestore and Authentication on iOS + macOS using Swift protocols and methods.
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃 Create hand-drawn, sketchy, comic shape in Swift
-- [mattmassicotte/DebugAdapterProtocol](https://github.com/mattmassicotte/DebugAdapterProtocol) - Swift library for working with Debug Adapter Protocol (DAP)
+- [johnrbent/DebugAdapterProtocol](https://github.com/johnrbent/DebugAdapterProtocol) - Swift library for working with Debug Adapter Protocol (DAP)
 - [stackotter/swift-css-parser](https://github.com/stackotter/swift-css-parser) - A lightweight CSS parser for parsing and creating CSS stylesheets
 - [alchemy-swift/alchemy](https://github.com/alchemy-swift/alchemy) - Modern, batteries included web framework for Swift.
 - [stackotter/swift-mixin](https://github.com/stackotter/swift-mixin) - An intuitive library for hooking functions in Swift.
