@@ -3232,6 +3232,7 @@
 
 ## others 
 
+- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Powerful menu bar manager for macOS
 - [swift-server/swift-http-server](https://github.com/swift-server/swift-http-server) - 
 - [d1y/cyanide-ios](https://github.com/d1y/cyanide-ios) - iOS tweak runner built on top of the DarkSword kernel r/w exploit
 - [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final
