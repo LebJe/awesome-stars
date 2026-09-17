@@ -594,6 +594,7 @@
 
 - [lumen-oss/luanox](https://github.com/lumen-oss/luanox) - Modern hosting for Lua libraries. Fast, reliable, secure.
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
+- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
 ## Emacs Lisp 
@@ -1743,6 +1744,7 @@
 
 ## Swift 
 
+- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Powerful menu bar manager for macOS
 - [swift-server/swift-http-server](https://github.com/swift-server/swift-http-server) - 
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
@@ -2448,7 +2450,6 @@
 - [michaelnisi/skull](https://github.com/michaelnisi/skull) - Swift SQLite
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [helje5/SwiftyWasmer](https://github.com/helje5/SwiftyWasmer) - A Swift API for the Wasmer WebAssembly Runtime
-- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [DeclarativeHub/ReactiveKit](https://github.com/DeclarativeHub/ReactiveKit) - A Swift Reactive Programming Kit
 - [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
 - [danger/swift](https://github.com/danger/swift) - ⚠️ Stop saying "you forgot to …" in code review
