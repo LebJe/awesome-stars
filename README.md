@@ -307,7 +307,7 @@
 
 ## C# # 
 
-- [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
+- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
 - [Esri/developer-support](https://github.com/Esri/developer-support) - Proof of concept developer code and samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…). The repository is designed to be an exchange for sharing codin
 - [Paliverse/DualSenseX](https://github.com/Paliverse/DualSenseX) - Connect your DualSense Controller, use Adaptive Triggers, Emulate Xbox 360 or DualShock 4 through USB or Bluetooth on PC
 - [schmaldeo/DS4Windows](https://github.com/schmaldeo/DS4Windows) - DS4Windows but improved
@@ -1440,7 +1440,7 @@
 
 - [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
 - [plyght/wax](https://github.com/plyght/wax) - wax is a fast Homebrew-compatible package manager, built in Rust.
-- [claration/Impactor](https://github.com/claration/Impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
+- [claration/impactor](https://github.com/claration/impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and Big Headers™
@@ -1743,7 +1743,7 @@
 
 ## Swift 
 
-- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Powerful menu bar manager for macOS
+- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Ice — free & open-source menu bar manager for macOS. Hide and organize menu bar icons (best free Bartender / Hidden Bar / Vanilla alternative) with Ice Bar, hotkeys, themes & notch support.
 - [swift-server/swift-http-server](https://github.com/swift-server/swift-http-server) - 
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
@@ -1814,8 +1814,8 @@
 - [tuist/Noora](https://github.com/tuist/Noora) - 🎨 A design system for Swift CLIs and Phoenix apps
 - [sunlubo/SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg) - A Swift wrapper for the FFmpeg API
 - [kewlbear/YoutubeDL-iOS](https://github.com/kewlbear/YoutubeDL-iOS) - Swift package of youtube_dl python module for iOS
-- [claration/Feather](https://github.com/claration/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
-- [claration/Protokolle](https://github.com/claration/Protokolle) - The iOS/iPadOS equivalent to macOS's Console.app, for stock devices.
+- [claration/feather](https://github.com/claration/feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+- [claration/protokolle](https://github.com/claration/protokolle) - The iOS/iPadOS equivalent to macOS's Console.app, for stock devices.
 - [kewlbear/FFmpeg-iOS](https://github.com/kewlbear/FFmpeg-iOS) - Swift package of FFmpeg libraries for iOS
 - [kewlbear/YoutubeDL](https://github.com/kewlbear/YoutubeDL) - An iOS app using youtube-dl Python module with PythonKit Swift package
 - [rational-kunal/BlinkUI](https://github.com/rational-kunal/BlinkUI) - Terminal UI framework inspired from SwiftUI
@@ -2029,7 +2029,7 @@
 - [gonzalonunez/docc-gpt](https://github.com/gonzalonunez/docc-gpt) - 🧹 Self-documenting Swift code with GPT and DocC
 - [dankinsoid/VaporToOpenAPI](https://github.com/dankinsoid/VaporToOpenAPI) - OpenAPI specification generator for Vapor based Swift projects.
 - [johnno1962/DLKit](https://github.com/johnno1962/DLKit) - A rather subscript oriented interface to the dynamic linker.
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication.
 - [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - An xcodebuild formatter
 - [mczachurski/Swiftgger](https://github.com/mczachurski/Swiftgger) - OpenAPI support for server side Swift projects.
