@@ -1851,7 +1851,7 @@
 - [2ykwang/mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - TUI macOS cleaner that scans caches/logs, shows sizes/paths, lets you select what to delete before Trash.
 - [plyght/wax](https://github.com/plyght/wax) - wax is a fast Homebrew-compatible package manager, built in Rust.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [Homebrew/formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) - 🏎 An online formulae browser for Homebrew
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 - [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
@@ -1947,7 +1947,7 @@
 - [rooootdev/lara](https://github.com/rooootdev/lara) - iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19.
 - [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl.
 - [Lolendor/LBox](https://github.com/Lolendor/LBox) - A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources, download IPAs, and install/launch apps directly on your device.
-- [claration/Impactor](https://github.com/claration/Impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
+- [claration/impactor](https://github.com/claration/impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [dayanch96/Glow](https://github.com/dayanch96/Glow) - A simple, clean, and powerful tweak for Facebook
 - [jailbreakdotparty/PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) - (EoL/Non-functional) iOS app downgrader based off of MuffinStore Jailed. Supports iOS 16.4 and later.
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
@@ -1970,8 +1970,8 @@
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
 - [kewlbear/YoutubeDL-iOS](https://github.com/kewlbear/YoutubeDL-iOS) - Swift package of youtube_dl python module for iOS
-- [claration/Feather](https://github.com/claration/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
-- [claration/Protokolle](https://github.com/claration/Protokolle) - The iOS/iPadOS equivalent to macOS's Console.app, for stock devices.
+- [claration/feather](https://github.com/claration/feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+- [claration/protokolle](https://github.com/claration/protokolle) - The iOS/iPadOS equivalent to macOS's Console.app, for stock devices.
 - [kewlbear/FFmpeg-iOS](https://github.com/kewlbear/FFmpeg-iOS) - Swift package of FFmpeg libraries for iOS
 - [kewlbear/YoutubeDL](https://github.com/kewlbear/YoutubeDL) - An iOS app using youtube-dl Python module with PythonKit Swift package
 - [sinceohsix/lcdl-repo](https://github.com/sinceohsix/lcdl-repo) - An app downloader for LiveContainer built in iOS Shortcuts.
@@ -2591,6 +2591,7 @@
 
 ## mac 
 
+- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Ice — free & open-source menu bar manager for macOS. Hide and organize menu bar icons (best free Bartender / Hidden Bar / Vanilla alternative) with Ice Bar, hotkeys, themes & notch support.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [plyght/wax](https://github.com/plyght/wax) - wax is a fast Homebrew-compatible package manager, built in Rust.
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) - A Custom Client for iPhone, iPad, and Mac
@@ -2621,7 +2622,7 @@
 
 ## macos 
 
-- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Powerful menu bar manager for macOS
+- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Ice — free & open-source menu bar manager for macOS. Hide and organize menu bar icons (best free Bartender / Hidden Bar / Vanilla alternative) with Ice Bar, hotkeys, themes & notch support.
 - [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
@@ -2689,7 +2690,7 @@
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)
 - [dglancy/porsche-connect](https://github.com/dglancy/porsche-connect) - An unofficial Porsche Connect API library written in Swift
 - [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication.
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [ikalnytskyi/termcolor](https://github.com/ikalnytskyi/termcolor) - Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force.
@@ -3170,6 +3171,7 @@
 
 ## open-source 
 
+- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Ice — free & open-source menu bar manager for macOS. Hide and organize menu bar icons (best free Bartender / Hidden Bar / Vanilla alternative) with Ice Bar, hotkeys, themes & notch support.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 - [helbertgs/OpenSwiftUI](https://github.com/helbertgs/OpenSwiftUI) - Open-source framework based on Apple's SwiftUI.
@@ -3253,7 +3255,7 @@
 - [StikDebug/altdirect](https://github.com/StikDebug/altdirect) - AltDirect™: An easy way to redirect AltSource urls to your favorite applications!
 - [skiptools/skipstone](https://github.com/skiptools/skipstone) - The skip tool that powers the skip CLI and the skipstone SwiftPM plugin
 - [ra1ncord/RainTweak](https://github.com/ra1ncord/RainTweak) - 
-- [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
+- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
 - [Anywhere-Music-Player/SwiftTagLib.cpp](https://github.com/Anywhere-Music-Player/SwiftTagLib.cpp) - Swift library for reading and writing audio file metadata, powered by TagLib (via C++ interop).
 - [taglib/taglib](https://github.com/taglib/taglib) - TagLib Audio Meta-Data Library
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
@@ -4361,6 +4363,7 @@
 
 ## productivity 
 
+- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Ice — free & open-source menu bar manager for macOS. Hide and organize menu bar icons (best free Bartender / Hidden Bar / Vanilla alternative) with Ice Bar, hotkeys, themes & notch support.
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [tanin47/tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
 - [deseven/iCanHazShortcut](https://github.com/deseven/iCanHazShortcut) - simple shortcut manager for macOS
@@ -4907,7 +4910,7 @@
 
 ## swift 
 
-- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Powerful menu bar manager for macOS
+- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Ice — free & open-source menu bar manager for macOS. Hide and organize menu bar icons (best free Bartender / Hidden Bar / Vanilla alternative) with Ice Bar, hotkeys, themes & notch support.
 - [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [ryanfrancesconi/spfk-metadata](https://github.com/ryanfrancesconi/spfk-metadata) - Swift based audio metadata I/O library wrapping TagLib via spfk-taglib and Core Audio to provide unified tag reading/writing, marker parsing, and broadcast wave (BEXT) support across common audio form
@@ -5064,7 +5067,7 @@
 - [cfilipov/TextTable](https://github.com/cfilipov/TextTable) - Swift package for easily rendering text tables. Inspired by the Python tabulate library.
 - [dankinsoid/SwiftOpenAPI](https://github.com/dankinsoid/SwiftOpenAPI) - Swift library which can generate output compatible with OpenAPI 3.1.0
 - [dankinsoid/VaporToOpenAPI](https://github.com/dankinsoid/VaporToOpenAPI) - OpenAPI specification generator for Vapor based Swift projects.
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [ATProtoKit/OAuthenticator](https://github.com/ATProtoKit/OAuthenticator) - OAuth 2.1 request authentication.
 - [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - An xcodebuild formatter
 - [mczachurski/Swiftgger](https://github.com/mczachurski/Swiftgger) - OpenAPI support for server side Swift projects.
@@ -5489,7 +5492,7 @@
 
 ## swiftui 
 
-- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Powerful menu bar manager for macOS
+- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Ice — free & open-source menu bar manager for macOS. Hide and organize menu bar icons (best free Bartender / Hidden Bar / Vanilla alternative) with Ice Bar, hotkeys, themes & notch support.
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
@@ -5533,7 +5536,7 @@
 - [SwiftedMind/Puddles](https://github.com/SwiftedMind/Puddles) - A native SwiftUI app architecture
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual
 - [Esri/arcgis-maps-sdk-swift-toolkit](https://github.com/Esri/arcgis-maps-sdk-swift-toolkit) - Mapping components that will simplify your Swift app development with the ArcGIS Maps SDK for Swift.
 - [Esri/arcgis-maps-sdk-swift-samples](https://github.com/Esri/arcgis-maps-sdk-swift-samples) - SwiftUI samples demonstrating various capabilities of ArcGIS Maps SDK for Swift
