@@ -1743,6 +1743,7 @@
 
 ## Swift 
 
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [cavaldos/Ice](https://github.com/cavaldos/Ice) - Ice — free & open-source menu bar manager for macOS. Hide and organize menu bar icons (best free Bartender / Hidden Bar / Vanilla alternative) with Ice Bar, hotkeys, themes & notch support.
 - [swift-server/swift-http-server](https://github.com/swift-server/swift-http-server) - 
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
