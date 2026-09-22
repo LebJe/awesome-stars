@@ -1109,6 +1109,7 @@
 
 ## discord 
 
+- [SakuraCordApp/SakuraCord](https://github.com/SakuraCordApp/SakuraCord) - A native macOS Discord client written in Swift and SwiftUI.
 - [M1tsumi/SwiftDisc](https://github.com/M1tsumi/SwiftDisc) - SwiftDisc is a lightweight, native Swift library designed for building powerful Discord bots on iOS and macOS
 - [enderice2/rpc-bridge](https://github.com/enderice2/rpc-bridge) - Enable Rich Presence between your Wine applications and the native Discord client on Linux and macOS.
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
@@ -2591,7 +2592,6 @@
 
 ## mac 
 
-- [cavaldos/Ice](https://github.com/cavaldos/Ice) - Ice — free & open-source menu bar manager for macOS. Hide and organize menu bar icons (best free Bartender / Hidden Bar / Vanilla alternative) with Ice Bar, hotkeys, themes & notch support.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [plyght/wax](https://github.com/plyght/wax) - wax is a fast Homebrew-compatible package manager, built in Rust.
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) - A Custom Client for iPhone, iPad, and Mac
@@ -2622,6 +2622,7 @@
 
 ## macos 
 
+- [SakuraCordApp/SakuraCord](https://github.com/SakuraCordApp/SakuraCord) - A native macOS Discord client written in Swift and SwiftUI.
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [cavaldos/Ice](https://github.com/cavaldos/Ice) - Ice — free & open-source menu bar manager for macOS. Hide and organize menu bar icons (best free Bartender / Hidden Bar / Vanilla alternative) with Ice Bar, hotkeys, themes & notch support.
 - [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
@@ -4911,6 +4912,7 @@
 
 ## swift 
 
+- [SakuraCordApp/SakuraCord](https://github.com/SakuraCordApp/SakuraCord) - A native macOS Discord client written in Swift and SwiftUI.
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [cavaldos/Ice](https://github.com/cavaldos/Ice) - Ice — free & open-source menu bar manager for macOS. Hide and organize menu bar icons (best free Bartender / Hidden Bar / Vanilla alternative) with Ice Bar, hotkeys, themes & notch support.
 - [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
@@ -5494,6 +5496,7 @@
 
 ## swiftui 
 
+- [SakuraCordApp/SakuraCord](https://github.com/SakuraCordApp/SakuraCord) - A native macOS Discord client written in Swift and SwiftUI.
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [cavaldos/Ice](https://github.com/cavaldos/Ice) - Ice — free & open-source menu bar manager for macOS. Hide and organize menu bar icons (best free Bartender / Hidden Bar / Vanilla alternative) with Ice Bar, hotkeys, themes & notch support.
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
