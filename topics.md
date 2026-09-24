@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
@@ -284,6 +285,10 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [gridaco/grida](https://github.com/gridaco/grida) - Grida — Open Canvas
+
+## ai-agent 
+
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## ai-agents 
 
@@ -940,6 +945,7 @@
 
 ## csharp 
 
+- [davetimmins/Anywhere.ArcGIS](https://github.com/davetimmins/Anywhere.ArcGIS) - :earth_asia: Use ArcGIS Server REST resources without an official SDK.
 - [yaegassy/coc-csharp-ls](https://github.com/yaegassy/coc-csharp-ls) - csharp-language-server (csharp-ls) extension for coc.nvim
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) - OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
@@ -1183,6 +1189,7 @@
 
 ## dotnet 
 
+- [davetimmins/Anywhere.ArcGIS](https://github.com/davetimmins/Anywhere.ArcGIS) - :earth_asia: Use ArcGIS Server REST resources without an official SDK.
 - [Esri/arcgis-pro-sdk-community-samples](https://github.com/Esri/arcgis-pro-sdk-community-samples) - ArcGIS Pro SDK for Microsoft .NET Framework Community Samples
 - [Esri/arcgis-pro-sdk](https://github.com/Esri/arcgis-pro-sdk) - ArcGIS Pro SDK for Microsoft .NET is the new .NET SDK for the ArcGIS Pro Application.
 - [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) - OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
