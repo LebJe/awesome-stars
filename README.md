@@ -308,8 +308,9 @@
 
 ## C# # 
 
+- [serilog/serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events
 - [davetimmins/Anywhere.ArcGIS](https://github.com/davetimmins/Anywhere.ArcGIS) - :earth_asia: Use ArcGIS Server REST resources without an official SDK.
-- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
+- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Flyoobe is the Control Panel for setting up Windows
 - [Esri/developer-support](https://github.com/Esri/developer-support) - Proof of concept developer code and samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…). The repository is designed to be an exchange for sharing codin
 - [Paliverse/DualSenseX](https://github.com/Paliverse/DualSenseX) - Connect your DualSense Controller, use Adaptive Triggers, Emulate Xbox 360 or DualShock 4 through USB or Bluetooth on PC
 - [schmaldeo/DS4Windows](https://github.com/schmaldeo/DS4Windows) - DS4Windows but improved
@@ -1129,7 +1130,7 @@
 
 ## Objective-C++ 
 
-- [itzzace/ytkace](https://github.com/itzzace/ytkace) - YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background playback, player controls, and interface customization.
+- [itzzace/ytkace](https://github.com/itzzace/ytkace) - YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background playback, player controls, and interface customization including liquid glass.
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 
 ## Others 
@@ -2242,7 +2243,6 @@
 - [nicklockwood/ShapeScript](https://github.com/nicklockwood/ShapeScript) - The ShapeScript 3D modeling app for macOS and iOS
 - [swiftui-library/action-button](https://github.com/swiftui-library/action-button) - 
 - [swiftlang/swift-docc-plugin](https://github.com/swiftlang/swift-docc-plugin) - Swift Package Manager command plugin for Swift-DocC
-- [valentinradu/Helm](https://github.com/valentinradu/Helm) - A graph-based SwiftUI router
 - [dduan/Markra](https://github.com/dduan/Markra) - An open-source Markdown-to-JIRA syntax editor written in SwiftUI for macOS
 - [swiftui-library/hstack-snap-to-scroll](https://github.com/swiftui-library/hstack-snap-to-scroll) - Easy-to-use HStack that snaps to elements on scroll.
 - [attaswift/BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic in pure Swift
