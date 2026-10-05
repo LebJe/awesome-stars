@@ -263,6 +263,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [xcode](#xcode)
 - [xml](#xml)
@@ -322,7 +323,7 @@
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
-- [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
+- [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
 - [PureSwift/AndroidSwiftUI](https://github.com/PureSwift/AndroidSwiftUI) - SwiftUI for Android
 - [PureSwift/Android](https://github.com/PureSwift/Android) - Swift library for Android
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
@@ -1870,6 +1871,7 @@
 
 ## html 
 
+- [StikDebug/altdirect](https://github.com/StikDebug/altdirect) - AltDirect™: An easy way to redirect AltSource urls to your favorite applications!
 - [elementary-swift/elementary](https://github.com/elementary-swift/elementary) - A modern and efficient HTML rendering library - inspired by SwiftUI, built for the web.
 - [swift-compositions/swift-pdf](https://github.com/swift-compositions/swift-pdf) - HTML-to-PDF document generation for Swift.
 - [rarestype/swift-dom](https://github.com/rarestype/swift-dom) - taylor’s (not so) famous HTML DSL 👠
@@ -1952,6 +1954,7 @@
 - [itzzace/ytkace](https://github.com/itzzace/ytkace) - YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background playback, player controls, and interface customization including liquid glass.
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
+- [StikDebug/altdirect](https://github.com/StikDebug/altdirect) - AltDirect™: An easy way to redirect AltSource urls to your favorite applications!
 - [rooootdev/lara](https://github.com/rooootdev/lara) - iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19.
 - [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT) - SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl.
 - [Lolendor/LBox](https://github.com/Lolendor/LBox) - A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources, download IPAs, and install/launch apps directly on your device.
@@ -2603,7 +2606,7 @@
 - [plyght/wax](https://github.com/plyght/wax) - wax is a fast Homebrew-compatible package manager, built in Rust.
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) - A Custom Client for iPhone, iPad, and Mac
 - [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native (WebKit) macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
 - [Uncommon/Xit](https://github.com/Uncommon/Xit) - Mac OS X Git GUI
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
@@ -2662,7 +2665,7 @@
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [voxa-org/Voxa](https://github.com/voxa-org/Voxa) - A sleek, native (WebKit) macOS Discord client built with SwiftUI. Fast, lightweight, and designed for seamless communication.
 - [Zaloog/blueutil-tui](https://github.com/Zaloog/blueutil-tui) - tui for Mac to interact with bluetooth devices via blueutil
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [Uncommon/Xit](https://github.com/Uncommon/Xit) - Mac OS X Git GUI
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
@@ -3244,6 +3247,7 @@
 
 ## others 
 
+- [LiveContainerMirror/LiveContainer](https://github.com/LiveContainerMirror/LiveContainer) - Run iOS apps without actually installing them!
 - [serilog/serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events
 - [swift-server/swift-http-server](https://github.com/swift-server/swift-http-server) - 
 - [d1y/cyanide-ios](https://github.com/d1y/cyanide-ios) - iOS tweak runner built on top of the DarkSword kernel r/w exploit
@@ -3262,7 +3266,6 @@
 - [kateinoigakukun/swift-tar](https://github.com/kateinoigakukun/swift-tar) - A pure Swift library for reading and writing TAR archives
 - [jaydenjcpy/YouMod](https://github.com/jaydenjcpy/YouMod) - 
 - [Tonwalter888/YouMod](https://github.com/Tonwalter888/YouMod) - A YouTube tweak that try to make similar features from YTLite as much as possible.
-- [StikDebug/altdirect](https://github.com/StikDebug/altdirect) - AltDirect™: An easy way to redirect AltSource urls to your favorite applications!
 - [skiptools/skipstone](https://github.com/skiptools/skipstone) - The skip tool that powers the skip CLI and the skipstone SwiftPM plugin
 - [ra1ncord/RainTweak](https://github.com/ra1ncord/RainTweak) - 
 - [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Flyoobe is the Control Panel for setting up Windows
@@ -3292,8 +3295,6 @@
 - [6over3/PerlKit](https://github.com/6over3/PerlKit) - An embeddable Perl 5 interpreter for Swift
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
-- [LiveContainer/SideStore](https://github.com/LiveContainer/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer. This repo contains codes that allow SideStore to function when bundled with LiveContainer. See LiveContainerSupport branch.
-- [khanhduytran0/SparseBox](https://github.com/khanhduytran0/SparseBox) - On-device toolbox?
 - [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 - [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) - Apple cctools port for Linux and *BSD
 - [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn) - iOS tweak for Apollo Reddit app - use your own API keys, unlocked Ultra features, and other enhancements
@@ -3337,7 +3338,6 @@
 - [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility
 - [wine-mono/wine-mono](https://github.com/wine-mono/wine-mono) - 
 - [jkcoxson/idevice_pair](https://github.com/jkcoxson/idevice_pair) - Generate pair records for iOS and save them
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [SideStore/StosVPN](https://github.com/SideStore/StosVPN) - A VPN that works with SideStore and StikJIT. that supports being offline and much stabler then WireGuard
 - [zotify-dev/zotify](https://github.com/zotify-dev/zotify) - A fast and customizable music and podcast downloader.
 - [swiftlang/swift-subprocess](https://github.com/swiftlang/swift-subprocess) - Subprocess is a cross-platform package for spawning processes in Swift.
@@ -3548,7 +3548,6 @@
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [freddi-kit/ArtifactBundleGen](https://github.com/freddi-kit/ArtifactBundleGen) - 
 - [cooklang/cooklang-swift](https://github.com/cooklang/cooklang-swift) - Cooklang parser implementation in Swift
-- [cooklang/cookcli](https://github.com/cooklang/cookcli) - Recipe Management CLI + embedded web-server in one binary
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [pointfreeco/swift-navigation](https://github.com/pointfreeco/swift-navigation) - Bringing simple and powerful navigation tools to all Swift platforms, inspired by SwiftUI.
@@ -4006,7 +4005,6 @@
 - [MihaelIsaev/SwifCron](https://github.com/MihaelIsaev/SwifCron) - ⏱Simple pure swift cron expression parser
 - [jariz/Akku](https://github.com/jariz/Akku) - Experimental bluetooth headset battery monitoring application for MacOS
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [plarson/WKCodable](https://github.com/plarson/WKCodable) - Well-Known Binary & Text Encoding/Decoding for Swift
@@ -4633,6 +4631,7 @@
 - [pls-rs/pls](https://github.com/pls-rs/pls) - pls is a prettier and powerful ls(1) for the pros.
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+- [cooklang/cookcli](https://github.com/cooklang/cookcli) - Recipe Management CLI + embedded web-server in one binary
 - [orhnk/RASCII](https://github.com/orhnk/RASCII) - Advanced image to ASCII art tool & crate written in Rust 🦀🚀
 - [ChimeHQ/chime-rust](https://github.com/ChimeHQ/chime-rust) - A Chime extension for Rust
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -6099,6 +6098,18 @@
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## windows-11 
+
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
+- [meetrevision/playbook](https://github.com/meetrevision/playbook) - A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility
+- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+- [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## wordpress 
 
