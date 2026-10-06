@@ -105,6 +105,7 @@
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [stackotter/swift-miniaudio](https://github.com/stackotter/swift-miniaudio) - A thin MiniAudio wrapper
 - [enderice2/rpc-bridge](https://github.com/enderice2/rpc-bridge) - Enable Rich Presence between your Wine applications and the native Discord client on Linux and macOS.
+- [khanhduytran0/SparseBox](https://github.com/khanhduytran0/SparseBox) - On-device toolbox?
 - [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) - Apple cctools port for Linux and *BSD
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [ibireme/yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
@@ -1785,6 +1786,7 @@
 - [pointfreeco/swift-structured-queries](https://github.com/pointfreeco/swift-structured-queries) - Truly type-safe SQL.
 - [KevinVitale/SwiftSDL](https://github.com/KevinVitale/SwiftSDL) - SDL3 in Swift
 - [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui) - Build SwiftUI-style apps that run in the browser
+- [LiveContainer/SideStore](https://github.com/LiveContainer/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer. This repo contains codes that allow SideStore to function when bundled with LiveContainer. See LiveContainerSupport branch.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [reers/ReerJSON](https://github.com/reers/ReerJSON) - A faster version of JSONDecoder and JSONEncoder powered by yyjson
 - [FlineDev/ErrorKit](https://github.com/FlineDev/ErrorKit) - Simplified error handling with built-in user-friendly messages for common errors. Fully localized. Community-driven.
@@ -1822,6 +1824,7 @@
 - [kewlbear/FFmpeg-iOS](https://github.com/kewlbear/FFmpeg-iOS) - Swift package of FFmpeg libraries for iOS
 - [kewlbear/YoutubeDL](https://github.com/kewlbear/YoutubeDL) - An iOS app using youtube-dl Python module with PythonKit Swift package
 - [rational-kunal/BlinkUI](https://github.com/rational-kunal/BlinkUI) - Terminal UI framework inspired from SwiftUI
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [SideStore/StosVPN](https://github.com/SideStore/StosVPN) - A VPN that works with SideStore and StikJIT. that supports being offline and much stabler then WireGuard
