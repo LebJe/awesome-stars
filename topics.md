@@ -1758,7 +1758,6 @@
 - [vapor/console-kit](https://github.com/vapor/console-kit) - 💻 APIs for creating interactive CLI tools.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [Moya/Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
@@ -3333,7 +3332,6 @@
 - [asdfzxcvbn/UniversalRepoFmt](https://github.com/asdfzxcvbn/UniversalRepoFmt) - maintain a single json file -&gt; automatically convert to every major source type!
 - [nathantannar4/Transmission](https://github.com/nathantannar4/Transmission) - Bridges UIKit presentation APIs to a SwiftUI API so you can use presentation controllers, interactive transitions and more.
 - [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
-- [CrowdStrike/swift-package-registry-service](https://github.com/CrowdStrike/swift-package-registry-service) - This is a Swift Package Registry Service which proxies the Github API
 - [MarcoLuglio/ds4mac](https://github.com/MarcoLuglio/ds4mac) - Communicates with a Playstation DualShock 4 controller using IOKit and Swift
 - [schmaldeo/DS4Windows](https://github.com/schmaldeo/DS4Windows) - DS4Windows but improved
 - [msdrigg/dotbot-crossplatform](https://github.com/msdrigg/dotbot-crossplatform) - 
@@ -4634,7 +4632,6 @@
 - [pls-rs/pls](https://github.com/pls-rs/pls) - pls is a prettier and powerful ls(1) for the pros.
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [cooklang/cookcli](https://github.com/cooklang/cookcli) - Recipe Management CLI + embedded web-server in one binary
 - [orhnk/RASCII](https://github.com/orhnk/RASCII) - Advanced image to ASCII art tool & crate written in Rust 🦀🚀
 - [ChimeHQ/chime-rust](https://github.com/ChimeHQ/chime-rust) - A Chime extension for Rust
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -4796,6 +4793,7 @@
 
 - [hmlendea/transliteration-api](https://github.com/hmlendea/transliteration-api) - REST API for transliterating foreign text from various alphabets into the latin one.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
+- [cooklang/cookcli](https://github.com/cooklang/cookcli) - Recipe Management CLI + embedded web-server in one binary
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
 ## server 
