@@ -105,7 +105,6 @@
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [stackotter/swift-miniaudio](https://github.com/stackotter/swift-miniaudio) - A thin MiniAudio wrapper
 - [enderice2/rpc-bridge](https://github.com/enderice2/rpc-bridge) - Enable Rich Presence between your Wine applications and the native Discord client on Linux and macOS.
-- [khanhduytran0/SparseBox](https://github.com/khanhduytran0/SparseBox) - On-device toolbox?
 - [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) - Apple cctools port for Linux and *BSD
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [ibireme/yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
@@ -551,7 +550,6 @@
 
 ## CSS 
 
-- [NeoFreeBird/app](https://github.com/NeoFreeBird/app) - A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
 - [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - a dark, customizable discord theme.
 - [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 - [apple/pkl-lang.org](https://github.com/apple/pkl-lang.org) - The pkl-lang.org website
@@ -617,7 +615,7 @@
 
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [2ykwang/mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - TUI macOS cleaner that scans caches/logs, shows sizes/paths, lets you select what to delete before Trash.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [asdfzxcvbn/UniversalRepoFmt](https://github.com/asdfzxcvbn/UniversalRepoFmt) - maintain a single json file -&gt; automatically convert to every major source type!
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
@@ -744,7 +742,7 @@
 - [toml-lang/toml.io](https://github.com/toml-lang/toml.io) - Source Code for toml.io
 - [marzer/poxy](https://github.com/marzer/poxy) - Documentation generator for C++
 - [SwiftWeekly/swiftweekly.github.io](https://github.com/SwiftWeekly/swiftweekly.github.io) - A community-driven weekly newsletter about Swift.org
-- [imthath-m/swimbols](https://github.com/imthath-m/swimbols) - A repo to share your thoughts, new feature ideas and issues about Swimbols.
+- [imthath-m/swimbols](https://github.com/imthath-m/swimbols) - Swimbols is a Mac, iPad and iPhone app for browsing SF Symbols, styling them with a live preview and copying the SwiftUI or UIKit code. This repo hosts the app's privacy policy and collects user feedb
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
 - [davedelong/calendar_fallacies](https://github.com/davedelong/calendar_fallacies) - yourcalendricalfallacyis.com
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
@@ -763,6 +761,7 @@
 
 ## Java 
 
+- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on your iPhone. Natively or Emulated.
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -1097,6 +1096,7 @@
 - [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final
 - [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) - 
 - [34306/testflight-lower-install](https://github.com/34306/testflight-lower-install) - allow install testflight app require higher iOS for decryption
+- [NeoFreeBird/app](https://github.com/NeoFreeBird/app) - A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
 - [Lakr233/ActivateMac](https://github.com/Lakr233/ActivateMac) - Show MS Windows style activation dialog on my screen.
 - [CloudySn0w/BTLoader](https://github.com/CloudySn0w/BTLoader) - 💧 BTLoader! The Future For iOS.
 - [AngelAuraMC/Amethyst-iOS](https://github.com/AngelAuraMC/Amethyst-iOS) - A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher. This repository contains source code for iOS/iPadOS platform.
@@ -1491,7 +1491,6 @@
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
 - [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [Freaky/Compactor](https://github.com/Freaky/Compactor) - A user interface for Windows 10 filesystem compression
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [apollographql/router](https://github.com/apollographql/router) - A configurable, high-performance routing runtime for Apollo Federation 🚀
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [toml-rs/toml-rs](https://github.com/toml-rs/toml-rs) - A TOML encoding/decoding library for Rust
@@ -1786,7 +1785,6 @@
 - [pointfreeco/swift-structured-queries](https://github.com/pointfreeco/swift-structured-queries) - Truly type-safe SQL.
 - [KevinVitale/SwiftSDL](https://github.com/KevinVitale/SwiftSDL) - SDL3 in Swift
 - [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui) - Build SwiftUI-style apps that run in the browser
-- [LiveContainer/SideStore](https://github.com/LiveContainer/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer. This repo contains codes that allow SideStore to function when bundled with LiveContainer. See LiveContainerSupport branch.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [reers/ReerJSON](https://github.com/reers/ReerJSON) - A faster version of JSONDecoder and JSONEncoder powered by yyjson
 - [FlineDev/ErrorKit](https://github.com/FlineDev/ErrorKit) - Simplified error handling with built-in user-friendly messages for common errors. Fully localized. Community-driven.
@@ -1823,7 +1821,6 @@
 - [kewlbear/FFmpeg-iOS](https://github.com/kewlbear/FFmpeg-iOS) - Swift package of FFmpeg libraries for iOS
 - [kewlbear/YoutubeDL](https://github.com/kewlbear/YoutubeDL) - An iOS app using youtube-dl Python module with PythonKit Swift package
 - [rational-kunal/BlinkUI](https://github.com/rational-kunal/BlinkUI) - Terminal UI framework inspired from SwiftUI
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [SideStore/StosVPN](https://github.com/SideStore/StosVPN) - A VPN that works with SideStore and StikJIT. that supports being offline and much stabler then WireGuard
@@ -1949,8 +1946,8 @@
 - [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) - A modern, expressive testing package for Swift
 - [apple/swift-mmio](https://github.com/apple/swift-mmio) - Define and operate on type safe MMIO
 - [ChimeHQ/Welp](https://github.com/ChimeHQ/Welp) - Tooling for macOS help books
-- [richardtop/CalendarApp](https://github.com/richardtop/CalendarApp) - 📅 Reference implementation of a Calendar App with CalendarKit (template repository)
-- [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for Apple platforms in Swift
+- [richardtop/CalendarApp](https://github.com/richardtop/CalendarApp) - Reference implementation of a Calendar App with CalendarKit (template repository)
+- [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - Calendar for Apple platforms in Swift
 - [Kyle-Ye/DiscourseKit](https://github.com/Kyle-Ye/DiscourseKit) - 
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge
 - [kickstarter/ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
