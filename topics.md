@@ -194,8 +194,6 @@
 - [phishing](#phishing)
 - [php](#php)
 - [physics](#physics)
-- [pico-8](#pico-8)
-- [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -320,6 +318,7 @@
 
 ## android 
 
+- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on your iPhone. Natively or Emulated.
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
@@ -664,7 +663,7 @@
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [2ykwang/mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - TUI macOS cleaner that scans caches/logs, shows sizes/paths, lets you select what to delete before Trash.
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [kattouf/ProgressLine](https://github.com/kattouf/ProgressLine) - ⏳Track commands progress in a compact one-line format
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
@@ -771,7 +770,7 @@
 
 ## command-line 
 
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [htfy96/logalign](https://github.com/htfy96/logalign) - Command-line tool to annotate log lines with links to their definitons and argument expression.
 - [kattouf/ProgressLine](https://github.com/kattouf/ProgressLine) - ⏳Track commands progress in a compact one-line format
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -1259,6 +1258,7 @@
 
 ## emulator 
 
+- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on your iPhone. Natively or Emulated.
 - [hashemi/lc3-swift](https://github.com/hashemi/lc3-swift) - LC-3 virtual machine written in Swift
 - [Inori/GPCS4](https://github.com/Inori/GPCS4) - A work-in-progress PlayStation 4 emulator.
 - [torch2424/wasmboy](https://github.com/torch2424/wasmboy) - Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript. 🚀Demos built with Preact and Svelte. ⚛️
@@ -1360,7 +1360,6 @@
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - NOTE: development in stuntrally3 repo. 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally 2.x sources and data.
 - [BeamMP/BeamMP-Launcher](https://github.com/BeamMP/BeamMP-Launcher) - Official BeamMP Launcher
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) - Bringing multiplayer to BeamNG.drive
 - [BeamMP/BeamMP-Server](https://github.com/BeamMP/BeamMP-Server) - Server for the multiplayer mod BeamMP for BeamNG.drive
 - [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
@@ -1373,7 +1372,6 @@
 - [STREGAsGate/GateEngineDemos](https://github.com/STREGAsGate/GateEngineDemos) - Example projects for GateEngine, a cross platform game engine for Swift developers.
 - [AdaEngine/Ada](https://github.com/AdaEngine/Ada) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 
@@ -1385,7 +1383,6 @@
 - [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - Swift Game Engine supporting Windows, Linux, macOS, HTML5, and more 🚂
 - [AdaEngine/Ada](https://github.com/AdaEngine/Ada) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 
@@ -1398,7 +1395,6 @@
 - [AdaEngine/Ada](https://github.com/AdaEngine/Ada) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [STREGAsGate/Raylib](https://github.com/STREGAsGate/Raylib) - A Swift package for Raylib. Builds Raylib from source so no need to fiddle with libraries. Just add as a dependency in you game package and go!
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -1515,7 +1511,7 @@
 ## go 
 
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
@@ -1569,7 +1565,7 @@
 - [2ykwang/mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - TUI macOS cleaner that scans caches/logs, shows sizes/paths, lets you select what to delete before Trash.
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [htfy96/logalign](https://github.com/htfy96/logalign) - Command-line tool to annotate log lines with links to their definitons and argument expression.
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -1876,7 +1872,6 @@
 - [rarestype/swift-dom](https://github.com/rarestype/swift-dom) - taylor’s (not so) famous HTML DSL 👠
 - [BinaryBirds/swift-html](https://github.com/BinaryBirds/swift-html) - This source code is now part of the Swift Web Standards library.
 - [swifweb/web](https://github.com/swifweb/web) - 🧱 Write your website in pure Swift with power of webassembly. DOM, CSS and all the WebAPIs are available out of the box.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [robb/Swim](https://github.com/robb/Swim) - A DSL for writing HTML in Swift
 - [pointfreeco/swift-html](https://github.com/pointfreeco/swift-html) - 🗺  A Swift DSL for type-safe, extensible, and transformable HTML documents.
 - [lexborisov/myhtml](https://github.com/lexborisov/myhtml) - Fast C/C++ HTML 5 Parser. Using threads.
@@ -1949,6 +1944,7 @@
 
 ## ios 
 
+- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on your iPhone. Natively or Emulated.
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [itzzace/ytkace](https://github.com/itzzace/ytkace) - YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background playback, player controls, and interface customization including liquid glass.
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
@@ -1976,7 +1972,7 @@
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16+
 - [AhmedBafkir/DLiPA](https://github.com/AhmedBafkir/DLiPA) - An iOS app inspired by the ipatool project. It allows users to download, install, and share App Store applications using their Apple ID, with support for downloading older versions — no jailbreak requ
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
 - [kewlbear/YoutubeDL-iOS](https://github.com/kewlbear/YoutubeDL-iOS) - Swift package of youtube_dl python module for iOS
@@ -2009,8 +2005,8 @@
 - [Swiftgram/TDLibKit](https://github.com/Swiftgram/TDLibKit) - Native Swift wrapper for Telegram's TDLib. Available on iOS, macOS, watchOS, tvOS and visionOS.
 - [bestwnh/TinyCreditCard](https://github.com/bestwnh/TinyCreditCard) - A clear and animated credit card input workflow implement
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
-- [richardtop/CalendarApp](https://github.com/richardtop/CalendarApp) - 📅 Reference implementation of a Calendar App with CalendarKit (template repository)
-- [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for Apple platforms in Swift
+- [richardtop/CalendarApp](https://github.com/richardtop/CalendarApp) - Reference implementation of a Calendar App with CalendarKit (template repository)
+- [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - Calendar for Apple platforms in Swift
 - [kickstarter/ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 - [danylokos/SwiftyTorrent](https://github.com/danylokos/SwiftyTorrent) - Basic torrent client for iOS
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
@@ -2120,7 +2116,7 @@
 - [onmyway133/SwiftHash](https://github.com/onmyway133/SwiftHash) - 🍕 MD5 in pure Swift
 - [surfstudio/StackOv](https://github.com/surfstudio/StackOv) - An open-source SwiftUI Stack Overflow client
 - [cezheng/Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift with XPath & CSS support
-- [imthath-m/swimbols](https://github.com/imthath-m/swimbols) - A repo to share your thoughts, new feature ideas and issues about Swimbols.
+- [imthath-m/swimbols](https://github.com/imthath-m/swimbols) - Swimbols is a Mac, iPad and iPhone app for browsing SF Symbols, styling them with a live preview and copying the SwiftUI or UIKit code. This repo hosts the app's privacy policy and collects user feedb
 - [OpenCombine/OpenCombine](https://github.com/OpenCombine/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
 - [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - Capture HTTP/HTTPS, and Websocket from iOS app without proxy.
 - [airbnb/epoxy-ios](https://github.com/airbnb/epoxy-ios) - Epoxy is a suite of declarative UI APIs for building UIKit applications in Swift
@@ -2657,7 +2653,7 @@
 - [chicio/ID3TagEditor](https://github.com/chicio/ID3TagEditor) - :musical_note::guitar:A Swift library to read and write ID3 Tag of any mp3 file. Supported ID3 tag version: 2.2, 2.3 and 2.4. Supported platform: iOS, macOS, tvOS, watchOS, Linux Ubuntu. :musical_note
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [Checkm8ra1n/yt-dlp-gui](https://github.com/Checkm8ra1n/yt-dlp-gui) - A GUI for yt-dlp for macOS
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [natbro/kaon](https://github.com/natbro/kaon) - Tools, and instructions for more easily installing and launching Windows games via Wine or CrossOver  directly in the macOS Steam client
 - [3Shain/dxmt](https://github.com/3Shain/dxmt) - Metal-based implementation of D3D11 and D3D10 for macOS / Wine
@@ -2684,7 +2680,7 @@
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [wabiverse/swift-usd](https://github.com/wabiverse/swift-usd) - A Swift-native, cross-platform framework for building OpenUSD applications.
 - [ChimeHQ/Welp](https://github.com/ChimeHQ/Welp) - Tooling for macOS help books
-- [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for Apple platforms in Swift
+- [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - Calendar for Apple platforms in Swift
 - [ChimeHQ/Chime](https://github.com/ChimeHQ/Chime) - An editor for macOS
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [Frizlab/FSEventsWrapper](https://github.com/Frizlab/FSEventsWrapper) - Easily use FSEvents in Swift
@@ -3222,7 +3218,6 @@
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized 2D / 3D Graphics Math (glm) for C
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
@@ -3294,7 +3289,6 @@
 - [6over3/PerlKit](https://github.com/6over3/PerlKit) - An embeddable Perl 5 interpreter for Swift
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
-- [LiveContainer/SideStore](https://github.com/LiveContainer/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer. This repo contains codes that allow SideStore to function when bundled with LiveContainer. See LiveContainerSupport branch.
 - [khanhduytran0/SparseBox](https://github.com/khanhduytran0/SparseBox) - On-device toolbox?
 - [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 - [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) - Apple cctools port for Linux and *BSD
@@ -3338,7 +3332,6 @@
 - [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility
 - [wine-mono/wine-mono](https://github.com/wine-mono/wine-mono) - 
 - [jkcoxson/idevice_pair](https://github.com/jkcoxson/idevice_pair) - Generate pair records for iOS and save them
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [SideStore/StosVPN](https://github.com/SideStore/StosVPN) - A VPN that works with SideStore and StikJIT. that supports being offline and much stabler then WireGuard
 - [zotify-dev/zotify](https://github.com/zotify-dev/zotify) - A fast and customizable music and podcast downloader.
 - [swiftlang/swift-subprocess](https://github.com/swiftlang/swift-subprocess) - Subprocess is a cross-platform package for spawning processes in Swift.
@@ -4318,14 +4311,6 @@
 
 - [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - NOTE: development in stuntrally3 repo. 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally 2.x sources and data.
 
-## pico-8 
-
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-
-## pixel-art 
-
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-
 ## postgresql 
 
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -4437,7 +4422,6 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [0cyn/ktool](https://github.com/0cyn/ktool) - pip install k2l | Mach-O + Obj-C analysis TUI / CLI kit and library. Zero compiled deps, runs anywhere with a python interpreter.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
@@ -4581,7 +4565,7 @@
 ## reverse-engineering 
 
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [0cyn/ktool](https://github.com/0cyn/ktool) - pip install k2l | Mach-O + Obj-C analysis TUI / CLI kit and library. Zero compiled deps, runs anywhere with a python interpreter.
@@ -4641,7 +4625,6 @@
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
 - [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [Freaky/Compactor](https://github.com/Freaky/Compactor) - A user interface for Windows 10 filesystem compression
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
@@ -4768,7 +4751,7 @@
 
 ## security 
 
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
@@ -4953,7 +4936,7 @@
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [Checkm8ra1n/yt-dlp-gui](https://github.com/Checkm8ra1n/yt-dlp-gui) - A GUI for yt-dlp for macOS
 - [AhmedBafkir/DLiPA](https://github.com/AhmedBafkir/DLiPA) - An iOS app inspired by the ipatool project. It allows users to download, install, and share App Store applications using their Apple ID, with support for downloading older versions — no jailbreak requ
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [iRayanKhan/TanaraSign](https://github.com/iRayanKhan/TanaraSign) - Fully local on-device ipa signer for iOS, iPadOS, tvOS, macOS, watchOS, and visionOS in 100% SwiftUI.
 - [PureSwift/AndroidSwiftUI](https://github.com/PureSwift/AndroidSwiftUI) - SwiftUI for Android
 - [PureSwift/Android](https://github.com/PureSwift/Android) - Swift library for Android
@@ -5022,8 +5005,8 @@
 - [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) - A modern, expressive testing package for Swift
 - [apple/swift-mmio](https://github.com/apple/swift-mmio) - Define and operate on type safe MMIO
 - [ChimeHQ/Welp](https://github.com/ChimeHQ/Welp) - Tooling for macOS help books
-- [richardtop/CalendarApp](https://github.com/richardtop/CalendarApp) - 📅 Reference implementation of a Calendar App with CalendarKit (template repository)
-- [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - 📅 Calendar for Apple platforms in Swift
+- [richardtop/CalendarApp](https://github.com/richardtop/CalendarApp) - Reference implementation of a Calendar App with CalendarKit (template repository)
+- [richardtop/CalendarKit](https://github.com/richardtop/CalendarKit) - Calendar for Apple platforms in Swift
 - [ChimeHQ/chime-markdown](https://github.com/ChimeHQ/chime-markdown) - A Chime extension for Markdown
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge
 - [kickstarter/ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
@@ -5603,7 +5586,7 @@
 - [ZeeZide/5GUIs](https://github.com/ZeeZide/5GUIs) - A tiny macOS app that can detect the GUI technologies used in other apps.
 - [ZeeZide/CodeEditor](https://github.com/ZeeZide/CodeEditor) - A SwiftUI TextEditor with syntax highlighting using Highlight.js
 - [surfstudio/StackOv](https://github.com/surfstudio/StackOv) - An open-source SwiftUI Stack Overflow client
-- [imthath-m/swimbols](https://github.com/imthath-m/swimbols) - A repo to share your thoughts, new feature ideas and issues about Swimbols.
+- [imthath-m/swimbols](https://github.com/imthath-m/swimbols) - Swimbols is a Mac, iPad and iPhone app for browsing SF Symbols, styling them with a live preview and copying the SwiftUI or UIKit code. This repo hosts the app's privacy policy and collects user feedb
 - [maustinstar/liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI.
 - [carson-katri/swift-request](https://github.com/carson-katri/swift-request) - Declarative HTTP networking, designed for SwiftUI
 - [SvenTiigi/ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮
