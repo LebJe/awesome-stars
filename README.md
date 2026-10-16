@@ -741,7 +741,6 @@
 - [yaml/yaml-spec](https://github.com/yaml/yaml-spec) - YAML Specification
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [toml-lang/toml.io](https://github.com/toml-lang/toml.io) - Source Code for toml.io
-- [marzer/poxy](https://github.com/marzer/poxy) - Documentation generator for C++
 - [SwiftWeekly/swiftweekly.github.io](https://github.com/SwiftWeekly/swiftweekly.github.io) - A community-driven weekly newsletter about Swift.org
 - [imthath-m/swimbols](https://github.com/imthath-m/swimbols) - Swimbols is a Mac, iPad and iPhone app for browsing SF Symbols, styling them with a live preview and copying the SwiftUI or UIKit code. This repo hosts the app's privacy policy and collects user feedb
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
@@ -1235,7 +1234,6 @@
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [TablePlus/TablePlus-Windows](https://github.com/TablePlus/TablePlus-Windows) - TablePlus Windows issue tracker
 - [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 💀 Homebrew Services (deprecated)
-- [Homebrew/discussions](https://github.com/Homebrew/discussions) - 🗣 Public open-ended discussions. Replacement for our Discourse.
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [pyston/pyston_v1](https://github.com/pyston/pyston_v1) - The previous version of Pyston, a faster implementation of the Python programming language.  Please use this link for the new repository:
 - [seanosullivanuk/nova-markdownclips](https://github.com/seanosullivanuk/nova-markdownclips) - Basic and Extended Markdown Syntax Clips for Nova
@@ -1317,7 +1315,6 @@
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [LimerBoy/Impulse](https://github.com/LimerBoy/Impulse) - :bomb: Impulse Denial-of-service ToolKit
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
@@ -1359,6 +1356,7 @@
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [marzer/poxy](https://github.com/marzer/poxy) - Documentation generator for C++
 - [aio-libs/aiomysql](https://github.com/aio-libs/aiomysql) - aiomysql is a library for accessing a MySQL database from the asyncio
 - [aio-libs/aiopg](https://github.com/aio-libs/aiopg) - aiopg is a library for accessing a PostgreSQL database from the asyncio
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
@@ -2770,6 +2768,7 @@
 - [nodejs/llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
+- [Homebrew/discussions](https://github.com/Homebrew/discussions) - 🗣 Public open-ended discussions. Replacement for our Discourse.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [dansomething/coc-java-debug](https://github.com/dansomething/coc-java-debug) - An extension for coc.nvim to enable Java debugging via jdt.ls
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
