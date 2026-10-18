@@ -278,7 +278,7 @@
 
 ## ai 
 
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
 - [EnesKaraosman/SwiftyChat](https://github.com/EnesKaraosman/SwiftyChat) - A lightweight SwiftUI chat UI framework with 11 built-in message types, 8 themes, and cross-platform iOS/macOS support
 - [BeamNG/BeamNGpy](https://github.com/BeamNG/BeamNGpy) - Python API for BeamNG.tech
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -291,7 +291,7 @@
 
 ## ai-agents 
 
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## algorithm 
@@ -318,7 +318,7 @@
 
 ## android 
 
-- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on your iPhone. Natively or Emulated.
+- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
@@ -1227,7 +1227,7 @@
 
 ## elixir 
 
-- [lumen-oss/luanox](https://github.com/lumen-oss/luanox) - Modern hosting for Lua libraries. Fast, reliable, secure.
+- [lumen-oss/luxpkgs](https://github.com/lumen-oss/luxpkgs) - A site for publishing Lua packages. Fast, reliable, secure.
 - [ChimeHQ/chime-elixir](https://github.com/ChimeHQ/chime-elixir) - A Chime extension for Elixir
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
@@ -1258,7 +1258,7 @@
 
 ## emulator 
 
-- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on your iPhone. Natively or Emulated.
+- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
 - [hashemi/lc3-swift](https://github.com/hashemi/lc3-swift) - LC-3 virtual machine written in Swift
 - [Inori/GPCS4](https://github.com/Inori/GPCS4) - A work-in-progress PlayStation 4 emulator.
 - [torch2424/wasmboy](https://github.com/torch2424/wasmboy) - Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript. 🚀Demos built with Preact and Svelte. ⚛️
@@ -1688,7 +1688,6 @@
 
 - [sourcelocation/cardculator](https://github.com/sourcelocation/cardculator) - PiP/Mini calculator for jailbroken iOS devices
 - [stackotter/the-ctf-book](https://github.com/stackotter/the-ctf-book) - An interactive course accompanied by a CTF, that brings you right through from beginner to advanced in a variety of fields relevant to hacking.
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [LimerBoy/Impulse](https://github.com/LimerBoy/Impulse) - :bomb: Impulse Denial-of-service ToolKit
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1944,7 +1943,7 @@
 
 ## ios 
 
-- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on your iPhone. Natively or Emulated.
+- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [itzzace/ytkace](https://github.com/itzzace/ytkace) - YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background playback, player controls, and interface customization including liquid glass.
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.
@@ -2436,7 +2435,6 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
 - [darlinghq/darling-dmg](https://github.com/darlinghq/darling-dmg) - FUSE module for .dmg files (containing an HFS+ filesystem)
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -2498,7 +2496,7 @@
 
 ## lua 
 
-- [lumen-oss/luanox](https://github.com/lumen-oss/luanox) - Modern hosting for Lua libraries. Fast, reliable, secure.
+- [lumen-oss/luxpkgs](https://github.com/lumen-oss/luxpkgs) - A site for publishing Lua packages. Fast, reliable, secure.
 - [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [teal-language/awesome-teal](https://github.com/teal-language/awesome-teal) - A curated list of Teal-related projects!
@@ -2649,7 +2647,7 @@
 - [section83/MacYTDL](https://github.com/section83/MacYTDL) - A macOS GUI front-end for the YT-DLP video downloader
 - [fatbobman/ObservableDefaults](https://github.com/fatbobman/ObservableDefaults) - A comprehensive solution integrating SwiftUI + Observation + UserDefaults + iCloud Key-Value Store
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
 - [chicio/ID3TagEditor](https://github.com/chicio/ID3TagEditor) - :musical_note::guitar:A Swift library to read and write ID3 Tag of any mp3 file. Supported ID3 tag version: 2.2, 2.3 and 2.4. Supported platform: iOS, macOS, tvOS, watchOS, Linux Ubuntu. :musical_note
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [Checkm8ra1n/yt-dlp-gui](https://github.com/Checkm8ra1n/yt-dlp-gui) - A GUI for yt-dlp for macOS
@@ -3241,6 +3239,7 @@
 
 ## others 
 
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) - Steam Play for macOS
 - [LiveContainerMirror/LiveContainer](https://github.com/LiveContainerMirror/LiveContainer) - Run iOS apps without actually installing them!
 - [serilog/serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events
 - [swift-server/swift-http-server](https://github.com/swift-server/swift-http-server) - 
@@ -3289,6 +3288,7 @@
 - [6over3/PerlKit](https://github.com/6over3/PerlKit) - An embeddable Perl 5 interpreter for Swift
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
+- [LiveContainer/SideStore](https://github.com/LiveContainer/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer. This repo contains codes that allow SideStore to function when bundled with LiveContainer. See LiveContainerSupport branch.
 - [khanhduytran0/SparseBox](https://github.com/khanhduytran0/SparseBox) - On-device toolbox?
 - [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 - [tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port) - Apple cctools port for Linux and *BSD
@@ -3311,7 +3311,7 @@
 - [lc-dl/apps](https://github.com/lc-dl/apps) - A repository of over 40 apps and games, made for LC-DL.
 - [leminlimez/Pocket-Poster](https://github.com/leminlimez/Pocket-Poster) - Custom PosterBoard Wallpapers for iOS 17-26.1
 - [dankinsoid/swift-configs](https://github.com/dankinsoid/swift-configs) - A unified Swift API for configuration management that supports multiple backends and provides type-safe access to configuration values.
-- [OlegHQ/toml2lua](https://github.com/OlegHQ/toml2lua) - 🧾🐢 TOML ⇄ Lua · A minimal, reliable TOML encoder/decoder for Lua
+- [olegpustovit/toml2lua](https://github.com/olegpustovit/toml2lua) - 🧾🐢 TOML ⇄ Lua · A minimal, reliable TOML encoder/decoder for Lua
 - [whoeevee/EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn) - A tweak to enhance Spotify experience
 - [AngelAuraMC/Amethyst-iOS](https://github.com/AngelAuraMC/Amethyst-iOS) - A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher. This repository contains source code for iOS/iPadOS platform.
 - [jkcoxson/LightningRouter](https://github.com/jkcoxson/LightningRouter) - Use your iPhone's internet connection from a Mac
@@ -3332,6 +3332,7 @@
 - [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility
 - [wine-mono/wine-mono](https://github.com/wine-mono/wine-mono) - 
 - [jkcoxson/idevice_pair](https://github.com/jkcoxson/idevice_pair) - Generate pair records for iOS and save them
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [SideStore/StosVPN](https://github.com/SideStore/StosVPN) - A VPN that works with SideStore and StikJIT. that supports being offline and much stabler then WireGuard
 - [zotify-dev/zotify](https://github.com/zotify-dev/zotify) - A fast and customizable music and podcast downloader.
 - [swiftlang/swift-subprocess](https://github.com/swiftlang/swift-subprocess) - Subprocess is a cross-platform package for spawning processes in Swift.
@@ -3587,7 +3588,7 @@
 - [markondej/fm_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
 - [markondej/cpp-icmplib](https://github.com/markondej/cpp-icmplib) - A C++ header-only ICMP Ping library
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
-- [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
+- [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's CVS src repository. This only includes the main branch; use CVS for -stable or release branches. Send any diffs to the tech@ mailing list.
 - [paulw11/stopwatch](https://github.com/paulw11/stopwatch) - Code for How not to create a stopwatch in Swift
 - [neoclide/wasm-fuzzy](https://github.com/neoclide/wasm-fuzzy) - Fuzzy match at native speed
 - [shaps80/MarkdownTextDemo](https://github.com/shaps80/MarkdownTextDemo) - A demo app for showcasing the MarkdownText library.
@@ -5499,7 +5500,7 @@
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [FlineDev/ErrorKit](https://github.com/FlineDev/ErrorKit) - Simplified error handling with built-in user-friendly messages for common errors. Fully localized. Community-driven.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
 - [Checkm8ra1n/yt-dlp-gui](https://github.com/Checkm8ra1n/yt-dlp-gui) - A GUI for yt-dlp for macOS
 - [iRayanKhan/TanaraSign](https://github.com/iRayanKhan/TanaraSign) - Fully local on-device ipa signer for iOS, iPadOS, tvOS, macOS, watchOS, and visionOS in 100% SwiftUI.
 - [PureSwift/AndroidSwiftUI](https://github.com/PureSwift/AndroidSwiftUI) - SwiftUI for Android
