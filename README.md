@@ -578,7 +578,7 @@
 
 ## Dart 
 
-- [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
+- [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flutter-team-archive/pinball](https://github.com/flutter-team-archive/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -1315,6 +1315,7 @@
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [LimerBoy/Impulse](https://github.com/LimerBoy/Impulse) - :bomb: Impulse Denial-of-service ToolKit
 - [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
@@ -2061,7 +2062,7 @@
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [roanutil/CoreDataRepository](https://github.com/roanutil/CoreDataRepository) - An async library for using CoreData in the background
 - [vmanot/SwiftDB](https://github.com/vmanot/SwiftDB) - A modern database abstraction layer + runtime, batteries included [WIP].
-- [hylo-lang/hylo](https://github.com/hylo-lang/hylo) - The Hylo programming language
+- [hylo-lang/hylo-old](https://github.com/hylo-lang/hylo-old) - The Hylo programming language
 - [jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
 - [pointfreeco/pointfreeco](https://github.com/pointfreeco/pointfreeco) - 🎬 The source for www.pointfree.co, a hub for advanced Swift programming.
 - [tgrapperon/swift-dependencies-additions](https://github.com/tgrapperon/swift-dependencies-additions) - More dependencies for `swift-dependencies`
@@ -2670,7 +2671,6 @@
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
-- [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [MarkEdit-app/MarkEdit-theme-one-dark](https://github.com/MarkEdit-app/MarkEdit-theme-one-dark) - One Dark theme for MarkEdit.
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader
