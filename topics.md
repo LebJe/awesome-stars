@@ -194,6 +194,8 @@
 - [phishing](#phishing)
 - [php](#php)
 - [physics](#physics)
+- [pico-8](#pico-8)
+- [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -320,7 +322,7 @@
 
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
-- [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
+- [mornyeapp/Mornye](https://github.com/mornyeapp/Mornye) - Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, no ads, no subscription.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
 - [PureSwift/AndroidSwiftUI](https://github.com/PureSwift/AndroidSwiftUI) - SwiftUI for Android
@@ -1314,7 +1316,7 @@
 
 ## flutter 
 
-- [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
+- [mornyeapp/Mornye](https://github.com/mornyeapp/Mornye) - Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, no ads, no subscription.
 - [ShaftUI/Shaft](https://github.com/ShaftUI/Shaft) - A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -1360,6 +1362,7 @@
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - NOTE: development in stuntrally3 repo. 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally 2.x sources and data.
 - [BeamMP/BeamMP-Launcher](https://github.com/BeamMP/BeamMP-Launcher) - Official BeamMP Launcher
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) - Bringing multiplayer to BeamNG.drive
 - [BeamMP/BeamMP-Server](https://github.com/BeamMP/BeamMP-Server) - Server for the multiplayer mod BeamMP for BeamNG.drive
 - [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
@@ -1372,6 +1375,7 @@
 - [STREGAsGate/GateEngineDemos](https://github.com/STREGAsGate/GateEngineDemos) - Example projects for GateEngine, a cross platform game engine for Swift developers.
 - [AdaEngine/Ada](https://github.com/AdaEngine/Ada) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 
@@ -1383,6 +1387,7 @@
 - [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - Swift Game Engine supporting Windows, Linux, macOS, HTML5, and more 🚂
 - [AdaEngine/Ada](https://github.com/AdaEngine/Ada) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 
@@ -1395,6 +1400,7 @@
 - [AdaEngine/Ada](https://github.com/AdaEngine/Ada) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [STREGAsGate/Raylib](https://github.com/STREGAsGate/Raylib) - A Swift package for Raylib. Builds Raylib from source so no need to fiddle with libraries. Just add as a dependency in you game package and go!
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -1563,7 +1569,6 @@
 
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [2ykwang/mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - TUI macOS cleaner that scans caches/logs, shows sizes/paths, lets you select what to delete before Trash.
-- [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
@@ -1688,6 +1693,7 @@
 
 - [sourcelocation/cardculator](https://github.com/sourcelocation/cardculator) - PiP/Mini calculator for jailbroken iOS devices
 - [stackotter/the-ctf-book](https://github.com/stackotter/the-ctf-book) - An interactive course accompanied by a CTF, that brings you right through from beginner to advanced in a variety of fields relevant to hacking.
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [LimerBoy/Impulse](https://github.com/LimerBoy/Impulse) - :bomb: Impulse Denial-of-service ToolKit
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1871,6 +1877,7 @@
 - [rarestype/swift-dom](https://github.com/rarestype/swift-dom) - taylor’s (not so) famous HTML DSL 👠
 - [BinaryBirds/swift-html](https://github.com/BinaryBirds/swift-html) - This source code is now part of the Swift Web Standards library.
 - [swifweb/web](https://github.com/swifweb/web) - 🧱 Write your website in pure Swift with power of webassembly. DOM, CSS and all the WebAPIs are available out of the box.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [robb/Swim](https://github.com/robb/Swim) - A DSL for writing HTML in Swift
 - [pointfreeco/swift-html](https://github.com/pointfreeco/swift-html) - 🗺  A Swift DSL for type-safe, extensible, and transformable HTML documents.
 - [lexborisov/myhtml](https://github.com/lexborisov/myhtml) - Fast C/C++ HTML 5 Parser. Using threads.
@@ -1955,7 +1962,7 @@
 - [claration/impactor](https://github.com/claration/impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [dayanch96/Glow](https://github.com/dayanch96/Glow) - A simple, clean, and powerful tweak for Facebook
 - [jailbreakdotparty/PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) - (EoL/Non-functional) iOS app downgrader based off of MuffinStore Jailed. Supports iOS 16.4 and later.
-- [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
+- [mornyeapp/Mornye](https://github.com/mornyeapp/Mornye) - Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, no ads, no subscription.
 - [KevinVitale/SwiftSDL](https://github.com/KevinVitale/SwiftSDL) - SDL3 in Swift
 - [nab138/iloader](https://github.com/nab138/iloader) - User friendly sideloader
 - [ibrahimcetin/SwiftGitX](https://github.com/ibrahimcetin/SwiftGitX) - A modern Swift wrapper for libgit2 that brings Git operations to Swift apps.
@@ -2017,7 +2024,6 @@
 - [openalloc/SwiftNumberPad](https://github.com/openalloc/SwiftNumberPad) - A multi-platform SwiftUI component for basic number input
 - [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Native SVG parser and renderer for SwiftUI, UIKit and AppKit, with tools for PNG, PDF, SF Symbols and Swift source.
 - [atrinh0/buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 👌🏼
-- [BikeCalc/swift-measures](https://github.com/BikeCalc/swift-measures) - A Swift package for defining, converting, and composing units of measure.
 - [SwiftedMind/Puddles](https://github.com/SwiftedMind/Puddles) - A native SwiftUI app architecture
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 - [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
@@ -2435,6 +2441,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
 - [darlinghq/darling-dmg](https://github.com/darlinghq/darling-dmg) - FUSE module for .dmg files (containing an HFS+ filesystem)
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -3216,6 +3223,7 @@
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [recp/cglm](https://github.com/recp/cglm) - 📽 Highly Optimized 2D / 3D Graphics Math (glm) for C
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
@@ -3265,7 +3273,7 @@
 - [Anywhere-Music-Player/SwiftTagLib.cpp](https://github.com/Anywhere-Music-Player/SwiftTagLib.cpp) - Swift library for reading and writing audio file metadata, powered by TagLib (via C++ interop).
 - [taglib/taglib](https://github.com/taglib/taglib) - TagLib Audio Meta-Data Library
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
-- [spotiflacapp/SpotiFLAC-Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension) - Extension Registry for SpotiFLAC-Mobile. Browse, submit, and download community-built extensions.
+- [mornyeapp/Mornye-Extension](https://github.com/mornyeapp/Mornye-Extension) - Extension Registry for Mornye Browse, submit, and download community-built extensions.
 - [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) - 
 - [vkuttyp/SQLClient-Swift](https://github.com/vkuttyp/SQLClient-Swift) - Modern Swift client for Microsoft SQL Server (macOS, iOS, Linux). A lightweight async/await wrapper around FreeTDS for robust, cross-platform database connectivity.
 - [neemaxon/SwiftyCord](https://github.com/neemaxon/SwiftyCord) - A fully native Discord client for macOS built 100% in Swift!
@@ -3275,7 +3283,6 @@
 - [jkcoxson/LocalDevVPN](https://github.com/jkcoxson/LocalDevVPN) - A VPN that works with SideStore and StikJIT. that supports being offline and much stabler then WireGuard
 - [migueldeicaza/MimeFoundation](https://github.com/migueldeicaza/MimeFoundation) - Port of MimeKit to Swift
 - [migueldeicaza/MailFoundation](https://github.com/migueldeicaza/MailFoundation) - Port of MailKit to Swift
-- [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [neemaxon/Swiftcord](https://github.com/neemaxon/Swiftcord) - Soon... Cord+
 - [EduAlexxis/ByeTunes](https://github.com/EduAlexxis/ByeTunes) - The first app of its kind: seamless, on-device music and ringtone injection for iOS. Bypass iTunes and manage your native library directly. Auto-fetch metadata, organize playlists, and keep your files
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin & uBlock Origin Lite
@@ -4312,6 +4319,14 @@
 
 - [stuntrally/stuntrally](https://github.com/stuntrally/stuntrally) - NOTE: development in stuntrally3 repo. 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally 2.x sources and data.
 
+## pico-8 
+
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+
+## pixel-art 
+
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+
 ## postgresql 
 
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -4381,7 +4396,7 @@
 - [edubart/nelua-lang](https://github.com/edubart/nelua-lang) - Minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [kara-lang/Kara](https://github.com/kara-lang/Kara) - An experimental functional programming language with dependent types, inspired by Swift and Idris.
-- [hylo-lang/hylo](https://github.com/hylo-lang/hylo) - The Hylo programming language
+- [hylo-lang/hylo-old](https://github.com/hylo-lang/hylo-old) - The Hylo programming language
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
 - [uraimo/SwiftyLISP](https://github.com/uraimo/SwiftyLISP) - A minimal LISP implemented in Swift
@@ -4423,6 +4438,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [0cyn/ktool](https://github.com/0cyn/ktool) - pip install k2l | Mach-O + Obj-C analysis TUI / CLI kit and library. Zero compiled deps, runs anywhere with a python interpreter.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
@@ -4604,6 +4620,7 @@
 
 - [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - privacy-first, open-source and free idevice management tool written in Rust and Qt
 - [plyght/wax](https://github.com/plyght/wax) - wax is a fast Homebrew-compatible package manager, built in Rust.
+- [mornyeapp/Mornye](https://github.com/mornyeapp/Mornye) - Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, no ads, no subscription.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
@@ -4626,6 +4643,7 @@
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
 - [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [Freaky/Compactor](https://github.com/Freaky/Compactor) - A user interface for Windows 10 filesystem compression
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
