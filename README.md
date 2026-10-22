@@ -578,7 +578,7 @@
 
 ## Dart 
 
-- [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. - open source, no ads, no subscription.
+- [mornyeapp/Mornye](https://github.com/mornyeapp/Mornye) - Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, no ads, no subscription.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [flutter-team-archive/pinball](https://github.com/flutter-team-archive/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -781,7 +781,7 @@
 
 ## JavaScript 
 
-- [spotiflacapp/SpotiFLAC-Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension) - Extension Registry for SpotiFLAC-Mobile. Browse, submit, and download community-built extensions.
+- [mornyeapp/Mornye-Extension](https://github.com/mornyeapp/Mornye-Extension) - Extension Registry for Mornye Browse, submit, and download community-built extensions.
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -1491,6 +1491,7 @@
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
 - [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [Freaky/Compactor](https://github.com/Freaky/Compactor) - A user interface for Windows 10 filesystem compression
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [apollographql/router](https://github.com/apollographql/router) - A configurable, high-performance routing runtime for Apollo Federation 🚀
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [toml-rs/toml-rs](https://github.com/toml-rs/toml-rs) - A TOML encoding/decoding library for Rust
@@ -2104,7 +2105,7 @@
 - [johnfairh/RubyGateway](https://github.com/johnfairh/RubyGateway) - Embed Ruby in Swift: load Gems, run scripts, call APIs seamlessly in both directions.
 - [jectivex/JXKit](https://github.com/jectivex/JXKit) - The pure swift interface to JavaScriptCore for iOS, macOS, tvOS, and Linux
 - [hirotakan/MessagePacker](https://github.com/hirotakan/MessagePacker) - MessagePack serializer implementation for Swift. msgpack.org[Swift]
-- [sourcelocation/cardculator](https://github.com/sourcelocation/cardculator) - PiP/Mini calculator for jailbroken iOS devices
+- [sourcelocation/cardculator](https://github.com/sourcelocation/cardculator) - PiP/Mini calculator for jailbroken iOS devices (2024)
 - [nohype-ai/SwiftLSP](https://github.com/nohype-ai/SwiftLSP) - The Language Server Protocol in Swift
 - [nohype-ai/LSPService](https://github.com/nohype-ai/LSPService) - Use Local LSP Servers via WebSockets
 - [omaralbeik/Drops](https://github.com/omaralbeik/Drops) - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
