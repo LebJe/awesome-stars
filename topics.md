@@ -1803,6 +1803,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [serhii-londar/GithubAPI](https://github.com/serhii-londar/GithubAPI) - Swift implementation of Github REST API v3
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -3264,6 +3265,7 @@
 
 ## others 
 
+- [bagumamartin/BitChord](https://github.com/bagumamartin/BitChord) - A modern YouTube music client with clean aesthetics inspired from Apple Music.
 - [Vapor-StikStore/stikstore.github.io](https://github.com/Vapor-StikStore/stikstore.github.io) - 
 - [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) - Steam Play for macOS
 - [LiveContainerMirror/LiveContainer](https://github.com/LiveContainerMirror/LiveContainer) - Run iOS apps without actually installing them!
