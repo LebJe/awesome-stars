@@ -917,6 +917,7 @@
 - [jaydenjcpy/YouMod](https://github.com/jaydenjcpy/YouMod) - 
 - [Tonwalter888/YouMod](https://github.com/Tonwalter888/YouMod) - A YouTube tweak that try to make similar features from YTLite as much as possible.
 - [34306/PerfectNetworkSpeedInfo-Remaster](https://github.com/34306/PerfectNetworkSpeedInfo-Remaster) - remaster of PerfectNetworkSpeedInfo tweak
+- [NeoFreeBird/app](https://github.com/NeoFreeBird/app) - A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
 - [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn) - iOS tweak for Apollo Reddit app - use your own API keys, unlocked Ultra features, and other enhancements
 - [dayanch96/YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
 
@@ -1095,7 +1096,6 @@
 - [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) - People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final
 - [C0C0B01/KettuTweak](https://github.com/C0C0B01/KettuTweak) - 
 - [34306/testflight-lower-install](https://github.com/34306/testflight-lower-install) - allow install testflight app require higher iOS for decryption
-- [NeoFreeBird/app](https://github.com/NeoFreeBird/app) - A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.
 - [Lakr233/ActivateMac](https://github.com/Lakr233/ActivateMac) - Show MS Windows style activation dialog on my screen.
 - [CloudySn0w/BTLoader](https://github.com/CloudySn0w/BTLoader) - 💧 BTLoader! The Future For iOS.
 - [AngelAuraMC/Amethyst-iOS](https://github.com/AngelAuraMC/Amethyst-iOS) - A Minecraft: Java Edition Launcher for Android and iOS based on PojavLauncher. This repository contains source code for iOS/iPadOS platform.
@@ -1746,6 +1746,7 @@
 
 ## Swift 
 
+- [bagumamartin/BitChord](https://github.com/bagumamartin/BitChord) - A modern YouTube music client with clean aesthetics inspired from Apple Music.
 - [LiveContainerMirror/LiveContainer](https://github.com/LiveContainerMirror/LiveContainer) - Run iOS apps without actually installing them!
 - [SakuraCordApp/SakuraCord](https://github.com/SakuraCordApp/SakuraCord) - A native macOS Discord client written in Swift and SwiftUI.
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
