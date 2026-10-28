@@ -1136,7 +1136,7 @@
 - [catppuccin/vendetta](https://github.com/catppuccin/vendetta) - 🌕 Soothing pastel theme for Vendetta, Enmity, Bunny & Revenge!
 - [MountainofPenguin/Altstore-Repository](https://github.com/MountainofPenguin/Altstore-Repository) - YouMod auto-updating repository
 - [Override92/AiSList](https://github.com/Override92/AiSList) - Filter list for Ai Slop channels on YouTube
-- [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - Official Winehq macOS Packages
+- [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - The Official Winehq macOS Packages
 - [neemaxon/SwiftyCord](https://github.com/neemaxon/SwiftyCord) - A fully native Discord client for macOS built 100% in Swift!
 - [neemaxon/Swiftcord](https://github.com/neemaxon/Swiftcord) - Soon... Cord+
 - [surrel14/dnsmethod.github.io](https://github.com/surrel14/dnsmethod.github.io) - 
@@ -2670,6 +2670,7 @@
 
 ## TypeScript 
 
+- [Valenced/valenced](https://github.com/Valenced/valenced) - Supercharge your Discord experience. Valenced is a client modification for Discord mobile.
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
