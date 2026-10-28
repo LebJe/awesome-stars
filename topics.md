@@ -212,6 +212,7 @@
 - [qt](#qt)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [react-native](#react-native)
 - [reactjs](#reactjs)
 - [redteam](#redteam)
 - [redux](#redux)
@@ -322,6 +323,7 @@
 
 ## android 
 
+- [Valenced/valenced](https://github.com/Valenced/valenced) - Supercharge your Discord experience. Valenced is a client modification for Discord mobile.
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [mornyeapp/Mornye](https://github.com/mornyeapp/Mornye) - Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, no ads, no subscription.
@@ -1123,6 +1125,7 @@
 
 ## discord 
 
+- [Valenced/valenced](https://github.com/Valenced/valenced) - Supercharge your Discord experience. Valenced is a client modification for Discord mobile.
 - [SakuraCordApp/SakuraCord](https://github.com/SakuraCordApp/SakuraCord) - A native macOS Discord client written in Swift and SwiftUI.
 - [M1tsumi/SwiftDisc](https://github.com/M1tsumi/SwiftDisc) - SwiftDisc is a lightweight, native Swift library designed for building powerful Discord bots on iOS and macOS
 - [enderice2/rpc-bridge](https://github.com/enderice2/rpc-bridge) - Enable Rich Presence between your Wine applications and the native Discord client on Linux and macOS.
@@ -1873,7 +1876,7 @@
 
 ## homebrew 
 
-- [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - Official Winehq macOS Packages
+- [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - The Official Winehq macOS Packages
 - [2ykwang/mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - TUI macOS cleaner that scans caches/logs, shows sizes/paths, lets you select what to delete before Trash.
 - [plyght/wax](https://github.com/plyght/wax) - wax is a fast Homebrew-compatible package manager, built in Rust.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
@@ -1968,6 +1971,7 @@
 
 ## ios 
 
+- [Valenced/valenced](https://github.com/Valenced/valenced) - Supercharge your Discord experience. Valenced is a client modification for Discord mobile.
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
 - [StikDebug/StikDebug](https://github.com/StikDebug/StikDebug) - An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
 - [itzzace/ytkace](https://github.com/itzzace/ytkace) - YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background playback, player controls, and interface customization including liquid glass.
@@ -2657,7 +2661,7 @@
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription.
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
-- [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - Official Winehq macOS Packages
+- [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - The Official Winehq macOS Packages
 - [MythicApp/Mythic](https://github.com/MythicApp/Mythic) - An open-source macOS game launcher with the ability to play Windows games through a custom implementation of Apple's Game Porting Toolkit, with support for multiple storefronts.
 - [plyght/brie](https://github.com/plyght/brie) - brie is a webkit browser with tree-style tabs
 - [enderice2/rpc-bridge](https://github.com/enderice2/rpc-bridge) - Enable Rich Presence between your Wine applications and the native Discord client on Linux and macOS.
@@ -4570,6 +4574,10 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
+
+## react-native 
+
+- [Valenced/valenced](https://github.com/Valenced/valenced) - Supercharge your Discord experience. Valenced is a client modification for Discord mobile.
 
 ## reactjs 
 
