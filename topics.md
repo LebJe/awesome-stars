@@ -3734,7 +3734,7 @@
 - [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
 - [microsoft/cppwinrt](https://github.com/microsoft/cppwinrt) - C++/WinRT
 - [dduan/TOMLDeserializer](https://github.com/dduan/TOMLDeserializer) - Replaced by https://github.com/dduan/TOMLDecoder
-- [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
+- [meta/watchman](https://github.com/meta/watchman) - Watches files and records, or triggers actions, when they change.
 - [openhoangnc/taskbar-stats](https://github.com/openhoangnc/taskbar-stats) - Display live system stats on Windows's taskbar
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
 - [CircumSpector/DS4Windows](https://github.com/CircumSpector/DS4Windows) - A reimagination of DS4Windows.
@@ -5351,7 +5351,7 @@
 - [tayloraswift/swift-png](https://github.com/tayloraswift/swift-png) - decode, inspect, edit, and encode png images in pure swift
 - [Raureif/WikipediaKit](https://github.com/Raureif/WikipediaKit) - Wikipedia API Client Framework for Swift on macOS, iOS, watchOS, and tvOS
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
-- [DominikButz/DYPopoverView](https://github.com/DominikButz/DYPopoverView) - SwiftUI implementation of a popover view with arrow
+- [timepod-dev/DYPopoverView](https://github.com/timepod-dev/DYPopoverView) - SwiftUI implementation of a popover view with arrow
 - [mtynior/ColorizeSwift](https://github.com/mtynior/ColorizeSwift) - Terminal string styling for Swift.
 - [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
 - [pointfreeco/swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) - 📸 Delightful Swift snapshot testing.
@@ -5623,7 +5623,7 @@
 - [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [siteline/swiftui-introspect](https://github.com/siteline/swiftui-introspect) - Introspect underlying UIKit/AppKit components from SwiftUI
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
-- [DominikButz/DYPopoverView](https://github.com/DominikButz/DYPopoverView) - SwiftUI implementation of a popover view with arrow
+- [timepod-dev/DYPopoverView](https://github.com/timepod-dev/DYPopoverView) - SwiftUI implementation of a popover view with arrow
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
 - [mchakravarty/CodeEditorView](https://github.com/mchakravarty/CodeEditorView) - SwiftUI code editor view for iOS, visionOS, and macOS
