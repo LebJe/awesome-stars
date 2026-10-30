@@ -1137,8 +1137,8 @@
 - [MountainofPenguin/Altstore-Repository](https://github.com/MountainofPenguin/Altstore-Repository) - YouMod auto-updating repository
 - [Override92/AiSList](https://github.com/Override92/AiSList) - Filter list for Ai Slop channels on YouTube
 - [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) - The Official Winehq macOS Packages
-- [neemaxon/SwiftyCord](https://github.com/neemaxon/SwiftyCord) - A fully native Discord client for macOS built 100% in Swift!
-- [neemaxon/Swiftcord](https://github.com/neemaxon/Swiftcord) - Soon... Cord+
+- [zaderenko/SwiftyCord](https://github.com/zaderenko/SwiftyCord) - A fully native Discord client for macOS built 100% in Swift!
+- [zaderenko/Swiftcord](https://github.com/zaderenko/Swiftcord) - Soon... Cord+
 - [surrel14/dnsmethod.github.io](https://github.com/surrel14/dnsmethod.github.io) - 
 - [dayanch96/Glow](https://github.com/dayanch96/Glow) - A simple, clean, and powerful tweak for Facebook
 - [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps) - Open Source Mac Apps
