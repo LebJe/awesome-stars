@@ -717,7 +717,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [phsym/prettytable-rs](https://github.com/phsym/prettytable-rs) - A rust library to print aligned and formatted tables
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [engali94/XMLJson](https://github.com/engali94/XMLJson) - Swift CLI tool for converting any XML to JSON format
 - [yonaskolb/SwagGen](https://github.com/yonaskolb/SwagGen) - OpenAPI/Swagger 3.0 Parser and Swift code generator
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -1479,7 +1479,7 @@
 - [libgit2/rugged](https://github.com/libgit2/rugged) - ruby bindings to libgit2
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [dawidd6/action-checkout-pr](https://github.com/dawidd6/action-checkout-pr) - :gear: A GitHub Action to checkout a pull request with ability to push back
 - [gitx/gitx](https://github.com/gitx/gitx) - The best fork of the best lightweight, visual git client for macOS.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -2104,7 +2104,7 @@
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
 - [robreuss/ElementalController](https://github.com/robreuss/ElementalController) - A lightweight network controller framework in Swift for iOS and Linux, with Raspberry Pi support
-- [bojan/xcode-one-dark](https://github.com/bojan/xcode-one-dark) - Atom One Dark theme for Xcode
+- [bojan/xcode-one](https://github.com/bojan/xcode-one) - Atom One Dark and One Light themes for Xcode
 - [valentinradu/Trellis](https://github.com/valentinradu/Trellis) - A lightweight, event-driven architectural framework
 - [Esri/arcgis-runtime-ios-async-await](https://github.com/Esri/arcgis-runtime-ios-async-await) - Async/Await wrappers around the ArcGIS Runtime SDK for iOS methods that Xcode does not automatically wrap.
 - [neoneye/SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - iOS framework for creating forms
@@ -2649,7 +2649,7 @@
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [bojan/xcode-one-dark](https://github.com/bojan/xcode-one-dark) - Atom One Dark theme for Xcode
+- [bojan/xcode-one](https://github.com/bojan/xcode-one) - Atom One Dark and One Light themes for Xcode
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [gitx/gitx](https://github.com/gitx/gitx) - The best fork of the best lightweight, visual git client for macOS.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
@@ -2788,7 +2788,7 @@
 - [slsrepo/Neon](https://github.com/slsrepo/Neon) - A Swift library for efficient, flexible content-based text styling
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
-- [bojan/xcode-one-dark](https://github.com/bojan/xcode-one-dark) - Atom One Dark theme for Xcode
+- [bojan/xcode-one](https://github.com/bojan/xcode-one) - Atom One Dark and One Light themes for Xcode
 - [valentinradu/Trellis](https://github.com/valentinradu/Trellis) - A lightweight, event-driven architectural framework
 - [ChimeHQ/JSONRPC](https://github.com/ChimeHQ/JSONRPC) - Swift library for JSON-RPC
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -3206,7 +3206,7 @@
 - [mmattozzi/cocoa-rest-client](https://github.com/mmattozzi/cocoa-rest-client) - A free, native Apple macOS app for testing HTTP/REST endpoints
 - [dagronf/QRCode](https://github.com/dagronf/QRCode) - A quick and beautiful macOS/iOS/tvOS/watchOS QR Code generator/detector library for SwiftUI, Swift and Objective-C.
 - [rvolosatovs/docker-protobuf](https://github.com/rvolosatovs/docker-protobuf) - An all-inclusive protoc Docker image
-- [bojan/xcode-one-dark](https://github.com/bojan/xcode-one-dark) - Atom One Dark theme for Xcode
+- [bojan/xcode-one](https://github.com/bojan/xcode-one) - Atom One Dark and One Light themes for Xcode
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [Quick/Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
@@ -3425,7 +3425,7 @@
 - [swift-server/swift-etcd-client-gsoc](https://github.com/swift-server/swift-etcd-client-gsoc) - 
 - [svermeulen/tea-leaves](https://github.com/svermeulen/tea-leaves) - A language server for the Teal language
 - [mbernson/SwiftGit2](https://github.com/mbernson/SwiftGit2) - Swift bindings to libgit2
-- [twostraws/Ignite](https://github.com/twostraws/Ignite) - A static site generator for Swift developers.
+- [Ignite-Swift/Ignite](https://github.com/Ignite-Swift/Ignite) - A static site generator for Swift developers.
 - [thebrowsercompany/swift-composable-architecture](https://github.com/thebrowsercompany/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [svermeulen/teal-language-server](https://github.com/svermeulen/teal-language-server) - A language server for Teal, a typed dialect of Lua
 - [pointfreeco/swift-perception](https://github.com/pointfreeco/swift-perception) - Observable tools, backported.
@@ -5248,7 +5248,7 @@
 - [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
 - [Bouke/NetService](https://github.com/Bouke/NetService) - Swift NetService (Bonjour / Zeroconf / mDNS) implementation for Linux
 - [robreuss/ElementalController](https://github.com/robreuss/ElementalController) - A lightweight network controller framework in Swift for iOS and Linux, with Raspberry Pi support
-- [bojan/xcode-one-dark](https://github.com/bojan/xcode-one-dark) - Atom One Dark theme for Xcode
+- [bojan/xcode-one](https://github.com/bojan/xcode-one) - Atom One Dark and One Light themes for Xcode
 - [valentinradu/Trellis](https://github.com/valentinradu/Trellis) - A lightweight, event-driven architectural framework
 - [Esri/arcgis-runtime-ios-async-await](https://github.com/Esri/arcgis-runtime-ios-async-await) - Async/Await wrappers around the ArcGIS Runtime SDK for iOS methods that Xcode does not automatically wrap.
 - [neoneye/SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - iOS framework for creating forms
@@ -5621,6 +5621,7 @@
 - [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃 Create hand-drawn, sketchy, comic shape in Swift
 - [carson-katri/awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) - A list of cool DSLs made with Swift 5.4’s @resultBuilder
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [bojan/xcode-one](https://github.com/bojan/xcode-one) - Atom One Dark and One Light themes for Xcode
 - [valentinradu/Trellis](https://github.com/valentinradu/Trellis) - A lightweight, event-driven architectural framework
 - [kieranb662/SwiftUI-Color-Kit](https://github.com/kieranb662/SwiftUI-Color-Kit) - SwiftUI Color Pickers, Gradient Pickers And All The Utilities Needed To Make Your Own!
 - [sparrowcode/AlertKit](https://github.com/sparrowcode/AlertKit) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets.
@@ -5891,6 +5892,7 @@
 
 ## userscript 
 
+- [FilteringDev/tinyShield](https://github.com/FilteringDev/tinyShield) - A lightweight redefined version of microShield
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription.
 
 ## video 
@@ -6180,7 +6182,7 @@
 - [bloomberg/xcdiff](https://github.com/bloomberg/xcdiff) - A tool which helps you diff xcodeproj files.
 - [twostraws/Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [bojan/xcode-one-dark](https://github.com/bojan/xcode-one-dark) - Atom One Dark theme for Xcode
+- [bojan/xcode-one](https://github.com/bojan/xcode-one) - Atom One Dark and One Light themes for Xcode
 - [moreSwift/swift-bundler](https://github.com/moreSwift/swift-bundler) - An Xcodeproj-less tool for creating cross-platform Swift apps.
 - [ivanvorobei/SPConfetti](https://github.com/ivanvorobei/SPConfetti) - Show the confetti only when the user is having fun, and if not having fun, don't show it.
 - [twostraws/Brisk](https://github.com/twostraws/Brisk) - A proof of concept scripting library for Swift
