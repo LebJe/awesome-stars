@@ -2685,7 +2685,7 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [dmilin1/hydra](https://github.com/dmilin1/hydra) - A Reddit reader app based on Apollo that doesn't need an API key to function
 - [nab138/CrossCode](https://github.com/nab138/CrossCode) - iOS Development IDE for windows/linux
-- [marioparaschiv/unbound](https://github.com/marioparaschiv/unbound) - 📱 Cross-platform mobile Discord client modification focused on control, stability, and customisation.
+- [marioparaschiv/unbound](https://github.com/marioparaschiv/unbound) - 📱 Cross-platform Discord mobile modification focused on control, stability, and customisation.
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [yaegassy/coc-csharp-ls](https://github.com/yaegassy/coc-csharp-ls) - csharp-language-server (csharp-ls) extension for coc.nvim
 - [omochi/swift-string-counter-web](https://github.com/omochi/swift-string-counter-web) - Counting characters of string in Swift is difficult!
