@@ -3364,7 +3364,7 @@
 - [kingslay/FFmpegKit](https://github.com/kingslay/FFmpegKit) - FFmpegKit is a collection of tools to use FFmpeg  mpv library in iOS, macOS, tvOS, visionOS applications.
 - [alexeichhorn/SpotifyKit](https://github.com/alexeichhorn/SpotifyKit) - 
 - [Googolplexed0/zotify](https://github.com/Googolplexed0/zotify) - A fast and customizable music and podcast downloader. Actively developing and making improvements since the original repo has been inactive for years. Taking [Feature Requests]
-- [marioparaschiv/unbound](https://github.com/marioparaschiv/unbound) - 📱 Cross-platform mobile Discord client modification focused on control, stability, and customisation.
+- [marioparaschiv/unbound](https://github.com/marioparaschiv/unbound) - 📱 Cross-platform Discord mobile modification focused on control, stability, and customisation.
 - [jkcoxson/idevice](https://github.com/jkcoxson/idevice) - A library to interact with services exposed by iOS
 - [swift-android-sdk/swift-android-sdk](https://github.com/swift-android-sdk/swift-android-sdk) - Android SDKs for Swift
 - [dayanch96/YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
