@@ -3285,6 +3285,7 @@
 
 ## others 
 
+- [Alien4042x/BeamMP-Launcher](https://github.com/Alien4042x/BeamMP-Launcher) - Official BeamMP Launcher
 - [bagumamartin/BitChord](https://github.com/bagumamartin/BitChord) - A modern YouTube music client with clean aesthetics inspired from Apple Music.
 - [Vapor-StikStore/stikstore.github.io](https://github.com/Vapor-StikStore/stikstore.github.io) - 
 - [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) - Steam Play for macOS
@@ -4970,7 +4971,7 @@
 - [cavaldos/Ice](https://github.com/cavaldos/Ice) - Ice — free & open-source menu bar manager for macOS. Hide and organize menu bar icons (best free Bartender / Hidden Bar / Vanilla alternative) with Ice Bar, hotkeys, themes & notch support.
 - [frankea/Whisky](https://github.com/frankea/Whisky) - Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription.
-- [ryanfrancesconi/spfk-metadata](https://github.com/ryanfrancesconi/spfk-metadata) - Swift based audio metadata I/O library wrapping TagLib via spfk-taglib and Core Audio to provide unified tag reading/writing, marker parsing, and broadcast wave (BEXT) support across common audio form
+- [ryanfrancesconi/spfk-metadata](https://github.com/ryanfrancesconi/spfk-metadata) - Reads and writes the metadata stored inside audio files (tags, ratings, artwork, markers, BEXT and iXML) across the common audio containers. Built on TagLib.
 - [GraphQLSwift/graphql-vapor](https://github.com/GraphQLSwift/graphql-vapor) - Easily expose GraphQL APIs in Vapor
 - [Lolendor/LBox](https://github.com/Lolendor/LBox) - A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources, download IPAs, and install/launch apps directly on your device.
 - [b5i/YouTubeKit](https://github.com/b5i/YouTubeKit) - A way to interact with YouTube's internal API in Swift (without any API key!)
