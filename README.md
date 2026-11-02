@@ -49,7 +49,6 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [QML](#qml)
 - [Reason](#reason)
 - [RenderScript](#renderscript)
 - [Rich Text Format](#rich-text-format)
@@ -348,6 +347,7 @@
 
 ## C++ 
 
+- [Alien4042x/BeamMP-Launcher](https://github.com/Alien4042x/BeamMP-Launcher) - Official BeamMP Launcher
 - [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
 - [plyght/pocb](https://github.com/plyght/pocb) - plyght's own C++ browser for macOS
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
@@ -1400,10 +1400,6 @@
 - [severin-lemaignan/vim-minimap](https://github.com/severin-lemaignan/vim-minimap) - A Sublime-like minimap for VIM, based on the Drawille console-based drawing library
 - [pycontribs/ansi2html](https://github.com/pycontribs/ansi2html) - Convert text with ansi color codes to HTML
 
-## QML 
-
-- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - privacy-first, open-source and free idevice management tool written in Rust and Qt
-
 ## Reason 
 
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
@@ -1441,6 +1437,7 @@
 ## Rust 
 
 - [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua and Luau
+- [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - privacy-first, open-source and free idevice management tool written in Rust and Qt
 - [plyght/wax](https://github.com/plyght/wax) - wax is a fast Homebrew-compatible package manager, built in Rust.
 - [claration/impactor](https://github.com/claration/impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
@@ -1763,7 +1760,7 @@
 - [kateinoigakukun/swift-tar](https://github.com/kateinoigakukun/swift-tar) - A pure Swift library for reading and writing TAR archives
 - [rooootdev/lara](https://github.com/rooootdev/lara) - iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19.
 - [skiptools/skipstone](https://github.com/skiptools/skipstone) - The skip tool that powers the skip CLI and the skipstone SwiftPM plugin
-- [ryanfrancesconi/spfk-metadata](https://github.com/ryanfrancesconi/spfk-metadata) - Swift based audio metadata I/O library wrapping TagLib via spfk-taglib and Core Audio to provide unified tag reading/writing, marker parsing, and broadcast wave (BEXT) support across common audio form
+- [ryanfrancesconi/spfk-metadata](https://github.com/ryanfrancesconi/spfk-metadata) - Reads and writes the metadata stored inside audio files (tags, ratings, artwork, markers, BEXT and iXML) across the common audio containers. Built on TagLib.
 - [GraphQLSwift/graphql-vapor](https://github.com/GraphQLSwift/graphql-vapor) - Easily expose GraphQL APIs in Vapor
 - [vkuttyp/SQLClient-Swift](https://github.com/vkuttyp/SQLClient-Swift) - Modern Swift client for Microsoft SQL Server (macOS, iOS, Linux). A lightweight async/await wrapper around FreeTDS for robust, cross-platform database connectivity.
 - [Lolendor/LBox](https://github.com/Lolendor/LBox) - A native iOS repository manager and downloader offering seamless integration with LiveContainer. Browse public sources, download IPAs, and install/launch apps directly on your device.
