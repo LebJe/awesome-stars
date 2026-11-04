@@ -109,7 +109,6 @@
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [ibireme/yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 - [swiftlang/swift-android-examples](https://github.com/swiftlang/swift-android-examples) - 
-- [oliwonders/FreeTDSKit](https://github.com/oliwonders/FreeTDSKit) - FreeTDSKit is a Swift wrapper for the FreeTDS library, enabling connections to Microsoft SQL Server using Swift!
 - [DrAma999/SwiftPigpio](https://github.com/DrAma999/SwiftPigpio) - A wrapper around pigpio library for interacting with Raspberry GPIO
 - [kingslay/FFmpegKit](https://github.com/kingslay/FFmpegKit) - FFmpegKit is a collection of tools to use FFmpeg  mpv library in iOS, macOS, tvOS, visionOS applications.
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
@@ -199,6 +198,7 @@
 - [swiftlang/swift-corelibs-foundation](https://github.com/swiftlang/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
 - [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
+- [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
 - [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
 - [SwiftyLua/CLua](https://github.com/SwiftyLua/CLua) - Swift package for Lua
@@ -648,7 +648,6 @@
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [cortesi/devd](https://github.com/cortesi/devd) - A local webserver for developers
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
-- [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
@@ -1791,6 +1790,7 @@
 - [FlineDev/ErrorKit](https://github.com/FlineDev/ErrorKit) - Simplified error handling with built-in user-friendly messages for common errors. Fully localized. Community-driven.
 - [ibrahimcetin/SwiftGitX](https://github.com/ibrahimcetin/SwiftGitX) - A modern Swift wrapper for libgit2 that brings Git operations to Swift apps.
 - [ShaftUI/Shaft](https://github.com/ShaftUI/Shaft) - A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics
+- [oliwonders/FreeTDSKit](https://github.com/oliwonders/FreeTDSKit) - FreeTDSKit is a Swift wrapper for the FreeTDS library, enabling connections to Microsoft SQL Server using Swift!
 - [apple/swift-configuration](https://github.com/apple/swift-configuration) - API package for reading configuration.
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) - A Custom Client for iPhone, iPad, and Mac
 - [leminlimez/Pocket-Poster](https://github.com/leminlimez/Pocket-Poster) - Custom PosterBoard Wallpapers for iOS 17-26.1
