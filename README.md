@@ -2006,7 +2006,7 @@
 - [vinivendra/Gryphon](https://github.com/vinivendra/Gryphon) - The Swift to Kotlin translator.
 - [ChimeHQ/SwiftCoreSymbolication](https://github.com/ChimeHQ/SwiftCoreSymbolication) - Swift wrappers for CoreSymbolication
 - [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Native SVG parser and renderer for SwiftUI, UIKit and AppKit, with tools for PNG, PDF, SF Symbols and Swift source.
-- [felixherrmann/swift-package-list](https://github.com/felixherrmann/swift-package-list) - A command-line tool to get all used Swift Package dependencies.
+- [felixherrmann/swift-package-list](https://github.com/felixherrmann/swift-package-list) - A command-line tool to list Swift package dependencies and generate acknowledgments.
 - [atrinh0/buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 👌🏼
 - [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation) - The Foundation project
 - [migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - New Godot bindings for Swift
