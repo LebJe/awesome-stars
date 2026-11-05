@@ -1912,6 +1912,7 @@
 - [swift-compositions/swift-pdf](https://github.com/swift-compositions/swift-pdf) - HTML-to-PDF document generation for Swift.
 - [rarestype/swift-dom](https://github.com/rarestype/swift-dom) - taylor’s (not so) famous HTML DSL 👠
 - [BinaryBirds/swift-html](https://github.com/BinaryBirds/swift-html) - This source code is now part of the Swift Web Standards library.
+- [felixherrmann/swift-package-list](https://github.com/felixherrmann/swift-package-list) - A command-line tool to list Swift package dependencies and generate acknowledgments.
 - [swifweb/web](https://github.com/swifweb/web) - 🧱 Write your website in pure Swift with power of webassembly. DOM, CSS and all the WebAPIs are available out of the box.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [robb/Swim](https://github.com/robb/Swim) - A DSL for writing HTML in Swift
@@ -2061,6 +2062,7 @@
 - [tdeleon/Relax](https://github.com/tdeleon/Relax) - Declaratively build and send client requests for REST APIs in Swift.
 - [openalloc/SwiftNumberPad](https://github.com/openalloc/SwiftNumberPad) - A multi-platform SwiftUI component for basic number input
 - [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Native SVG parser and renderer for SwiftUI, UIKit and AppKit, with tools for PNG, PDF, SF Symbols and Swift source.
+- [felixherrmann/swift-package-list](https://github.com/felixherrmann/swift-package-list) - A command-line tool to list Swift package dependencies and generate acknowledgments.
 - [atrinh0/buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect 👌🏼
 - [SwiftedMind/Puddles](https://github.com/SwiftedMind/Puddles) - A native SwiftUI app architecture
 - [aheze/Popovers](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
@@ -2298,7 +2300,7 @@
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [annexare/Countries](https://github.com/annexare/Countries) - Countries, Languages & Continents data (capital and currency, native name, calling codes).
 - [jorgen/json_struct](https://github.com/jorgen/json_struct) - json_struct is a single header only C++ library for parsing JSON directly to C++ structs and vice versa
-- [felixherrmann/swift-package-list](https://github.com/felixherrmann/swift-package-list) - A command-line tool to get all used Swift Package dependencies.
+- [felixherrmann/swift-package-list](https://github.com/felixherrmann/swift-package-list) - A command-line tool to list Swift package dependencies and generate acknowledgments.
 - [stefangabos/world_countries](https://github.com/stefangabos/world_countries) - Constantly updated lists of world countries and their associated alpha-2, alpha-3 and numeric country codes as defined by the ISO 3166 standard, available in CSV, JSON , PHP, SQL and XML formats, in m
 - [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
 - [insanoid/SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 code for models from JSON (with Codeable)
@@ -2736,7 +2738,7 @@
 - [tdeleon/Relax](https://github.com/tdeleon/Relax) - Declaratively build and send client requests for REST APIs in Swift.
 - [openalloc/SwiftNumberPad](https://github.com/openalloc/SwiftNumberPad) - A multi-platform SwiftUI component for basic number input
 - [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Native SVG parser and renderer for SwiftUI, UIKit and AppKit, with tools for PNG, PDF, SF Symbols and Swift source.
-- [felixherrmann/swift-package-list](https://github.com/felixherrmann/swift-package-list) - A command-line tool to get all used Swift Package dependencies.
+- [felixherrmann/swift-package-list](https://github.com/felixherrmann/swift-package-list) - A command-line tool to list Swift package dependencies and generate acknowledgments.
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)
 - [dglancy/porsche-connect](https://github.com/dglancy/porsche-connect) - An unofficial Porsche Connect API library written in Swift
 - [sanzaru/SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight, flexible and easy to use library to show toasts / popup notifications inside iOS or MacOS applications in SwiftUI. Because of the flexibility to show any content 
@@ -2903,6 +2905,7 @@
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [ChimeHQ/chime-markdown](https://github.com/ChimeHQ/chime-markdown) - A Chime extension for Markdown
 - [qeude/SwiftDown](https://github.com/qeude/SwiftDown) - 📦 A themable markdown editor component for your SwiftUI apps.
+- [felixherrmann/swift-package-list](https://github.com/felixherrmann/swift-package-list) - A command-line tool to list Swift package dependencies and generate acknowledgments.
 - [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [shaps80/MarkdownText](https://github.com/shaps80/MarkdownText) - A native SwiftUI view for rendering Markdown text in an iOS or macOS app
@@ -5106,7 +5109,7 @@
 - [freysie/watch-date-picker](https://github.com/freysie/watch-date-picker) - A customizable date picker for watchOS and SwiftUI.
 - [ChimeHQ/SwiftCoreSymbolication](https://github.com/ChimeHQ/SwiftCoreSymbolication) - Swift wrappers for CoreSymbolication
 - [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw) - Native SVG parser and renderer for SwiftUI, UIKit and AppKit, with tools for PNG, PDF, SF Symbols and Swift source.
-- [felixherrmann/swift-package-list](https://github.com/felixherrmann/swift-package-list) - A command-line tool to get all used Swift Package dependencies.
+- [felixherrmann/swift-package-list](https://github.com/felixherrmann/swift-package-list) - A command-line tool to list Swift package dependencies and generate acknowledgments.
 - [ctreffs/SwiftImGui](https://github.com/ctreffs/SwiftImGui) - Swift wrapper around Dear imgui for macOS, iOS, Linux and Windows
 - [BikeCalc/swift-measures](https://github.com/BikeCalc/swift-measures) - A Swift package for defining, converting, and composing units of measure.
 - [AdaEngine/Ada](https://github.com/AdaEngine/Ada) - Cross-platform 2D and 3D game engine written on Swift. Windows, Apple and more.
@@ -6172,7 +6175,7 @@
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) - Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)
 - [SolaWing/xcode-build-server](https://github.com/SolaWing/xcode-build-server) - a build server protocol implementation for integrate xcode with sourcekit-lsp
 - [liamnichols/xcstrings-tool](https://github.com/liamnichols/xcstrings-tool) - A plugin to generate Swift constants for your Strings Catalogs.
-- [felixherrmann/swift-package-list](https://github.com/felixherrmann/swift-package-list) - A command-line tool to get all used Swift Package dependencies.
+- [felixherrmann/swift-package-list](https://github.com/felixherrmann/swift-package-list) - A command-line tool to list Swift package dependencies and generate acknowledgments.
 - [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - An xcodebuild formatter
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [canopas/UIPilot](https://github.com/canopas/UIPilot) - The missing typesafe SwiftUI navigation library
