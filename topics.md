@@ -257,6 +257,7 @@
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -388,7 +389,7 @@
 - [johnfairh/RubyGateway](https://github.com/johnfairh/RubyGateway) - Embed Ruby in Swift: load Gems, run scripts, call APIs seamlessly in both directions.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
-- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based Content Management System.
+- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - A modern, opinionated, agentic CMS for Swift.
 - [freshOS/Networking](https://github.com/freshOS/Networking) - ⚡️ Concise networking code leveraging async-await, Decodable & Generics.
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -775,7 +776,7 @@
 
 ## cms 
 
-- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based Content Management System.
+- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - A modern, opinionated, agentic CMS for Swift.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
@@ -1267,6 +1268,7 @@
 
 - [lumen-oss/luxpkgs](https://github.com/lumen-oss/luxpkgs) - A site for publishing Lua packages. Fast, reliable, secure.
 - [ChimeHQ/chime-elixir](https://github.com/ChimeHQ/chime-elixir) - A Chime extension for Elixir
+- [tuist/tuist](https://github.com/tuist/tuist) - Less waiting, more shipping
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
 ## emacs 
@@ -1371,7 +1373,7 @@
 
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
 - [SwiftcordApp/DiscordKit](https://github.com/SwiftcordApp/DiscordKit) - The Discord API implementation behind Swiftcord, implemented completely from scratch in Swift
-- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based Content Management System.
+- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - A modern, opinionated, agentic CMS for Swift.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [alchemy-swift/alchemy](https://github.com/alchemy-swift/alchemy) - Modern, batteries included web framework for Swift.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -1663,7 +1665,7 @@
 
 ## gradle 
 
-- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
+- [tuist/tuist](https://github.com/tuist/tuist) - Less waiting, more shipping
 
 ## graphql 
 
@@ -2156,7 +2158,6 @@
 - [mchakravarty/CodeEditorDemo](https://github.com/mchakravarty/CodeEditorDemo) - Demo app for CodeEditorView
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [michaelnisi/skull](https://github.com/michaelnisi/skull) - Swift SQLite
-- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [wickwirew/Runtime](https://github.com/wickwirew/Runtime) - A Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.
 - [onmyway133/SwiftHash](https://github.com/onmyway133/SwiftHash) - 🍕 MD5 in pure Swift
 - [surfstudio/StackOv](https://github.com/surfstudio/StackOv) - An open-source SwiftUI Stack Overflow client
@@ -3215,7 +3216,6 @@
 - [Quick/Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
-- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [mattt/Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & macOS
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [mhdhejazi/Dynamic](https://github.com/mhdhejazi/Dynamic) - Call hidden/private API in style! The Swift way.
@@ -3288,7 +3288,7 @@
 
 ## others 
 
-- [Alien4042x/BeamMP-Launcher](https://github.com/Alien4042x/BeamMP-Launcher) - Official BeamMP Launcher
+- [Alien4042x/BeamMP-Launcher](https://github.com/Alien4042x/BeamMP-Launcher) - BeamMP Launcher for MacOS(Wine)
 - [bagumamartin/BitChord](https://github.com/bagumamartin/BitChord) - A modern YouTube music client with clean aesthetics inspired from Apple Music.
 - [Vapor-StikStore/stikstore.github.io](https://github.com/Vapor-StikStore/stikstore.github.io) - 
 - [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) - Steam Play for macOS
@@ -3822,7 +3822,6 @@
 - [cortesi/devd](https://github.com/cortesi/devd) - A local webserver for developers
 - [michaeleisel/ZippyJSON](https://github.com/michaeleisel/ZippyJSON) - A much faster version of JSONDecoder
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
-- [teal-language/vscode-teal](https://github.com/teal-language/vscode-teal) - Teal language support for Visual Studio Code
 - [XcodeReleasesOrg/xcinfo](https://github.com/XcodeReleasesOrg/xcinfo) - Install as many Xcodes at once as you can
 - [sypstraw/rpi4-osdev](https://github.com/sypstraw/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
@@ -3841,7 +3840,6 @@
 - [codymikol/git-down](https://github.com/codymikol/git-down) - A rewrite of the popular project GitUp that works in Linux, Mac, and Windows.
 - [kean/Get](https://github.com/kean/Get) - Web API client built using async/await
 - [migueldeicaza/XtermSharp](https://github.com/migueldeicaza/XtermSharp) - XTerm emulator as a .NET library
-- [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [stein197/lua-catchify](https://github.com/stein197/lua-catchify) - Tiny try-catch-finally statement for Lua
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [automerge/automerge-swift-archived](https://github.com/automerge/automerge-swift-archived) - Wrapper around Swift types that can be modified concurrently by different users, and merged again automatically (a CRDT).
@@ -3866,7 +3864,6 @@
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template) - A template CMake project to get you started with C++ and tooling
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
-- [vincaslt/vscode-highlight-matching-tag](https://github.com/vincaslt/vscode-highlight-matching-tag) - Highlights matching opening or closing tag in  VSCode
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
@@ -3958,7 +3955,6 @@
 - [brofield/simpleini](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files
 - [fannheyward/create-coc-extension](https://github.com/fannheyward/create-coc-extension) - Create a coc extension from command line
 - [pwsacademy/swift-setup](https://github.com/pwsacademy/swift-setup) - Student-friendly setup instructions for Swift and Visual Studio Code
-- [one-dark/vscode-one-dark-theme](https://github.com/one-dark/vscode-one-dark-theme) - One Dark theme for VS Code.
 - [one-dark/iterm-one-dark-theme](https://github.com/one-dark/iterm-one-dark-theme) - One Dark theme for iTerm2.
 - [withfig/swift-api-bindings](https://github.com/withfig/swift-api-bindings) - Swift bindings for Fig API
 - [helje5/wren-swift](https://github.com/helje5/wren-swift) - The wren scripting language as a Swift package, w/ some Swift API wrappers
@@ -4031,7 +4027,6 @@
 - [ujihisa/tabpagecolorscheme](https://github.com/ujihisa/tabpagecolorscheme) - Vim colorscheme on each tabs
 - [iamcco/coc-diagnostic](https://github.com/iamcco/coc-diagnostic) - diagnostic-languageserver extension for coc.nvim
 - [ahoppen/introduction-to-compilers](https://github.com/ahoppen/introduction-to-compilers) - Swift Playground giving an overview over the inner workings of modern compilers
-- [clangd/vscode-clangd](https://github.com/clangd/vscode-clangd) - Visual Studio Code extension for clangd
 - [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py) - This is the updated Python wrapper for the Heroku API V3. https://devcenter.heroku.com/articles/platform-api-reference The Heroku REST API allows Heroku users to manage their accounts, applications, a
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [OAuthSwift/OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS
@@ -4235,7 +4230,6 @@
 - [tdotclare/leaf](https://github.com/tdotclare/leaf) - 🍃 An expressive, performant, and extensible templating language built for Swift.
 - [mattpolzin/OpenAPIKit](https://github.com/mattpolzin/OpenAPIKit) - Codable Swift OpenAPI implementation.
 - [CSCIX65G/SwiftCrossCompilers](https://github.com/CSCIX65G/SwiftCrossCompilers) - SPM toolchain to cross compile Raspberry Pi (arm64) and Amd64 Swift binaries on macOS
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [SPMDestinations/buildscripts](https://github.com/SPMDestinations/buildscripts) - Scripts to assist building the toolchain
@@ -4246,7 +4240,6 @@
 - [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
 - [vi4m/vax](https://github.com/vi4m/vax) - Make persistent virtual machines on Docker
 - [jpsim/SourceKitten](https://github.com/jpsim/SourceKitten) - An adorable little framework and command line tool for interacting with SourceKit.
-- [tallpants/vscode-theme-iterm2](https://github.com/tallpants/vscode-theme-iterm2) - 🎨 Color scheme for iTerm2 matching Visual Studio Code's default Dark+ and Light+ themes.
 - [twostraws/SwiftGD](https://github.com/twostraws/SwiftGD) - A simple Swift wrapper for libgd
 - [github/cmark-gfm](https://github.com/github/cmark-gfm) - GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
 - [KhaosT/ACVM](https://github.com/KhaosT/ACVM) - 
@@ -4420,7 +4413,6 @@
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [tanin47/tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
 - [deseven/iCanHazShortcut](https://github.com/deseven/iCanHazShortcut) - simple shortcut manager for macOS
-- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -4457,7 +4449,7 @@
 
 ## publishing 
 
-- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based Content Management System.
+- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - A modern, opinionated, agentic CMS for Swift.
 
 ## pwa 
 
@@ -5204,7 +5196,7 @@
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [hashemi/lc3-swift](https://github.com/hashemi/lc3-swift) - LC-3 virtual machine written in Swift
 - [tevelee/Eval](https://github.com/tevelee/Eval) - Eval is a lightweight interpreter framework written in  Swift, evaluating expressions at runtime
-- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based Content Management System.
+- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - A modern, opinionated, agentic CMS for Swift.
 - [darrarski/swiftui-app-icon-creator](https://github.com/darrarski/swiftui-app-icon-creator) - Create iOS and macOS application icon in Xcode with SwiftUI
 - [dagronf/QRCode](https://github.com/dagronf/QRCode) - A quick and beautiful macOS/iOS/tvOS/watchOS QR Code generator/detector library for SwiftUI, Swift and Objective-C.
 - [fwcd/swift-qrcode-generator](https://github.com/fwcd/swift-qrcode-generator) - QR code generator written in pure Swift
@@ -5398,7 +5390,6 @@
 - [Kitura/BlueSSLService](https://github.com/Kitura/BlueSSLService) - SSL/TLS Add-in for BlueSocket using Secure Transport and OpenSSL
 - [Kitura/BlueSocket](https://github.com/Kitura/BlueSocket) - Socket framework for Swift using the Swift Package Manager. Works on iOS, macOS, and Linux.
 - [michaelnisi/skull](https://github.com/michaelnisi/skull) - Swift SQLite
-- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
 - [wickwirew/Runtime](https://github.com/wickwirew/Runtime) - A Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.
 - [mongodb/swift-bson](https://github.com/mongodb/swift-bson) - pure Swift BSON library
@@ -6014,6 +6005,27 @@
 - [Trepan-Debuggers/remake](https://github.com/Trepan-Debuggers/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 
+## vscode 
+
+- [dotnet/vscode-csharp](https://github.com/dotnet/vscode-csharp) - Official C# support for Visual Studio Code
+- [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift) - Visual Studio Code Extension for Swift
+- [teal-language/vscode-teal](https://github.com/teal-language/vscode-teal) - Teal language support for Visual Studio Code
+- [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
+- [vincaslt/vscode-highlight-matching-tag](https://github.com/vincaslt/vscode-highlight-matching-tag) - Highlights matching opening or closing tag in  VSCode
+- [EvgeniyPeshkov/syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
+- [one-dark/vscode-one-dark-theme](https://github.com/one-dark/vscode-one-dark-theme) - One Dark theme for VS Code.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+- [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim) - Neovim/Vim color scheme inspired by Dark+ and Light+ theme in Visual Studio Code
+- [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, diagnostics and more for any editor/IDE using the Language Server Protocol
+- [clangd/vscode-clangd](https://github.com/clangd/vscode-clangd) - Visual Studio Code extension for clangd
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
+- [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+- [tallpants/vscode-theme-iterm2](https://github.com/tallpants/vscode-theme-iterm2) - 🎨 Color scheme for iTerm2 matching Visual Studio Code's default Dark+ and Light+ themes.
+- [neoclide/coc-java](https://github.com/neoclide/coc-java) - Java extension for coc.nvim
+
 ## vue 
 
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
@@ -6034,7 +6046,7 @@
 - [swhitty/FlyingFox](https://github.com/swhitty/FlyingFox) - Lightweight, HTTP server written in Swift using async/await.
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based Content Management System.
+- [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - A modern, opinionated, agentic CMS for Swift.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [Kitura/Kitura](https://github.com/Kitura/Kitura) - A Swift web framework and HTTP server.
@@ -6201,7 +6213,6 @@
 - [mtynior/ColorizeSwift](https://github.com/mtynior/ColorizeSwift) - Terminal string styling for Swift.
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 - [joshjon/nocturnal](https://github.com/joshjon/nocturnal) - A Dimness and Night Shift menu bar app for macOS 🌙
-- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII) - Re-write of Injection for Xcode in (mostly) Swift
 - [peripheryapp/periphery](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
 - [kyle-n/HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - A SwiftUI view for dynamically highlighting user input
