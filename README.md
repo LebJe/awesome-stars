@@ -347,7 +347,7 @@
 
 ## C++ 
 
-- [Alien4042x/BeamMP-Launcher](https://github.com/Alien4042x/BeamMP-Launcher) - Official BeamMP Launcher
+- [Alien4042x/BeamMP-Launcher](https://github.com/Alien4042x/BeamMP-Launcher) - BeamMP Launcher for MacOS(Wine)
 - [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
 - [plyght/pocb](https://github.com/plyght/pocb) - plyght's own C++ browser for macOS
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
@@ -595,7 +595,7 @@
 
 - [lumen-oss/luxpkgs](https://github.com/lumen-oss/luxpkgs) - A site for publishing Lua packages. Fast, reliable, secure.
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
-- [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
+- [tuist/tuist](https://github.com/tuist/tuist) - Less waiting, more shipping
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
 ## Emacs Lisp 
