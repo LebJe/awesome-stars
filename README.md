@@ -207,7 +207,6 @@
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
-- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [teal-language/teal-language-server](https://github.com/teal-language/teal-language-server) - A language server for Teal, a typed dialect of Lua
 - [weyhan/lua4swift](https://github.com/weyhan/lua4swift) - High-level (convenient) Lua bindings for Swift
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -594,7 +593,7 @@
 
 - [lumen-oss/luxpkgs](https://github.com/lumen-oss/luxpkgs) - A site for publishing Lua packages. Fast, reliable, secure.
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
-- [tuist/tuist](https://github.com/tuist/tuist) - Less waiting, more shipping
+- [tuist/tuist](https://github.com/tuist/tuist) - Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
 ## Emacs Lisp 
@@ -836,7 +835,7 @@
 - [robb-j/nova-xml](https://github.com/robb-j/nova-xml) - Adds XML linting, schema support and formatting to Nova
 - [vigoux/tree-sitter-viml](https://github.com/vigoux/tree-sitter-viml) - Tree-sitter parser for VimL
 - [jmoenig/Snap](https://github.com/jmoenig/Snap) - a visual programming language inspired by Scratch
-- [jasonplatts/nova-ruby-gems](https://github.com/jasonplatts/nova-ruby-gems) - 
+- [jasonplatts/nova-ruby-gems](https://github.com/jasonplatts/nova-ruby-gems) - A Panic Nova extension that lists a project’s Ruby gems in a sidebar, with details from RubyGems.org.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
@@ -1208,6 +1207,7 @@
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [swiftwasm/awesome-swiftwasm](https://github.com/swiftwasm/awesome-swiftwasm) - A community-driven curated list of SwiftWasm projects and content
 - [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
