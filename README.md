@@ -116,7 +116,7 @@
 - [wine-mono/wine-mono](https://github.com/wine-mono/wine-mono) - 
 - [euclidianAce/ltreesitter](https://github.com/euclidianAce/ltreesitter) - Standalone tree sitter bindings for the Lua language
 - [RussBaz/swift-uv](https://github.com/RussBaz/swift-uv) - 
-- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 100x faster strings for C, C++, CUDA, Python, Rust, Swift, JS, & Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, & SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memo
+- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - SIMD, SWAR & GPU kernels for strings: search, hashing, sorting, edit distances, UTF-8 segmentation & ciphers for C, C++, CUDA, Python, Rust, Go, Swift, JS, C# & Java 🦖
 - [swiftlang/swift-toolchain-sqlite](https://github.com/swiftlang/swift-toolchain-sqlite) - Copy of SQLite for use by clients within the Swift toolchain.  This is not a general-purpose wrapper for SQLite.
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
@@ -1105,7 +1105,7 @@
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [kevingessner/FunctionFlip](https://github.com/kevingessner/FunctionFlip) - Learn more (and get binaries) at http://kevingessner.com/software/functionflip/
 - [gitx/gitx](https://github.com/gitx/gitx) - The best fork of the best lightweight, visual git client for macOS.
-- [alberti42/Volume-Control](https://github.com/alberti42/Volume-Control) - Successor of iTunes Volume Control
+- [alberti42/Volume-Control](https://github.com/alberti42/Volume-Control) - Control the volume of Apple Music, Spotify, Doppler, Swinsian, and your display with your keyboard's volume keys.
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [waydabber/m1ddc](https://github.com/waydabber/m1ddc) - This little tool controls external displays (connected via USB-C/DisplayPort Alt Mode) using DDC/CI on Apple Silicon Macs. Useful to embed in various scripts.
 - [shinydevelopment/SimulatorStatusMagic](https://github.com/shinydevelopment/SimulatorStatusMagic) - Clean up your status bar for taking screenshots on the iOS simulator.
@@ -1758,7 +1758,7 @@
 - [wendylabsinc/dbus](https://github.com/wendylabsinc/dbus) - 
 - [kateinoigakukun/swift-tar](https://github.com/kateinoigakukun/swift-tar) - A pure Swift library for reading and writing TAR archives
 - [rooootdev/lara](https://github.com/rooootdev/lara) - iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19.
-- [skiptools/skipstone](https://github.com/skiptools/skipstone) - The skip tool that powers the skip CLI and the skipstone SwiftPM plugin
+- [skiptools/skipstone](https://github.com/skiptools/skipstone) - The former home for the `skip` tool, since relocated to the main https://github.com/skiptools/skip repo
 - [ryanfrancesconi/spfk-metadata](https://github.com/ryanfrancesconi/spfk-metadata) - Reads and writes the metadata stored inside audio files (tags, ratings, artwork, markers, BEXT and iXML) across the common audio containers. Built on TagLib.
 - [GraphQLSwift/graphql-vapor](https://github.com/GraphQLSwift/graphql-vapor) - Easily expose GraphQL APIs in Vapor
 - [vkuttyp/SQLClient-Swift](https://github.com/vkuttyp/SQLClient-Swift) - Modern Swift client for Microsoft SQL Server (macOS, iOS, Linux). A lightweight async/await wrapper around FreeTDS for robust, cross-platform database connectivity.
