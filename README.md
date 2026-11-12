@@ -463,6 +463,7 @@
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [Neargye/semver](https://github.com/Neargye/semver) - Semantic Versioning for modern C++
 - [Neargye/magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
+- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [0ldsk00l/nestopia](https://github.com/0ldsk00l/nestopia) - Cross-platform Nestopia emulator core with a GUI
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
@@ -1202,7 +1203,6 @@
 - [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
-- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [swiftwasm/awesome-swiftwasm](https://github.com/swiftwasm/awesome-swiftwasm) - A community-driven curated list of SwiftWasm projects and content
