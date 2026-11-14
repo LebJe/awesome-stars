@@ -594,7 +594,6 @@
 
 - [lumen-oss/luxpkgs](https://github.com/lumen-oss/luxpkgs) - A site for publishing Lua packages. Fast, reliable, secure.
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
-- [tuist/tuist](https://github.com/tuist/tuist) - Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
 ## Emacs Lisp 
@@ -1613,6 +1612,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [tuist/tuist](https://github.com/tuist/tuist) - Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.
 - [Koka/odbc-rs](https://github.com/Koka/odbc-rs) - Rust ODBC FFI binding
 - [sidkshatriya/rd](https://github.com/sidkshatriya/rd) - rd is a record/replay debugger written in rust
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
