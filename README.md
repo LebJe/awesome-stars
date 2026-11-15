@@ -109,6 +109,7 @@
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [ibireme/yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 - [swiftlang/swift-android-examples](https://github.com/swiftlang/swift-android-examples) - 
+- [oliwonders/FreeTDSKit](https://github.com/oliwonders/FreeTDSKit) - FreeTDSKit is a Swift wrapper for the FreeTDS library, enabling connections to Microsoft SQL Server using Swift!
 - [DrAma999/SwiftPigpio](https://github.com/DrAma999/SwiftPigpio) - A wrapper around pigpio library for interacting with Raspberry GPIO
 - [kingslay/FFmpegKit](https://github.com/kingslay/FFmpegKit) - FFmpegKit is a collection of tools to use FFmpeg  mpv library in iOS, macOS, tvOS, visionOS applications.
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
@@ -284,7 +285,7 @@
 - [saitoha/libsixel](https://github.com/saitoha/libsixel) - A SIXEL encoder/decoder implementation derived from kmiya's sixel (https://github.com/saitoha/sixel).
 - [json-c/json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
 - [libxls/libxls](https://github.com/libxls/libxls) - Read binary Excel files from C/C++
-- [vrogier/ocilib](https://github.com/vrogier/ocilib) - OCILIB (C and C++ Drivers for Oracle)
+- [vrogier/ocilib](https://github.com/vrogier/ocilib) - Open-source C and C++ drivers for Oracle — the most complete OCI-based library
 - [SRombauts/SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper.
 - [kfix/ddcctl](https://github.com/kfix/ddcctl) - DDC monitor controls (brightness) for Mac OSX command line
 - [mtoyoda/sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping
@@ -1790,7 +1791,6 @@
 - [FlineDev/ErrorKit](https://github.com/FlineDev/ErrorKit) - Simplified error handling with built-in user-friendly messages for common errors. Fully localized. Community-driven.
 - [ibrahimcetin/SwiftGitX](https://github.com/ibrahimcetin/SwiftGitX) - A modern Swift wrapper for libgit2 that brings Git operations to Swift apps.
 - [ShaftUI/Shaft](https://github.com/ShaftUI/Shaft) - A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics
-- [oliwonders/FreeTDSKit](https://github.com/oliwonders/FreeTDSKit) - FreeTDSKit is a Swift wrapper for the FreeTDS library, enabling connections to Microsoft SQL Server using Swift!
 - [apple/swift-configuration](https://github.com/apple/swift-configuration) - API package for reading configuration.
 - [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) - A Custom Client for iPhone, iPad, and Mac
 - [leminlimez/Pocket-Poster](https://github.com/leminlimez/Pocket-Poster) - Custom PosterBoard Wallpapers for iOS 17-26.1
