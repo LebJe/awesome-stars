@@ -726,7 +726,6 @@
 - [SwiftFiddle/swift-ast-explorer](https://github.com/SwiftFiddle/swift-ast-explorer) - AST visualizer for Swift source code
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [swiftwasm/size-tracker](https://github.com/swiftwasm/size-tracker) - Utility for tracking size of `.wasm` binaries produced by latest SwiftWasm snapshots
-- [Homebrew/formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) - 🏎 An online formulae browser for Homebrew
 - [opulo-inc/lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters.
 - [fmtlib/fmt.dev](https://github.com/fmtlib/fmt.dev) - The {fmt} library website
@@ -1417,6 +1416,7 @@
 - [lapce/homebrew-lapce](https://github.com/lapce/homebrew-lapce) - 
 - [apple/homebrew-apple](https://github.com/apple/homebrew-apple) - 
 - [ruby/typeprof](https://github.com/ruby/typeprof) - An experimental type-level Ruby interpreter for testing and understanding Ruby code
+- [Homebrew/formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) - 🏎 An online formulae browser for Homebrew
 - [tanin47/tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
 - [textmate/c.tmbundle](https://github.com/textmate/c.tmbundle) - TextMate support for C
 - [neovim/neovim-ruby](https://github.com/neovim/neovim-ruby) - Ruby support for Neovim
@@ -1690,6 +1690,7 @@
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+- [swiftlang/github-workflows](https://github.com/swiftlang/github-workflows) - 
 - [kabiroberai/swift-sdk-darwin](https://github.com/kabiroberai/swift-sdk-darwin) - Darwin Swift SDK for Linux (experimental)
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [DimaRU/PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo) - Automated Swift Package version and build numbering via Git. A Swift Package Manager build plugin.
@@ -1843,7 +1844,6 @@
 - [DougGregor/celsius-converter](https://github.com/DougGregor/celsius-converter) - Swift/Java interoperability example mixing Java & Swift code for a tiny Swing UI application
 - [elementary-swift/elementary](https://github.com/elementary-swift/elementary) - A modern and efficient HTML rendering library - inspired by SwiftUI, built for the web.
 - [swift-on-server/articles](https://github.com/swift-on-server/articles) - ⚠️ The articles have been moved to the main repository. If you would like to publish one, please use the link below to create a Pull Request there.
-- [swiftlang/github-workflows](https://github.com/swiftlang/github-workflows) - 
 - [swiftlang/swift-java](https://github.com/swiftlang/swift-java) - Java interopability support for Swift
 - [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
 - [kishikawakatsumi/SMBClient](https://github.com/kishikawakatsumi/SMBClient) - Swift SMB client library and iOS/macOS file browser applications.
