@@ -424,7 +424,7 @@
 
 ## arduino 
 
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for small MCUs and 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [andreisperid/E-TKT](https://github.com/andreisperid/E-TKT) - open source embossed label maker
 - [arduino/arduino-language-server](https://github.com/arduino/arduino-language-server) - An Arduino Language Server based on Clangd to Arduino code autocompletion
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
@@ -569,7 +569,7 @@
 - [mlabbe/nativefiledialog](https://github.com/mlabbe/nativefiledialog) - A tiny, neat C library that portably invokes native file open and save dialogs.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [c-ares/c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for small MCUs and 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [panicinc/icarus](https://github.com/panicinc/icarus) - Swift, C, C++, and Objective-C Support for Nova
 - [cimgui/cimgui](https://github.com/cimgui/cimgui) - c-api for imgui (https://github.com/ocornut/imgui)    Look at: https://github.com/cimgui for other widgets
 - [admkopec/BetaOS](https://github.com/admkopec/BetaOS) - An operating system written in Swift
@@ -917,7 +917,7 @@
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [firebase/quickstart-cpp](https://github.com/firebase/quickstart-cpp) - Firebase Quickstart Samples for C++
 - [firebase/firebase-cpp-sdk](https://github.com/firebase/firebase-cpp-sdk) - Firebase C++ SDK
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for small MCUs and 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [mariusbancila/stduuid](https://github.com/mariusbancila/stduuid) - A C++17 cross-platform implementation for UUIDs
 - [panicinc/icarus](https://github.com/panicinc/icarus) - Swift, C, C++, and Objective-C Support for Nova
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -1337,7 +1337,7 @@
 ## esp32 
 
 - [swiftlang/swift-embedded-examples](https://github.com/swiftlang/swift-embedded-examples) - A collection of example projects using Embedded Swift
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for small MCUs and 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [andreisperid/E-TKT](https://github.com/andreisperid/E-TKT) - open source embossed label maker
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
@@ -2469,7 +2469,7 @@
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [Hongtae/SwiftVVD](https://github.com/Hongtae/SwiftVVD) - Swift 3D Game Engine for Windows, macOS, iOS, Linux
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for small MCUs and 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [sushichop/Puppy](https://github.com/sushichop/Puppy) - A flexible logging library written in Swift
 - [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine) - Swift Game Engine supporting Windows, Linux, macOS, HTML5, and more 🚂
 - [tdeleon/Relax](https://github.com/tdeleon/Relax) - Declaratively build and send client requests for REST APIs in Swift.
@@ -5897,7 +5897,7 @@
 - [ShaftUI/Shaft](https://github.com/ShaftUI/Shaft) - A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [AudioKit/AudioKitUI](https://github.com/AudioKit/AudioKitUI) - Controls and Visualization for AudioKit apps
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for small MCUs and 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [sparrowcode/AlertKit](https://github.com/sparrowcode/AlertKit) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets.
 - [compnerd/swift-win32](https://github.com/compnerd/swift-win32) - A Windows application framework for Swift
