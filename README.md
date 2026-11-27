@@ -790,7 +790,6 @@
 - [jackdclark/five](https://github.com/jackdclark/five) - Gives you five
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥
 - [npm/npm-expansions](https://github.com/npm/npm-expansions) - Send us a pull request by editing expansions.txt
-- [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) - Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!
 - [swiftwasm/swiftwasm.github.io](https://github.com/swiftwasm/swiftwasm.github.io) - Website for the SwiftWasm project
@@ -1436,6 +1435,7 @@
 
 ## Rust 
 
+- [astral-app/astral](https://github.com/astral-app/astral) - 🌌 Native client mod for Discord on iOS and Android, with Lua plugins.
 - [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua and Luau
 - [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - privacy-first, open-source and free idevice management tool written in Rust and Qt
 - [plyght/wax](https://github.com/plyght/wax) - wax is a fast Homebrew-compatible package manager, built in Rust.
@@ -1466,6 +1466,7 @@
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [lapce/lapce-lldb](https://github.com/lapce/lapce-lldb) - 
 - [lumen-oss/toml-edit.lua](https://github.com/lumen-oss/toml-edit.lua) - Edit toml files while preserving whitespace and formatting from Lua.
+- [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [foxfriends/syncat](https://github.com/foxfriends/syncat) - Syntax aware cat
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [pls-rs/pls](https://github.com/pls-rs/pls) - pls is a prettier and powerful ls(1) for the pros.
